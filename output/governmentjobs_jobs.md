@@ -1,8 +1,8 @@
 # 🏛 NEOGOV — State & Local Government Environmental / Toxicology Roles
-*Last updated: 2026-09-26 19:14 UTC*
+*Last updated: 2026-09-27 19:46 UTC*
 
-**1 new role(s)** since last run · 6 total in recent GovernmentJobs postings
+**1 new role(s)** since last run · 7 total in recent GovernmentJobs postings
 
-### [Air Quality Specialist I/II](https://www.governmentjobs.com/jobs/149374-1/air-quality-specialist-i-ii) — Placer County
-- 📍 **Location:** Auburn, CA
-- 💰 **Salary:** $6,782.53 - $8,469.07 Monthly
+### [Senior Operator - Regional Water Quality Control Plant (Multiple Positions)](https://www.governmentjobs.com/jobs/5481782-0/senior-operator-regional-water-quality-control-plant-multiple-positions) — City of Palo Alto
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $126,256.00 - $154,440.00 Annually
