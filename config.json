@@ -1,0 +1,55 @@
+{
+  "profile": {
+    "title": "Finance Internship Tracker",
+    "subtitle": "Dallas · Austin · Chicago · Boston",
+    "emoji": "💼"
+  },
+
+  "keywords": {
+    "include": [
+      "finance intern", "finance internship", "financial intern",
+      "corporate finance", "fp&a", "fpa", "financial planning",
+      "credit risk", "credit analyst", "risk analyst",
+      "corporate banking", "commercial banking", "banking intern",
+      "investment strategy", "investment strategies", "investment intern",
+      "rotational", "rotation program", "leadership development program",
+      "financial operations", "finance operations", "finance analyst", "financial analyst"
+    ],
+    "exclude": [
+      "senior", "director", "vice president", "principal", "manager",
+      "co-op", "coop", "volunteer", "teaching assistant",
+      "nurse", "dental", "mechanical", "software engineer"
+    ],
+    "fuzzy_seniority": [],
+    "fuzzy_domain": [],
+    "fuzzy_exclude": []
+  },
+
+  "search_terms": {
+    "linkedin": [
+      "finance internship", "corporate finance internship", "FP&A internship",
+      "credit risk internship", "corporate banking internship",
+      "commercial banking internship", "investment strategy internship",
+      "rotational finance program", "financial operations internship"
+    ],
+    "indeed": [
+      "finance internship", "corporate finance intern", "FP&A intern",
+      "credit risk intern", "commercial banking intern", "financial operations intern"
+    ]
+  },
+
+  "locations": {
+    "linkedin": [
+      { "location": "Dallas-Fort Worth, Texas, United States", "geoId": "" },
+      { "location": "Austin, Texas, United States", "geoId": "" },
+      { "location": "Chicago, Illinois, United States", "geoId": "" },
+      { "location": "Boston, Massachusetts, United States", "geoId": "" }
+    ],
+    "indeed": [
+      { "location": "Dallas, TX", "country": "USA" },
+      { "location": "Austin, TX", "country": "USA" },
+      { "location": "Chicago, IL", "country": "USA" },
+      { "location": "Boston, MA", "country": "USA" }
+    ]
+  }
+}
