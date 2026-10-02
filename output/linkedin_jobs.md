@@ -1,5 +1,5 @@
 # 🔥 LinkedIn — Finance Internship Roles
-*Last updated: 2026-10-02 08:32 UTC*
+*Last updated: 2026-10-02 20:00 UTC*
 
 **0 new role(s)** since last run · 0 total in last 1h
 
