@@ -7,3 +7,4 @@
 {"job_count": 0, "run_attempt": "1", "run_id": "37165445650", "timestamp": "2026-10-04T00:38:40Z", "workflow": "linkedin"}
 {"job_count": 0, "run_attempt": "1", "run_id": "37173888063", "timestamp": "2026-10-04T03:22:50Z", "workflow": "glassdoor"}
 {"job_count": 0, "run_attempt": "1", "run_id": "37173974573", "timestamp": "2026-10-04T03:32:44Z", "workflow": "glassdoor"}
+{"job_count": 0, "run_attempt": "1", "run_id": "37174373269", "timestamp": "2026-10-04T03:33:14Z", "workflow": "google_jobs"}
