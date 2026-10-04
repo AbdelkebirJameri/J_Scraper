@@ -1,55 +1,33 @@
 {
   "profile": {
-    "title": "Finance Internship Tracker",
-    "subtitle": "Dallas · Austin · Chicago · Boston",
-    "emoji": "💼"
+    "title": "Data Engineer - Talend / ETL",
+    "subtitle": "Recherche opportunités Talend, ETL, Data Integration"
   },
-
   "keywords": {
-    "include": [
-      "finance intern", "finance internship", "financial intern",
-      "corporate finance", "fp&a", "fpa", "financial planning",
-      "credit risk", "credit analyst", "risk analyst",
-      "corporate banking", "commercial banking", "banking intern",
-      "investment strategy", "investment strategies", "investment intern",
-      "rotational", "rotation program", "leadership development program",
-      "financial operations", "finance operations", "finance analyst", "financial analyst"
-    ],
-    "exclude": [
-      "senior", "director", "vice president", "principal", "manager",
-      "co-op", "coop", "volunteer", "teaching assistant",
-      "nurse", "dental", "mechanical", "software engineer"
-    ],
-    "fuzzy_seniority": [],
-    "fuzzy_domain": [],
-    "fuzzy_exclude": []
+    "include": ["Talend", "ETL", "Data Engineer", "Data Integration", "ESB", "PIM"],
+    "exclude": ["intern", "stage", "junior assistant"]
   },
-
   "search_terms": {
-    "linkedin": [
-      "finance internship", "corporate finance internship", "FP&A internship",
-      "credit risk internship", "corporate banking internship",
-      "commercial banking internship", "investment strategy internship",
-      "rotational finance program", "financial operations internship"
-    ],
-    "indeed": [
-      "finance internship", "corporate finance intern", "FP&A intern",
-      "credit risk intern", "commercial banking intern", "financial operations intern"
-    ]
+    "linkedin": ["Talend", "ETL Developer", "Data Engineer Talend"],
+    "indeed": ["Talend", "ETL Developer"]
   },
-
   "locations": {
     "linkedin": [
-      { "location": "Dallas-Fort Worth, Texas, United States", "geoId": "" },
-      { "location": "Austin, Texas, United States", "geoId": "" },
-      { "location": "Chicago, Illinois, United States", "geoId": "" },
-      { "location": "Boston, Massachusetts, United States", "geoId": "" }
+      {"location": "Morocco", "geoId": ""},
+      {"location": "France", "geoId": ""},
+      {"location": "Belgium", "geoId": ""},
+      {"location": "Luxembourg", "geoId": ""}
     ],
     "indeed": [
-      { "location": "Dallas, TX", "country": "USA" },
-      { "location": "Austin, TX", "country": "USA" },
-      { "location": "Chicago, IL", "country": "USA" },
-      { "location": "Boston, MA", "country": "USA" }
+      {"location": "Casablanca", "country": "Morocco"},
+      {"location": "Paris", "country": "France"},
+      {"location": "Brussels", "country": "Belgium"},
+      {"location": "Luxembourg", "country": "Luxembourg"}
     ]
-  }
+  },
+  "employers": {
+    "priority": [],
+    "exclude": []
+  },
+  "priority_topics": ["Talend", "remote"]
 }
