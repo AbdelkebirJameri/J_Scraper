@@ -37,7 +37,16 @@ jobs:
         with:
           python-version: "3.11"
       - name: Write config.json from secret
-        run: echo "$CONFIG_JSON" > config.json
+        # Only overwrite the already-checked-out config.json when the secret is
+        # actually set — an unset/stale CONFIG_JSON must never silently wipe or
+        # shadow a real, committed config.json with an empty file (see
+        # scripts/export-config-secret.sh for how to populate this secret).
+        run: |
+          if [ -n "$CONFIG_JSON" ]; then
+            echo "$CONFIG_JSON" > config.json
+          else
+            echo "CONFIG_JSON secret not set; using the committed config.json as-is."
+          fi
         env:
           CONFIG_JSON: ${{ secrets.CONFIG_JSON }}
       - name: Emit Phase 1 work matrix
@@ -53,6 +62,7 @@ jobs:
   fanout-phase1:
     name: Phase 1 — ${{ matrix.partition.partition_key }}
     needs: emit-matrix-phase1
+    if: needs.emit-matrix-phase1.outputs.matrix != '[]'
     runs-on: ubuntu-latest
     strategy:
       fail-fast: false
@@ -66,7 +76,16 @@ jobs:
         with:
           python-version: "3.11"
       - name: Write config.json from secret
-        run: echo "$CONFIG_JSON" > config.json
+        # Only overwrite the already-checked-out config.json when the secret is
+        # actually set — an unset/stale CONFIG_JSON must never silently wipe or
+        # shadow a real, committed config.json with an empty file (see
+        # scripts/export-config-secret.sh for how to populate this secret).
+        run: |
+          if [ -n "$CONFIG_JSON" ]; then
+            echo "$CONFIG_JSON" > config.json
+          else
+            echo "CONFIG_JSON secret not set; using the committed config.json as-is."
+          fi
         env:
           CONFIG_JSON: ${{ secrets.CONFIG_JSON }}
       - name: Write partition spec
@@ -95,7 +114,16 @@ jobs:
         with:
           python-version: "3.11"
       - name: Write config.json from secret
-        run: echo "$CONFIG_JSON" > config.json
+        # Only overwrite the already-checked-out config.json when the secret is
+        # actually set — an unset/stale CONFIG_JSON must never silently wipe or
+        # shadow a real, committed config.json with an empty file (see
+        # scripts/export-config-secret.sh for how to populate this secret).
+        run: |
+          if [ -n "$CONFIG_JSON" ]; then
+            echo "$CONFIG_JSON" > config.json
+          else
+            echo "CONFIG_JSON secret not set; using the committed config.json as-is."
+          fi
         env:
           CONFIG_JSON: ${{ secrets.CONFIG_JSON }}
       - name: Download all Phase 1 artifacts
@@ -121,7 +149,11 @@ jobs:
             git add -f output/deltas/
           fi
           git diff --cached --quiet || git commit -m "chore: linkedin backfill phase 1 [$(date -u '+%Y-%m-%d %H:%MZ')]"
-          git pull --rebase -X theirs origin main
+          # -X ours matches every other watcher's commit step (origin wins any
+          # conflict — see sync_upstream.yml's comment for the rebase ours/theirs
+          # semantics). Keep this consistent across workflows that share the
+          # job-scraper-commit-push concurrency group.
+          git pull --rebase -X ours origin main
           git push
 
   # ─── Phase 2: High-volume locations (1-day slices) ───────────────────────
@@ -139,7 +171,16 @@ jobs:
         with:
           python-version: "3.11"
       - name: Write config.json from secret
-        run: echo "$CONFIG_JSON" > config.json
+        # Only overwrite the already-checked-out config.json when the secret is
+        # actually set — an unset/stale CONFIG_JSON must never silently wipe or
+        # shadow a real, committed config.json with an empty file (see
+        # scripts/export-config-secret.sh for how to populate this secret).
+        run: |
+          if [ -n "$CONFIG_JSON" ]; then
+            echo "$CONFIG_JSON" > config.json
+          else
+            echo "CONFIG_JSON secret not set; using the committed config.json as-is."
+          fi
         env:
           CONFIG_JSON: ${{ secrets.CONFIG_JSON }}
       - name: Emit Phase 2 work matrix
@@ -155,6 +196,7 @@ jobs:
   fanout-phase2:
     name: Phase 2 — ${{ matrix.partition.partition_key }}
     needs: emit-matrix-phase2
+    if: needs.emit-matrix-phase2.outputs.matrix != '[]'
     runs-on: ubuntu-latest
     strategy:
       fail-fast: false
@@ -168,7 +210,16 @@ jobs:
         with:
           python-version: "3.11"
       - name: Write config.json from secret
-        run: echo "$CONFIG_JSON" > config.json
+        # Only overwrite the already-checked-out config.json when the secret is
+        # actually set — an unset/stale CONFIG_JSON must never silently wipe or
+        # shadow a real, committed config.json with an empty file (see
+        # scripts/export-config-secret.sh for how to populate this secret).
+        run: |
+          if [ -n "$CONFIG_JSON" ]; then
+            echo "$CONFIG_JSON" > config.json
+          else
+            echo "CONFIG_JSON secret not set; using the committed config.json as-is."
+          fi
         env:
           CONFIG_JSON: ${{ secrets.CONFIG_JSON }}
       - name: Write partition spec
@@ -197,7 +248,16 @@ jobs:
         with:
           python-version: "3.11"
       - name: Write config.json from secret
-        run: echo "$CONFIG_JSON" > config.json
+        # Only overwrite the already-checked-out config.json when the secret is
+        # actually set — an unset/stale CONFIG_JSON must never silently wipe or
+        # shadow a real, committed config.json with an empty file (see
+        # scripts/export-config-secret.sh for how to populate this secret).
+        run: |
+          if [ -n "$CONFIG_JSON" ]; then
+            echo "$CONFIG_JSON" > config.json
+          else
+            echo "CONFIG_JSON secret not set; using the committed config.json as-is."
+          fi
         env:
           CONFIG_JSON: ${{ secrets.CONFIG_JSON }}
       - name: Download all Phase 2 artifacts
@@ -244,5 +304,9 @@ jobs:
             git add -f output/deltas/
           fi
           git diff --cached --quiet || git commit -m "chore: linkedin backfill phase 2 (high-volume day slices) [$(date -u '+%Y-%m-%d %H:%MZ')]"
-          git pull --rebase -X theirs origin main
+          # -X ours matches every other watcher's commit step (origin wins any
+          # conflict — see sync_upstream.yml's comment for the rebase ours/theirs
+          # semantics). Keep this consistent across workflows that share the
+          # job-scraper-commit-push concurrency group.
+          git pull --rebase -X ours origin main
           git push
