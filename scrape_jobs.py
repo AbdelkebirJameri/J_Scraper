@@ -1000,9 +1000,6 @@ def scrape_linkedin_recent() -> list:
         print(f"  ⛔ LinkedIn returned 0 cards across all terms (likely blocked); "
               f"preserving previous {len(prev)} result(s)")
         return prev
-    before = len(jobs)
-    jobs = [j for j in jobs if is_target_location(j.get("location", ""))]
-    print(f"  📍 Location filter: {before} → {len(jobs)} roles")
     print(f"  ✅ LinkedIn: {len(jobs)} role(s)")
     _enrich_linkedin_postings(jobs)
     return jobs
@@ -3256,9 +3253,6 @@ if __name__ == "__main__":
 
     if "--linkedin-only" in sys.argv:
         jobs = scrape_linkedin_recent()
-        before = len(jobs)
-        jobs = [j for j in jobs if is_target_location(j.get("location", ""))]
-        print(f"📍 Location filter: {before} → {len(jobs)} roles")
         save_linkedin_results(jobs)
         sys.exit(0)
 
@@ -3270,9 +3264,6 @@ if __name__ == "__main__":
         backfill_s = LINKEDIN_BACKFILL_DAYS * 24 * 3600
         print(f"🔁 LinkedIn backfill (last {LINKEDIN_BACKFILL_DAYS} days)…")
         jobs, _ = _linkedin_search(list(LINKEDIN_SEARCH_TERMS), backfill_s)
-        before = len(jobs)
-        jobs = [j for j in jobs if is_target_location(j.get("location", ""))]
-        print(f"  📍 Location filter: {before} → {len(jobs)} roles")
         if jobs:
             _enrich_linkedin_postings(jobs)
         print(f"  ✅ Backfill: {len(jobs)} role(s) found")
@@ -3291,9 +3282,6 @@ if __name__ == "__main__":
         backfill_s = LINKEDIN_BACKFILL_DAYS * 24 * 3600
         print(f"🔁 LinkedIn backfill for \"{term}\" (last {LINKEDIN_BACKFILL_DAYS} days)…")
         jobs, raw_cards = _linkedin_search([term], backfill_s)
-        before = len(jobs)
-        jobs = [j for j in jobs if is_target_location(j.get("location", ""))]
-        print(f"  📍 Location filter: {before} → {len(jobs)} roles")
         if jobs:
             _enrich_linkedin_postings(jobs)
         print(f"  ✅ Term \"{term}\": {len(jobs)} role(s) (raw cards: {raw_cards})")
@@ -3491,9 +3479,6 @@ if __name__ == "__main__":
                 seen.add(url)
                 deduped.append(j)
         all_jobs = deduped
-        before = len(all_jobs)
-        all_jobs = [j for j in all_jobs if is_target_location(j.get("location", ""))]
-        print(f"\n  📍 Location filter: {before} → {len(all_jobs)} roles")
         print(f"  ✅ Partition \"{partition_key}\": {len(all_jobs)} role(s) (raw: {total_raw})"
               f"{' [CAP-HIT]' if any_cap_hit else ''}")
         part_path = os.path.join(OUTPUT_DIR, f"linkedin_partition_{partition_key}.json")
@@ -3533,12 +3518,9 @@ if __name__ == "__main__":
             all_jobs.extend(jobs)
             total_raw += raw
             any_cap_hit = any_cap_hit or hit_cap
-        before = len(all_jobs)
-        all_jobs = [j for j in all_jobs if is_target_location(j.get("location", ""))]
         print(f"\n🧪 Test results:")
         print(f"   Total raw cards: {total_raw}")
-        print(f"   Unique jobs (pre-filter): {before}")
-        print(f"   Location-filtered: {len(all_jobs)}")
+        print(f"   Unique jobs: {len(all_jobs)}")
         print(f"   Hit cap: {any_cap_hit}")
         sys.exit(0)
 
@@ -3634,12 +3616,9 @@ if __name__ == "__main__":
         print(f"   Terms: {test_terms}")
         jobs, raw_cards = _linkedin_search(test_terms, lookback,
                                            geos=LINKEDIN_GEOS, max_results=test_max)
-        before = len(jobs)
-        jobs = [j for j in jobs if is_target_location(j.get("location", ""))]
         print(f"\n🧪 Test results:")
         print(f"   Raw cards fetched: {raw_cards}")
-        print(f"   Keyword-matched: {before}")
-        print(f"   Location-filtered: {len(jobs)}")
+        print(f"   Keyword-matched: {len(jobs)}")
         print(f"   Rate-limited during run: {_RATE_LIMITED}")
         if jobs:
             from collections import Counter
@@ -3656,8 +3635,7 @@ if __name__ == "__main__":
                 "terms": test_terms,
                 "max_results_per_term_per_geo": test_max,
                 "raw_cards": raw_cards,
-                "keyword_matched": before,
-                "location_filtered": len(jobs),
+                "keyword_matched": len(jobs),
                 "rate_limited": _RATE_LIMITED,
                 "jobs": jobs,
             }, f, indent=2, ensure_ascii=False)
@@ -3720,8 +3698,8 @@ if __name__ == "__main__":
         print(f"🔁 Priority Employer backfill (last {LINKEDIN_BACKFILL_DAYS} days)…")
         raw, _ = _linkedin_search(list(LINKEDIN_SEARCH_TERMS), backfill_s)
         jobs = [j for j in raw if _is_priority_company(j["company"])]
-        jobs = list(scrape_curated_employers()) + jobs
-        jobs = [j for j in jobs if is_target_location(j.get("location", ""))]
+        curated = [j for j in scrape_curated_employers() if is_target_location(j.get("location", ""))]
+        jobs = curated + jobs
         if jobs:
             _enrich_linkedin_postings(jobs)
         seen: set[tuple[str, str]] = set()
