@@ -1,6 +1,7 @@
 """Shared fixtures for job-scraper tests."""
 import json
 import sys
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import pytest
@@ -47,9 +48,25 @@ def linkedin_job_posting_html():
 
 @pytest.fixture
 def sample_all_jobs():
-    """Synthetic all_jobs.json with 10 jobs for merge tests."""
+    """Synthetic all_jobs.json with 10 jobs for merge tests.
+
+    The fixture file's first_seen timestamps are hardcoded to a fixed date;
+    shift them to stay recent relative to "now" every time this loads, or
+    entries age past ALL_JOBS_PRUNE_DAYS and get silently pruned mid-test
+    (see the regression this guards: _merge_into_all_jobs correctly dropped
+    a duplicate-merged entry whose fixture timestamp had aged past 30 days).
+    """
     path = FIXTURES_DIR / "sample_all_jobs.json"
-    return json.loads(path.read_text(encoding="utf-8"))
+    data = json.loads(path.read_text(encoding="utf-8"))
+
+    def _parse(ts: str) -> datetime:
+        return datetime.strptime(ts, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+
+    newest = max(_parse(j["first_seen"]) for j in data["jobs"])
+    shift = (datetime.now(timezone.utc) - timedelta(days=2)) - newest
+    for j in data["jobs"]:
+        j["first_seen"] = (_parse(j["first_seen"]) + shift).strftime("%Y-%m-%dT%H:%M:%SZ")
+    return data
 
 
 @pytest.fixture
