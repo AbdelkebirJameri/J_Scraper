@@ -1,24 +1,64 @@
 # 🔥 LinkedIn — Data Engineer - Talend / ETL Roles
-*Last updated: 2026-10-06 09:20 UTC*
+*Last updated: 2026-10-06 10:27 UTC*
 
-**5 new role(s)** since last run · 5 total in last 1h
+**15 new role(s)** since last run · 15 total in last 1h
 
-### [Data Engineer Snowflake / Talend - CDI - LILLE - H/F](https://www.linkedin.com/jobs/view/4469901985/) — Logical Conseils
-- 📍 **Location:** Lille, Hauts-de-France, France
+### [Data Engineer Snowflake (H/F)](https://www.linkedin.com/jobs/view/4466129379/) — Deloitte
+- 📍 **Location:** Mechouar, Casablanca-Settat, Morocco
 - 🕒 **Posted:** 2026-10-06
 
-### [Lead Data Engineer - CDI Paris - Theodo Data & IA](https://www.linkedin.com/jobs/view/4418480204/) — Theodo
-- 📍 **Location:** Greater Paris Metropolitan Region
+### [Data Engineer BI Senior F/H](https://www.linkedin.com/jobs/view/4474695489/) — Celios
+- 📍 **Location:** Toulouse, Occitanie, France
 - 🕒 **Posted:** 2026-10-06
 
-### [Data Engineer (F/H)](https://www.linkedin.com/jobs/view/4465234181/) — BPCE Solutions informatiques
-- 📍 **Location:** Rouen, Normandy, France
+### [Data Engineer (H/F)](https://www.linkedin.com/jobs/view/4476162463/) — T&S (Technology & Strategy)
+- 📍 **Location:** Bordeaux, Nouvelle-Aquitaine, France
 - 🕒 **Posted:** 2026-10-06
 
-### [Data Engineer Junior (CDI) — Azure / Databricks](https://www.linkedin.com/jobs/view/4476169034/) — AYOMI
-- 📍 **Location:** Paris, Île-de-France, France
+### [Data engineer/ Analytics engineer H/F](https://www.linkedin.com/jobs/view/4474909012/) — Groupe ADSN
+- 📍 **Location:** Venelles, Provence-Alpes-Côte d'Azur, France
 - 🕒 **Posted:** 2026-10-06
 
-### [Lead Data Engineer GCP F/H](https://www.linkedin.com/jobs/view/4465736746/) — VISEO
-- 📍 **Location:** Boulogne-Billancourt, Île-de-France, France
+### [Data Engineer](https://www.linkedin.com/jobs/view/4474048421/) — INFOGENE
+- 📍 **Location:** Île-de-France, France
+- 🕒 **Posted:** 2026-10-06
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4476155834/) — GROUPAGORA
+- 📍 **Location:** Lyon, Auvergne-Rhône-Alpes, France
+- 🕒 **Posted:** 2026-10-06
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4476164461/) — Sia
+- 📍 **Location:** Antwerp, Flemish Region, Belgium
+- 🕒 **Posted:** 2026-10-06
+
+### [BI Data Engineer Consultant | EU Institutions](https://www.linkedin.com/jobs/view/4474049469/) — Ayesa Digital
+- 📍 **Location:** Brussels Region, Belgium
+- 🕒 **Posted:** 2026-10-06
+
+### [Senior Data Engineer Consultant](https://www.linkedin.com/jobs/view/4476153953/) — Sia
+- 📍 **Location:** Brussels, Brussels Region, Belgium
+- 🕒 **Posted:** 2026-10-06
+
+### [Senior Data Engineer Consultant](https://www.linkedin.com/jobs/view/4474034934/) — Sia
+- 📍 **Location:** Antwerp, Flemish Region, Belgium
+- 🕒 **Posted:** 2026-10-06
+
+### [Senior Data Engineer Consultant](https://www.linkedin.com/jobs/view/4476162430/) — Sia
+- 📍 **Location:** Antwerp, Flemish Region, Belgium
+- 🕒 **Posted:** 2026-10-06
+
+### [Consultant Data Engineer](https://www.linkedin.com/jobs/view/4476156936/) — Sia
+- 📍 **Location:** Antwerp, Flemish Region, Belgium
+- 🕒 **Posted:** 2026-10-06
+
+### [Consultant Data Engineer](https://www.linkedin.com/jobs/view/4476176002/) — Sia
+- 📍 **Location:** Brussels, Brussels Region, Belgium
+- 🕒 **Posted:** 2026-10-06
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4476168364/) — Sparagus
+- 📍 **Location:** Liège, Walloon Region, Belgium
+- 🕒 **Posted:** 2026-10-06
+
+### [Senior Data Engineer Consultant](https://www.linkedin.com/jobs/view/4476167366/) — Sia
+- 📍 **Location:** Luxembourg, Luxembourg, Luxembourg
 - 🕒 **Posted:** 2026-10-06
