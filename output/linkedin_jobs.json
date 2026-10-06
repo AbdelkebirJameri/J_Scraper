@@ -1,29 +1,7 @@
 {
-  "scraped_at": "2026-10-05 22:04 UTC",
-  "total": 1,
-  "new_count": 1,
-  "jobs": [
-    {
-      "company": "Leyton",
-      "title": "Senior Data Engineer",
-      "location": "Casablanca, Casablanca-Settat, Morocco",
-      "url": "https://www.linkedin.com/jobs/view/4475879694/",
-      "date_posted": "2026-10-05",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "Leyton CognitX\nis the AI & Tech Advisory of Leyton, bringing together a dynamic team of over 200 tech experts and data scientists. We specialize in delivering innovative AI and technology solutions that transform how organizations operate and compete.\n\nOur approach combines strategic advisory services with custom development, enabling businesses to harness the power of AI and advanced technologies. We work closely with each client to design intelligent, streamlined solutions that address their specific challenges and align with their strategic objectives.\n\nAt Leyton CognitX\n, we believe that technology is more than just tools; it's a catalyst for meaningful organizational and technological transformation. Our mission is to empower companies to leverage AI and cutting-edge tech, turning complex challenges into opportunities for growth, efficiency, and innovation.\n\nWe need a Data Engineer who thrives at the intersection of Backend Development and Data Engineering. If you have strong Python skills, fluency in SQL / Data Modeling, and experience working with big data technologies, you're exactly who we need.\n\nMain Responsibilities\n\nDesign and implement infrastructure for managing the company's data in alignment with various business challenges.\nDevelop and manage data flows, including ingestion, modeling, warehousing, and cleaning, using Big Data\n\ntechnologies.\n\nAnalyze source systemsto define optimal data management strategiesfrom collection to analysis.\nCollaborate with cross-functional teamsto integrate Big Data solutions with existing systems.\nOptimize and maintain Big Data platformsfor performance, reliability, and scalability.\nDevelop and enforce data governance policiesto ensure data quality and security.\nCreate and maintain documentation related to data architecture, processes, and workflows.\nConduct performance tuning and troubleshooting to resolve data-related issues.\nDevelop data visualizations and reportsto support business decision-making.\nLead and participate in code reviewsto ensure code quality and best practices.\n\nQualifications\n\nMaster's Degree in Software Development, Computer Engineering, or a related field.\nExpertise in one or more Big Data technologies.\nCertificationsin Big Data technologies are a plus.\n4 years of experience in a similar role.\nProficiency in understanding complex data processing algorithms and mechanisms.\nSkills & experience in Python and SQL, Spark, Airflow, Kafka, RabbitMQ, ElasticSearch (and the ELK Suite), MongoDB,\n\nNeo4J, Docker, and front-end frameworks like Angular, React, or Vue.js.\n\nExcellent listening,synthesis, and analyticalskills.\nIntellectual curiosity, initiative, and proactivity.\nStrong organizational skills and the ability to work autonomously.\nExcellent interpersonal skills and the ability to facilitate team collaboration.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nBusiness Consulting and Services"
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "Leyton",
-      "title": "Senior Data Engineer",
-      "location": "Casablanca, Casablanca-Settat, Morocco",
-      "url": "https://www.linkedin.com/jobs/view/4475879694/",
-      "date_posted": "2026-10-05",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "Leyton CognitX\nis the AI & Tech Advisory of Leyton, bringing together a dynamic team of over 200 tech experts and data scientists. We specialize in delivering innovative AI and technology solutions that transform how organizations operate and compete.\n\nOur approach combines strategic advisory services with custom development, enabling businesses to harness the power of AI and advanced technologies. We work closely with each client to design intelligent, streamlined solutions that address their specific challenges and align with their strategic objectives.\n\nAt Leyton CognitX\n, we believe that technology is more than just tools; it's a catalyst for meaningful organizational and technological transformation. Our mission is to empower companies to leverage AI and cutting-edge tech, turning complex challenges into opportunities for growth, efficiency, and innovation.\n\nWe need a Data Engineer who thrives at the intersection of Backend Development and Data Engineering. If you have strong Python skills, fluency in SQL / Data Modeling, and experience working with big data technologies, you're exactly who we need.\n\nMain Responsibilities\n\nDesign and implement infrastructure for managing the company's data in alignment with various business challenges.\nDevelop and manage data flows, including ingestion, modeling, warehousing, and cleaning, using Big Data\n\ntechnologies.\n\nAnalyze source systemsto define optimal data management strategiesfrom collection to analysis.\nCollaborate with cross-functional teamsto integrate Big Data solutions with existing systems.\nOptimize and maintain Big Data platformsfor performance, reliability, and scalability.\nDevelop and enforce data governance policiesto ensure data quality and security.\nCreate and maintain documentation related to data architecture, processes, and workflows.\nConduct performance tuning and troubleshooting to resolve data-related issues.\nDevelop data visualizations and reportsto support business decision-making.\nLead and participate in code reviewsto ensure code quality and best practices.\n\nQualifications\n\nMaster's Degree in Software Development, Computer Engineering, or a related field.\nExpertise in one or more Big Data technologies.\nCertificationsin Big Data technologies are a plus.\n4 years of experience in a similar role.\nProficiency in understanding complex data processing algorithms and mechanisms.\nSkills & experience in Python and SQL, Spark, Airflow, Kafka, RabbitMQ, ElasticSearch (and the ELK Suite), MongoDB,\n\nNeo4J, Docker, and front-end frameworks like Angular, React, or Vue.js.\n\nExcellent listening,synthesis, and analyticalskills.\nIntellectual curiosity, initiative, and proactivity.\nStrong organizational skills and the ability to work autonomously.\nExcellent interpersonal skills and the ability to facilitate team collaboration.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nBusiness Consulting and Services"
-    }
-  ]
+  "scraped_at": "2026-10-06 02:22 UTC",
+  "total": 0,
+  "new_count": 0,
+  "jobs": [],
+  "new_jobs": []
 }
