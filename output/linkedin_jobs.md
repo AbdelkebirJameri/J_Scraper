@@ -1,12 +1,8 @@
 # 🔥 LinkedIn — Data Engineer - Talend / ETL Roles
-*Last updated: 2026-10-08 07:29 UTC*
+*Last updated: 2026-10-08 20:49 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-### [Data Engineering Manager H/F](https://www.linkedin.com/jobs/view/4475759803/) — Mouratoglou Academy
-- 📍 **Location:** Biot, Provence-Alpes-Côte d'Azur, France
-- 🕒 **Posted:** 2026-10-08
-
-### [Business Data Engineer Medior](https://www.linkedin.com/jobs/view/4287798292/) — Ingestic SRL
-- 📍 **Location:** Wavre, Walloon Region, Belgium
+### [Internship - Data Engineering & Analytics](https://www.linkedin.com/jobs/view/4477456735/) — AXA
+- 📍 **Location:** Paris, Île-de-France, France
 - 🕒 **Posted:** 2026-10-08
