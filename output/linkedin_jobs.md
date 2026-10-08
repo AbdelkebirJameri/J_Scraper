@@ -1,8 +1,6 @@
 # 🔥 LinkedIn — Data Engineer - Talend / ETL Roles
-*Last updated: 2026-10-07 20:41 UTC*
+*Last updated: 2026-10-08 01:04 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
-### [Junior Data Engineer](https://www.linkedin.com/jobs/view/4476925472/) — GitGuardian
-- 📍 **Location:** Paris, Île-de-France, France
-- 🕒 **Posted:** 2026-10-07
+No new roles since the last run.
