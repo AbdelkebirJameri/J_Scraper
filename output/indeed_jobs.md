@@ -1,6 +1,9 @@
 # 🟦 Indeed — Data Engineer - Talend / ETL Roles
-*Last updated: 2026-10-08 08:01 UTC*
+*Last updated: 2026-10-08 20:50 UTC*
 
-**0 new role(s)** since last run · 0 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-No new roles since the last run.
+### [Expert Data Engineer - Datalake (IT) / Freelance](https://fr.indeed.com/viewjob?jk=0a13c2b5a67cfb96) — SThree
+- 📍 **Location:** Courbevoie, A8, France
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-08
