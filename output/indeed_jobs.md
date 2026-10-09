@@ -1,9 +1,24 @@
 # 🟦 Indeed — Data Engineer - Talend / ETL Roles
-*Last updated: 2026-10-08 20:50 UTC*
+*Last updated: 2026-10-09 07:53 UTC*
 
-**1 new role(s)** since last run · 1 total in last 24h
+**4 new role(s)** since last run · 5 total in last 24h
 
-### [Expert Data Engineer - Datalake (IT) / Freelance](https://fr.indeed.com/viewjob?jk=0a13c2b5a67cfb96) — SThree
-- 📍 **Location:** Courbevoie, A8, France
+### [Cloud & Data Engineer](https://fr.indeed.com/viewjob?jk=b5620624b83d3828) — SFEIR
+- 📍 **Location:** Paris, A8, France
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-08
+- 🕒 **Posted:** 2026-10-09
+
+### [Data Engineer GCP](https://fr.indeed.com/viewjob?jk=bdb56111aab15fc8) — SFEIR
+- 📍 **Location:** Paris, A8, France
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-09
+
+### [Lead Data Engineer GCP](https://fr.indeed.com/viewjob?jk=5f3faeb7921895c1) — SFEIR
+- 📍 **Location:** Paris, A8, France
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-09
+
+### [Data engineer voor klinische data](https://be.indeed.com/viewjob?jk=80064d3e6664cfca) — Vrije Universiteit Brussel
+- 📍 **Location:** Jette, BRU, Belgium
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-09
