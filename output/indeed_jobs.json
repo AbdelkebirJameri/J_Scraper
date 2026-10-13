@@ -1,26 +1,7 @@
 {
-  "scraped_at": "2026-10-13 03:13 UTC",
-  "total": 1,
+  "scraped_at": "2026-10-13 11:11 UTC",
+  "total": 0,
   "new_count": 0,
-  "jobs": [
-    {
-      "company": "LINKWAY",
-      "title": "Développeur DataLake Talend Databricks (IT) / Freelance",
-      "location": "Montrouge, A8, France",
-      "url": "https://fr.indeed.com/viewjob?jk=008a3272ce5933d1",
-      "direct_url": "https://www.free-work.com/fr/tech-it/job-mission/developpeur-autre-langage-cobol-perl-vba-ruby-shell/developpeur-datalake-talend-databricks?utm_source=indeed&utm_medium=organic&utm_campaign=indeed_organic_fr_all_fl",
-      "company_url": "https://fr.indeed.com/cmp/Linkway",
-      "date_posted": "2026-10-12",
-      "description": "**Contexte :**  \nDans le cadre du renforcement de l'équipe Data, la mission vise à sécuriser la livraison des projets stratégiques et la mise en place de la nouvelle plateforme Databricks.\n  \n  \nLe consultant intégrera l'équipe IT Data en charge des spécifications, de la conception et de la réalisation des modules nécessaires à la mise en production dans le datalake), ainsi que des premiers cas d'usage Databricks. L'équipe travaille en mode agile, au plus près des métiers 3D et Business Development et en coordination avec les autres équipes IT. La mission se déroule dans un contexte anglophone : la maîtrise de l'anglais est obligatoire.\n  \n  \n**Résultat attendu:**  \n? Concevoir et implémenter des pipelines d'ingestion et de transformation de données (batch et temps réel), robustes et scalables.\n  \n  \n? Développer et maintenir les flux ETL Talend qui alimentent le datalake et les systèmes consommateurs.\n  \n  \n? Développer des traitements Python / PySpark sur Databricks et mettre en ?uvre les modèles de données cibles.\n  \n  \n? Automatiser les transformations, la documentation et les tests de données avec dbt.\n  \n  \n? Configurer les pipelines d'acheminement des données, y compris les flux CDC.\n  \n  \n? Mettre en place les bonnes pratiques de qualité de données, de monitoring, d'alerting et de logging.\n  \n  \n? Développer des modules réutilisables (templates de pipelines, librairies communes, CI/CD) et exploiter les modules existants dans les nouveaux projets.\n  \n  \n? Réaliser les développements et les tests associés, et accompagner les mises en production.\n  \n  \n**Profil candidat:**  \nHARD SKILLS\n  \n  \n? Solide maîtrise de l'ETL Talend (développement, debug, industrialisation) et connaissance du langage Java.\n  \n  \n? Bonne maîtrise de Python et PySpark.\n  \n  \n? Expérience significative sur Databricks (jobs, workflows, Delta Lake, notebooks, optimisation).\n  \n  \n? Très bonne maîtrise de SQL (requêtes analytiques complexes, optimisation).\n  \n  \n? Pratique de dbt pour les modèles analytiques.\n  \n  \n? Connaissance des outils CDC (Change Data Capture) ; Qlik Replicate (ex-Attunity) est un plus.\n  \n  \n? Connaissance des plateformes de streaming ; Kafka est un plus.\n  \n  \n**? Expérience DevOps :** CI/CD, versioning Git, automatisation des tests et des déploiements.\n  \n  \n? Pratique des outils d'IA générative pour accélérer le développement (génération assistée de code PySpark, Python et SQL, refactoring, tests), avec une revue critique et une compréhension fine du code mis en production.\n  \n  \n**SOFT SKILLS :**  \n? Rigueur et fiabilité, goût pour le code propre et l'industrialisation.\n  \n  \n? Autonomie et esprit d'initiative.\n  \n  \n? Fort esprit analytique.\n  \n  \n? Capacité à évoluer dans un environnement exigeant.\n  \n  \n? Innovation et état d'esprit agile.\n  \n  \n? Très bon relationnel et sens du client.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ],
+  "jobs": [],
   "new_jobs": []
 }
