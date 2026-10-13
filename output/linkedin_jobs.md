@@ -1,16 +1,12 @@
 # 🔥 LinkedIn — Data Engineer - Talend / ETL Roles
-*Last updated: 2026-10-12 22:41 UTC*
+*Last updated: 2026-10-13 03:51 UTC*
 
-**3 new role(s)** since last run · 3 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [Data Engineer H/F](https://www.linkedin.com/jobs/view/4476074541/) — Jems Benelux
-- 📍 **Location:** Auderghem, Belgium
-- 🕒 **Posted:** 2026-10-12
+### [Data Engineer SQL  (IT) / Freelance](https://www.linkedin.com/jobs/view/4476089189/) — Free-Work
+- 📍 **Location:** Villeneuve-d’Ascq, Hauts-de-France, France
+- 🕒 **Posted:** 2026-10-13
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4476080171/) — Jems Benelux
-- 📍 **Location:** Auderghem, Belgium
-- 🕒 **Posted:** 2026-10-12
-
-### [Data Engineer (m/v/x)](https://www.linkedin.com/jobs/view/4476082120/) — Jems Benelux
-- 📍 **Location:** Auderghem, Belgium
-- 🕒 **Posted:** 2026-10-12
+### [Data Engineer Azure H/F](https://www.linkedin.com/jobs/view/4476092048/) — Free-Work
+- 📍 **Location:** Schiltigheim, Grand Est, France
+- 🕒 **Posted:** 2026-10-13
