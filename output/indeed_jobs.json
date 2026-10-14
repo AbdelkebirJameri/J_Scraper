@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-14 19:40 UTC",
+  "scraped_at": "2026-10-14 19:44 UTC",
   "total": 2,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Innov and Co Diversité, Inclusion ou handicap",
@@ -40,42 +40,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Innov and Co Diversité, Inclusion ou handicap",
-      "title": "développeur talend pyspark anglais full présenciel H/F",
-      "location": "Montrouge, A8, France",
-      "url": "https://fr.indeed.com/viewjob?jk=f1aefa943e339de1",
-      "direct_url": "",
-      "company_url": "https://fr.indeed.com/cmp/Innov-and-Co-Diversit%C3%A9,-Inclusion-Ou-Handicap",
-      "date_posted": "2026-10-14",
-      "description": "**À propos du poste**  \nNous recherchons un développeur Talend Pyspark expérimenté, doté d'une maîtrise parfaite de l'anglais, pour rejoindre notre équipe en présentiel, 5 jours sur 5.\n\n**Responsabilités**\n\n* Concevoir et développer des pipelines ETL robustes en utilisant Talend et Pyspark pour traiter de grands volumes de données.\n* Collaborer avec les équipes Data pour intégrer diverses sources de données, y compris SQL, NoSQL et Big Data.\n* Optimiser les performances des processus de traitement de données en appliquant les meilleures pratiques en matière de design de bases de données et d’architecture Big Data.\n* Participer à la mise en œuvre de solutions d'apprentissage automatique (Machine Learning) et d'intelligence artificielle (IA), notamment dans le traitement du langage naturel (NLP) et la data mining.\n\n**Profil recherché**\n\n* Expérience confirmée en développement Talend et Pyspark dans un environnement Big Data.\n\nRémunération : 500,00€ à 550,00€ par jour\n\nQuestion(s) de présélection:\n\n* ok pour 5 jours de présenciel ?\n\nExpérience:\n\n* Talend: 5 ans (Requis)\n* pyspark: 5 ans (Requis)\n\nLangue:\n\n* Anglais (Requis)\n\nLieu du poste : En présentiel",
-      "salary": "$500–$550/day",
-      "salary_source": "direct_data",
-      "salary_currency": "EUR",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Congenica",
-      "title": "Director, Automation & Data Engineering",
-      "location": "Paris, A8, France",
-      "url": "https://fr.indeed.com/viewjob?jk=276d53f57a0ceb80",
-      "direct_url": "https://www.congenica.com/careers/director-automation-data-engineering",
-      "company_url": "https://fr.indeed.com/cmp/Congenica",
-      "date_posted": "2026-10-14",
-      "description": "**About SeqOne**\n\nSeqOne is a fast-growing B2B software scale-up building the leading cloud platform for clinical next-generation sequencing (NGS) analysis.\n\n‍\n\n**What is clinical NGS, and why does it matter?**\n\nNext-generation sequencing has revolutionised medicine by making it possible to read a patient's genetic code quickly and affordably. But raw sequencing data is meaningless on its own—it must be processed, filtered, annotated, and interpreted before a clinician can act on it. This interpretation step is now the bottleneck in precision medicine: labs are drowning in data while patients wait for answers.\n\nSeqOne exists to solve this. Our cloud-based software platform helps molecular laboratories and hospitals analyse, interpret, and report genetic data—faster, more accurately, and at scale. We combine advanced bioinformatics pipelines, AI-powered decision support, and intuitive clinical workflows into a single SaaS solution, enabling labs to focus on what matters: delivering actionable insights to patients and their care teams.\n\nWith 170+ customers across 32 countries, SeqOne supports cancer diagnostics, rare disease diagnosis, pharmacogenomics, and newborn screening—anywhere precision medicine is needed.\n\n‍\n\n**But here's what we're really doing:**\n\n**We're compressing the time between a patient's uncertainty and their answer.\n‍**  \nA child waiting for a rare disease diagnosis. A cancer patient waiting to learn if a targeted therapy might work. A family waiting to understand. The sequencers are not the bottleneck anymore—interpretation is. That's the problem SeqOne exists to solve.\n\nOur north star is a 10x reduction in human time from \"case ready for review\" to \"report signed.\" Every click is a cost. Every manual step is a bug we haven't fixed yet. Every repeated pattern is a failure of automation.\n\nIf we build SeqOne right, labs will one day struggle to remember how they ever did this work without it.\n\n‍\n\nAs **Director, Automation & Data**, you will lead one of three foundational **Platform teams** (alongside UI and Infrastructure) within our CTO organization. Your mission is to build the internal products that power everything else: the BI platform surfacing critical insights, the data curation engine keeping clinical knowledge current, the automation layer turning complex customer integrations into repeatable wins, and the API gateway enabling self-service customer implementations.\n\n‍\n\n**The organization context:**\n\n* **Total Technology & Engineering headcount**: ~45 people across Platform, Stream-aligned, Subsystem, and Enabler teams\n* **CTO Organization**: ~30 people including Engineering FullStack (~12), Engineering QA (~7), Platform Infrastructure (~4), Biocore (~4), BioOps (~3)\n* **Your Platform team**: 5 people (3 existing: Senior Bioinformatician for data curation + Automation Engineer for N8N/SeqOne Flow, 1 public API architect), 1 to hire: Data Engineer, 1 prospective nearshore resource\n  ‍\n\n**Our Values**\n\nAt SeqOne, values are not slogans; they describe how decisions are made and how people are expected to behave every day. The CPO is directly accountable for embedding these values into product discovery, prioritisation, and cross-functional execution.\n\n* **Unstoppable Positivity** – We approach challenges with energy, resourcefulness and a solution-first mindset, turning constraints into opportunities instead of getting stuck in complaints. We value people who learn from setbacks, iterate quickly and keep moving forward even when things are ambiguous or hard.**‍**\n* **Customer Pulse** – Our customers operate in healthcare, and their work has a direct impact on patients' lives, so understanding their reality and anticipating their needs is central to our mission. We build long-term, trust-based relationships, react quickly to issues and keep quality and regulatory expectations at the heart of what we do.**‍**\n* **Excellence Explorers** – We are driven by curiosity, high standards and measurable impact, treating excellence as an ongoing journey rather than a fixed target. We prioritise what really moves the needle, rely on data to guide decisions, and challenge the status quo to reach world-class levels in our products, services and operations.**‍**\n* **Open Heart, Hands-On** – We combine kindness, humility and direct feedback with a strong sense of ownership and reliability. We help each other succeed, speak up honestly even when conversations are uncomfortable, and follow through on our commitments because everyone's work is interconnected.\n  ‍\n\n**Responsibilities**\n\n**1) Platform Product Ownership (50%)**\n\nBuild the internal products that enable SeqOne's operational excellence and customer success.\n\n* **Nexus BI & Internal Analytics**: Architect and evolve data pipelines feeding internal analytics dashboards (platform usage metrics, customer TAT analysis, unit economics). Enable data-driven decisions for Product, Commercial, and Operations teams.\n* **Clinical Data Curation Platform**: Own the ETL infrastructure (Airflow-based/can evolve) that aggregates and curates clinical knowledge databases (ClinVar, gnomAD, population databases, gene panels; …). Ensure data freshness, accuracy, and regulatory auditability (ISO 13485 compliance, and up to date licenses/contracts).\n* **SeqOne Flow Premium**: Lead development of the customer-facing automation engine that integrates SeqOne Platform into lab environments (file upload/download, analysis triggering, LIMS connectors, HL7/FHIR interfaces). Transform one-off integrations into reusable, self-service modules using N8N workflow orchestration.\n* **API Gateway & Developer Experience**: Treat APIs as products. Ensure comprehensive documentation, SDKs, sandbox environments, and self-service tooling that enable customer IT teams to integrate autonomously with Public API. Reduce dependency on professional services.\n* **Platform Operations Tooling**: Own internal admin tools supporting customer management, and operational workflows",
-      "salary": "$70k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "EUR",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
