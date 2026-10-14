@@ -255,3 +255,4 @@
 {"job_count": 3, "run_attempt": "1", "run_id": "38623636309", "timestamp": "2026-10-14T19:31:15Z", "workflow": "linkedin"}
 {"job_count": 2, "run_attempt": "1", "run_id": "38625363713", "timestamp": "2026-10-14T19:40:34Z", "workflow": "indeed"}
 {"job_count": 2, "run_attempt": "1", "run_id": "38625959458", "timestamp": "2026-10-14T19:44:16Z", "workflow": "indeed"}
+{"job_count": 0, "run_attempt": "1", "run_id": "38629630850", "timestamp": "2026-10-14T20:12:22Z", "workflow": "glassdoor"}
