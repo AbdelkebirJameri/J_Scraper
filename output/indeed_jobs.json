@@ -1,26 +1,8 @@
 {
-  "scraped_at": "2026-10-15 06:31 UTC",
-  "total": 2,
+  "scraped_at": "2026-10-15 07:43 UTC",
+  "total": 1,
   "new_count": 0,
   "jobs": [
-    {
-      "company": "Innov and Co Diversité, Inclusion ou handicap",
-      "title": "développeur talend pyspark anglais full présenciel H/F",
-      "location": "Montrouge, A8, France",
-      "url": "https://fr.indeed.com/viewjob?jk=f1aefa943e339de1",
-      "direct_url": "",
-      "company_url": "https://fr.indeed.com/cmp/Innov-and-Co-Diversit%C3%A9,-Inclusion-Ou-Handicap",
-      "date_posted": "2026-10-14",
-      "description": "**À propos du poste**  \nNous recherchons un développeur Talend Pyspark expérimenté, doté d'une maîtrise parfaite de l'anglais, pour rejoindre notre équipe en présentiel, 5 jours sur 5.\n\n**Responsabilités**\n\n* Concevoir et développer des pipelines ETL robustes en utilisant Talend et Pyspark pour traiter de grands volumes de données.\n* Collaborer avec les équipes Data pour intégrer diverses sources de données, y compris SQL, NoSQL et Big Data.\n* Optimiser les performances des processus de traitement de données en appliquant les meilleures pratiques en matière de design de bases de données et d’architecture Big Data.\n* Participer à la mise en œuvre de solutions d'apprentissage automatique (Machine Learning) et d'intelligence artificielle (IA), notamment dans le traitement du langage naturel (NLP) et la data mining.\n\n**Profil recherché**\n\n* Expérience confirmée en développement Talend et Pyspark dans un environnement Big Data.\n\nRémunération : 500,00€ à 550,00€ par jour\n\nQuestion(s) de présélection:\n\n* ok pour 5 jours de présenciel ?\n\nExpérience:\n\n* Talend: 5 ans (Requis)\n* pyspark: 5 ans (Requis)\n\nLangue:\n\n* Anglais (Requis)\n\nLieu du poste : En présentiel",
-      "salary": "$500–$550/day",
-      "salary_source": "direct_data",
-      "salary_currency": "EUR",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
     {
       "company": "Congenica",
       "title": "Director, Automation & Data Engineering",
