@@ -1,5 +1,5 @@
 # 🟩 Glassdoor — Data Engineer - Talend / ETL Roles
-*Last updated: 2026-10-16 07:04 UTC*
+*Last updated: 2026-10-16 22:47 UTC*
 
 **0 new role(s)** since last run · 0 total in last 24h
 
