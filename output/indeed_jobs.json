@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-18 18:18 UTC",
+  "scraped_at": "2026-10-18 21:01 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "AMI Consulting",
@@ -22,24 +22,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "AMI Consulting",
-      "title": "Expert Talend / ETL – Banque & Risques (H/F)",
-      "location": "Neuilly-sur-Seine, A8, France",
-      "url": "https://fr.indeed.com/viewjob?jk=8a3ee8be683cbf87",
-      "direct_url": "https://careerspage.io/ami-consulting/expert-talend-etl-banque-risques-hf-am1922?src=17",
-      "company_url": "https://fr.indeed.com/cmp/Ami-Consulting",
-      "date_posted": "2026-10-18",
-      "description": "**À propos d’AMI Consulting**\n-----------------------------\n\n**Entreprise innovante & familiale**, AMI Consulting est lauréat de la bourse **Innov'UP de BPI France en 2019**. Nous accompagnons nos clients dans leurs projets de transformation en leur proposant des consultants experts adaptés à leurs enjeux.\n\n**Présentation de l'offre**\n---------------------------\n\n**Secteur :** Banque / Services financiers  \n**Fonction :** Expert Talend / Développeur ETL  \n**Spécialisation :** Data Integration / Oracle / Reporting prudentiel  \n**Environnement métier :** Risques / Finance / Conformité  \n**Technologies principales :** Talend Data Integration / Oracle / PL-SQL\n\n**Contexte de la mission**\n--------------------------\n\nDans le cadre d’une mission auprès d’un **grand acteur bancaire**, nous recherchons un **Expert Talend / ETL** pour intervenir sur des problématiques de **Data, risques bancaires et reporting prudentiel**.\n\nVous intégrerez une équipe de la DSI intervenant sur les activités **Risque / Finance / Conformité**, notamment sur la production et l’évolution des reportings prudentiels et réglementaires.\n\nL’environnement présente de forts enjeux liés à la **fiabilité des données, à la sécurisation des traitements et aux évolutions réglementaires**.\n\n**Missions principales**\n------------------------\n\n* Analyser les besoins et participer au cadrage des solutions\n* Concevoir les solutions techniques et les modèles de données\n* Rédiger les spécifications techniques\n* Développer et faire évoluer les **jobs Talend**\n* Concevoir et optimiser les traitements **SQL / PL-SQL sous Oracle**\n* Réaliser les tests unitaires et d’intégration\n* Accompagner les phases de recette\n* Participer aux mises en production\n* Assurer le support en production\n* Rédiger et maintenir la documentation technique\n* Collaborer avec les équipes MOA et les différents interlocuteurs projet\n\n**Compétences techniques**\n--------------------------\n\n* **Talend Data Integration**\n* **Oracle**\n* **SQL / PL-SQL**\n* GitLab\n* PowerShell\n* $Universe\n* Conception et développement de traitements ETL\n* Modélisation et traitement de données\n\n**Compétences fonctionnelles appréciées**\n-----------------------------------------\n\nUne connaissance de l’environnement bancaire et plus particulièrement des problématiques suivantes sera particulièrement appréciée :\n\n* **Risques bancaires**\n* **Reporting prudentiel et réglementaire**\n* Risque / Finance / Conformité\n* Traitement et fiabilisation des données réglementaires\n\n**Profil recherché**\n--------------------\n\nVous disposez d’une solide expérience en développement **ETL / Data Integration**, avec une expertise significative de **Talend Data Integration**.\n\nVous maîtrisez **Oracle et PL/SQL** et êtes capable d’intervenir sur l’ensemble du cycle de réalisation, de la conception jusqu’à la mise en production et au support.\n\nUne expérience dans le **secteur bancaire**, notamment sur des projets liés aux **risques ou au reporting prudentiel**, constituera un réel avantage.\n\nVous êtes autonome, rigoureux et à l’aise dans les échanges avec les équipes techniques et fonctionnelles.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
