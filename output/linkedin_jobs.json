@@ -1,7 +1,49 @@
 {
-  "scraped_at": "2026-10-18 06:29 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-10-18 18:13 UTC",
+  "total": 2,
+  "new_count": 2,
+  "jobs": [
+    {
+      "company": "Devoteam Data Driven",
+      "title": "Senior Data engineer Databricks H/F",
+      "location": "Marcq-en-Barœul, Hauts-de-France, France",
+      "url": "https://www.linkedin.com/jobs/view/4444309832/",
+      "date_posted": "2026-10-18",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Une agence multi spécialiste de plus de 40 collaborateurs qui forment des communautés d’experts sur le Cloud & DevOps, la data et la gestion de projet. Devoteam Lille accompagne ses clients dans une transformation digitale durable. A l’agence de Lille, les consultants peuvent intégrer nos clubs happiness Running, Gastronomy, Raquettes, Basket, Foot, ou encore gaming.\n\nData Driven a pour ambition d’aider ses clients à transformer la valeur de leurs données en succès durable. Nous tirons parti à la fois de notre expertise sur les plateformes technologiques les plus innovantes et de notre connaissance métier avec la meilleure combinaison d’experts pour accompagner nos clients dans leur quête d’agilité, de compétitivité et de croissance durable.\n\nDescription Du Poste\n\nDans le cadre d'un projet d'envergure pour l'un de nos clients majeurs du secteur retail, vos missions principales seront les suivantes :\n\n🛠️ Concevoir, construire et maintenir des infrastructures et des pipelines de données robustes, performants et évolutifs.\n📈 Transformer la stack legacy vers les nouveaux standards de la Data Platform en optimisant la modélisation des flux.\n🔍 Assurer la qualité, la fiabilité et la gouvernance des données de la Marketplace tout en maîtrisant la qualité du code.\n👥 Apporter votre expertise technique à l'équipe pour orienter les choix d'architecture et promouvoir les meilleures pratiques.\n🌍 Collaborer en environnement Agile au sein d'une équipe internationale et garantir un RUN de qualité selon le principe \"You build it, you run it\".\n\nQualifications\n\nPour ce poste, vous justifiez des compétences clés suivantes :\n\nExpertise technique Data : Maîtrise avancée de Python/PySpark, de DBT (Data Build Tool) et de l'optimisation SQL pour la modélisation de données.\nOutils & Cloud : Expérience confirmée sur Databricks (clusters, workloads Big Data) et sur l'orchestration de flux complexes avec Airflow.\nMéthodologie & CI/CD : Pratique quotidienne des revues de code, de Git/GitHub, de la CI/CD et du travail en environnement Agile.\nLangues : Maîtrise courante du Français et de l’Anglais, indispensable pour évoluer dans un contexte international.\n\nInformations supplémentaires\n\nComment se déroule le processus de recrutement chez Devoteam ?\n\nIl comporte 2 à 3 entretiens :\n\n– Talent Acquisition Interview : l’objectif est de faire le point sur vos compétences, votre niveau d’anglais et de valider vos éléments de motivation\n\n– Tech & Business Interview : cet entretien vise à approfondir vos compétences techniques et à vérifier leur adéquation avec nos besoins lors d’un échange avec un expert métier\n\n– Leadership Interview : il permet d’évaluer votre potentiel, vos ambitions et d’envisager votre évolution au sein de Devoteam. Nous privilégions au moins un entretien en présentiel. Une prise de référence est demandée et, selon votre profil, des tests (techniques, anglais, personnalité…) peuvent vous être adressés.\n\nPourquoi nous rejoindre : Nous sommes une AI-Driven Company, partenaire des plus grandes plateformes technologiques (Google, AWS, Microsoft, ServiceNow,…) et composée d'un important collectif d'experts (50 tribus d'expertise). Avec 75% de nos collaborateurs certifiés dont 100 % sur la GenAI, Devoteam s'impose comme une Learning Company, où l’apprentissage continu est au cœur de notre ADN.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting"
+    },
+    {
+      "company": "UN Environment Programme",
+      "title": "IMEO REMOTE SENSING DATA ENGINEER",
+      "location": "Paris, Île-de-France, France",
+      "url": "https://www.linkedin.com/jobs/view/4479933674/",
+      "date_posted": "2026-10-18",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "IMEO Remote Sensing Data Engineer\n\nJob Opening\n\nJob Opening ID\n: 285646\n\nJob Network\n: -\n\nJob Family\n: Engineering\n\nCategory and Level\n: Affiliate Personnel – Consultants/Individual Contractors, CON\n\nRecruitment Type\n: Consultant\n\nDuty Station\n: PARIS\n\nDepartment/Office\n: United Nations Environment Programme\n\nDate Posted\n: Oct 1, 2026\n\nDeadline\n: Oct 28, 2026\n\nApply Now\n\nResult of Service\n\nThe Remote Sensing Data Engineer consultant will provide a reliable flow of satellite detections into MARS from both existing and newly integrated data sources; a healthy, monitored ingestion pipeline as data volume and automation grow; an owned and improved estimation of source persistency and total annual emissions for methane point sources; and automated public data products published on IMEO’s Data Platform.\n\nWork Location\n\nExpected duration\n\nDuties and Responsibilities\n\nQualifications/special Skills\n\nLanguages\n\nAdditional Information\n\nNo Fee\n\nApply Now\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nInternational Affairs"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Devoteam Data Driven",
+      "title": "Senior Data engineer Databricks H/F",
+      "location": "Marcq-en-Barœul, Hauts-de-France, France",
+      "url": "https://www.linkedin.com/jobs/view/4444309832/",
+      "date_posted": "2026-10-18",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Une agence multi spécialiste de plus de 40 collaborateurs qui forment des communautés d’experts sur le Cloud & DevOps, la data et la gestion de projet. Devoteam Lille accompagne ses clients dans une transformation digitale durable. A l’agence de Lille, les consultants peuvent intégrer nos clubs happiness Running, Gastronomy, Raquettes, Basket, Foot, ou encore gaming.\n\nData Driven a pour ambition d’aider ses clients à transformer la valeur de leurs données en succès durable. Nous tirons parti à la fois de notre expertise sur les plateformes technologiques les plus innovantes et de notre connaissance métier avec la meilleure combinaison d’experts pour accompagner nos clients dans leur quête d’agilité, de compétitivité et de croissance durable.\n\nDescription Du Poste\n\nDans le cadre d'un projet d'envergure pour l'un de nos clients majeurs du secteur retail, vos missions principales seront les suivantes :\n\n🛠️ Concevoir, construire et maintenir des infrastructures et des pipelines de données robustes, performants et évolutifs.\n📈 Transformer la stack legacy vers les nouveaux standards de la Data Platform en optimisant la modélisation des flux.\n🔍 Assurer la qualité, la fiabilité et la gouvernance des données de la Marketplace tout en maîtrisant la qualité du code.\n👥 Apporter votre expertise technique à l'équipe pour orienter les choix d'architecture et promouvoir les meilleures pratiques.\n🌍 Collaborer en environnement Agile au sein d'une équipe internationale et garantir un RUN de qualité selon le principe \"You build it, you run it\".\n\nQualifications\n\nPour ce poste, vous justifiez des compétences clés suivantes :\n\nExpertise technique Data : Maîtrise avancée de Python/PySpark, de DBT (Data Build Tool) et de l'optimisation SQL pour la modélisation de données.\nOutils & Cloud : Expérience confirmée sur Databricks (clusters, workloads Big Data) et sur l'orchestration de flux complexes avec Airflow.\nMéthodologie & CI/CD : Pratique quotidienne des revues de code, de Git/GitHub, de la CI/CD et du travail en environnement Agile.\nLangues : Maîtrise courante du Français et de l’Anglais, indispensable pour évoluer dans un contexte international.\n\nInformations supplémentaires\n\nComment se déroule le processus de recrutement chez Devoteam ?\n\nIl comporte 2 à 3 entretiens :\n\n– Talent Acquisition Interview : l’objectif est de faire le point sur vos compétences, votre niveau d’anglais et de valider vos éléments de motivation\n\n– Tech & Business Interview : cet entretien vise à approfondir vos compétences techniques et à vérifier leur adéquation avec nos besoins lors d’un échange avec un expert métier\n\n– Leadership Interview : il permet d’évaluer votre potentiel, vos ambitions et d’envisager votre évolution au sein de Devoteam. Nous privilégions au moins un entretien en présentiel. Une prise de référence est demandée et, selon votre profil, des tests (techniques, anglais, personnalité…) peuvent vous être adressés.\n\nPourquoi nous rejoindre : Nous sommes une AI-Driven Company, partenaire des plus grandes plateformes technologiques (Google, AWS, Microsoft, ServiceNow,…) et composée d'un important collectif d'experts (50 tribus d'expertise). Avec 75% de nos collaborateurs certifiés dont 100 % sur la GenAI, Devoteam s'impose comme une Learning Company, où l’apprentissage continu est au cœur de notre ADN.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting"
+    },
+    {
+      "company": "UN Environment Programme",
+      "title": "IMEO REMOTE SENSING DATA ENGINEER",
+      "location": "Paris, Île-de-France, France",
+      "url": "https://www.linkedin.com/jobs/view/4479933674/",
+      "date_posted": "2026-10-18",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "IMEO Remote Sensing Data Engineer\n\nJob Opening\n\nJob Opening ID\n: 285646\n\nJob Network\n: -\n\nJob Family\n: Engineering\n\nCategory and Level\n: Affiliate Personnel – Consultants/Individual Contractors, CON\n\nRecruitment Type\n: Consultant\n\nDuty Station\n: PARIS\n\nDepartment/Office\n: United Nations Environment Programme\n\nDate Posted\n: Oct 1, 2026\n\nDeadline\n: Oct 28, 2026\n\nApply Now\n\nResult of Service\n\nThe Remote Sensing Data Engineer consultant will provide a reliable flow of satellite detections into MARS from both existing and newly integrated data sources; a healthy, monitored ingestion pipeline as data volume and automation grow; an owned and improved estimation of source persistency and total annual emissions for methane point sources; and automated public data products published on IMEO’s Data Platform.\n\nWork Location\n\nExpected duration\n\nDuties and Responsibilities\n\nQualifications/special Skills\n\nLanguages\n\nAdditional Information\n\nNo Fee\n\nApply Now\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nInternational Affairs"
+    }
+  ]
 }
