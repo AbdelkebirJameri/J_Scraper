@@ -1,6 +1,12 @@
 # 🔥 LinkedIn — Data Engineer - Talend / ETL Roles
-*Last updated: 2026-10-20 19:22 UTC*
+*Last updated: 2026-10-20 22:36 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-No new roles since the last run.
+### [Expert Talend / PL/SQL – Reporting prudentiel bancaire](https://www.linkedin.com/jobs/view/4481774873/) — LeGratin
+- 📍 **Location:** Paris, Île-de-France, France
+- 🕒 **Posted:** 2026-10-20
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4481790506/) — CluePoints
+- 📍 **Location:** Belgium
+- 🕒 **Posted:** 2026-10-20
