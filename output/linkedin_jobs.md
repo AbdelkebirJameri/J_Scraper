@@ -1,8 +1,6 @@
 # 🔥 LinkedIn — Data Engineer - Talend / ETL Roles
-*Last updated: 2026-10-19 20:40 UTC*
+*Last updated: 2026-10-20 00:29 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
-### [Développeur ETL/ESB (H/F)](https://www.linkedin.com/jobs/view/4478610766/) — Radiall
-- 📍 **Location:** Voreppe, Auvergne-Rhône-Alpes, France
-- 🕒 **Posted:** 2026-10-19
+No new roles since the last run.
