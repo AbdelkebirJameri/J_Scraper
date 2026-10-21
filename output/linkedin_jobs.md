@@ -1,8 +1,6 @@
 # 🔥 LinkedIn — Data Engineer - Talend / ETL Roles
-*Last updated: 2026-10-21 19:22 UTC*
+*Last updated: 2026-10-21 22:40 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
-### [Data Engineer Confirmé (F/H)](https://www.linkedin.com/jobs/view/4353662809/) — Onepoint
-- 📍 **Location:** Nantes, Pays de la Loire, France
-- 🕒 **Posted:** 2026-10-21
+No new roles since the last run.
