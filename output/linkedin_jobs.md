@@ -1,8 +1,12 @@
 # 🔥 LinkedIn — Data Engineer - Talend / ETL Roles
-*Last updated: 2026-10-21 01:41 UTC*
+*Last updated: 2026-10-21 07:49 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4480757003/) — AQEMIA
-- 📍 **Location:** Paris, Île-de-France, France
+### [Consultant Data Engineer Databricks - Confirmé - H/F](https://www.linkedin.com/jobs/view/4480774683/) — Talan
+- 📍 **Location:** Lyon, Auvergne-Rhône-Alpes, France
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineer GCP Senior (H/F)](https://www.linkedin.com/jobs/view/4482058183/) — ECMConsulting Luxembourg
+- 📍 **Location:** Greater Paris Metropolitan Region
 - 🕒 **Posted:** 2026-10-21
