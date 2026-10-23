@@ -1,7 +1,29 @@
 {
-  "scraped_at": "2026-10-23 01:36 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-10-23 07:38 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "ALTEN",
+      "title": "Data Engineer – Plateforme Skywise (H/F)",
+      "location": "Toulouse, Occitanie, France",
+      "url": "https://www.linkedin.com/jobs/view/4481652559/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Leader de l’Ingénierie et des IT Services, présent dans plus de 30 pays, le groupe ALTEN accompagne la stratégie de développement de ses clients dans les domaines de l’innovation, de la R&D et des systèmes d'information technologiques.\n\nPlus qu’un poste, découvrez l’aventure qui vous attend au sein d’une entreprise engagée.\n\nDescription du poste\n\nNous recherchons un Data Engineer passionné par l’analyse et le traitement de données aéronautiques pour rejoindre nos équipes sur la plateforme Skywise. Vous contribuerez à l’amélioration continue de la maintenance prédictive et de la performance des flottes d’avions, en développant des pipelines de données robustes et en transformant les données brutes en insights exploitables.\n\nDévelopper et optimiser des pipelines de données pour l’extraction, la transformation et l’analyse de séries temporelles aéronautiques (Python, SQL, Spark, Skywise)\nCalculer et mettre à disposition des indicateurs de performance complexes pour la flotte aérienne\nParticiper à la traçabilité et à l’analyse massive des données des composants avion\nConcevoir des dashboards interactifs pour visualiser et interpréter les données Skywise\nFormer et accompagner les équipes techniques sur les outils et bonnes pratiques (Python, SQL, Spark, Skywise)\nGarantir la qualité, la cohérence et la fiabilité des données traitées\n\nEnvironnement technique :\n\nLangages & Outils : Python, SQL, Spark, Pandas\n\nPlateforme : Skywise\n\nDonnées : Séries temporelles aéronautiques, maintenance prédictive, performance flotte\n\nAutres : Visualisation de données, pipelines ETL, qualité et traçabilité des données\n\nQualifications\n\nDiplômé d’une École d’ingénieurs ou d’un Master en Informatique, Data Science, Intelligence Artificielle ou Aéronautique\nExpérience confirmée en Data Engineering, idéalement dans un environnement aéronautique\nMaîtrise des langages et outils suivants : Python, SQL, Spark, Pandas\nExpérience sur la plateforme Skywise souhaitée, ou forte capacité à apprendre rapidement de nouveaux environnements data aéronautiques\nCapacité à traiter et analyser des volumes massifs de données avec rigueur et précision\nBonnes compétences en communication et capacité à travailler en interface avec les équipes métiers et techniques\n\nInformations supplémentaires\n\nPackage de rémunération attractif composé d’un fixe et d’un variable\nDispositifs de participation aux résultats de l’entreprise\nDe réelles perspectives d’évolution vers des trajectoires de carrière variées : management de projet ou expertise technique\nUn accompagnement au développement des compétences via des certifications et des programmes de formation continue\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "ALTEN",
+      "title": "Data Engineer – Plateforme Skywise (H/F)",
+      "location": "Toulouse, Occitanie, France",
+      "url": "https://www.linkedin.com/jobs/view/4481652559/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Leader de l’Ingénierie et des IT Services, présent dans plus de 30 pays, le groupe ALTEN accompagne la stratégie de développement de ses clients dans les domaines de l’innovation, de la R&D et des systèmes d'information technologiques.\n\nPlus qu’un poste, découvrez l’aventure qui vous attend au sein d’une entreprise engagée.\n\nDescription du poste\n\nNous recherchons un Data Engineer passionné par l’analyse et le traitement de données aéronautiques pour rejoindre nos équipes sur la plateforme Skywise. Vous contribuerez à l’amélioration continue de la maintenance prédictive et de la performance des flottes d’avions, en développant des pipelines de données robustes et en transformant les données brutes en insights exploitables.\n\nDévelopper et optimiser des pipelines de données pour l’extraction, la transformation et l’analyse de séries temporelles aéronautiques (Python, SQL, Spark, Skywise)\nCalculer et mettre à disposition des indicateurs de performance complexes pour la flotte aérienne\nParticiper à la traçabilité et à l’analyse massive des données des composants avion\nConcevoir des dashboards interactifs pour visualiser et interpréter les données Skywise\nFormer et accompagner les équipes techniques sur les outils et bonnes pratiques (Python, SQL, Spark, Skywise)\nGarantir la qualité, la cohérence et la fiabilité des données traitées\n\nEnvironnement technique :\n\nLangages & Outils : Python, SQL, Spark, Pandas\n\nPlateforme : Skywise\n\nDonnées : Séries temporelles aéronautiques, maintenance prédictive, performance flotte\n\nAutres : Visualisation de données, pipelines ETL, qualité et traçabilité des données\n\nQualifications\n\nDiplômé d’une École d’ingénieurs ou d’un Master en Informatique, Data Science, Intelligence Artificielle ou Aéronautique\nExpérience confirmée en Data Engineering, idéalement dans un environnement aéronautique\nMaîtrise des langages et outils suivants : Python, SQL, Spark, Pandas\nExpérience sur la plateforme Skywise souhaitée, ou forte capacité à apprendre rapidement de nouveaux environnements data aéronautiques\nCapacité à traiter et analyser des volumes massifs de données avec rigueur et précision\nBonnes compétences en communication et capacité à travailler en interface avec les équipes métiers et techniques\n\nInformations supplémentaires\n\nPackage de rémunération attractif composé d’un fixe et d’un variable\nDispositifs de participation aux résultats de l’entreprise\nDe réelles perspectives d’évolution vers des trajectoires de carrière variées : management de projet ou expertise technique\nUn accompagnement au développement des compétences via des certifications et des programmes de formation continue\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting"
+    }
+  ]
 }
