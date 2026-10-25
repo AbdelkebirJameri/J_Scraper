@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Data Engineer - Talend / ETL Roles
-*Last updated: 2026-10-25 05:09 UTC*
+*Last updated: 2026-10-25 18:28 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Fabric Data Engineer](https://www.linkedin.com/jobs/view/4483390230/) — EpicData
+- 📍 **Location:** Kontich, Flemish Region, Belgium
+- 🕒 **Posted:** 2026-10-25
