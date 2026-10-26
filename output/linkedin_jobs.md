@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Data Engineer - Talend / ETL Roles
-*Last updated: 2026-10-26 01:34 UTC*
+*Last updated: 2026-10-26 06:19 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Data engineer H/F](https://www.linkedin.com/jobs/view/4483527618/) — Kicklox
+- 📍 **Location:** Toulouse, Occitanie, France
+- 🕒 **Posted:** 2026-10-26
