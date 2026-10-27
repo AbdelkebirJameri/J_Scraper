@@ -1,2453 +1,4628 @@
 # 🔥 LinkedIn — Data Engineer - Talend / ETL Roles
-*Last updated: 2026-10-27 23:12 UTC*
+*Last updated: 2026-10-27 23:15 UTC*
 
-**612 new role(s)** since last run · 612 total in last 1h
+**1156 new role(s)** since last run · 1215 total in last 1h
 
-### [Data Engineer Java / Scala Expérimenté – Data Platform](https://www.linkedin.com/jobs/view/4481878809/) — ALTEN
-- 📍 **Location:** Rabat, Rabat-Salé-Kénitra, Morocco
+### [Data Engineer (ETL) French Speaker](https://www.linkedin.com/jobs/view/4483651789/) — Syone
+- 📍 **Location:** Porto, Portugal
 - 🕒 **Posted:** 2026-10-27
 
-### [Data Engineer Java / Scala Expérimenté – Data Platform](https://www.linkedin.com/jobs/view/4481890397/) — ALTEN MAROC
-- 📍 **Location:** Rabat, Rabat-Salé-Kénitra, Morocco
+### [Data Engineer (ETL) French Speaker](https://www.linkedin.com/jobs/view/4483646965/) — Syone
+- 📍 **Location:** Lisboa, Lisbon, Portugal
 - 🕒 **Posted:** 2026-10-27
 
-### [Data Engineer Senior Talend (H/F)](https://www.linkedin.com/jobs/view/4482212275/) — Free-Work
-- 📍 **Location:** Clermont-Ferrand, Auvergne-Rhône-Alpes, France
+### [Data Engineer (Remote, Flexible Working Hours)](https://www.linkedin.com/jobs/view/4484048966/) — TE Connectivity
+- 📍 **Location:** Muntinlupa City, National Capital Region, Philippines
 - 🕒 **Posted:** 2026-10-27
 
-### [Data Engineer Référent (H/F)](https://www.linkedin.com/jobs/view/4482209343/) — Free-Work
-- 📍 **Location:** Clermont-Ferrand, Auvergne-Rhône-Alpes, France
+### [Business Intelligence & Data Engineer](https://www.linkedin.com/jobs/view/4483619744/) — Capital Numbers
+- 📍 **Location:** Bucharest, Romania
 - 🕒 **Posted:** 2026-10-27
 
-### [Data Engineer - Services Public - Rouen](https://www.linkedin.com/jobs/view/4484087825/) — Sopra Steria
-- 📍 **Location:** Rouen, Normandy, France
+### [Consultant Data Integration / Talend](https://www.linkedin.com/jobs/view/4481854275/) — Grayson Talent
+- 📍 **Location:** Antananarivo, Analamanga, Madagascar
 - 🕒 **Posted:** 2026-10-27
 
-### [Data Engineer H/F](https://www.linkedin.com/jobs/view/4479394311/) — Mobilize Financial Services
-- 📍 **Location:** Fontenay-sur-Conie, Centre-Val de Loire, France
+### [Data Engineer](https://www.linkedin.com/jobs/view/4483644336/) — Wiraa
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-27
 
-### [442 - Data Engineer Référent / Tech Lead (Grade C / leader informatique-Coach) (IT) / Freelance](https://www.linkedin.com/jobs/view/4482217079/) — Free-Work
-- 📍 **Location:** Clermont-Ferrand, Auvergne-Rhône-Alpes, France
+### [Lead I - Talend Developer](https://www.linkedin.com/jobs/view/4474036642/) — UST
+- 📍 **Location:** Pune Division, Maharashtra, India
 - 🕒 **Posted:** 2026-10-27
 
-### [Développeur confirmé Full Stack JAVA_ETL Talend - Niort (IT) / Freelance](https://www.linkedin.com/jobs/view/4482202661/) — Free-Work
-- 📍 **Location:** Niort, Nouvelle-Aquitaine, France
+### [Data Engineer](https://www.linkedin.com/jobs/view/4483649325/) — AARATECH
+- 📍 **Location:** Texas, United States
 - 🕒 **Posted:** 2026-10-27
 
-### [Data Engineer Senior - GCP / Dataiku H/F](https://www.linkedin.com/jobs/view/4483624043/) — NEXTON
-- 📍 **Location:** Bordeaux, Nouvelle-Aquitaine, France
+### [Data Engineer](https://www.linkedin.com/jobs/view/4051803987/) — AvePoint
+- 📍 **Location:** Singapore
 - 🕒 **Posted:** 2026-10-27
 
-### [Data Engineer – Plateforme Data Engineering](https://www.linkedin.com/jobs/view/4483640697/) — ALTEN
-- 📍 **Location:** Vitrolles, Provence-Alpes-Côte d'Azur, France
+### [Data Engineer](https://www.linkedin.com/jobs/view/4483643602/) — AARATECH
+- 📍 **Location:** New York, United States
 - 🕒 **Posted:** 2026-10-27
 
-### [Responsable Data Integration & Data Platform (CDI)](https://www.linkedin.com/jobs/view/4483613615/) — KatchMe
-- 📍 **Location:** Boulogne-Billancourt, Île-de-France, France
-- 🕒 **Posted:** 2026-10-27
-
-### [Data Engineer Snowflake Junior (F/H)](https://www.linkedin.com/jobs/view/4482210273/) — Free-Work
-- 📍 **Location:** Paris, Île-de-France, France
-- 🕒 **Posted:** 2026-10-27
-
-### [Data Engineer Snowflake Senior (H/F)](https://www.linkedin.com/jobs/view/4480354437/) — Econocom
-- 📍 **Location:** Lille, Hauts-de-France, France
-- 🕒 **Posted:** 2026-10-27
-
-### [Senior Data Engineer Snowflake F/H](https://www.linkedin.com/jobs/view/4483617178/) — Devoteam Data Driven
-- 📍 **Location:** Lyon, Auvergne-Rhône-Alpes, France
-- 🕒 **Posted:** 2026-10-27
-
-### [Ingénieur Études & Développement Data / BI – ETL / PL/SQL (H/F)](https://www.linkedin.com/jobs/view/4481870220/) — CITECH
-- 📍 **Location:** Aix-en-Provence, Provence-Alpes-Côte d'Azur, France
-- 🕒 **Posted:** 2026-10-27
-
-### [Data Engineer Senior – Snowflake](https://www.linkedin.com/jobs/view/4483664521/) — Sander
-- 📍 **Location:** Paris, Île-de-France, France
-- 🕒 **Posted:** 2026-10-27
-
-### [AI Data Engineer F/H/X](https://www.linkedin.com/jobs/view/4474296866/) — TEAMWILL
-- 📍 **Location:** Courbevoie, Île-de-France, France
-- 🕒 **Posted:** 2026-10-27
-
-### [Senior Software Engineer - Data Engineer](https://www.linkedin.com/jobs/view/4483294827/) — Jobgether
-- 📍 **Location:** France
-- 🕒 **Posted:** 2026-10-27
-
-### [Data Engineer H/F - Databricks](https://www.linkedin.com/jobs/view/4433181030/) — Synchrone Fr
-- 📍 **Location:** Lyon, Auvergne-Rhône-Alpes, France
-- 🕒 **Posted:** 2026-10-27
-
-### [CDI – Data Engineer Databricks & AWS – 3 à 7 ans d’expérience](https://www.linkedin.com/jobs/view/4482206477/) — Free-Work
-- 📍 **Location:** Courbevoie, Île-de-France, France
-- 🕒 **Posted:** 2026-10-27
-
-### [Consultant Data Engineer Databricks (H/F)](https://www.linkedin.com/jobs/view/4483615218/) — ALTEN
-- 📍 **Location:** Lyon, Auvergne-Rhône-Alpes, France
-- 🕒 **Posted:** 2026-10-27
-
-### [Data Engineer (H/F)](https://www.linkedin.com/jobs/view/4483618623/) — ALTEN
-- 📍 **Location:** Toulouse, Occitanie, France
-- 🕒 **Posted:** 2026-10-27
-
-### [Data Engineer Snowflake Senior (F/H)](https://www.linkedin.com/jobs/view/4482210285/) — Free-Work
-- 📍 **Location:** Paris, Île-de-France, France
-- 🕒 **Posted:** 2026-10-27
-
-### [Senior Data Engineer Databricks H/F](https://www.linkedin.com/jobs/view/4483299969/) — Devoteam Data Driven
-- 📍 **Location:** Lyon, Auvergne-Rhône-Alpes, France
-- 🕒 **Posted:** 2026-10-27
-
-### [Data Engineer H/F](https://www.linkedin.com/jobs/view/4302057862/) — OPEN
-- 📍 **Location:** Nantes Sud, Pays de la Loire, France
-- 🕒 **Posted:** 2026-10-27
-
-### [Data Engineer GCP](https://www.linkedin.com/jobs/view/4484210006/) — ONE LOGIC CONSULTING
-- 📍 **Location:** Greater Paris Metropolitan Region
-- 🕒 **Posted:** 2026-10-27
-
-### [Data Engineer - CI/CD](https://www.linkedin.com/jobs/view/4481895269/) — Innova Solutions
-- 📍 **Location:** Marseille, Provence-Alpes-Côte d'Azur, France
-- 🕒 **Posted:** 2026-10-27
-
-### [Data Engineer GCP (H/F)](https://www.linkedin.com/jobs/view/4438675104/) — Davidson consulting
-- 📍 **Location:** Lyon, Auvergne-Rhône-Alpes, France
-- 🕒 **Posted:** 2026-10-27
-
-### [441 - Data Engineer Senior (IT) / Freelance](https://www.linkedin.com/jobs/view/4481898993/) — Free-Work
-- 📍 **Location:** Clermont-Ferrand, Auvergne-Rhône-Alpes, France
-- 🕒 **Posted:** 2026-10-27
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4430560492/) — Neosoft
-- 📍 **Location:** Greater Paris Metropolitan Region
-- 🕒 **Posted:** 2026-10-27
-
-### [Data Engineer / Data Analyst Expérimenté·e (H/F)](https://www.linkedin.com/jobs/view/4483785225/) — Valeuriad
-- 📍 **Location:** Nantes, Pays de la Loire, France
-- 🕒 **Posted:** 2026-10-27
-
-### [Développeur confirmé Full Stack Java / Talend (H/F) (IT) / Freelance](https://www.linkedin.com/jobs/view/4482206475/) — Free-Work
-- 📍 **Location:** Niort, Nouvelle-Aquitaine, France
-- 🕒 **Posted:** 2026-10-27
-
-### [Tech Lead Data Engineer H/F](https://www.linkedin.com/jobs/view/4417266721/) — EY
-- 📍 **Location:** Paris, Île-de-France, France
-- 🕒 **Posted:** 2026-10-27
-
-### [Cloud Data Engineer GCP (H/F)](https://www.linkedin.com/jobs/view/4378778948/) — Davidson consulting
-- 📍 **Location:** Toulouse, Occitanie, France
-- 🕒 **Posted:** 2026-10-27
-
-### [BI Data Engineer (SAP BO)](https://www.linkedin.com/jobs/view/4483653160/) — NTek Software Solutions
-- 📍 **Location:** Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-27
-
-### [Senior BI Data Engineer - Brussels](https://www.linkedin.com/jobs/view/4484037492/) — SEIDOR
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-27
-
-### [Data Engineer - Data & AI](https://www.linkedin.com/jobs/view/4218792675/) — Cegeka
-- 📍 **Location:** Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-27
-
-### [Data Engineer | Defense](https://www.linkedin.com/jobs/view/4484200402/) — Capgemini Engineering
-- 📍 **Location:** Diegem, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-27
-
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4484020560/) — delaware BeLux
-- 📍 **Location:** Antwerp Metropolitan Area
-- 🕒 **Posted:** 2026-10-27
-
-### [Data Engineer - Azure](https://www.linkedin.com/jobs/view/4482210204/) — Dark Light
-- 📍 **Location:** Limburg, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-27
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4409695258/) — VeroTech
-- 📍 **Location:** Leuven, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-27
-
-### [BE - Data Engineer](https://www.linkedin.com/jobs/view/4202881981/) — CBTW
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-27
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4409696293/) — VeroTech
-- 📍 **Location:** Wavre, Walloon Region, Belgium
-- 🕒 **Posted:** 2026-10-27
-
-### [Lead Data Engineer](https://www.linkedin.com/jobs/view/4483237390/) — BLS Cargo
-- 📍 **Location:** Antwerp, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-27
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4484047741/) — TCrew
-- 📍 **Location:** Brussels Metropolitan Area
-- 🕒 **Posted:** 2026-10-27
-
-### [Lead Data Engineer](https://www.linkedin.com/jobs/view/4473906390/) — delaware BeLux
-- 📍 **Location:** Lummen, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-27
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4484093105/) — Scalian
-- 📍 **Location:** Liège, Walloon Region, Belgium
-- 🕒 **Posted:** 2026-10-27
-
-### [Azure Data Engineer - interne rol](https://www.linkedin.com/jobs/view/4484074404/) — Clovr
-- 📍 **Location:** Tienen, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-27
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4484086084/) — Scalian
-- 📍 **Location:** Liège, Walloon Region, Belgium
-- 🕒 **Posted:** 2026-10-27
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4484058890/) — IVC Evidensia Belgium
-- 📍 **Location:** De Pinte, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-27
-
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4484038074/) — iKe Solutions
-- 📍 **Location:** Luxembourg, Luxembourg
-- 🕒 **Posted:** 2026-10-27
-
-### [Data engineer (F/H) - Niort](https://www.linkedin.com/jobs/view/4476403750/) — Aubay
-- 📍 **Location:** Niort, Nouvelle-Aquitaine, France
+### [T&T Consultant - Artificial Intelligence & Data (Data Engineer) - TH](https://www.linkedin.com/jobs/view/4401451221/) — Deloitte
+- 📍 **Location:** Bangkok, Bangkok City, Thailand
 - 🕒 **Posted:** 2026-10-26
 
-### [Data Engineer confirmé H/F](https://www.linkedin.com/jobs/view/4411439820/) — OPEN
-- 📍 **Location:** Toulouse, Occitanie, France
+### [Staff Engineer - Data Engineering, Analytics & AI/ML](https://www.linkedin.com/jobs/view/4483223079/) — TJX India
+- 📍 **Location:** Greater Hyderabad Area
 - 🕒 **Posted:** 2026-10-26
 
-### [Développeur.se Java / Talend - NIORT 79](https://www.linkedin.com/jobs/view/4481460441/) — Kereon Intelligence
-- 📍 **Location:** Niort, Nouvelle-Aquitaine, France
+### [SENIOR DATA ENGINEER](https://www.linkedin.com/jobs/view/4483261574/) — Axians Portugal
+- 📍 **Location:** Lisboa, Lisbon, Portugal
 - 🕒 **Posted:** 2026-10-26
 
-### [Data Engineer – Nantes (F/H)](https://www.linkedin.com/jobs/view/4473620766/) — Aubay
-- 📍 **Location:** Greater Nantes Metropolitan Area
+### [T&T Senior Consultant - Artificial Intelligence & Data (Data Engineer) - ID](https://www.linkedin.com/jobs/view/4299605746/) — Deloitte
+- 📍 **Location:** Jakarta Metropolitan Area
 - 🕒 **Posted:** 2026-10-26
 
-### [Consultant Data Engineer - Lyon (F/H)](https://www.linkedin.com/jobs/view/4481464782/) — T&S (Technology & Strategy)
-- 📍 **Location:** Greater Lyon Area
+### [Senior Data Engineer - Data Integration & Analytics (all genders)](https://www.linkedin.com/jobs/view/4429644177/) — adesso SE
+- 📍 **Location:** Paderborn, North Rhine-Westphalia, Germany
 - 🕒 **Posted:** 2026-10-26
 
-### [Data Engineer Teradata](https://www.linkedin.com/jobs/view/4482993417/) — evoteo
-- 📍 **Location:** Lyon, Auvergne-Rhône-Alpes, France
+### [Senior Data Engineer - Data Integration & Analytics (all genders)](https://www.linkedin.com/jobs/view/4429634746/) — adesso SE
+- 📍 **Location:** Münster, North Rhine-Westphalia, Germany
 - 🕒 **Posted:** 2026-10-26
 
-### [Confirmed Data Engineer – Interop (f/h/n)](https://www.linkedin.com/jobs/view/4482955851/) — Hublo
-- 📍 **Location:** Paris, Île-de-France, France
+### [Senior Data Engineer - Data Integration & Analytics (all genders)](https://www.linkedin.com/jobs/view/4429637775/) — adesso SE
+- 📍 **Location:** Essen, North Rhine-Westphalia, Germany
 - 🕒 **Posted:** 2026-10-26
 
-### [Data Engineer SAP HANA - Lille - CDI](https://www.linkedin.com/jobs/view/4483579126/) — Logical Conseils
-- 📍 **Location:** Hauts-de-France, France
+### [Senior Data Engineer - Data Integration & Analytics (all genders)](https://www.linkedin.com/jobs/view/4429644178/) — adesso SE
+- 📍 **Location:** Siegen, North Rhine-Westphalia, Germany
 - 🕒 **Posted:** 2026-10-26
 
-### [Junior Data Engineer (f/h/n)](https://www.linkedin.com/jobs/view/4483739526/) — Hublo
-- 📍 **Location:** Paris, Île-de-France, France
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4483527199/) — Gentrack Ltd (Global)
+- 📍 **Location:** Auckland, Auckland, New Zealand
 - 🕒 **Posted:** 2026-10-26
 
-### [Consultant Data Engineer - Paris (F/H)](https://www.linkedin.com/jobs/view/4481460946/) — T&S (Technology & Strategy)
-- 📍 **Location:** Greater Paris Metropolitan Region
+### [Data Engineer](https://www.linkedin.com/jobs/view/4482942398/) — The Able by King Power
+- 📍 **Location:** Ratchathewi, Bangkok City, Thailand
 - 🕒 **Posted:** 2026-10-26
 
-### [Data Engineer - Transport - Lille](https://www.linkedin.com/jobs/view/4480999365/) — Sopra Steria
-- 📍 **Location:** Villeneuve-d’Ascq, Hauts-de-France, France
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4471369981/) — Scarlett Indonesia
+- 📍 **Location:** West Jakarta, Jakarta, Indonesia
 - 🕒 **Posted:** 2026-10-26
 
-### [Data Engineer - F/H](https://www.linkedin.com/jobs/view/4329006904/) — Onepoint
-- 📍 **Location:** Paris, Île-de-France, France
+### [ETL & Database Developer](https://www.linkedin.com/jobs/view/4482941241/) — EliteRecruitments
+- 📍 **Location:** Greater Hyderabad Area
 - 🕒 **Posted:** 2026-10-26
 
-### [Data Engineer / Data Architect Senior – Azure / Databricks / Microsoft Fabric](https://www.linkedin.com/jobs/view/4481464766/) — T&S (Technology & Strategy)
-- 📍 **Location:** Lyon, Auvergne-Rhône-Alpes, France
+### [Data Engineer](https://www.linkedin.com/jobs/view/4481430152/) — Beymen Group
+- 📍 **Location:** Istanbul, Türkiye
 - 🕒 **Posted:** 2026-10-26
 
-### [Data Engineer (H/F/NB)](https://www.linkedin.com/jobs/view/4437561091/) — Keyrus
-- 📍 **Location:** Villeurbanne, Auvergne-Rhône-Alpes, France
+### [DE&A - Core - Cloud Data Engineering - Snowflake Developer](https://www.linkedin.com/jobs/view/4482945672/) — Zensar Technologies
+- 📍 **Location:** Pune Division, Maharashtra, India
 - 🕒 **Posted:** 2026-10-26
 
-### [Analytics Engineer / Data Engineer - Microsoft Fabric, Snowflake & Power BI F/H](https://www.linkedin.com/jobs/view/4483557756/) — GRDF
-- 📍 **Location:** St.-Denis, Île-de-France, France
+### [Data Engineer](https://www.linkedin.com/jobs/view/4483549338/) — LPL Financial Global Capability Center
+- 📍 **Location:** Greater Hyderabad Area
 - 🕒 **Posted:** 2026-10-26
 
-### [Data Engineer (H/F/NB)](https://www.linkedin.com/jobs/view/4437084918/) — Keyrus
-- 📍 **Location:** Levallois-Perret, Île-de-France, France
+### [Senior Data Engineering Consultant (Databricks)](https://www.linkedin.com/jobs/view/4465796208/) — Talan
+- 📍 **Location:** London, England, United Kingdom
 - 🕒 **Posted:** 2026-10-26
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4482929534/) — ThoughtLabs Belgium
-- 📍 **Location:** Brussels, Brussels Region, Belgium
+### [Associate - Data Engineer](https://www.linkedin.com/jobs/view/4481413632/) — Chalhoub Group
+- 📍 **Location:** Bengaluru, Karnataka, India
 - 🕒 **Posted:** 2026-10-26
 
-### [Data Engineer Junior Consultant (september 2027)](https://www.linkedin.com/jobs/view/4483556324/) — BDO Belgium
-- 📍 **Location:** Zaventem, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-26
-
-### [Microsoft Data Engineer](https://www.linkedin.com/jobs/view/4483538260/) — Lytix
-- 📍 **Location:** Boortmeerbeek, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-26
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4481444876/) — Koda Tech
-- 📍 **Location:** Genk, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-26
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4482953004/) — Visser & Van Baars
-- 📍 **Location:** Antwerp, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-26
-
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4482937750/) — GIM - smart geo insights
-- 📍 **Location:** Leuven, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-26
-
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4483731029/) — Lighthouse
-- 📍 **Location:** Ghent, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-26
-
-### [End-to-end Data Engineer/Architect](https://www.linkedin.com/jobs/view/4447533462/) — recurv
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-26
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4447008980/) — KPMG Belgium
-- 📍 **Location:** Zaventem, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-26
-
-### [Senior Data Engineer Consultant](https://www.linkedin.com/jobs/view/4483548497/) — Sia
-- 📍 **Location:** Antwerp, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-26
-
-### [Senior Data Engineer, Medical Imaging & AI Platforms](https://www.linkedin.com/jobs/view/4483563597/) — icometrix
-- 📍 **Location:** Leuven, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-26
-
-### [Data Engineer Consultant - Risk and Regulatory Reporting](https://www.linkedin.com/jobs/view/4480012358/) — Finalyse
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-26
-
-### [Functional Data Engineer](https://www.linkedin.com/jobs/view/4470848656/) — Projective Talent | Part of Projective Group
-- 📍 **Location:** Brussels Metropolitan Area
-- 🕒 **Posted:** 2026-10-26
-
-### [Manager Data Engineer](https://www.linkedin.com/jobs/view/4447016587/) — KPMG Belgium
-- 📍 **Location:** Zaventem, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-26
-
-### [Data Engineer Databricks](https://www.linkedin.com/jobs/view/4483202485/) — Visser & Van Baars
-- 📍 **Location:** East Flanders, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-26
-
-### [AI Data Engineer](https://www.linkedin.com/jobs/view/4482944231/) — Visser & Van Baars
-- 📍 **Location:** Antwerp, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-26
-
-### [Senior Data Engineer Consultant](https://www.linkedin.com/jobs/view/4483546597/) — Sia
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-26
-
-### [Consultant Data Engineer](https://www.linkedin.com/jobs/view/4483540669/) — Sia
-- 📍 **Location:** Antwerp, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-26
-
-### [Senior Data Engineer F/M/X](https://www.linkedin.com/jobs/view/4475239027/) — Amaris Consulting | Part of Mantu
-- 📍 **Location:** Herstal, Walloon Region, Belgium
-- 🕒 **Posted:** 2026-10-26
-
-### [BI / Data Engineer | European Commission](https://www.linkedin.com/jobs/view/4481461289/) — Ayesa Digital
-- 📍 **Location:** Luxembourg, Luxembourg
-- 🕒 **Posted:** 2026-10-26
-
-### [Stagiaire Data Engineer](https://www.linkedin.com/jobs/view/4483563830/) — Banque de Luxembourg
-- 📍 **Location:** Luxembourg, Luxembourg, Luxembourg
-- 🕒 **Posted:** 2026-10-26
-
-### [Senior Data Engineer Consultant](https://www.linkedin.com/jobs/view/4483537716/) — Sia
-- 📍 **Location:** Luxembourg, Luxembourg, Luxembourg
-- 🕒 **Posted:** 2026-10-26
-
-### [Senior Data Engineer - Casablanca](https://www.linkedin.com/jobs/view/3761574281/) — Artefact
-- 📍 **Location:** Casablanca Metropolitan Area
+### [Data Integration Developer](https://www.linkedin.com/jobs/view/4482689714/) — Tata Consultancy Services
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-10-25
 
-### [Data Engineer Expérimenté (F/H/X)](https://www.linkedin.com/jobs/view/4456227309/) — IT Link Group
-- 📍 **Location:** Vannes, Brittany, France
+### [Senior Data Engineer - Data Integration & Analytics (all genders)](https://www.linkedin.com/jobs/view/4429636778/) — adesso SE
+- 📍 **Location:** Dortmund, North Rhine-Westphalia, Germany
 - 🕒 **Posted:** 2026-10-25
 
-### [Data Engineer AWS – Data Platform / IA (H/F)](https://www.linkedin.com/jobs/view/4378792632/) — Davidson consulting
-- 📍 **Location:** Toulouse, Occitanie, France
+### [Associate Data Engineer](https://www.linkedin.com/jobs/view/4464717252/) — TaskUs
+- 📍 **Location:** Mumbai Metropolitan Region
 - 🕒 **Posted:** 2026-10-25
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4457366325/) — Moody's Corporation
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-25
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4421836711/) — Sopra Steria
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-25
-
-### [Fabric Data Engineer](https://www.linkedin.com/jobs/view/4483390230/) — EpicData
-- 📍 **Location:** Kontich, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-25
-
-### [Senior Java ETL Data Engineer](https://www.linkedin.com/jobs/view/4483372441/) — 3E
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-25
-
-### [Praktikant Data Engineering mit Schwerpunkt Datenqualität (m|w|d)](https://www.linkedin.com/jobs/view/4410982274/) — DZ PRIVATBANK AG
-- 📍 **Location:** Strassen, Luxembourg, Luxembourg
-- 🕒 **Posted:** 2026-10-25
-
-### [Tech Lead Talend - H/F](https://www.linkedin.com/jobs/view/4298224240/) — Smile
-- 📍 **Location:** Casablanca, Casablanca-Settat, Morocco
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4483339705/) — AssistRx
+- 📍 **Location:** Florida, United States
 - 🕒 **Posted:** 2026-10-24
 
-### [Junior Data Engineer - Casablanca](https://www.linkedin.com/jobs/view/3928980947/) — Artefact
-- 📍 **Location:** Casablanca Metropolitan Area
+### [ETL Developer / Data Integration Engineer](https://www.linkedin.com/jobs/view/4481020161/) — UST
+- 📍 **Location:** Meridian, ID
 - 🕒 **Posted:** 2026-10-24
 
-### [Data Engineer senior GCP (H/F) Devoteam Maroc Nearshore](https://www.linkedin.com/jobs/view/4318726396/) — Devoteam
-- 📍 **Location:** Rabat, Rabat-Salé-Kénitra, Morocco
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4481031399/) — Love's Travel Stops
+- 📍 **Location:** Oklahoma City, OK
 - 🕒 **Posted:** 2026-10-24
 
-### [Data Engineer confirmé](https://www.linkedin.com/jobs/view/4465639793/) — Sogeti
-- 📍 **Location:** Dijon, Bourgogne-Franche-Comté, France
+### [Senior Data Engineer - Data Integration & Analytics (all genders)](https://www.linkedin.com/jobs/view/4429625874/) — adesso SE
+- 📍 **Location:** Bonn, North Rhine-Westphalia, Germany
 - 🕒 **Posted:** 2026-10-24
 
-### [Tech Lead Talend H/F - Paris](https://www.linkedin.com/jobs/view/4432844648/) — Keyrus
-- 📍 **Location:** Levallois-Perret, Île-de-France, France
+### [Senior Data Engineer - Data Integration & Analytics (all genders)](https://www.linkedin.com/jobs/view/4429625873/) — adesso SE
+- 📍 **Location:** Düsseldorf, North Rhine-Westphalia, Germany
 - 🕒 **Posted:** 2026-10-24
 
-### [Data Engineer Snowflake Senior (H/F/NB)](https://www.linkedin.com/jobs/view/4371178916/) — Keyrus
-- 📍 **Location:** Levallois-Perret, Île-de-France, France
+### [Senior Data Engineer - Data Integration & Analytics (all genders)](https://www.linkedin.com/jobs/view/4429631765/) — adesso SE
+- 📍 **Location:** Cologne, North Rhine-Westphalia, Germany
 - 🕒 **Posted:** 2026-10-24
 
-### [Data Engineer - Data Factory - Services Financiers - Nantes](https://www.linkedin.com/jobs/view/4466312558/) — Sopra Steria
-- 📍 **Location:** Nantes, Pays de la Loire, France
-- 🕒 **Posted:** 2026-10-24
-
-### [Consultant Talend (H/F/NB)](https://www.linkedin.com/jobs/view/4322994906/) — Keyrus
-- 📍 **Location:** Levallois-Perret, Île-de-France, France
-- 🕒 **Posted:** 2026-10-24
-
-### [Consultant Data Engineer / Big Data (F/H)](https://www.linkedin.com/jobs/view/4353672671/) — Onepoint
-- 📍 **Location:** Nantes, Pays de la Loire, France
-- 🕒 **Posted:** 2026-10-24
-
-### [Data Engineer Confirmé Azure / Microsoft Fabric - F/H](https://www.linkedin.com/jobs/view/4329225832/) — Onepoint
-- 📍 **Location:** Strasbourg, Grand Est, France
-- 🕒 **Posted:** 2026-10-24
-
-### [AI-Augmented Data Engineer F/M](https://www.linkedin.com/jobs/view/4438501779/) — Betclic Group
-- 📍 **Location:** Bordeaux, Nouvelle-Aquitaine, France
-- 🕒 **Posted:** 2026-10-24
-
-### [Data Engineer AWS / Python H/F](https://www.linkedin.com/jobs/view/4466063837/) — Ortec Group
-- 📍 **Location:** Paris, Île-de-France, France
-- 🕒 **Posted:** 2026-10-24
-
-### [Data Engineer confirmé - expert PySpark - Services Financiers - Nantes](https://www.linkedin.com/jobs/view/4429543365/) — Sopra Steria
-- 📍 **Location:** Nantes, Pays de la Loire, France
-- 🕒 **Posted:** 2026-10-24
-
-### [Data Engineer Confirmé Databricks - F/H](https://www.linkedin.com/jobs/view/4328979354/) — Onepoint
-- 📍 **Location:** Strasbourg, Grand Est, France
-- 🕒 **Posted:** 2026-10-24
-
-### [Big Data Engineer (H/F/NB)](https://www.linkedin.com/jobs/view/4232548315/) — Keyrus
-- 📍 **Location:** Levallois-Perret, Île-de-France, France
-- 🕒 **Posted:** 2026-10-24
-
-### [Cloud Data Engineer (H/F/NB)](https://www.linkedin.com/jobs/view/4227641583/) — Keyrus
-- 📍 **Location:** Levallois-Perret, Île-de-France, France
-- 🕒 **Posted:** 2026-10-24
-
-### [Data Engineer AWS – Data Platform / IA (H/F)](https://www.linkedin.com/jobs/view/4438653968/) — Davidson consulting
-- 📍 **Location:** Lyon, Auvergne-Rhône-Alpes, France
-- 🕒 **Posted:** 2026-10-24
-
-### [Senior Databricks Data Engineer](https://www.linkedin.com/jobs/view/4483319034/) — MPower Plus
-- 📍 **Location:** Zaventem, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-24
-
-### [Digital Factory -  Data Engineering Manager - Assistant Director](https://www.linkedin.com/jobs/view/4418239862/) — EY
-- 📍 **Location:** Luxembourg, Luxembourg, Luxembourg
-- 🕒 **Posted:** 2026-10-24
-
-### [Ingénieur Talend "Run" H/F](https://www.linkedin.com/jobs/view/4298216555/) — Smile
-- 📍 **Location:** Casablanca, Casablanca-Settat, Morocco
+### [Data Engineer - Talend (Senior-Level)](https://www.linkedin.com/jobs/view/4481302852/) — Ugnay Solutions Philippines
+- 📍 **Location:** Taguig, National Capital Region, Philippines
 - 🕒 **Posted:** 2026-10-23
 
-### [Data Engineer Confirmé (F/H)](https://www.linkedin.com/jobs/view/4483159137/) — CGI
-- 📍 **Location:** Casablanca, Casablanca-Settat, Morocco
+### [Lead Data Engineer](https://www.linkedin.com/jobs/view/4370538747/) — HiLabs
+- 📍 **Location:** Pune Division, Maharashtra, India
 - 🕒 **Posted:** 2026-10-23
 
-### [Data Engineer Confirmé Snowflake - F/H](https://www.linkedin.com/jobs/view/4329096719/) — Onepoint
-- 📍 **Location:** Aix-en-Provence, Provence-Alpes-Côte d'Azur, France
+### [Sr Data Integration Engineer](https://www.linkedin.com/jobs/view/4464586387/) — HomeServices of America
+- 📍 **Location:** Eden Prairie, MN
 - 🕒 **Posted:** 2026-10-23
 
-### [Data engineer (H/F)](https://www.linkedin.com/jobs/view/4482862404/) — Amiltone
-- 📍 **Location:** Lille, Hauts-de-France, France
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4483141081/) — NBME
+- 📍 **Location:** Philadelphia, PA
 - 🕒 **Posted:** 2026-10-23
 
-### [Consultant Talend H/F/NB](https://www.linkedin.com/jobs/view/4399622851/) — Keyrus
-- 📍 **Location:** Aix-en-Provence, Provence-Alpes-Côte d'Azur, France
+### [ETL Developer, Senior Associate](https://www.linkedin.com/jobs/view/4480354606/) — State Street
+- 📍 **Location:** Hyderabad, Telangana, India
 - 🕒 **Posted:** 2026-10-23
 
-### [Data Engineer Senior @eXalt Nantes](https://www.linkedin.com/jobs/view/4481692752/) — eXalt
-- 📍 **Location:** Nantes, Pays de la Loire, France
+### [Data Engineer](https://www.linkedin.com/jobs/view/4483113033/) — Tottus
+- 📍 **Location:** Surquillo, Peru
 - 🕒 **Posted:** 2026-10-23
 
-### [Data Engineer Confirmé Databricks - F/H](https://www.linkedin.com/jobs/view/4329166415/) — Onepoint
-- 📍 **Location:** Aix-en-Provence, Provence-Alpes-Côte d'Azur, France
+### [Data Engineer](https://www.linkedin.com/jobs/view/4480666691/) — ALTEN Spain
+- 📍 **Location:** Madrid, Community of Madrid, Spain
 - 🕒 **Posted:** 2026-10-23
 
-### [Senior Data Engineer - BeReal](https://www.linkedin.com/jobs/view/4446387035/) — BeReal.
-- 📍 **Location:** Paris, Île-de-France, France
+### [Apache Nifi Data Engineer](https://www.linkedin.com/jobs/view/4480679448/) — PrimeIT
+- 📍 **Location:** Lisbon, Portugal
 - 🕒 **Posted:** 2026-10-23
 
-### [Data Engineer (F/H/X)](https://www.linkedin.com/jobs/view/4465892552/) — Amaris Consulting | Part of Mantu
-- 📍 **Location:** Nantes, Pays de la Loire, France
+### [Data Engineer](https://www.linkedin.com/jobs/view/4483110641/) — Thales
+- 📍 **Location:** Singapore, Singapore
 - 🕒 **Posted:** 2026-10-23
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4463454171/) — HID
-- 📍 **Location:** Beaucouzé, Pays de la Loire, France
+### [Data Engineer](https://www.linkedin.com/jobs/view/4480602262/) — UL Solutions
+- 📍 **Location:** São Paulo, Brazil
 - 🕒 **Posted:** 2026-10-23
 
-### [Data Engineer Confirmé / Ingénieur de données Confirmé (H/F)](https://www.linkedin.com/jobs/view/4429669175/) — Extia
-- 📍 **Location:** Bordeaux, Nouvelle-Aquitaine, France
-- 🕒 **Posted:** 2026-10-23
-
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4462226292/) — PUR
-- 📍 **Location:** Paris, Île-de-France, France
-- 🕒 **Posted:** 2026-10-23
-
-### [Data Engineer GCP Senior (H/F)](https://www.linkedin.com/jobs/view/4317921940/) — Devoteam | Google Cloud Partner
-- 📍 **Location:** Levallois-Perret, Île-de-France, France
-- 🕒 **Posted:** 2026-10-23
-
-### [Data Engineer (H/F/NB)](https://www.linkedin.com/jobs/view/4455400592/) — Keyrus
-- 📍 **Location:** Bordeaux, Nouvelle-Aquitaine, France
-- 🕒 **Posted:** 2026-10-23
-
-### [Data Engineer - F/H](https://www.linkedin.com/jobs/view/4426858894/) — Niji
-- 📍 **Location:** La Madeleine, Hauts-de-France, France
-- 🕒 **Posted:** 2026-10-23
-
-### [Consultant(e) Data Engineer F/H](https://www.linkedin.com/jobs/view/4465327742/) — CGI
-- 📍 **Location:** Nantes, Pays de la Loire, France
-- 🕒 **Posted:** 2026-10-23
-
-### [Data Engineer H/F - Toulouse](https://www.linkedin.com/jobs/view/4481947098/) — Amoddex
-- 📍 **Location:** Toulouse, Occitanie, France
-- 🕒 **Posted:** 2026-10-23
-
-### [BI Data Engineer (SAP BO)](https://www.linkedin.com/jobs/view/4483121124/) — Neev
-- 📍 **Location:** Brussels Metropolitan Area
-- 🕒 **Posted:** 2026-10-23
-
-### [BI Data Engineer (SAP BO)](https://www.linkedin.com/jobs/view/4482896849/) — Response Informatics
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-23
-
-### [Data Engineer Benelux](https://www.linkedin.com/jobs/view/4481911452/) — Unilever
-- 📍 **Location:** Anderlecht, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-23
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4482858893/) — Lansweeper
-- 📍 **Location:** Brussels Metropolitan Area
-- 🕒 **Posted:** 2026-10-23
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4481911426/) — Cartière
-- 📍 **Location:** Ghent Metropolitan Area
-- 🕒 **Posted:** 2026-10-23
-
-### [Data Engineer (Dutch Speaking)](https://www.linkedin.com/jobs/view/4482865744/) — Us3 Consulting
-- 📍 **Location:** Brussels Metropolitan Area
-- 🕒 **Posted:** 2026-10-23
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4481698763/) — Atlas Copco Group
-- 📍 **Location:** Antwerp, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-23
-
-### [Data Engineer - Power BI Specialist](https://www.linkedin.com/jobs/view/4480644999/) — DESOTEC
-- 📍 **Location:** Roeselare, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-23
-
-### [Consumer Data Engineer](https://www.linkedin.com/jobs/view/4482858653/) — Roularta Media Group
-- 📍 **Location:** Roeselare, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-23
-
-### [Data Engineer Microsoft Fabric (Senior)](https://www.linkedin.com/jobs/view/4481956311/) — EngiFlex
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-23
-
-### [AI/Data Engineer](https://www.linkedin.com/jobs/view/4482895137/) — Vivid Resourcing
-- 📍 **Location:** Antwerp, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-23
-
-### [Databricks Data Engineer](https://www.linkedin.com/jobs/view/4318728254/) — Devoteam
-- 📍 **Location:** Machelen, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-23
-
-### [Cloud & Data engineer](https://www.linkedin.com/jobs/view/4481913465/) — Atlas Copco Group
-- 📍 **Location:** Antwerp, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-23
-
-### [Senior Data Engineer GCP](https://www.linkedin.com/jobs/view/4481652569/) — JUVO
-- 📍 **Location:** Antwerp, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-23
-
-### [Freelance Talend Integration Developer](https://www.linkedin.com/jobs/view/4474148871/) — adesso Belgium
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-23
-
-### [Data Engineer, WW Ops Finance S&A](https://www.linkedin.com/jobs/view/4455902311/) — Amazon
-- 📍 **Location:** Luxembourg, Luxembourg, Luxembourg
-- 🕒 **Posted:** 2026-10-23
-
-### [Data Engineer mit Schwerpunkt Datenqualität (m|w|d)](https://www.linkedin.com/jobs/view/4466011538/) — DZ PRIVATBANK AG
-- 📍 **Location:** Strassen, Luxembourg, Luxembourg
-- 🕒 **Posted:** 2026-10-23
-
-### [DS - Data Engineer Confirmé](https://www.linkedin.com/jobs/view/4480002212/) — Orange Business
-- 📍 **Location:** Salé El Jadida, Rabat-Salé-Kénitra, Morocco
+### [Talend Data Engineer](https://www.linkedin.com/jobs/view/4439052171/) — Affinity
+- 📍 **Location:** Lisbon Metropolitan Area
 - 🕒 **Posted:** 2026-10-22
 
-### [DS - Data Engineer Confirmé](https://www.linkedin.com/jobs/view/4479461490/) — Orange Business
-- 📍 **Location:** Salé El Jadida, Rabat-Salé-Kénitra, Morocco
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4473992209/) — Deloitte
+- 📍 **Location:** Baltimore, MD
 - 🕒 **Posted:** 2026-10-22
 
-### [DS - Data Engineer Confirmé](https://www.linkedin.com/jobs/view/4480006015/) — Orange Business
-- 📍 **Location:** Casablanca-Settat, Morocco
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4473999073/) — Deloitte
+- 📍 **Location:** Washington, DC
 - 🕒 **Posted:** 2026-10-22
 
-### [DS - Data Engineer Confirmé](https://www.linkedin.com/jobs/view/4479453772/) — Orange Business
-- 📍 **Location:** Casablanca-Settat, Morocco
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4473989333/) — Deloitte
+- 📍 **Location:** McLean, VA
 - 🕒 **Posted:** 2026-10-22
 
-### [Data Engineer (H/F)](https://www.linkedin.com/jobs/view/4275097062/) — Smile
-- 📍 **Location:** Casablanca, Casablanca-Settat, Morocco
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4473983627/) — Deloitte
+- 📍 **Location:** Arlington, VA
 - 🕒 **Posted:** 2026-10-22
 
-### [Développeur Talend Big Data (F/H)](https://www.linkedin.com/jobs/view/4482476127/) — Groupe SII
-- 📍 **Location:** Le Mans, Pays de la Loire, France
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4473998097/) — Deloitte
+- 📍 **Location:** Richmond, VA
 - 🕒 **Posted:** 2026-10-22
 
-### [Ingénieur Data Talend (H/F)](https://www.linkedin.com/jobs/view/4482495995/) — Davidson consulting
-- 📍 **Location:** Île-de-France, France
+### [Talend Developer (TMC experience is a MUST)](https://www.linkedin.com/jobs/view/4482425779/) — Avensys Consulting
+- 📍 **Location:** Taguig, National Capital Region, Philippines
 - 🕒 **Posted:** 2026-10-22
 
-### [Data Engineer Confirmé / Senior (H/F)](https://www.linkedin.com/jobs/view/4464521639/) — Talan
-- 📍 **Location:** Nantes, Pays de la Loire, France
+### [Data Engineer (Informatica PowerCenter)](https://www.linkedin.com/jobs/view/4481613792/) — Dellent
+- 📍 **Location:** Lisbon, Lisbon, Portugal
 - 🕒 **Posted:** 2026-10-22
 
-### [Lead Tech Talend H/F/NB](https://www.linkedin.com/jobs/view/3732231862/) — Keyrus
-- 📍 **Location:** Sophia Antipolis, Provence-Alpes-Côte d'Azur, France
+### [Snowflake Data Engineer](https://www.linkedin.com/jobs/view/4472372101/) — Tata Consultancy Services
+- 📍 **Location:** Blue Bell, PA
 - 🕒 **Posted:** 2026-10-22
 
-### [Consultant Talend (H/F)](https://www.linkedin.com/jobs/view/4482707338/) — OPEN
-- 📍 **Location:** Aix-en-Provence, Provence-Alpes-Côte d'Azur, France
+### [Data Engineer (ETL, SQL)](https://www.linkedin.com/jobs/view/4481395567/) — NTT DATA Europe & Latam
+- 📍 **Location:** Trujillo, La Libertad, Peru
 - 🕒 **Posted:** 2026-10-22
 
-### [Data Engineer – Plateforme Data Engineering (H/F)](https://www.linkedin.com/jobs/view/4480045520/) — ALTEN
-- 📍 **Location:** Boulogne-Billancourt, Île-de-France, France
+### [Data Engineer](https://www.linkedin.com/jobs/view/4459061334/) — TheGuarantors
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-22
 
-### [Data Engineer Confirmé Azure / Microsoft Fabric - F/H](https://www.linkedin.com/jobs/view/4329234648/) — Onepoint
-- 📍 **Location:** Aix-en-Provence, Provence-Alpes-Côte d'Azur, France
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4480049248/) — VML Enterprise Solutions
+- 📍 **Location:** Cape Town, Western Cape, South Africa
 - 🕒 **Posted:** 2026-10-22
 
-### [Data Engineer (H/F)](https://www.linkedin.com/jobs/view/4481611066/) — Witco
-- 📍 **Location:** Paris, Île-de-France, France
+### [Data Engineer | Informatica PowerCenter, IDMC y SQL](https://www.linkedin.com/jobs/view/4481600371/) — NTT DATA Europe & Latam
+- 📍 **Location:** Trujillo, La Libertad, Peru
 - 🕒 **Posted:** 2026-10-22
 
-### [Finance Data Engineer](https://www.linkedin.com/jobs/view/4473952009/) — Voodoo
-- 📍 **Location:** Paris, Île-de-France, France
+### [Data Engineer](https://www.linkedin.com/jobs/view/4480056791/) — algoleap
+- 📍 **Location:** Hyderabad, Telangana, India
 - 🕒 **Posted:** 2026-10-22
 
-### [Data Engineer (F/H)](https://www.linkedin.com/jobs/view/4482727151/) — Groupe SII
-- 📍 **Location:** Lyon, Auvergne-Rhône-Alpes, France
+### [Data Engineer](https://www.linkedin.com/jobs/view/4482459186/) — Auchan Retail
+- 📍 **Location:** Greater Zaragoza Metropolitan Area
 - 🕒 **Posted:** 2026-10-22
 
-### [Data Engineer Confirmé(e) - expert Spark / Scala - AZURE - Services Financiers - Ile de France](https://www.linkedin.com/jobs/view/4479836860/) — Sopra Steria
-- 📍 **Location:** Paris, Île-de-France, France
+### [IT Senior Data Engineer](https://www.linkedin.com/jobs/view/4482712658/) — Thales
+- 📍 **Location:** Gambir, Jakarta, Indonesia
 - 🕒 **Posted:** 2026-10-22
 
-### [Data Engineer PySpark - Data Factory - Services Financiers - Ile de France](https://www.linkedin.com/jobs/view/4482700548/) — Sopra Steria
-- 📍 **Location:** Paris, Île-de-France, France
+### [Lead II - Data Engineering](https://www.linkedin.com/jobs/view/4480078523/) — UST
+- 📍 **Location:** Bengaluru, Karnataka, India
 - 🕒 **Posted:** 2026-10-22
 
-### [Data Engineer GCP F/H](https://www.linkedin.com/jobs/view/4329225831/) — Onepoint
-- 📍 **Location:** Toulouse, Occitanie, France
+### [Data Engineer](https://www.linkedin.com/jobs/view/4480334704/) — Reliance Talent Solutions
+- 📍 **Location:** County Westmeath, Ireland
 - 🕒 **Posted:** 2026-10-22
 
-### [Data Engineer (ArangoDB) H/F](https://www.linkedin.com/jobs/view/4481368443/) — NEXTON
-- 📍 **Location:** Paris, Île-de-France, France
+### [Staff Data Engineer](https://www.linkedin.com/jobs/view/4482416882/) — AppFolio
+- 📍 **Location:** Goleta, CA
 - 🕒 **Posted:** 2026-10-22
 
-### [Senior Data Engineer (Cloud Data Platform)](https://www.linkedin.com/jobs/view/4480042335/) — Taleo Consulting
-- 📍 **Location:** Brussels, Brussels Region, Belgium
+### [Data Engineer](https://www.linkedin.com/jobs/view/4481257797/) — Accenture in India
+- 📍 **Location:** Hyderabad, Telangana, India
 - 🕒 **Posted:** 2026-10-22
 
-### [BI Data Engineer](https://www.linkedin.com/jobs/view/4480049293/) — Netcompany
-- 📍 **Location:** Brussels, Brussels Region, Belgium
+### [Data Engineer](https://www.linkedin.com/jobs/view/4480046367/) — María Linda
+- 📍 **Location:** Benito Juárez, Mexico City, Mexico
 - 🕒 **Posted:** 2026-10-22
 
-### [BI Data Engineer (SAP BO)](https://www.linkedin.com/jobs/view/4482468418/) — EUROPEAN DYNAMICS
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-22
-
-### [Snowflake Data Engineer](https://www.linkedin.com/jobs/view/4480033999/) — Cegeka
-- 📍 **Location:** Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-22
-
-### [Data Engineer/ Analist](https://www.linkedin.com/jobs/view/4481193903/) — tillit
-- 📍 **Location:** Lokeren, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-22
-
-### [Java Data Engineer](https://www.linkedin.com/jobs/view/4361364334/) — Axxes IT Consultancy
-- 📍 **Location:** Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-22
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4480042673/) — EY
-- 📍 **Location:** Diegem, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-22
-
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4480002705/) — Dark Light
-- 📍 **Location:** Antwerp, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-22
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4482472779/) — Fincons Group
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-22
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4480011605/) — Koda Tech
-- 📍 **Location:** Liège, Walloon Region, Belgium
-- 🕒 **Posted:** 2026-10-22
-
-### [Data Engineer W-VL](https://www.linkedin.com/jobs/view/4430411913/) — Pauwels Consulting
-- 📍 **Location:** Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-22
-
-### [Data Engineer – Azure & Power BI](https://www.linkedin.com/jobs/view/4482459497/) — Pauwels Consulting
-- 📍 **Location:** Antwerp, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-22
-
-### [Data Engineer & BI Developer](https://www.linkedin.com/jobs/view/4481188295/) — EngiFlex
-- 📍 **Location:** Antwerp, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-22
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4482466357/) — Médiane Système
-- 📍 **Location:** Liège, Walloon Region, Belgium
-- 🕒 **Posted:** 2026-10-22
-
-### [(Freelance) Data Engineer](https://www.linkedin.com/jobs/view/4481196964/) — Tripwire Solutions
-- 📍 **Location:** Edegem, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-22
-
-### [Data Engineer | DBT - Snowflake](https://www.linkedin.com/jobs/view/4481327079/) — Talan
-- 📍 **Location:** Luxembourg, Luxembourg, Luxembourg
-- 🕒 **Posted:** 2026-10-22
-
-### [IA & Data Engineer l Luxembourg](https://www.linkedin.com/jobs/view/4481312705/) — Talan
-- 📍 **Location:** Luxembourg, Luxembourg, Luxembourg
-- 🕒 **Posted:** 2026-10-22
-
-### [Data Engineer I, EU AMXL BIT](https://www.linkedin.com/jobs/view/4482462788/) — Amazon
-- 📍 **Location:** Luxembourg, Luxembourg, Luxembourg
-- 🕒 **Posted:** 2026-10-22
-
-### [Data Engineer GCP - H/F - CDI](https://www.linkedin.com/jobs/view/4473577683/) — Talan
-- 📍 **Location:** Paris, Île-de-France, France
+### [SAP HANA, SuccessFactors Data Engineer, Enterprise Business Solutions](https://www.linkedin.com/jobs/view/4479439202/) — Deloitte
+- 📍 **Location:** Cardiff, Wales, United Kingdom
 - 🕒 **Posted:** 2026-10-21
 
-### [Ingénieur applicatif Java ETL F/H](https://www.linkedin.com/jobs/view/4482082688/) — AIS
-- 📍 **Location:** Niort, Nouvelle-Aquitaine, France
+### [Senior Talend & Spring Batch Engineer](https://www.linkedin.com/jobs/view/4482038897/) — Inetum
+- 📍 **Location:** Lisboa, Lisbon, Portugal
 - 🕒 **Posted:** 2026-10-21
 
-### [Consultant Senior Data Engineer H/F](https://www.linkedin.com/jobs/view/4481108133/) — MeltOne Advisory
-- 📍 **Location:** Paris, Île-de-France, France
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4456140364/) — Anaplan
+- 📍 **Location:** Gurgaon, Haryana, India
 - 🕒 **Posted:** 2026-10-21
 
-### [Data Engineer Talend / PostgreSQL – Défense & Sécurité – Île-de-France](https://www.linkedin.com/jobs/view/4482173146/) — Sopra Steria
-- 📍 **Location:** Courbevoie, Île-de-France, France
+### [SAP HANA, SuccessFactors Data Engineer, Enterprise Business Solutions](https://www.linkedin.com/jobs/view/4479425611/) — Deloitte
+- 📍 **Location:** Belfast, Northern Ireland, United Kingdom
 - 🕒 **Posted:** 2026-10-21
 
-### [Data Engineer (H/F/X)](https://www.linkedin.com/jobs/view/4454284418/) — IT Link Group
-- 📍 **Location:** Nantes, Pays de la Loire, France
+### [ETL Developer](https://www.linkedin.com/jobs/view/4454448129/) — Tata Consultancy Services
+- 📍 **Location:** Phoenix, AZ
 - 🕒 **Posted:** 2026-10-21
 
-### [Data engineer DBT F/H](https://www.linkedin.com/jobs/view/4473205972/) — Orange Business
-- 📍 **Location:** Lyon, Auvergne-Rhône-Alpes, France
+### [Data Engineer](https://www.linkedin.com/jobs/view/4473298433/) — West Monroe
+- 📍 **Location:** Los Angeles Metropolitan Area
 - 🕒 **Posted:** 2026-10-21
 
-### [Junior Data Engineer](https://www.linkedin.com/jobs/view/4481180053/) — Reverse Contact
-- 📍 **Location:** Paris, Île-de-France, France
+### [Data Engineer – Informatica PowerCenter](https://www.linkedin.com/jobs/view/4481134919/) — NTT DATA Europe & Latam
+- 📍 **Location:** Trujillo, La Libertad, Peru
 - 🕒 **Posted:** 2026-10-21
 
-### [Data Engineer Confirmé (F/H)](https://www.linkedin.com/jobs/view/4353662809/) — Onepoint
-- 📍 **Location:** Nantes, Pays de la Loire, France
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4481156540/) — Hagerty
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-21
 
-### [Consultant Data Engineer Databricks - Confirmé - H/F](https://www.linkedin.com/jobs/view/4480774683/) — Talan
-- 📍 **Location:** Lyon, Auvergne-Rhône-Alpes, France
+### [SAP HANA, SuccessFactors Data Engineer, Enterprise Business Solutions](https://www.linkedin.com/jobs/view/4479438213/) — Deloitte
+- 📍 **Location:** England, United Kingdom
 - 🕒 **Posted:** 2026-10-21
 
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4480757003/) — AQEMIA
-- 📍 **Location:** Paris, Île-de-France, France
-- 🕒 **Posted:** 2026-10-21
-
-### [Data Engineer - F/H](https://www.linkedin.com/jobs/view/4442894049/) — Niji
-- 📍 **Location:** Nantes, Pays de la Loire, France
-- 🕒 **Posted:** 2026-10-21
-
-### [Medior/Senior Data Engineer - Consultant](https://www.linkedin.com/jobs/view/4479413428/) — Orange Business
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-21
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4482054663/) — Vivid Resourcing
-- 📍 **Location:** Leuven, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-21
-
-### [Data Engineer / BI Developer](https://www.linkedin.com/jobs/view/4482085644/) — Fujitsu
-- 📍 **Location:** Antwerp Metropolitan Area
-- 🕒 **Posted:** 2026-10-21
-
-### [Data Engineer - QuantumBlack, AI by McKinsey](https://www.linkedin.com/jobs/view/4482090279/) — QuantumBlack, AI by McKinsey
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-21
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4479409227/) — Dark Light
-- 📍 **Location:** Antwerp, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-21
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4482121962/) — CDH Professionals
-- 📍 **Location:** Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-21
-
-### [Manager, Data Engineering](https://www.linkedin.com/jobs/view/4465041118/) — Lighthouse
-- 📍 **Location:** Ghent, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-21
-
-### [Big Data Engineer](https://www.linkedin.com/jobs/view/4482012478/) — 1Datagroup Technologies
-- 📍 **Location:** Luxembourg
-- 🕒 **Posted:** 2026-10-21
-
-### [Data Engineer DBT SQL (H/F)](https://www.linkedin.com/jobs/view/4436200790/) — Devoteam
-- 📍 **Location:** Rabat, Rabat-Salé-Kénitra, Morocco
+### [Data Engineer (Talend)](https://www.linkedin.com/jobs/view/4480419690/) — Ugnay Solutions Philippines
+- 📍 **Location:** Makati, National Capital Region, Philippines
 - 🕒 **Posted:** 2026-10-20
 
-### [Data Engineer Référent (H/F)](https://www.linkedin.com/jobs/view/4481730498/) — DGTL Performance
-- 📍 **Location:** Clermont-Ferrand, Auvergne-Rhône-Alpes, France
+### [Integration & Data Engineer (H/M/X)](https://www.linkedin.com/jobs/view/4478648910/) — Experis España
+- 📍 **Location:** Vallès Occidental, Catalonia, Spain
 - 🕒 **Posted:** 2026-10-20
 
-### [Data Engineer Senior Talend (H/F)](https://www.linkedin.com/jobs/view/4481735352/) — DGTL Performance
-- 📍 **Location:** Clermont-Ferrand, Auvergne-Rhône-Alpes, France
+### [ETL Developer](https://www.linkedin.com/jobs/view/4480468663/) — TechSurge Inc
+- 📍 **Location:** Karāchi, Sindh, Pakistan
 - 🕒 **Posted:** 2026-10-20
 
-### [Data Engineer Sénior H/F](https://www.linkedin.com/jobs/view/4471205251/) — Infotel
-- 📍 **Location:** Nantes, Pays de la Loire, France
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4472771209/) — Nuffield Health
+- 📍 **Location:** Epsom, England, United Kingdom
 - 🕒 **Posted:** 2026-10-20
 
-### [Data Engineer Snowflake F/H](https://www.linkedin.com/jobs/view/4400287586/) — CGI
-- 📍 **Location:** Greater Toulouse Metropolitan Area
+### [Développeur Talend](https://www.linkedin.com/jobs/view/4478900563/) — Antaes Consulting
+- 📍 **Location:** Geneva, Switzerland
 - 🕒 **Posted:** 2026-10-20
 
-### [Data Engineer Cloud confirmé (H/F)](https://www.linkedin.com/jobs/view/4478676988/) — Thales
-- 📍 **Location:** Vélizy-Villacoublay, Île-de-France, France
+### [AI & Data - Data Engineer, Senior Associate](https://www.linkedin.com/jobs/view/4385043644/) — EY
+- 📍 **Location:** Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia
 - 🕒 **Posted:** 2026-10-20
 
-### [Développeur GCP / Data Engineer H/F](https://www.linkedin.com/jobs/view/4480457167/) — Consort Group
-- 📍 **Location:** Toulouse, Occitanie, France
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4481214456/) — Capgemini
+- 📍 **Location:** Telford, England, United Kingdom
 - 🕒 **Posted:** 2026-10-20
 
-### [Data Engineer H/F](https://www.linkedin.com/jobs/view/4469211529/) — AFNOR Group
-- 📍 **Location:** St.-Denis, Île-de-France, France
+### [GenAI Big Data Engineer (Financial Services) Manager, Technology Consulting](https://www.linkedin.com/jobs/view/4385041547/) — EY
+- 📍 **Location:** Singapore, Singapore
 - 🕒 **Posted:** 2026-10-20
 
-### [Data Engineer Confirmé (H/F)](https://www.linkedin.com/jobs/view/4429036015/) — Extia
-- 📍 **Location:** Paris, Île-de-France, France
+### [Data Engineer](https://www.linkedin.com/jobs/view/4441144800/) — HCLTech
+- 📍 **Location:** Singapore, Singapore
 - 🕒 **Posted:** 2026-10-20
 
-### [CDI –Data Engineer – H/F](https://www.linkedin.com/jobs/view/4469778069/) — NAVAL GROUP
-- 📍 **Location:** Toulon, Provence-Alpes-Côte d'Azur, France
-- 🕒 **Posted:** 2026-10-20
-
-### [Data Engineer Microsoft SQL Server / Azure / Fabric (H/F)](https://www.linkedin.com/jobs/view/4478901518/) — INFOGENE
-- 📍 **Location:** Paris, Île-de-France, France
-- 🕒 **Posted:** 2026-10-20
-
-### [Data engineer](https://www.linkedin.com/jobs/view/4481590371/) — ITS Services
-- 📍 **Location:** Nantes, Pays de la Loire, France
-- 🕒 **Posted:** 2026-10-20
-
-### [Data engineer AWS Senior H/F](https://www.linkedin.com/jobs/view/4478672161/) — DELANE SI
-- 📍 **Location:** Boulogne-Billancourt, Île-de-France, France
-- 🕒 **Posted:** 2026-10-20
-
-### [Senior Data Engineer H/F](https://www.linkedin.com/jobs/view/4481563291/) — Primelis
-- 📍 **Location:** Levallois-Perret, Île-de-France, France
-- 🕒 **Posted:** 2026-10-20
-
-### [Data Engineering Manager - Financial Services](https://www.linkedin.com/jobs/view/4478929184/) — EY
-- 📍 **Location:** Ghent, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-20
-
-### [Data Engineering Manager - Financial Services](https://www.linkedin.com/jobs/view/4478931049/) — EY
-- 📍 **Location:** Antwerp, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-20
-
-### [Data Engineering Manager - Financial Services](https://www.linkedin.com/jobs/view/4478934023/) — EY
-- 📍 **Location:** Diegem, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-20
-
-### [Senior Data Engineer - Financial Services](https://www.linkedin.com/jobs/view/4478932059/) — EY
-- 📍 **Location:** Antwerp, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-20
-
-### [SAP BW Data Engineer](https://www.linkedin.com/jobs/view/4474137016/) — ACENSI
-- 📍 **Location:** Brussels Metropolitan Area
-- 🕒 **Posted:** 2026-10-20
-
-### [Data Engineer - Microsoft Fabric & Azure](https://www.linkedin.com/jobs/view/4480256970/) — Circet Benelux
-- 📍 **Location:** Kontich, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-20
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4481790506/) — CluePoints
-- 📍 **Location:** Belgium
-- 🕒 **Posted:** 2026-10-20
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4473902514/) — ACENSI
-- 📍 **Location:** Brussels Metropolitan Area
-- 🕒 **Posted:** 2026-10-20
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4481581604/) — MORO TECHNOLOGY CORPORATION
-- 📍 **Location:** Ghent, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-20
-
-### [AI & Data Engineer](https://www.linkedin.com/jobs/view/4472777179/) — iO
-- 📍 **Location:** Ghent Metropolitan Area
-- 🕒 **Posted:** 2026-10-20
-
-### [AI & Data Engineer](https://www.linkedin.com/jobs/view/4472775233/) — iO
-- 📍 **Location:** Antwerp, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-20
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4361554146/) — Axxes IT Consultancy
-- 📍 **Location:** Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-20
-
-### [Data Engineer (employee or freelance)](https://www.linkedin.com/jobs/view/4433186598/) — NRB
-- 📍 **Location:** Liège, Walloon Region, Belgium
-- 🕒 **Posted:** 2026-10-20
-
-### [Senior Data Engineer - Financial Services](https://www.linkedin.com/jobs/view/4478923328/) — EY
-- 📍 **Location:** Ghent, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-20
-
-### [Senior Data Engineer - Financial Services](https://www.linkedin.com/jobs/view/4478930073/) — EY
-- 📍 **Location:** Diegem, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-20
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4478656757/) — Koda Tech
-- 📍 **Location:** Antwerp, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-20
-
-### [AI & Data Engineer](https://www.linkedin.com/jobs/view/4472758775/) — iO
-- 📍 **Location:** Herentals, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-20
-
-### [AI & Data Engineer](https://www.linkedin.com/jobs/view/4472775232/) — iO
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-20
-
-### [Lead Data Engineering Architect](https://www.linkedin.com/jobs/view/4472759600/) — adesso Belgium
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-20
-
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4480488680/) — atHomeGroup
-- 📍 **Location:** Luxembourg, Luxembourg, Luxembourg
-- 🕒 **Posted:** 2026-10-20
-
-### [Data Engineer Confirmé F/H](https://www.linkedin.com/jobs/view/4480286155/) — Deloitte
-- 📍 **Location:** Mechouar, Casablanca-Settat, Morocco
+### [Data Integration](https://www.linkedin.com/jobs/view/4481205515/) — Expleo Group
+- 📍 **Location:** Lisboa, Lisbon, Portugal
 - 🕒 **Posted:** 2026-10-19
 
-### [Consultant Talend ETL (H/F)](https://www.linkedin.com/jobs/view/4375778373/) — VISEO
-- 📍 **Location:** Casablanca, Casablanca-Settat, Morocco
+### [Data Engineer](https://www.linkedin.com/jobs/view/4479951553/) — Tata Consultancy Services
+- 📍 **Location:** Chennai, Tamil Nadu, India
 - 🕒 **Posted:** 2026-10-19
 
-### [Analyste Back office (PL SQL – ETL – Oracle) F/H](https://www.linkedin.com/jobs/view/4375764950/) — VISEO
-- 📍 **Location:** Casablanca, Casablanca-Settat, Morocco
+### [Talend](https://www.linkedin.com/jobs/view/4471311614/) — Infosys
+- 📍 **Location:** Bengaluru East, Karnataka, India
 - 🕒 **Posted:** 2026-10-19
 
-### [Data Engineer F/H](https://www.linkedin.com/jobs/view/4478276982/) — Atos
-- 📍 **Location:** Clermont-Ferrand, Auvergne-Rhône-Alpes, France
+### [Business Intelligence Associate - Talend and Snowflake](https://www.linkedin.com/jobs/view/4464350410/) — The Depository Trust & Clearing Corporation (DTCC)
+- 📍 **Location:** Hyderabad, Telangana, India
 - 🕒 **Posted:** 2026-10-19
 
-### [SENIOR DATA ENGINEER](https://www.linkedin.com/jobs/view/4480974695/) — STATERA
-- 📍 **Location:** Marseille, Provence-Alpes-Côte d'Azur, France
+### [Specialist, Data Engineer - India](https://www.linkedin.com/jobs/view/4479962657/) — Nationwide
+- 📍 **Location:** Hyderabad, Telangana, India
 - 🕒 **Posted:** 2026-10-19
 
-### [DATA ENGINEER AZURE DATA FACTORY(H/F)](https://www.linkedin.com/jobs/view/4481265816/) — GROUPE ALLIANCE
-- 📍 **Location:** Paris, Île-de-France, France
+### [Sr. Analyst, Data Engineer - India](https://www.linkedin.com/jobs/view/4479966371/) — Nationwide
+- 📍 **Location:** Hyderabad, Telangana, India
 - 🕒 **Posted:** 2026-10-19
 
-### [Senior Data Engineer, Measurement & Reporting](https://www.linkedin.com/jobs/view/4443894138/) — Vibe.co
-- 📍 **Location:** Paris, Île-de-France, France
+### [Senior Data Engineer (AWS, Azure, GCP)](https://www.linkedin.com/jobs/view/4454577236/) — CapTech
+- 📍 **Location:** Reston, VA
 - 🕒 **Posted:** 2026-10-19
 
-### [Data Engineer GCP](https://www.linkedin.com/jobs/view/4368639068/) — SOFTEAM
-- 📍 **Location:** Paris, Île-de-France, France
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4481277331/) — Fundserv
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-10-19
 
-### [Data Engineer - GCP / Java Scala Spark](https://www.linkedin.com/jobs/view/4480935962/) — ALTEN
-- 📍 **Location:** Île-de-France, France
+### [Senior Data Engineer (AWS, Azure, GCP)](https://www.linkedin.com/jobs/view/4454577246/) — CapTech
+- 📍 **Location:** Chicago, IL
 - 🕒 **Posted:** 2026-10-19
 
-### [Data Engineer H/F](https://www.linkedin.com/jobs/view/4481297069/) — Jems Group
-- 📍 **Location:** Nantes, Pays de la Loire, France
+### [Senior Data Engineer (AWS, Azure, GCP)](https://www.linkedin.com/jobs/view/4454565354/) — CapTech
+- 📍 **Location:** Columbus, OH
 - 🕒 **Posted:** 2026-10-19
 
-### [Data Engineer / Big Data (H/F) – Expert GCP, Kafka, Spark, Scala, Cassandra](https://www.linkedin.com/jobs/view/4480254059/) — ALTEN
-- 📍 **Location:** Boulogne-Billancourt, Île-de-France, France
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4376557491/) — Sherwin-Williams
+- 📍 **Location:** Taman Wilayah, Federal Territory of Kuala Lumpur, Malaysia
 - 🕒 **Posted:** 2026-10-19
 
-### [Data Engineer AWS – Data Platform / IA (H/F)](https://www.linkedin.com/jobs/view/4417060693/) — Davidson consulting
-- 📍 **Location:** Valbonne, Provence-Alpes-Côte d'Azur, France
+### [Recruiting Analytics Data Engineer](https://www.linkedin.com/jobs/view/4466145849/) — Anthropic
+- 📍 **Location:** Seattle, WA
 - 🕒 **Posted:** 2026-10-19
 
-### [Data Engineer GCP – DBT (H/F)](https://www.linkedin.com/jobs/view/4472497696/) — Davidson consulting
-- 📍 **Location:** Île-de-France, France
+### [Recruiting Analytics Data Engineer](https://www.linkedin.com/jobs/view/4466161676/) — Anthropic
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-19
 
-### [Data Engineer / Data Architect GCP – Secteur bancaire (H/F)](https://www.linkedin.com/jobs/view/4480218848/) — Jems Group
-- 📍 **Location:** Île-de-France, France
-- 🕒 **Posted:** 2026-10-19
-
-### [Data Engineering Manager (F/H)](https://www.linkedin.com/jobs/view/4462223343/) — BROTHER FRANCE
-- 📍 **Location:** Roissy-en-France, Île-de-France, France
-- 🕒 **Posted:** 2026-10-19
-
-### [Senior Data Engineer Snowflake](https://www.linkedin.com/jobs/view/4478602355/) — Deloitte
-- 📍 **Location:** Zaventem, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-19
-
-### [Data Engineer Azure Databricks](https://www.linkedin.com/jobs/view/4479967912/) — eXalt
-- 📍 **Location:** Brussels Metropolitan Area
-- 🕒 **Posted:** 2026-10-19
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4480369459/) — element61
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-19
-
-### [Senior Fabric Data Engineer](https://www.linkedin.com/jobs/view/4480968910/) — element61
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-19
-
-### [Data Engineer F/H](https://www.linkedin.com/jobs/view/4481201479/) — Viveris
-- 📍 **Location:** Le Faubourg de Bruxelles, Walloon Region, Belgium
-- 🕒 **Posted:** 2026-10-19
-
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4480978718/) — Sia
-- 📍 **Location:** Antwerp, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-19
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4480959500/) — Expleo Group
-- 📍 **Location:** Herstal, Walloon Region, Belgium
-- 🕒 **Posted:** 2026-10-19
-
-### [Technical Lead Data Engineer](https://www.linkedin.com/jobs/view/4478238775/) — act digital EMEA - Alter Solutions
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-19
-
-### [Senior Databricks Data Engineer](https://www.linkedin.com/jobs/view/4480985324/) — element61
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-19
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4468531390/) — XTEL
-- 📍 **Location:** Leuven, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-19
-
-### [AI & Data Engineer](https://www.linkedin.com/jobs/view/4480968045/) — SECO Belgium
-- 📍 **Location:** Machelen, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-19
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4481202566/) — EDAN Luxembourg
-- 📍 **Location:** Luxembourg, Luxembourg
-- 🕒 **Posted:** 2026-10-19
-
-### [Data Engineer Confirmé/Sénior– Écosystème Microsoft Fabric](https://www.linkedin.com/jobs/view/4426315278/) — Inetum
-- 📍 **Location:** Mechouar, Casablanca-Settat, Morocco
+### [Data Engineer](https://www.linkedin.com/jobs/view/4461444184/) — Centerfield
+- 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-10-18
 
-### [Data Engineer/Snaplogic H/F (100% télétravail)](https://www.linkedin.com/jobs/view/4480865349/) — Jems Group
-- 📍 **Location:** Lyon, Auvergne-Rhône-Alpes, France
+### [Senior Data Engineer (San Francisco)](https://www.linkedin.com/jobs/view/4398894923/) — Airwallex
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-18
 
-### [Senior Data engineer Databricks H/F](https://www.linkedin.com/jobs/view/4444309832/) — Devoteam Data Driven
-- 📍 **Location:** Marcq-en-Barœul, Hauts-de-France, France
+### [Senior Data Engineer (AWS, Azure, GCP)](https://www.linkedin.com/jobs/view/4454565346/) — CapTech
+- 📍 **Location:** Denver, CO
 - 🕒 **Posted:** 2026-10-18
 
-### [Data Engineer spark scala](https://www.linkedin.com/jobs/view/4434632112/) — OPEN
-- 📍 **Location:** Levallois-Perret, Île-de-France, France
+### [Senior Data Engineer (AWS, Azure, GCP)](https://www.linkedin.com/jobs/view/4454572278/) — CapTech
+- 📍 **Location:** Philadelphia, PA
 - 🕒 **Posted:** 2026-10-18
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4454095616/) — Bluecrux
-- 📍 **Location:** Mechelen, Flemish Region, Belgium
+### [Senior Data Engineer (AWS, Azure, GCP)](https://www.linkedin.com/jobs/view/4454579244/) — CapTech
+- 📍 **Location:** Atlanta, GA
 - 🕒 **Posted:** 2026-10-18
 
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4475879694/) — Leyton
-- 📍 **Location:** Casablanca, Casablanca-Settat, Morocco
+### [Data Integration & System Engineer to Martech & Sales Technology Department](https://www.linkedin.com/jobs/view/4462175698/) — Nordea
+- 📍 **Location:** Helsinki, Uusimaa, Finland
 - 🕒 **Posted:** 2026-10-17
 
-### [Data Engineer senior](https://www.linkedin.com/jobs/view/4417488406/) — Groupe SII
-- 📍 **Location:** Le Mans, Pays de la Loire, France
+### [Senior Data Engineer (AWS, Azure, GCP)](https://www.linkedin.com/jobs/view/4454567275/) — CapTech
+- 📍 **Location:** Richmond, VA
 - 🕒 **Posted:** 2026-10-17
 
-### [Data Engineer F/H/NB](https://www.linkedin.com/jobs/view/4472049452/) — URBASOLAR
-- 📍 **Location:** Montpellier, Occitanie, France
+### [Data Engineer](https://www.linkedin.com/jobs/view/4479662159/) — Sunlife
+- 📍 **Location:** Waterloo, Ontario, Canada
 - 🕒 **Posted:** 2026-10-17
 
-### [Senior Data Engineer F/H](https://www.linkedin.com/jobs/view/4472070048/) — Thales
-- 📍 **Location:** Vélizy-Villacoublay, Île-de-France, France
+### [Data Engineer](https://www.linkedin.com/jobs/view/4479643935/) — Sunlife
+- 📍 **Location:** Montreal, Quebec, Canada
 - 🕒 **Posted:** 2026-10-17
 
-### [Data Engineer (for our client)](https://www.linkedin.com/jobs/view/4480819370/) — LACO
-- 📍 **Location:** Antwerp, Flemish Region, Belgium
+### [Data Engineer](https://www.linkedin.com/jobs/view/4479656343/) — Sunlife
+- 📍 **Location:** North York, Ontario, Canada
 - 🕒 **Posted:** 2026-10-17
 
-### [Digital Factory - Senior Data Engineer - Senior Associate](https://www.linkedin.com/jobs/view/4453247055/) — EY
-- 📍 **Location:** Luxembourg, Luxembourg, Luxembourg
+### [Senior Data Engineer (AWS, Azure, GCP)](https://www.linkedin.com/jobs/view/4454570271/) — CapTech
+- 📍 **Location:** Charlotte, NC
 - 🕒 **Posted:** 2026-10-17
 
-### [Data Engineer GCP expérimenté - MAROC](https://www.linkedin.com/jobs/view/4477722115/) — Onepoint
-- 📍 **Location:** Mechouar, Casablanca-Settat, Morocco
+### [Associate Data Engineer](https://www.linkedin.com/jobs/view/4470185587/) — TaskUs
+- 📍 **Location:** Mumbai Metropolitan Region
+- 🕒 **Posted:** 2026-10-17
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4477760815/) — Cargill
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-10-17
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4477390366/) — Decskill
+- 📍 **Location:** Lisbon Metropolitan Area
 - 🕒 **Posted:** 2026-10-16
 
-### [Data Engineer Confirmé (Microsoft Fabric)](https://www.linkedin.com/jobs/view/4425999880/) — Inetum
-- 📍 **Location:** Mechouar, Casablanca-Settat, Morocco
+### [Data Engineer](https://www.linkedin.com/jobs/view/4480349492/) — Talent et au-dela
+- 📍 **Location:** Hyderabad, Telangana, India
 - 🕒 **Posted:** 2026-10-16
 
-### [Data Engineer / BI Consultant – Databricks & Power BI](https://www.linkedin.com/jobs/view/4462446526/) — Expleo Group
-- 📍 **Location:** Tangier, Tanger-Tetouan-Al Hoceima, Morocco
+### [Data Engineer](https://www.linkedin.com/jobs/view/4480352959/) — New Hampshire Mutual Bancorp
+- 📍 **Location:** Concord, NH
 - 🕒 **Posted:** 2026-10-16
 
-### [Data Engineer F/H](https://www.linkedin.com/jobs/view/4480397640/) — CGI
-- 📍 **Location:** Greater Clermont-Ferrand Area
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4480540326/) — Safelite
+- 📍 **Location:** Columbus, OH
 - 🕒 **Posted:** 2026-10-16
 
-### [Consultant·e Data Engineer (F/H)](https://www.linkedin.com/jobs/view/4463379112/) — ACT-ON DATA
-- 📍 **Location:** Neuilly-sur-Seine, Île-de-France, France
+### [Data Engineer](https://www.linkedin.com/jobs/view/4460974193/) — Applied Systems
+- 📍 **Location:** Bengaluru, Karnataka, India
 - 🕒 **Posted:** 2026-10-16
 
-### [Data Engineer H/F](https://www.linkedin.com/jobs/view/4479399219/) — eXalt
-- 📍 **Location:** Niort, Nouvelle-Aquitaine, France
+### [Data Engineer](https://www.linkedin.com/jobs/view/4477394370/) — Decskill
+- 📍 **Location:** Lisbon Metropolitan Area
 - 🕒 **Posted:** 2026-10-16
 
-### [Data Engineer (H/F)](https://www.linkedin.com/jobs/view/4477387973/) — ECOCERT Group
-- 📍 **Location:** Toulouse, Occitanie, France
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480190433/) — Deloitte
+- 📍 **Location:** Portland, OR
 - 🕒 **Posted:** 2026-10-16
 
-### [Data Engineer for Cognite Platform (CDF) - débutant H/F](https://www.linkedin.com/jobs/view/4471884554/) — TotalEnergies
-- 📍 **Location:** Pau, Nouvelle-Aquitaine, France
+### [Senior Data Engineer (HCM/HR Analytics)](https://www.linkedin.com/jobs/view/4470055373/) — World Wide Technology
+- 📍 **Location:** Maryland Heights, MO
 - 🕒 **Posted:** 2026-10-16
 
-### [Data Engineer Confirmé F/H](https://www.linkedin.com/jobs/view/4480333894/) — SMAG
-- 📍 **Location:** Montpellier, Occitanie, France
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480179721/) — Deloitte
+- 📍 **Location:** Greater Indianapolis
 - 🕒 **Posted:** 2026-10-16
 
-### [Data Engineer confirmé (H/F)](https://www.linkedin.com/jobs/view/4462848078/) — Thales
-- 📍 **Location:** Vélizy-Villacoublay, Île-de-France, France
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480184517/) — Deloitte
+- 📍 **Location:** Las Vegas, NV
 - 🕒 **Posted:** 2026-10-16
 
-### [Senior Data Engineer Snowflake F/H](https://www.linkedin.com/jobs/view/4443868631/) — Devoteam Data Driven
-- 📍 **Location:** Marcq-en-Barœul, Hauts-de-France, France
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480196074/) — Deloitte
+- 📍 **Location:** Hartford, CT
 - 🕒 **Posted:** 2026-10-16
 
-### [Senior Data Engineer - Central Data & Analytics Team](https://www.linkedin.com/jobs/view/4453366502/) — Voodoo
-- 📍 **Location:** Paris, Île-de-France, France
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480176843/) — Deloitte
+- 📍 **Location:** Kansas City, MO
 - 🕒 **Posted:** 2026-10-16
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4452732037/) — Teradata
-- 📍 **Location:** Antony, Île-de-France, France
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480195160/) — Deloitte
+- 📍 **Location:** New Orleans, LA
 - 🕒 **Posted:** 2026-10-16
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4480397825/) — Capgemini Engineering
-- 📍 **Location:** Blagnac, Occitanie, France
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480174930/) — Deloitte
+- 📍 **Location:** San Antonio, TX
 - 🕒 **Posted:** 2026-10-16
 
-### [Senior Data Engineer Python / Flux F/H](https://www.linkedin.com/jobs/view/4480372075/) — Ikivia
-- 📍 **Location:** Greater Lille Metropolitan Area
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480187533/) — Deloitte
+- 📍 **Location:** Tempe, AZ
 - 🕒 **Posted:** 2026-10-16
 
-### [Data Engineer F/H](https://www.linkedin.com/jobs/view/4403237203/) — Orange Business
-- 📍 **Location:** Cesson-Sévigné, Brittany, France
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480177806/) — Deloitte
+- 📍 **Location:** Boston, MA
 - 🕒 **Posted:** 2026-10-16
 
-### [Data Engineer GCP (H/F)](https://www.linkedin.com/jobs/view/4407444268/) — Davidson consulting
-- 📍 **Location:** Lille, Hauts-de-France, France
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480176835/) — Deloitte
+- 📍 **Location:** St Louis, MO
 - 🕒 **Posted:** 2026-10-16
 
-### [Data Engineer Senior (F/H)](https://www.linkedin.com/jobs/view/4480334915/) — ALTEN
-- 📍 **Location:** Boulogne-Billancourt, Île-de-France, France
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480193300/) — Deloitte
+- 📍 **Location:** San Diego, CA
 - 🕒 **Posted:** 2026-10-16
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4477723205/) — Extia
-- 📍 **Location:** Greater Lille Metropolitan Area
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480189453/) — Deloitte
+- 📍 **Location:** Jacksonville, FL
 - 🕒 **Posted:** 2026-10-16
 
-### [Data Engineer (H/F) - Lille](https://www.linkedin.com/jobs/view/4480508985/) — Groupe SII
-- 📍 **Location:** Lille, Hauts-de-France, France
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480187548/) — Deloitte
+- 📍 **Location:** Baltimore, MD
 - 🕒 **Posted:** 2026-10-16
 
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4460738348/) — Deloitte
-- 📍 **Location:** Zaventem, Flemish Region, Belgium
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480194273/) — Deloitte
+- 📍 **Location:** Miami, FL
 - 🕒 **Posted:** 2026-10-16
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4469722819/) — Mutualité chrétienne (MC)
-- 📍 **Location:** Schaerbeek, Brussels Region, Belgium
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480185509/) — Deloitte
+- 📍 **Location:** Greater Sacramento
 - 🕒 **Posted:** 2026-10-16
 
-### [Data Engineer Confirmé](https://www.linkedin.com/jobs/view/4477713004/) — Extia
-- 📍 **Location:** Liege Metropolitan Area
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480196078/) — Deloitte
+- 📍 **Location:** Stamford, CT
 - 🕒 **Posted:** 2026-10-16
 
-### [Data Engineer Confirmé](https://www.linkedin.com/jobs/view/4477710090/) — Extia
-- 📍 **Location:** Brussels Metropolitan Area
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480185521/) — Deloitte
+- 📍 **Location:** Tulsa, OK
 - 🕒 **Posted:** 2026-10-16
 
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4480364140/) — Randstad Digital Belgium
-- 📍 **Location:** Antwerp, Flemish Region, Belgium
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480182651/) — Deloitte
+- 📍 **Location:** Pittsburgh, PA
 - 🕒 **Posted:** 2026-10-16
 
-### [📊 Data Engineer](https://www.linkedin.com/jobs/view/4462794364/) — SFEIR
-- 📍 **Location:** Brussels, Brussels Region, Belgium
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480184522/) — Deloitte
+- 📍 **Location:** McLean, VA
 - 🕒 **Posted:** 2026-10-16
 
-### [Google Cloud Platform - GCP Data Engineer](https://www.linkedin.com/jobs/view/4477382494/) — Onepoint
-- 📍 **Location:** Brussels, Brussels Region, Belgium
+### [Senior Data engineer](https://www.linkedin.com/jobs/view/4477347209/) — Talenza
+- 📍 **Location:** Brisbane, Queensland, Australia
 - 🕒 **Posted:** 2026-10-16
 
-### [MS Fabric Data Engineer](https://www.linkedin.com/jobs/view/4480343458/) — LACO
-- 📍 **Location:** Brussels, Brussels Region, Belgium
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480183566/) — Deloitte
+- 📍 **Location:** Morristown, NJ
 - 🕒 **Posted:** 2026-10-16
 
-### [Data Engineer - AI & Data Platforms](https://www.linkedin.com/jobs/view/4480399595/) — Keyrus
-- 📍 **Location:** Grimbergen, Flemish Region, Belgium
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480177803/) — Deloitte
+- 📍 **Location:** Tampa, FL
 - 🕒 **Posted:** 2026-10-16
 
-### [Senior Specialist - Data Engineering](https://www.linkedin.com/jobs/view/4480343812/) — Marsh
-- 📍 **Location:** Brussels, Brussels Region, Belgium
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480174938/) — Deloitte
+- 📍 **Location:** Denver, CO
 - 🕒 **Posted:** 2026-10-16
 
-### [Data Engineer Senior](https://www.linkedin.com/jobs/view/4477395677/) — Extia
-- 📍 **Location:** Brussels Metropolitan Area
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480185533/) — Deloitte
+- 📍 **Location:** Nashville, TN
 - 🕒 **Posted:** 2026-10-16
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4479369280/) — VeroTech
-- 📍 **Location:** Liège, Walloon Region, Belgium
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480174926/) — Deloitte
+- 📍 **Location:** Detroit, MI
 - 🕒 **Posted:** 2026-10-16
 
-### [Tech Lead Talend - H/F](https://www.linkedin.com/jobs/view/4469329611/) — Smile
-- 📍 **Location:** Marrakesh, Marrakesh-Safi, Morocco
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480186516/) — Deloitte
+- 📍 **Location:** Seattle, WA
+- 🕒 **Posted:** 2026-10-16
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4480545797/) — University of Tennessee Foundation, Inc.
+- 📍 **Location:** Knoxville, TN
+- 🕒 **Posted:** 2026-10-16
+
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480182659/) — Deloitte
+- 📍 **Location:** Philadelphia, PA
+- 🕒 **Posted:** 2026-10-16
+
+### [Principal Engineer, Data Engineering](https://www.linkedin.com/jobs/view/4460756924/) — Analog Devices
+- 📍 **Location:** Wilmington, MA
+- 🕒 **Posted:** 2026-10-16
+
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480177802/) — Deloitte
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-10-16
+
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480191407/) — Deloitte
+- 📍 **Location:** Los Angeles, CA
+- 🕒 **Posted:** 2026-10-16
+
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480186515/) — Deloitte
+- 📍 **Location:** Cincinnati, OH
+- 🕒 **Posted:** 2026-10-16
+
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480175811/) — Deloitte
+- 📍 **Location:** Greater Cleveland
+- 🕒 **Posted:** 2026-10-16
+
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480195173/) — Deloitte
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-16
+
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480181678/) — Deloitte
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-10-16
+
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480194279/) — Deloitte
+- 📍 **Location:** Minneapolis, MN
+- 🕒 **Posted:** 2026-10-16
+
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480186503/) — Deloitte
+- 📍 **Location:** Costa Mesa, CA
+- 🕒 **Posted:** 2026-10-16
+
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480180672/) — Deloitte
+- 📍 **Location:** Columbus, OH
+- 🕒 **Posted:** 2026-10-16
+
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480187530/) — Deloitte
+- 📍 **Location:** Richmond, VA
+- 🕒 **Posted:** 2026-10-16
+
+### [IT Data Analytics Specialist - Data Engineer](https://www.linkedin.com/jobs/view/4480350149/) — Vertiv
+- 📍 **Location:** Cluj-Napoca, Cluj, Romania
+- 🕒 **Posted:** 2026-10-16
+
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480194283/) — Deloitte
+- 📍 **Location:** Raleigh, NC
+- 🕒 **Posted:** 2026-10-16
+
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480190437/) — Deloitte
+- 📍 **Location:** Houston, TX
+- 🕒 **Posted:** 2026-10-16
+
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480192398/) — Deloitte
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-10-16
+
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480180664/) — Deloitte
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-16
+
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480176828/) — Deloitte
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-16
+
+### [MDM Lead Data Engineer](https://www.linkedin.com/jobs/view/4479615953/) — Persistent Systems
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-10-16
+
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480175810/) — Deloitte
+- 📍 **Location:** Dallas, TX
+- 🕒 **Posted:** 2026-10-16
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4427099941/) — Talener
+- 📍 **Location:** New York, United States
+- 🕒 **Posted:** 2026-10-16
+
+### [Data Engineer Senior | AI & Data](https://www.linkedin.com/jobs/view/4479736539/) — Salesforce
+- 📍 **Location:** Mexico City, Mexico
 - 🕒 **Posted:** 2026-10-15
 
-### [Data Engineer Confirmé](https://www.linkedin.com/jobs/view/4479760355/) — Capgemini Engineering
-- 📍 **Location:** Casablanca, Casablanca-Settat, Morocco
+### [Staff Data Engineer](https://www.linkedin.com/jobs/view/4460971233/) — Applied Systems
+- 📍 **Location:** Bengaluru, Karnataka, India
 - 🕒 **Posted:** 2026-10-15
 
-### [Consultant Snowflake/ETL F/H](https://www.linkedin.com/jobs/view/4399980630/) — Orange Business
-- 📍 **Location:** Lyon, Auvergne-Rhône-Alpes, France
+### [Data Engineer - OLX Lebanon](https://www.linkedin.com/jobs/view/4469709188/) — OLX Lebanon
+- 📍 **Location:** Dekwaneh, Mount Lebanon Governorate, Lebanon
 - 🕒 **Posted:** 2026-10-15
 
-### [Data Engineer – Secteur Finance (H/F)](https://www.linkedin.com/jobs/view/4389549982/) — QUANTEAM (RAINBOW PARTNERS Group)
-- 📍 **Location:** Paris, Île-de-France, France
+### [Data Engineer](https://www.linkedin.com/jobs/view/4479824146/) — Graham & Brown Holdings
+- 📍 **Location:** Blackburn, England, United Kingdom
 - 🕒 **Posted:** 2026-10-15
 
-### [Tech Lead Data Engineer (F/H)](https://www.linkedin.com/jobs/view/4471450445/) — Groupe SII
-- 📍 **Location:** Le Mans, Pays de la Loire, France
-- 🕒 **Posted:** 2026-10-15
-
-### [Data Engineer AWS Senior / Cloud Data Engineer H/F](https://www.linkedin.com/jobs/view/4479794834/) — Akkodis
-- 📍 **Location:** Lyon, Auvergne-Rhône-Alpes, France
-- 🕒 **Posted:** 2026-10-15
-
-### [Data Engineer expérimenté F/H](https://www.linkedin.com/jobs/view/4479173764/) — Accenture France
-- 📍 **Location:** Clermont-Ferrand, Auvergne-Rhône-Alpes, France
-- 🕒 **Posted:** 2026-10-15
-
-### [Data Engineer H/F](https://www.linkedin.com/jobs/view/4479815744/) — Capco
-- 📍 **Location:** Paris, Île-de-France, France
-- 🕒 **Posted:** 2026-10-15
-
-### [Data Engineer GCP H/F](https://www.linkedin.com/jobs/view/4479819281/) — OPEN
-- 📍 **Location:** Levallois-Perret, Île-de-France, France
-- 🕒 **Posted:** 2026-10-15
-
-### [Data Engineer GCP (H/F)](https://www.linkedin.com/jobs/view/4470963420/) — Davidson consulting
-- 📍 **Location:** Strasbourg, Grand Est, France
-- 🕒 **Posted:** 2026-10-15
-
-### [🚀Data Engineer GCP Senior (H/F)🚀](https://www.linkedin.com/jobs/view/4469138013/) — Devoteam | Google Cloud Partner
-- 📍 **Location:** Île-de-France, France
-- 🕒 **Posted:** 2026-10-15
-
-### [Data Engineer GCP (H/F)](https://www.linkedin.com/jobs/view/4407447215/) — Davidson consulting
-- 📍 **Location:** Île-de-France, France
-- 🕒 **Posted:** 2026-10-15
-
-### [Cloud Data Engineer - Paris](https://www.linkedin.com/jobs/view/4478868449/) — MP DATA
-- 📍 **Location:** Boulogne-Billancourt, Île-de-France, France
-- 🕒 **Posted:** 2026-10-15
-
-### [Data Engineer Plateforme à Composante IA (GCP / Cloud de Confiance) (H/F)](https://www.linkedin.com/jobs/view/4479832887/) — Magellan
-- 📍 **Location:** Issy-les-Moulineaux, Île-de-France, France
-- 🕒 **Posted:** 2026-10-15
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4469706643/) — Netcompany
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-15
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4469732193/) — CM - Christelijke Mutualiteit
-- 📍 **Location:** Schaerbeek, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-15
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4479816883/) — TriFinance Belgium
-- 📍 **Location:** Antwerp Metropolitan Area
-- 🕒 **Posted:** 2026-10-15
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4476333330/) — Bizzy
-- 📍 **Location:** Ghent, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-15
-
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4479851082/) — Proximus Group
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 💰 **Salary:** $55 - $60
-- 🕒 **Posted:** 2026-10-15
-
-### [Lead Data Engineer Microsoft Fabric - Data & AI](https://www.linkedin.com/jobs/view/4477061346/) — Cegeka
-- 📍 **Location:** Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-15
-
-### [Data Engineer Senior](https://www.linkedin.com/jobs/view/4477309020/) — Extia
-- 📍 **Location:** Liège, Walloon Region, Belgium
-- 🕒 **Posted:** 2026-10-15
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4479815887/) — Madison Recruitment
-- 📍 **Location:** Antwerp, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-15
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4477309113/) — Koda Tech
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-15
-
-### [Ingénieur Talend "Build"](https://www.linkedin.com/jobs/view/4469333562/) — Smile
-- 📍 **Location:** Tangier, Tanger-Tetouan-Al Hoceima, Morocco
+### [Consultant Data Warehouse / ETL (w|m|d) | findic](https://www.linkedin.com/jobs/view/4479556699/) — zeb consulting
+- 📍 **Location:** Berlin, Germany
 - 🕒 **Posted:** 2026-10-14
 
-### [Tech Lead Talend - H/F](https://www.linkedin.com/jobs/view/4469326656/) — Smile
-- 📍 **Location:** Tangier, Tanger-Tetouan-Al Hoceima, Morocco
+### [Consultant Data Warehouse / ETL (w|m|d) | findic](https://www.linkedin.com/jobs/view/4479559513/) — zeb consulting
+- 📍 **Location:** Hamburg, Hamburg, Germany
 - 🕒 **Posted:** 2026-10-14
 
-### [Ingénieur Talend "Build"](https://www.linkedin.com/jobs/view/4469317915/) — Smile
-- 📍 **Location:** Marrakesh, Marrakesh-Safi, Morocco
+### [Consultant Data Warehouse / ETL (w|m|d) | findic](https://www.linkedin.com/jobs/view/4479566195/) — zeb consulting
+- 📍 **Location:** Munich, Bavaria, Germany
 - 🕒 **Posted:** 2026-10-14
 
-### [Ingénieur Talend "Run" H/F](https://www.linkedin.com/jobs/view/4469329615/) — Smile
-- 📍 **Location:** Tangier, Tanger-Tetouan-Al Hoceima, Morocco
+### [Consultant Data Warehouse / ETL (w|m|d) | findic](https://www.linkedin.com/jobs/view/4479563319/) — zeb consulting
+- 📍 **Location:** Frankfurt, Hesse, Germany
 - 🕒 **Posted:** 2026-10-14
 
-### [Ingénieur Talend "Run" H/F](https://www.linkedin.com/jobs/view/4469318828/) — Smile
-- 📍 **Location:** Marrakesh, Marrakesh-Safi, Morocco
+### [Consultant Data Warehouse / ETL (w|m|d) | findic](https://www.linkedin.com/jobs/view/4479558664/) — zeb consulting
+- 📍 **Location:** Münster, North Rhine-Westphalia, Germany
 - 🕒 **Posted:** 2026-10-14
 
-### [Consultant - Data Engineer - F/H - MAROC](https://www.linkedin.com/jobs/view/4468993621/) — Onepoint
-- 📍 **Location:** Mechouar, Casablanca-Settat, Morocco
+### [Data Engineering Senior Associate- Finance](https://www.linkedin.com/jobs/view/4470603169/) — Salesforce
+- 📍 **Location:** Dublin, County Dublin, Ireland
 - 🕒 **Posted:** 2026-10-14
 
-### [Data Engineer (H/F)](https://www.linkedin.com/jobs/view/4469339085/) — Smile
-- 📍 **Location:** Tangier, Tanger-Tetouan-Al Hoceima, Morocco
+### [Data Engineer](https://www.linkedin.com/jobs/view/4479578750/) — Harnham
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-14
 
-### [Data Engineer (H/F)](https://www.linkedin.com/jobs/view/4469333565/) — Smile
-- 📍 **Location:** Marrakesh, Marrakesh-Safi, Morocco
-- 🕒 **Posted:** 2026-10-14
-
-### [Expert Talend "BUILD" Freelance](https://www.linkedin.com/jobs/view/4469325749/) — Smile
-- 📍 **Location:** Marrakesh, Marrakesh-Safi, Morocco
-- 🕒 **Posted:** 2026-10-14
-
-### [Expert Talend "BUILD" Freelance](https://www.linkedin.com/jobs/view/4469318827/) — Smile
-- 📍 **Location:** Tangier, Tanger-Tetouan-Al Hoceima, Morocco
-- 🕒 **Posted:** 2026-10-14
-
-### [Data Engineer Talend / Oracle -F/H- FR878049](https://www.linkedin.com/jobs/view/4478439919/) — Morgan Philips Specialist Recruitment
-- 📍 **Location:** Paris, Île-de-France, France
-- 🕒 **Posted:** 2026-10-14
-
-### [Data Engineer (H/F)](https://www.linkedin.com/jobs/view/4479583183/) — Thales
-- 📍 **Location:** Aix-en-Provence, Provence-Alpes-Côte d'Azur, France
-- 🕒 **Posted:** 2026-10-14
-
-### [Data Engineer Snowflake F/H](https://www.linkedin.com/jobs/view/4358343369/) — CGI
-- 📍 **Location:** Greater Montpellier Metropolitan Area
-- 🕒 **Posted:** 2026-10-14
-
-### [Data Engineer | CDI | H/F](https://www.linkedin.com/jobs/view/4476687233/) — Eulidia
-- 📍 **Location:** Paris, Île-de-France, France
-- 🕒 **Posted:** 2026-10-14
-
-### [Data Engineer / Développeur Big Data (F/H)](https://www.linkedin.com/jobs/view/4470978577/) — Groupe SII
-- 📍 **Location:** Le Mans, Pays de la Loire, France
-- 🕒 **Posted:** 2026-10-14
-
-### [Data Engineer Senior F/H](https://www.linkedin.com/jobs/view/4476657171/) — Orange Business
-- 📍 **Location:** Grenoble, Auvergne-Rhône-Alpes, France
-- 🕒 **Posted:** 2026-10-14
-
-### [Data engineer Teradata H/F](https://www.linkedin.com/jobs/view/4470927532/) — Inetum
-- 📍 **Location:** Nantes, Pays de la Loire, France
-- 🕒 **Posted:** 2026-10-14
-
-### [Modern Data Stack -  Data Engineer Snowflake / dbt](https://www.linkedin.com/jobs/view/4442297963/) — Devoteam
-- 📍 **Location:** Levallois-Perret, Île-de-France, France
-- 🕒 **Posted:** 2026-10-14
-
-### [Data Engineer Expérimenté F/H](https://www.linkedin.com/jobs/view/4440458716/) — EY
-- 📍 **Location:** Paris, Île-de-France, France
-- 🕒 **Posted:** 2026-10-14
-
-### [Data Engineer GCP H/F](https://www.linkedin.com/jobs/view/4478499228/) — GROUPE LR TECHNOLOGIES
-- 📍 **Location:** Lille, Hauts-de-France, France
-- 🕒 **Posted:** 2026-10-14
-
-### [Data Engineer H/F - Databricks](https://www.linkedin.com/jobs/view/4473662586/) — Synchrone Fr
-- 📍 **Location:** Clermont-Ferrand, Auvergne-Rhône-Alpes, France
-- 🕒 **Posted:** 2026-10-14
-
-### [Technicien data engineering](https://www.linkedin.com/jobs/view/4454180820/) — Armée de l’air et de l’espace
-- 📍 **Location:** Mont-de-Marsan, Nouvelle-Aquitaine, France
-- 🕒 **Posted:** 2026-10-14
-
-### [Junior Data Engineer (H/F/D)](https://www.linkedin.com/jobs/view/4476689202/) — Reply
-- 📍 **Location:** Paris, Île-de-France, France
-- 🕒 **Posted:** 2026-10-14
-
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4479719753/) — Agicap
-- 📍 **Location:** Lyon, Auvergne-Rhône-Alpes, France
-- 🕒 **Posted:** 2026-10-14
-
-### [Data Engineer DBT F/H](https://www.linkedin.com/jobs/view/4358215197/) — CGI
-- 📍 **Location:** Greater Toulouse Metropolitan Area
-- 🕒 **Posted:** 2026-10-14
-
-### [Data Engineer (H/F)](https://www.linkedin.com/jobs/view/4478405622/) — Klanik
-- 📍 **Location:** Lyon, Auvergne-Rhône-Alpes, France
-- 🕒 **Posted:** 2026-10-14
-
-### [Data Analyst / Data Engineer H/F](https://www.linkedin.com/jobs/view/4479529340/) — ICSIS
-- 📍 **Location:** Lille, Hauts-de-France, France
-- 🕒 **Posted:** 2026-10-14
-
-### [Data Engineer Junior H/F - Boulogne-Billancourt](https://www.linkedin.com/jobs/view/4477829427/) — Cegedim-MEDIA
-- 📍 **Location:** Boulogne-Billancourt, Île-de-France, France
-- 🕒 **Posted:** 2026-10-14
-
-### [DATA Engineer H/F - Asnières-sur-Seine](https://www.linkedin.com/jobs/view/4469460634/) — Smile
-- 📍 **Location:** Asnières-sur-Seine, Île-de-France, France
-- 🕒 **Posted:** 2026-10-14
-
-### [Data engineer](https://www.linkedin.com/jobs/view/4478451550/) — Neosoft
-- 📍 **Location:** Greater Lyon Area
-- 🕒 **Posted:** 2026-10-14
-
-### [Data Engineer - F/H - Lille](https://www.linkedin.com/jobs/view/4478803339/) — MP DATA
-- 📍 **Location:** Lille, Hauts-de-France, France
-- 🕒 **Posted:** 2026-10-14
-
-### [DATA ENGINEER JAVA SPARK H/F](https://www.linkedin.com/jobs/view/4470900636/) — Inetum
-- 📍 **Location:** Nantes, Pays de la Loire, France
-- 🕒 **Posted:** 2026-10-14
-
-### [Senior Data Engineer - Banking](https://www.linkedin.com/jobs/view/4476640716/) — NORRIQ Financial Services
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-14
-
-### [IA & Data Engineer M/F](https://www.linkedin.com/jobs/view/4478469670/) — Accenture Belgium
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-14
-
-### [Data Engineer (Senior)](https://www.linkedin.com/jobs/view/4476655389/) — Ravago
-- 📍 **Location:** Arendonk, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-14
-
-### [Azure Data Engineer](https://www.linkedin.com/jobs/view/4478421967/) — Visser & Van Baars
-- 📍 **Location:** Antwerp, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-14
-
-### [Data engineer- Databricks](https://www.linkedin.com/jobs/view/4342135761/) — CGI
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-14
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4468241252/) — Qover
-- 📍 **Location:** Brussels Metropolitan Area
-- 🕒 **Posted:** 2026-10-14
-
-### [AI & Data Engineer](https://www.linkedin.com/jobs/view/4476690653/) — NTT DATA, Inc.
-- 📍 **Location:** Diegem, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-14
-
-### [Streaming Data Engineer](https://www.linkedin.com/jobs/view/4478468803/) — DPG Media België
-- 📍 **Location:** Antwerp, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-14
-
-### [Data Engineer (F/M/X)](https://www.linkedin.com/jobs/view/4479571137/) — Amaris Consulting | Part of Mantu
-- 📍 **Location:** Herstal, Walloon Region, Belgium
-- 🕒 **Posted:** 2026-10-14
-
-### [Développeur Talend / Ingénieur en Intégration de Données](https://www.linkedin.com/jobs/view/4479713834/) — Catamania
-- 📍 **Location:** Luxembourg
-- 🕒 **Posted:** 2026-10-14
-
-### [Data Engineer - Group Business Intelligence](https://www.linkedin.com/jobs/view/4478494853/) — Luxaviation Group
-- 📍 **Location:** Strassen, Luxembourg, Luxembourg
-- 🕒 **Posted:** 2026-10-14
-
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4451689186/) — Devoteam
-- 📍 **Location:** Koerich, Canton of Capellen, Luxembourg
-- 🕒 **Posted:** 2026-10-14
-
-### [ETL Semantic Data Engineer - EU Institution Luxembourg](https://www.linkedin.com/jobs/view/4478489282/) — EKXEL IT Services & Financial Engineering
-- 📍 **Location:** Luxembourg, Luxembourg, Luxembourg
-- 🕒 **Posted:** 2026-10-14
-
-### [Analyste Développeur ETL & Reporting Data (On-site)](https://www.linkedin.com/jobs/view/4478439473/) — Sword Group
-- 📍 **Location:** Kirchberg, Luxembourg, Luxembourg
-- 🕒 **Posted:** 2026-10-14
-
-### [Manager Data Engineer - Casablanca](https://www.linkedin.com/jobs/view/4467399796/) — Artefact
-- 📍 **Location:** Casablanca Metropolitan Area
+### [Data Engineer](https://www.linkedin.com/jobs/view/4476499081/) — Talent
+- 📍 **Location:** Staffordshire, England, United Kingdom
 - 🕒 **Posted:** 2026-10-13
 
-### [Software Integration, API & Data Engineer(F/H)](https://www.linkedin.com/jobs/view/4478790604/) — Sofrecom Maroc
-- 📍 **Location:** Rabat Metropolitan Area
+### [Senior Talend SQL ETL Developer](https://www.linkedin.com/jobs/view/4478776139/) — Tata Consultancy Services
+- 📍 **Location:** Bengaluru, Karnataka, India
 - 🕒 **Posted:** 2026-10-13
 
-### [Data Engineer BI (F/H)](https://www.linkedin.com/jobs/view/4455274187/) — Sofrecom Maroc
-- 📍 **Location:** Casablanca-Settat, Morocco
+### [Expert·e Talend](https://www.linkedin.com/jobs/view/4479071051/) — Groupe ANSAM
+- 📍 **Location:** Geneva, Geneva, Switzerland
 - 🕒 **Posted:** 2026-10-13
 
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4476461185/) — EQDOM
-- 📍 **Location:** Casablanca-Settat, Morocco
+### [Data Engineer (Snowflake-dbt)](https://www.linkedin.com/jobs/view/4473790050/) — adesso Turkey
+- 📍 **Location:** Türkiye
 - 🕒 **Posted:** 2026-10-13
 
-### [Data Engineer ETL F/H](https://www.linkedin.com/jobs/view/4468902020/) — BSD Business Solutions & Data
-- 📍 **Location:** Paris, Île-de-France, France
+### [Data Engineer](https://www.linkedin.com/jobs/view/4476406153/) — Air Apps
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-13
 
-### [Lead Data Engineer (F/H) - Lille](https://www.linkedin.com/jobs/view/4478115606/) — Talan
-- 📍 **Location:** Lille, Hauts-de-France, France
+### [Sr. Data Engineer (Talend & Snowflake)](https://www.linkedin.com/jobs/view/4476406918/) — Infosys
+- 📍 **Location:** Charlotte, NC
 - 🕒 **Posted:** 2026-10-13
 
-### [Data Engineer Cloud Confirmé / Senior (F/H)](https://www.linkedin.com/jobs/view/4478117537/) — Talan
-- 📍 **Location:** Lille, Hauts-de-France, France
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4479096308/) — Huxley
+- 📍 **Location:** Boston, MA
 - 🕒 **Posted:** 2026-10-13
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4479212737/) — Sogeti
-- 📍 **Location:** Aix-en-Provence, Provence-Alpes-Côte d'Azur, France
+### [Data Engineer I/II - Data Analytics & Solutions](https://www.linkedin.com/jobs/view/4476459658/) — Mutual of Omaha
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-13
 
-### [LAFORET FRANCE - Data engineer (H/F)](https://www.linkedin.com/jobs/view/4482349498/) — LAFORET FRANCE
-- 📍 **Location:** Greater Paris Metropolitan Region
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4477968889/) — ETC Recruiter Company
+- 📍 **Location:** Ho Chi Minh City, Vietnam
 - 🕒 **Posted:** 2026-10-13
 
-### [Développeur(se) SSIS / SQL / ETL (H/F)](https://www.linkedin.com/jobs/view/4479044920/) — Marsh
-- 📍 **Location:** Puteaux, Île-de-France, France
+### [Associate - Data Engineer](https://www.linkedin.com/jobs/view/4479219684/) — New York Life
+- 📍 **Location:** Lebanon, NJ
 - 🕒 **Posted:** 2026-10-13
 
-### [Data Engineer Snowflake/DBT H/F](https://www.linkedin.com/jobs/view/4477964978/) — Neosoft
-- 📍 **Location:** Lille, Hauts-de-France, France
+### [Data Engineer (Dutch-speaking / Nederlandstalig)](https://www.linkedin.com/jobs/view/4479002239/) — Lot of Happiness
+- 📍 **Location:** Utrecht, Netherlands
 - 🕒 **Posted:** 2026-10-13
 
-### [Data Engineer - Snowflake](https://www.linkedin.com/jobs/view/4470423644/) — Valtech
-- 📍 **Location:** Paris, Île-de-France, France
+### [Staff Data Engineer](https://www.linkedin.com/jobs/view/4477971617/) — Applied Systems India
+- 📍 **Location:** Bengaluru, Karnataka, India
 - 🕒 **Posted:** 2026-10-13
 
-### [Azure / Fabric Data Engineer (Microsoft)](https://www.linkedin.com/jobs/view/4460016224/) — Devoteam | Microsoft Partner
-- 📍 **Location:** Levallois-Perret, Île-de-France, France
-- 🕒 **Posted:** 2026-10-13
-
-### [Data Engineer Confirmé F/H](https://www.linkedin.com/jobs/view/4468554188/) — Deloitte
-- 📍 **Location:** La Défense, Île-de-France, France
-- 🕒 **Posted:** 2026-10-13
-
-### [Consultant.e Data Engineer Microsoft Fabric F/H](https://www.linkedin.com/jobs/view/4479089409/) — VALOWAY
-- 📍 **Location:** Paris, Île-de-France, France
-- 🕒 **Posted:** 2026-10-13
-
-### [Data Engineer - Expert Snowflake & DBT (H/F/NB)](https://www.linkedin.com/jobs/view/4479059296/) — TRIMANE | Expert BI et Big Data
-- 📍 **Location:** Puteaux, Île-de-France, France
-- 🕒 **Posted:** 2026-10-13
-
-### [Data Engineer F/H](https://www.linkedin.com/jobs/view/4468183888/) — CGI
-- 📍 **Location:** Strasbourg, Grand Est, France
-- 🕒 **Posted:** 2026-10-13
-
-### [Data Engineer DBT F/H](https://www.linkedin.com/jobs/view/4358135325/) — CGI
-- 📍 **Location:** Paris, Île-de-France, France
-- 🕒 **Posted:** 2026-10-13
-
-### [Consultant.e Data Engineer Microsoft Fabric F/H](https://www.linkedin.com/jobs/view/4479091215/) — VALOWAY
-- 📍 **Location:** Nantes, Pays de la Loire, France
-- 🕒 **Posted:** 2026-10-13
-
-### [Consultant.e Data Engineer Microsoft Fabric F/H](https://www.linkedin.com/jobs/view/4479075928/) — VALOWAY
-- 📍 **Location:** Niort, Nouvelle-Aquitaine, France
-- 🕒 **Posted:** 2026-10-13
-
-### [Data Engineer/ Data analyst confirmé](https://www.linkedin.com/jobs/view/4478792846/) — AMEXIO
-- 📍 **Location:** Île-de-France, France
-- 🕒 **Posted:** 2026-10-13
-
-### [DATA Engineer H/F - Lille](https://www.linkedin.com/jobs/view/4469953345/) — Smile
-- 📍 **Location:** Lille, Hauts-de-France, France
-- 🕒 **Posted:** 2026-10-13
-
-### [Functional Data Engineer - HQ Brussels](https://www.linkedin.com/jobs/view/4478790427/) — BNP Paribas
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-13
-
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4476090701/) — Solita
-- 📍 **Location:** Leuven, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-13
-
-### [Azure Data Engineer](https://www.linkedin.com/jobs/view/4375423805/) — Emixa
-- 📍 **Location:** Antwerp, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-13
-
-### [Databricks Data Engineer](https://www.linkedin.com/jobs/view/4467717136/) — Vivid Resourcing
-- 📍 **Location:** Antwerp, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-13
-
-### [Senior Data Engineer (Databricks)](https://www.linkedin.com/jobs/view/4469923357/) — CluePoints
-- 📍 **Location:** Belgium
-- 🕒 **Posted:** 2026-10-13
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4478759813/) — IVC Evidensia Belgium
-- 📍 **Location:** De Pinte, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-13
-
-### [Consultant - Data Engineer F/H](https://www.linkedin.com/jobs/view/4382599264/) — Onepoint
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-13
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4456171114/) — VDAB
-- 📍 **Location:** Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-13
-
-### [SENIOR DATA ENGINEER](https://www.linkedin.com/jobs/view/4479092554/) — Corda Campus
-- 📍 **Location:** Hasselt, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-13
-
-### [Junior AI and Data Engineer](https://www.linkedin.com/jobs/view/4478762628/) — Quatra
-- 📍 **Location:** Lokeren, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-13
-
-### [Data engineer Azure Databricks](https://www.linkedin.com/jobs/view/4468767224/) — eXalt
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-13
-
-### [National Contract Logistics Production System Data Engineer](https://www.linkedin.com/jobs/view/4479059231/) — Kuehne+Nagel
-- 📍 **Location:** Tessenderlo, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-13
-
-### [Software and Data Engineer](https://www.linkedin.com/jobs/view/4466606734/) — Swiss Life Global Solutions
-- 📍 **Location:** Luxembourg, Luxembourg
-- 🕒 **Posted:** 2026-10-13
-
-### [📊 Data Engineer – Deviens un expert augmenté](https://www.linkedin.com/jobs/view/4470413084/) — SFEIR
-- 📍 **Location:** Luxembourg
-- 🕒 **Posted:** 2026-10-13
-
-### [Data Engineer Snowflake](https://www.linkedin.com/jobs/view/4387407844/) — Capgemini
-- 📍 **Location:** Toulouse, Occitanie, France
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4476015562/) — Milestone Technologies, Inc.
+- 📍 **Location:** Kochi, Kerala, India
 - 🕒 **Posted:** 2026-10-12
 
-### [Data Engineer Snowflake](https://www.linkedin.com/jobs/view/4387427095/) — Capgemini
-- 📍 **Location:** Greater Paris Metropolitan Region
+### [Senior Data Engineer (Remote, Flexible Working Hours)](https://www.linkedin.com/jobs/view/4478501910/) — TE Connectivity
+- 📍 **Location:** Muntinlupa City, National Capital Region, Philippines
 - 🕒 **Posted:** 2026-10-12
 
-### [Data Engineer Cloud, Snowflake & IA](https://www.linkedin.com/jobs/view/4455848495/) — Sogeti
-- 📍 **Location:** Toulouse, Occitanie, France
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4477281788/) — Accenture na Slovensku
+- 📍 **Location:** Bratislava, Bratislava, Slovakia
 - 🕒 **Posted:** 2026-10-12
 
-### [Data Engineer - Transport - Nantes](https://www.linkedin.com/jobs/view/4474761820/) — Sopra Steria
-- 📍 **Location:** Nantes, Pays de la Loire, France
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4477299143/) — Accenture na Slovensku
+- 📍 **Location:** Bratislava, Bratislava, Slovakia
 - 🕒 **Posted:** 2026-10-12
 
-### [Data Engineer Databricks / Data Lake (H/F)](https://www.linkedin.com/jobs/view/4478534713/) — NSI
-- 📍 **Location:** Paris, Île-de-France, France
+### [Data Engineer](https://www.linkedin.com/jobs/view/4423387831/) — David Yurman
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-12
 
-### [Data Engineer - Big Data - Aerospatial - Toulouse](https://www.linkedin.com/jobs/view/4475599392/) — Sopra Steria
-- 📍 **Location:** Colomiers, Occitanie, France
+### [ETL Developer](https://www.linkedin.com/jobs/view/4478704439/) — Guidehouse
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-12
 
-### [Data Engineer (H/F)](https://www.linkedin.com/jobs/view/4424713776/) — Inetum
-- 📍 **Location:** Saint-Ouen, Centre-Val de Loire, France
-- 🕒 **Posted:** 2026-10-12
-
-### [Data Engineer Databricks](https://www.linkedin.com/jobs/view/4441964154/) — Capgemini
-- 📍 **Location:** Greater Lyon Area
-- 🕒 **Posted:** 2026-10-12
-
-### [Data Engineer Databricks Senior - H/F - CDI](https://www.linkedin.com/jobs/view/4477512637/) — Talan
-- 📍 **Location:** Paris, Île-de-France, France
-- 🕒 **Posted:** 2026-10-12
-
-### [Data Engineer GCP](https://www.linkedin.com/jobs/view/4441961258/) — Capgemini
-- 📍 **Location:** Greater Lyon Area
-- 🕒 **Posted:** 2026-10-12
-
-### [Data Engineer GCP](https://www.linkedin.com/jobs/view/4336809627/) — Capgemini
-- 📍 **Location:** Greater Lille Metropolitan Area
-- 🕒 **Posted:** 2026-10-12
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4477515160/) — Neosoft
-- 📍 **Location:** Greater Lyon Area
-- 🕒 **Posted:** 2026-10-12
-
-### [Data Engineering Lead- R&D pharma- M/F](https://www.linkedin.com/jobs/view/4477599281/) — Pierre Fabre Laboratories
-- 📍 **Location:** Toulouse, Occitanie, France
-- 🕒 **Posted:** 2026-10-12
-
-### [Data Engineer H/F](https://www.linkedin.com/jobs/view/4476074541/) — Jems Benelux
-- 📍 **Location:** Auderghem, Belgium
-- 🕒 **Posted:** 2026-10-12
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4476080171/) — Jems Benelux
-- 📍 **Location:** Auderghem, Belgium
-- 🕒 **Posted:** 2026-10-12
-
-### [Data Engineer (m/v/x)](https://www.linkedin.com/jobs/view/4476082120/) — Jems Benelux
-- 📍 **Location:** Auderghem, Belgium
-- 🕒 **Posted:** 2026-10-12
-
-### [Data engineer](https://www.linkedin.com/jobs/view/4416095520/) — RP One
-- 📍 **Location:** Brussels Metropolitan Area
-- 🕒 **Posted:** 2026-10-12
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4476020523/) — Primus Connect
-- 📍 **Location:** East Flanders, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-12
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4474245850/) — Vertuoza
-- 📍 **Location:** Nivelles, Walloon Region, Belgium
-- 🕒 **Posted:** 2026-10-12
-
-### [Cloud & Data engineer](https://www.linkedin.com/jobs/view/4477513819/) — Atlas Copco Group
-- 📍 **Location:** Antwerp, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-12
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4477536746/) — Harmoney
-- 📍 **Location:** Ghent, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-12
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4477518608/) — Harmoney
-- 📍 **Location:** Ghent, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-12
-
-### [Ingénieur Talend "Build"](https://www.linkedin.com/jobs/view/4211741647/) — Smile
-- 📍 **Location:** Casablanca, Casablanca-Settat, Morocco
-- 🕒 **Posted:** 2026-10-11
-
-### [Lead Data Engineer](https://www.linkedin.com/jobs/view/4425637752/) — Capgemini
-- 📍 **Location:** Lyon, Auvergne-Rhône-Alpes, France
-- 🕒 **Posted:** 2026-10-11
-
-### [Lead Data Engineer](https://www.linkedin.com/jobs/view/4429040526/) — Capgemini
-- 📍 **Location:** Montbonnot-Saint-Martin, Auvergne-Rhône-Alpes, France
-- 🕒 **Posted:** 2026-10-11
-
-### [Data Engineering & AI Manager](https://www.linkedin.com/jobs/view/4433301105/) — Axway
-- 📍 **Location:** Courbevoie, Île-de-France, France
-- 🕒 **Posted:** 2026-10-11
-
-### [Data Engineer Confirmé Databricks - F/H](https://www.linkedin.com/jobs/view/4439237948/) — Onepoint
-- 📍 **Location:** Lyon, Auvergne-Rhône-Alpes, France
-- 🕒 **Posted:** 2026-10-11
-
-### [Data Engineer Spark / Scala / GCP (H/F)](https://www.linkedin.com/jobs/view/4245345557/) — Sibylone
-- 📍 **Location:** Paris, Île-de-France, France
-- 🕒 **Posted:** 2026-10-11
-
-### [Data Engineer Confirmé Azure / Microsoft Fabric - F/H](https://www.linkedin.com/jobs/view/4439257219/) — Onepoint
-- 📍 **Location:** Lyon, Auvergne-Rhône-Alpes, France
-- 🕒 **Posted:** 2026-10-11
-
-### [Consultant Data Engineer Nantes F/H/X](https://www.linkedin.com/jobs/view/4395056503/) — Zenika
-- 📍 **Location:** Nantes, Pays de la Loire, France
-- 🕒 **Posted:** 2026-10-11
-
-### [Lead Data Engineer](https://www.linkedin.com/jobs/view/4470404017/) — Yotta - Expert en recrutement Data, AI & Product
-- 📍 **Location:** Annecy, Auvergne-Rhône-Alpes, France
-- 🕒 **Posted:** 2026-10-11
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4383770921/) — adesso Belgium
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-11
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4401643511/) — Deloitte
-- 📍 **Location:** Zaventem, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-11
-
-### [Data engineer H/F](https://www.linkedin.com/jobs/view/4475655529/) — Coengi
-- 📍 **Location:** Liege Metropolitan Area
-- 🕒 **Posted:** 2026-10-11
-
-### [Databricks Data Engineer](https://www.linkedin.com/jobs/view/4330941919/) — Devoteam
-- 📍 **Location:** Machelen, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-11
-
-### [Databricks Data Engineer](https://www.linkedin.com/jobs/view/4383786075/) — adesso Belgium
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-11
-
-### [Microsoft Fabric Data Engineer](https://www.linkedin.com/jobs/view/4383786076/) — adesso Belgium
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-11
-
-### [Consultant BI  (Talend / PowerBI) H/F](https://www.linkedin.com/jobs/view/4478035182/) — Synanto
-- 📍 **Location:** Marseille, Provence-Alpes-Côte d'Azur, France
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4459023846/) — Avenga
+- 📍 **Location:** Poland
 - 🕒 **Posted:** 2026-10-10
 
-### [Expert Talend H/F](https://www.linkedin.com/jobs/view/4478024627/) — Synanto
-- 📍 **Location:** Marseille, Provence-Alpes-Côte d'Azur, France
+### [Data Engineer](https://www.linkedin.com/jobs/view/4458915438/) — Spatial Front, Inc
+- 📍 **Location:** Arlington, VA
 - 🕒 **Posted:** 2026-10-10
 
-### [Data Engineer Expérimenté(e) - Développement Régional - Clermont-Ferrand](https://www.linkedin.com/jobs/view/4469171480/) — Sopra Steria
-- 📍 **Location:** Aubière, Auvergne-Rhône-Alpes, France
+### [Guidewire Data Engineer - Hybrid](https://www.linkedin.com/jobs/view/4477213111/) — Lennor Group
+- 📍 **Location:** Taguig, National Capital Region, Philippines
 - 🕒 **Posted:** 2026-10-10
 
-### [Cloud & Data Engineer](https://www.linkedin.com/jobs/view/3634254863/) — SFEIR
-- 📍 **Location:** Paris, Île-de-France, France
+### [Data Engineer](https://www.linkedin.com/jobs/view/4450298288/) — Kaleidoscope Innovation
+- 📍 **Location:** Charlotte, NC
 - 🕒 **Posted:** 2026-10-10
 
-### [Data Engineer GCP](https://www.linkedin.com/jobs/view/4158532631/) — SFEIR
-- 📍 **Location:** Paris, Île-de-France, France
+### [DE&A - Core - Cloud Data Engineering - Snowflake Developer](https://www.linkedin.com/jobs/view/4468084564/) — Zensar Technologies
+- 📍 **Location:** Pune Division, Maharashtra, India
 - 🕒 **Posted:** 2026-10-10
 
-### [Data Engineer - F/H](https://www.linkedin.com/jobs/view/4466907124/) — Niji
-- 📍 **Location:** Issy-les-Moulineaux, Île-de-France, France
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4468006882/) — Nicklaus Children's Health System
+- 📍 **Location:** Miami, FL
 - 🕒 **Posted:** 2026-10-10
 
-### [Data Engineer confirmé – BI & ETL - Dijon, France  (H/F)](https://www.linkedin.com/jobs/view/4458066642/) — Astek
-- 📍 **Location:** Dijon, Bourgogne-Franche-Comté, France
-- 🕒 **Posted:** 2026-10-10
-
-### [Data Engineer Expérimenté.e (H/F)](https://www.linkedin.com/jobs/view/4478057335/) — Valeuriad
-- 📍 **Location:** Nantes, Pays de la Loire, France
-- 🕒 **Posted:** 2026-10-10
-
-### [Data Engineer (F/H/NB)](https://www.linkedin.com/jobs/view/4297825658/) — SFEIR
-- 📍 **Location:** Toulouse, Occitanie, France
-- 🕒 **Posted:** 2026-10-10
-
-### [Data Engineer H/F](https://www.linkedin.com/jobs/view/4478047387/) — Jems Group
-- 📍 **Location:** Levallois-Perret, Île-de-France, France
-- 🕒 **Posted:** 2026-10-10
-
-### [Data Engineer H/F](https://www.linkedin.com/jobs/view/4478054205/) — Jems Group
-- 📍 **Location:** Levallois-Perret, Île-de-France, France
-- 🕒 **Posted:** 2026-10-10
-
-### [Data Engineer / DataOps](https://www.linkedin.com/jobs/view/4469230444/) — ITS Services
-- 📍 **Location:** Nantes, Pays de la Loire, France
-- 🕒 **Posted:** 2026-10-10
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4423043663/) — Nitto EMEA
-- 📍 **Location:** Genk, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-10
-
-### [Data Engineer Confirmé F/H](https://www.linkedin.com/jobs/view/4428959545/) — Orange Business
-- 📍 **Location:** Lyon, Auvergne-Rhône-Alpes, France
+### [Senior Talend Developer](https://www.linkedin.com/jobs/view/4477677077/) — Avensys Consulting
+- 📍 **Location:** Taguig, National Capital Region, Philippines
 - 🕒 **Posted:** 2026-10-09
 
-### [Data Engineer GCP (H/F)](https://www.linkedin.com/jobs/view/4477829372/) — DGTL Performance
-- 📍 **Location:** Toulouse, Occitanie, France
+### [Data Engineer](https://www.linkedin.com/jobs/view/4426491745/) — PrimeIT
+- 📍 **Location:** Lisbon, Lisbon, Portugal
 - 🕒 **Posted:** 2026-10-09
 
-### [Data Engineer Sénior H/F](https://www.linkedin.com/jobs/view/4476290690/) — SEPTEO
-- 📍 **Location:** Valbonne, Provence-Alpes-Côte d'Azur, France
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4477857223/) — Pacific Life
+- 📍 **Location:** London, England, United Kingdom
 - 🕒 **Posted:** 2026-10-09
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4232755318/) — ADVANCED Schema
-- 📍 **Location:** Greater Lille Metropolitan Area
+### [Data Engineer](https://www.linkedin.com/jobs/view/4477887199/) — Lingaro
+- 📍 **Location:** Mexico
 - 🕒 **Posted:** 2026-10-09
 
-### [Data Engineer Cloud Azure F/H](https://www.linkedin.com/jobs/view/3609925189/) — SOFTEAM
-- 📍 **Location:** Paris, Île-de-France, France
+### [Data Engineer](https://www.linkedin.com/jobs/view/4460109098/) — Tillys
+- 📍 **Location:** Irvine, CA
 - 🕒 **Posted:** 2026-10-09
 
-### [Data Engineer Junior H/F - Boulogne-Billancourt](https://www.linkedin.com/jobs/view/4476296641/) — Cegedim
-- 📍 **Location:** Boulogne-Billancourt, Île-de-France, France
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4459185360/) — Pacific Life Re
+- 📍 **Location:** London, England, United Kingdom
 - 🕒 **Posted:** 2026-10-09
 
-### [Lead Data Engineer H/F](https://www.linkedin.com/jobs/view/4477884879/) — Groupe Santiane
-- 📍 **Location:** Paris, Île-de-France, France
+### [Data Engineer I (5–8 Years' Experience Required)](https://www.linkedin.com/jobs/view/4448951881/) — General Mills
+- 📍 **Location:** Mumbai Metropolitan Region
 - 🕒 **Posted:** 2026-10-09
 
-### [Développeur / Data Engineer SAS & Altair SLC H/F](https://www.linkedin.com/jobs/view/4476299767/) — NEXTON
-- 📍 **Location:** Paris, Île-de-France, France
+### [IT Data Analytics Specialist - Data Engineer](https://www.linkedin.com/jobs/view/4477885112/) — Vertiv
+- 📍 **Location:** Westerville, OH
 - 🕒 **Posted:** 2026-10-09
 
-### [Data Engineer GCP (H/F)](https://www.linkedin.com/jobs/view/4477834246/) — DGTL Performance
-- 📍 **Location:** Toulouse, Occitanie, France
+### [Engineer - Data Engineering & Analytics](https://www.linkedin.com/jobs/view/4476278263/) — MillenniumIT ESP
+- 📍 **Location:** Colombo, Western Province, Sri Lanka
 - 🕒 **Posted:** 2026-10-09
 
-### [DATA Engineer Big Data](https://www.linkedin.com/jobs/view/4068196154/) — SOFTEAM Expertise Data & IA
-- 📍 **Location:** Greater Paris Metropolitan Region
-- 🕒 **Posted:** 2026-10-09
-
-### [Analytics / Data Engineer confirmé ou senior](https://www.linkedin.com/jobs/view/4475228556/) — M13h
-- 📍 **Location:** Paris, Île-de-France, France
-- 🕒 **Posted:** 2026-10-09
-
-### [Data Engineer Expérimenté H/F](https://www.linkedin.com/jobs/view/4449468760/) — OPEN
-- 📍 **Location:** Lille, Hauts-de-France, France
-- 🕒 **Posted:** 2026-10-09
-
-### [Data Engineer (H/F)](https://www.linkedin.com/jobs/view/4475216829/) — MP DATA
-- 📍 **Location:** Lille, Hauts-de-France, France
-- 🕒 **Posted:** 2026-10-09
-
-### [Data Engineer - Secteur de l'Energie (H/F)](https://www.linkedin.com/jobs/view/4476817286/) — ALTEN
-- 📍 **Location:** Bezons, Île-de-France, France
-- 🕒 **Posted:** 2026-10-09
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4476838269/) — MP DATA
-- 📍 **Location:** Boulogne-Billancourt, Île-de-France, France
-- 🕒 **Posted:** 2026-10-09
-
-### [ESB Consultant - Integration Engineer](https://www.linkedin.com/jobs/view/4432240377/) — NRB
-- 📍 **Location:** Liège, Walloon Region, Belgium
-- 🕒 **Posted:** 2026-10-09
-
-### [BI Analist / Data Engineer](https://www.linkedin.com/jobs/view/4477663315/) — Enjoy Jobs
-- 📍 **Location:** Menen, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-09
-
-### [Data Engineer expérimenté](https://www.linkedin.com/jobs/view/4440575182/) — NSI
-- 📍 **Location:** Braine-l’Alleud, Walloon Region, Belgium
-- 🕒 **Posted:** 2026-10-09
-
-### [BI Data Engineer - European Agency](https://www.linkedin.com/jobs/view/4476281808/) — Altia
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-09
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/3958341365/) — Big Industries
-- 📍 **Location:** Kontich, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-09
-
-### [FREELANCE/ PERM SENIOR DATA ENGINEER](https://www.linkedin.com/jobs/view/4476809293/) — Cartière
-- 📍 **Location:** West Flanders, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-09
-
-### [BI Data Engineer - European Agency](https://www.linkedin.com/jobs/view/4476291537/) — Altia
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-09
-
-### [Consultant(e) Data  - Talend (DI & ESB) (H/F/NB)](https://www.linkedin.com/jobs/view/4475799239/) — TRIMANE | Expert BI et Big Data
-- 📍 **Location:** Puteaux, Île-de-France, France
+### [Data Engineer](https://www.linkedin.com/jobs/view/4475959220/) — Calsoft
+- 📍 **Location:** Pune District, Maharashtra, India
 - 🕒 **Posted:** 2026-10-08
 
-### [Chef de Projets ETL](https://www.linkedin.com/jobs/view/4476815069/) — Tenor Data Solutions
-- 📍 **Location:** Nantes, Pays de la Loire, France
+### [Senior Specialist - Data Engineering](https://www.linkedin.com/jobs/view/4474844088/) — LTM
+- 📍 **Location:** Richmond, VA
 - 🕒 **Posted:** 2026-10-08
 
-### [Chef de Projets ETL](https://www.linkedin.com/jobs/view/4476295863/) — Tenor Data Solutions
-- 📍 **Location:** Oullins, Auvergne-Rhône-Alpes, France
+### [Senior Data Engineer (Seattle)](https://www.linkedin.com/jobs/view/4474845647/) — Airwallex
+- 📍 **Location:** Seattle, WA
 - 🕒 **Posted:** 2026-10-08
 
-### [Data Engineer - H/F](https://www.linkedin.com/jobs/view/4477189872/) — Cyllene
-- 📍 **Location:** Paris, Île-de-France, France
+### [Data Engineer](https://www.linkedin.com/jobs/view/4454239417/) — KCS iT
+- 📍 **Location:** Lisbon, Portugal
 - 🕒 **Posted:** 2026-10-08
 
-### [Consultant(e) Data Engineer - Databricks (H/F/NB)](https://www.linkedin.com/jobs/view/4475785872/) — TRIMANE | Expert BI et Big Data
-- 📍 **Location:** Puteaux, Île-de-France, France
+### [Lead Data Engineer (AWS, Azure, GCP)](https://www.linkedin.com/jobs/view/4336588314/) — CapTech
+- 📍 **Location:** Columbus, OH
 - 🕒 **Posted:** 2026-10-08
 
-### [Consultant.e Senior Data Engineer AWS H/F](https://www.linkedin.com/jobs/view/4475945586/) — Devoteam | AWS Partner
-- 📍 **Location:** Lyon, Auvergne-Rhône-Alpes, France
+### [Cloud Data Engineer I](https://www.linkedin.com/jobs/view/4477471177/) — Ivy Health
+- 📍 **Location:** Home, KS
 - 🕒 **Posted:** 2026-10-08
 
-### [Data Engineer Confirmé(e)](https://www.linkedin.com/jobs/view/4195679004/) — SFEIR
-- 📍 **Location:** Lille, Hauts-de-France, France
+### [Lead Data Engineer](https://www.linkedin.com/jobs/view/4475788458/) — Elanco
+- 📍 **Location:** Bengaluru, Karnataka, India
 - 🕒 **Posted:** 2026-10-08
 
-### [Senior Data Engineer (F/H)](https://www.linkedin.com/jobs/view/4477404298/) — Groupe Premium
-- 📍 **Location:** Boulogne-Billancourt, Île-de-France, France
-- 🕒 **Posted:** 2026-10-08
-
-### [Data Engineer F/H](https://www.linkedin.com/jobs/view/4329026674/) — Onepoint
-- 📍 **Location:** Bordeaux, Nouvelle-Aquitaine, France
-- 🕒 **Posted:** 2026-10-08
-
-### [Chef de Projets ETL](https://www.linkedin.com/jobs/view/4476296670/) — Tenor Data Solutions
-- 📍 **Location:** Paris, Île-de-France, France
-- 🕒 **Posted:** 2026-10-08
-
-### [Data Engineer Senior H/F](https://www.linkedin.com/jobs/view/4477179725/) — Mobilize Financial Services
-- 📍 **Location:** Fontenay-sous-Bois, Île-de-France, France
-- 🕒 **Posted:** 2026-10-08
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4406464155/) — TMC
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-08
-
-### [Business Data Engineer Medior](https://www.linkedin.com/jobs/view/4287798292/) — Ingestic SRL
-- 📍 **Location:** Wavre, Walloon Region, Belgium
-- 🕒 **Posted:** 2026-10-08
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4285679311/) — dataroots, a Talan company
-- 📍 **Location:** Leuven, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-08
-
-### [BI Data Engineer - European Agency](https://www.linkedin.com/jobs/view/4475923889/) — Altia
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-08
-
-### [BI Data Engineer - European Agency](https://www.linkedin.com/jobs/view/4475932641/) — Altia
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-08
-
-### [Freelance Microsoft Fabric Data Engineer](https://www.linkedin.com/jobs/view/4431210775/) — adesso Belgium
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-08
-
-### [Digital Factory - Data Engineer - Supervising Associate](https://www.linkedin.com/jobs/view/4372010344/) — EY
-- 📍 **Location:** Luxembourg, Luxembourg, Luxembourg
-- 🕒 **Posted:** 2026-10-08
-
-### [Data Engineer, Amazon Stores FinTech](https://www.linkedin.com/jobs/view/4477171144/) — Amazon
-- 📍 **Location:** Luxembourg, Luxembourg, Luxembourg
-- 🕒 **Posted:** 2026-10-08
-
-### [Master Data Engineer](https://www.linkedin.com/jobs/view/4474782934/) — TE Connectivity
-- 📍 **Location:** Tangier, Tanger-Tetouan-Al Hoceima, Morocco
+### [Data Engineer](https://www.linkedin.com/jobs/view/4474449078/) — Closer Consulting
+- 📍 **Location:** Lisbon, Portugal
 - 🕒 **Posted:** 2026-10-07
 
-### [Master Data Engineer](https://www.linkedin.com/jobs/view/4473197270/) — TE Connectivity
-- 📍 **Location:** Morocco
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4475479231/) — CNA National
+- 📍 **Location:** Scottsdale, AZ
 - 🕒 **Posted:** 2026-10-07
 
-### [Data Engineer H/F](https://www.linkedin.com/jobs/view/4476581040/) — NEXTON
-- 📍 **Location:** Bordeaux, Nouvelle-Aquitaine, France
+### [Talend Developer](https://www.linkedin.com/jobs/view/4475441282/) — Infosys
+- 📍 **Location:** Bengaluru East, Karnataka, India
 - 🕒 **Posted:** 2026-10-07
 
-### [Data Engineer Expérimenté(e) H/F - Clermont-Ferrand](https://www.linkedin.com/jobs/view/4476718389/) — Avanade
-- 📍 **Location:** Clermont-Ferrand, Auvergne-Rhône-Alpes, France
+### [Senior Data Engineer Integration m/w/d](https://www.linkedin.com/jobs/view/4458743288/) — Phoenix Contact
+- 📍 **Location:** Blomberg, North Rhine-Westphalia, Germany
 - 🕒 **Posted:** 2026-10-07
 
-### [Data Engineer / Développeur Data & API H/F](https://www.linkedin.com/jobs/view/4475444062/) — NEXTON
-- 📍 **Location:** Paris, Île-de-France, France
+### [Data Engineer](https://www.linkedin.com/jobs/view/4476771958/) — Trideum Corporation
+- 📍 **Location:** Fort Belvoir, VA
 - 🕒 **Posted:** 2026-10-07
 
-### [Ingénieur de données senior / Senior Data Engineer H/F](https://www.linkedin.com/jobs/view/4475423167/) — DACHSER
-- 📍 **Location:** Chanverrie, Pays de la Loire, France
+### [Senior Data Engineer - ETL Tools](https://www.linkedin.com/jobs/view/4475431361/) — Synechron
+- 📍 **Location:** Auckland, New Zealand
 - 🕒 **Posted:** 2026-10-07
 
-### [Data Engineer – Modern Data Stack](https://www.linkedin.com/jobs/view/4475190693/) — WHIZE
-- 📍 **Location:** Neuilly-sur-Seine, Île-de-France, France
+### [EEP - AED - AI & Data - Data Engineer - Hong Kong](https://www.linkedin.com/jobs/view/4475176681/) — EY
+- 📍 **Location:** Hong Kong, Hong Kong SAR
 - 🕒 **Posted:** 2026-10-07
 
-### [Data Engineer - Confirmé(e) / Senior](https://www.linkedin.com/jobs/view/4420304719/) — eXalt
-- 📍 **Location:** Lyon, Auvergne-Rhône-Alpes, France
+### [Data Engineer | Staff or Non-line Manager | IT Enterprise Data & Platforms Japan](https://www.linkedin.com/jobs/view/4476708238/) — Boehringer Ingelheim
+- 📍 **Location:** Shinagawa-ku, Tokyo, Japan
 - 🕒 **Posted:** 2026-10-07
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4475432597/) — Mobiskill | WEFY Group
-- 📍 **Location:** Greater Paris Metropolitan Region
-- 🕒 **Posted:** 2026-10-07
-
-### [Data engineer (F/N/H)](https://www.linkedin.com/jobs/view/4458732799/) — leboncoin
-- 📍 **Location:** Paris, Île-de-France, France
-- 🕒 **Posted:** 2026-10-07
-
-### [Junior Data Engineer](https://www.linkedin.com/jobs/view/4476925472/) — GitGuardian
-- 📍 **Location:** Paris, Île-de-France, France
-- 🕒 **Posted:** 2026-10-07
-
-### [Snowflake Senior Data Engineer H/F](https://www.linkedin.com/jobs/view/4457495523/) — Devoteam Data Driven
-- 📍 **Location:** Nantes, Pays de la Loire, France
-- 🕒 **Posted:** 2026-10-07
-
-### [Big Data Engineer](https://www.linkedin.com/jobs/view/4471444868/) — Odaseva
-- 📍 **Location:** Paris, Île-de-France, France
-- 🕒 **Posted:** 2026-10-07
-
-### [Data Engineer H/F](https://www.linkedin.com/jobs/view/4476777119/) — Akkodis
-- 📍 **Location:** Clermont-Ferrand, Auvergne-Rhône-Alpes, France
-- 🕒 **Posted:** 2026-10-07
-
-### [Data Engineer ( NL + EN)](https://www.linkedin.com/jobs/view/4451564212/) — ALTEN
-- 📍 **Location:** Antwerp, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-07
-
-### [ETL Specialist – Data Vault](https://www.linkedin.com/jobs/view/4476721294/) — Cegeka
-- 📍 **Location:** Brussels Metropolitan Area
-- 🕒 **Posted:** 2026-10-07
-
-### [Data Engineer (m/f/d)](https://www.linkedin.com/jobs/view/4412110072/) — PwC Luxembourg
-- 📍 **Location:** Kirchberg, Luxembourg, Luxembourg
-- 🕒 **Posted:** 2026-10-07
-
-### [Data Engineer Snowflake (H/F)](https://www.linkedin.com/jobs/view/4466129379/) — Deloitte
-- 📍 **Location:** Mechouar, Casablanca-Settat, Morocco
+### [Data Engineer](https://www.linkedin.com/jobs/view/4474072223/) — Milestone Technologies, Inc.
+- 📍 **Location:** Kochi, Kerala, India
 - 🕒 **Posted:** 2026-10-06
 
-### [Expert Talend "BUILD" Freelance](https://www.linkedin.com/jobs/view/4381604241/) — Smile
-- 📍 **Location:** Casablanca, Casablanca-Settat, Morocco
+### [T&T Consultant - Artificial Intelligence & Data (Data Engineer) - ID](https://www.linkedin.com/jobs/view/4299325817/) — Deloitte
+- 📍 **Location:** Jakarta Metropolitan Area
 - 🕒 **Posted:** 2026-10-06
 
-### [Lead Tech Talend H/F/NB Aix en Provence](https://www.linkedin.com/jobs/view/3732237086/) — Keyrus
-- 📍 **Location:** Aix-en-Provence, Provence-Alpes-Côte d'Azur, France
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4474060690/) — Milestone Technologies, Inc.
+- 📍 **Location:** Kochi, Kerala, India
 - 🕒 **Posted:** 2026-10-06
 
-### [Ingénieur développeur Talend/TMC +5 ans d'expérience - Dijon, France  (H/F)](https://www.linkedin.com/jobs/view/4354281275/) — Astek
-- 📍 **Location:** Dijon, Bourgogne-Franche-Comté, France
+### [Data Engineer](https://www.linkedin.com/jobs/view/4465324446/) — Franklin Templeton
+- 📍 **Location:** Baltimore, MD
 - 🕒 **Posted:** 2026-10-06
 
-### [Data Engineer BI Senior F/H](https://www.linkedin.com/jobs/view/4474695489/) — Celios
-- 📍 **Location:** Toulouse, Occitanie, France
+### [Data Engineer](https://www.linkedin.com/jobs/view/4465325428/) — Franklin Templeton
+- 📍 **Location:** Stamford, CT
 - 🕒 **Posted:** 2026-10-06
 
-### [Senior Data Engineer AWS ( H/F)](https://www.linkedin.com/jobs/view/4474053792/) — Data Reply FR
-- 📍 **Location:** Paris, Île-de-France, France
+### [Data Engineer](https://www.linkedin.com/jobs/view/4476503516/) — Gallagher
+- 📍 **Location:** Bogota, D.C., Capital District, Colombia
 - 🕒 **Posted:** 2026-10-06
 
-### [Data Engineer (H/F)](https://www.linkedin.com/jobs/view/4476162463/) — T&S (Technology & Strategy)
-- 📍 **Location:** Bordeaux, Nouvelle-Aquitaine, France
+### [Principal - Data Engineering](https://www.linkedin.com/jobs/view/4474999609/) — Ally
+- 📍 **Location:** Detroit, MI
 - 🕒 **Posted:** 2026-10-06
 
-### [Data Engineer - F/H](https://www.linkedin.com/jobs/view/4476178231/) — AIS
-- 📍 **Location:** Nantes, Pays de la Loire, France
-- 🕒 **Posted:** 2026-10-06
+### [Data Engineer](https://www.linkedin.com/jobs/view/4475369576/) — Harnham
+- 📍 **Location:** Birmingham, England, United Kingdom
+- 🕒 **Posted:** 2026-10-04
 
-### [Data Engineer H/F](https://www.linkedin.com/jobs/view/4476311183/) — Akkodis
-- 📍 **Location:** Villeurbanne, Auvergne-Rhône-Alpes, France
-- 🕒 **Posted:** 2026-10-06
-
-### [Data Engineer TERADATA H/F](https://www.linkedin.com/jobs/view/4468596357/) — HN Services
-- 📍 **Location:** Val-De-Marne, Île-de-France, France
-- 🕒 **Posted:** 2026-10-06
-
-### [Data Engineer H/F](https://www.linkedin.com/jobs/view/4476175219/) — Jems Group
-- 📍 **Location:** Paris, Île-de-France, France
-- 🕒 **Posted:** 2026-10-06
-
-### [Data engineer/ Analytics engineer H/F](https://www.linkedin.com/jobs/view/4474909012/) — Groupe ADSN
-- 📍 **Location:** Venelles, Provence-Alpes-Côte d'Azur, France
-- 🕒 **Posted:** 2026-10-06
-
-### [Data engineer sénior F/H](https://www.linkedin.com/jobs/view/4474681103/) — Artelys
-- 📍 **Location:** Paris, Île-de-France, France
-- 🕒 **Posted:** 2026-10-06
-
-### [Data Engineer (F/H/X)](https://www.linkedin.com/jobs/view/4474400612/) — Zenika
-- 📍 **Location:** Paris, Île-de-France, France
-- 🕒 **Posted:** 2026-10-06
-
-### [Data Engineer - Kantoor Antwerpen](https://www.linkedin.com/jobs/view/4476336022/) — Delen Private Bank
-- 📍 **Location:** Antwerp Metropolitan Area
-- 🕒 **Posted:** 2026-10-06
-
-### [Data Engineer ICT BRM ICT & Big Data](https://www.linkedin.com/jobs/view/4464123201/) — Infrabel
-- 📍 **Location:** Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-06
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4476302617/) — Cheops Technology
-- 📍 **Location:** Kontich, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-06
-
-### [BI Data Engineer Consultant | EU Institutions](https://www.linkedin.com/jobs/view/4474049469/) — Ayesa Digital
-- 📍 **Location:** Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-06
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4476168364/) — Sparagus
-- 📍 **Location:** Liège, Walloon Region, Belgium
-- 🕒 **Posted:** 2026-10-06
-
-### [Data Dashboard Developer (Python ETL, Power BI, Web Applications) for NATO with security clearance](https://www.linkedin.com/jobs/view/4474957440/) — WLG
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-06
-
-### [Data Engineer/ Data Analyst](https://www.linkedin.com/jobs/view/4474246849/) — Akkodis
-- 📍 **Location:** Tanger-Tetouan-Al Hoceima, Morocco
-- 🕒 **Posted:** 2026-10-05
-
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4474266643/) — Publicis Global Delivery (PGD)
-- 📍 **Location:** Casablanca Metropolitan Area
-- 🕒 **Posted:** 2026-10-05
-
-### [Data Engineer (H/F)](https://www.linkedin.com/jobs/view/4473615631/) — 5 Degrés
-- 📍 **Location:** Greater Toulouse Metropolitan Area
-- 🕒 **Posted:** 2026-10-05
-
-### [Data Engineer Senior H/F](https://www.linkedin.com/jobs/view/4427474614/) — Infotel
-- 📍 **Location:** Greater Nantes Metropolitan Area
-- 🕒 **Posted:** 2026-10-05
-
-### [Data Engineer (PostgreSQL / ETL)  (H/F)](https://www.linkedin.com/jobs/view/4475597546/) — INGELINE TECHNOLOGIES
-- 📍 **Location:** Paris, Île-de-France, France
-- 🕒 **Posted:** 2026-10-05
-
-### [DATA Engineer AWS](https://www.linkedin.com/jobs/view/4473613721/) — ACSSI
-- 📍 **Location:** Paris, Île-de-France, France
-- 🕒 **Posted:** 2026-10-05
-
-### [Data Engineer DBT Snowflake H/F](https://www.linkedin.com/jobs/view/4475825427/) — Jems Group
-- 📍 **Location:** Levallois-Perret, Île-de-France, France
-- 🕒 **Posted:** 2026-10-05
-
-### [Data Engineer Microsoft Fabric H/F](https://www.linkedin.com/jobs/view/4475819638/) — Jems Group
-- 📍 **Location:** Levallois-Perret, Île-de-France, France
-- 🕒 **Posted:** 2026-10-05
-
-### [BI Data Engineer](https://www.linkedin.com/jobs/view/4474271870/) — Tata Consultancy Services
-- 📍 **Location:** Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-05
-
-### [Head of Data Engineering](https://www.linkedin.com/jobs/view/4464688062/) — Safran
-- 📍 **Location:** Liège, Walloon Region, Belgium
-- 🕒 **Posted:** 2026-10-05
-
-### [Data Engineer - Data, Analytics & Reporting team (kantoor Antwerpen)](https://www.linkedin.com/jobs/view/4475807600/) — Delen Private Bank
-- 📍 **Location:** Antwerp Metropolitan Area
-- 🕒 **Posted:** 2026-10-05
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4474250548/) — eXalt
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-05
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4473620151/) — darwind
-- 📍 **Location:** Brussels Metropolitan Area
-- 🕒 **Posted:** 2026-10-05
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4474269516/) — Data Wizards
-- 📍 **Location:** Brussels Metropolitan Area
-- 🕒 **Posted:** 2026-10-05
-
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4473637259/) — Brainbridge IT Staffing
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-05
-
-### [Data Engineer - FinOps Dashboard Enhancement (H/F) - Technopolis](https://www.linkedin.com/jobs/view/4473346742/) — HCLTech
-- 📍 **Location:** Rabat, Rabat-Salé-Kénitra, Morocco
+### [Data Engineer Talend / Google Cloud](https://www.linkedin.com/jobs/view/4474700979/) — Beta 80
+- 📍 **Location:** Milan, Lombardy, Italy
 - 🕒 **Posted:** 2026-10-02
 
-### [Senior Data Engineer (H/F) - Technopolis](https://www.linkedin.com/jobs/view/4473357424/) — HCLTech
-- 📍 **Location:** Rabat, Rabat-Salé-Kénitra, Morocco
+### [Java / Talend Developer (French Speaker)](https://www.linkedin.com/jobs/view/4474703696/) — Aubay Portugal
+- 📍 **Location:** Lisbon Metropolitan Area
 - 🕒 **Posted:** 2026-10-02
 
-### [Senior Data Engineer (Talend & Microsoft Stack) (H/F)](https://www.linkedin.com/jobs/view/4462786878/) — ALTEN
-- 📍 **Location:** Île-de-France, France
+### [Data Engineer-Enterprise Data Product](https://www.linkedin.com/jobs/view/4474727192/) — ALDI International IT Services (Hungary)
+- 📍 **Location:** Pécs, Baranya, Hungary
 - 🕒 **Posted:** 2026-10-02
 
-### [Développeur Senior TALEND H/F - Île-de-France](https://www.linkedin.com/jobs/view/4473372019/) — We+
-- 📍 **Location:** Île-de-France, France
-- 🕒 **Posted:** 2026-10-02
-
-### [Data Engineer Flux H/F](https://www.linkedin.com/jobs/view/4475030714/) — Viveris
-- 📍 **Location:** Lille, Hauts-de-France, France
-- 🕒 **Posted:** 2026-10-02
-
-### [Data Engineer (H/F)](https://www.linkedin.com/jobs/view/4473131955/) — Alteca
-- 📍 **Location:** Nantes, Pays de la Loire, France
-- 🕒 **Posted:** 2026-10-02
-
-### [Data engineer (F/H)](https://www.linkedin.com/jobs/view/4473340312/) — moOngy Digital Lab
-- 📍 **Location:** Greater Lille Metropolitan Area
-- 🕒 **Posted:** 2026-10-02
-
-### [Data Engineer Cloud Azure / Databricks (H/F)](https://www.linkedin.com/jobs/view/4473131965/) — INFOGENE
-- 📍 **Location:** Greater Paris Metropolitan Region
-- 🕒 **Posted:** 2026-10-02
-
-### [Data Engineer GCP / BigQuery](https://www.linkedin.com/jobs/view/4474754681/) — Pulsover
-- 📍 **Location:** Greater Paris Metropolitan Region
-- 🕒 **Posted:** 2026-10-02
-
-### [Data Engineer - Ingénieur·e Data / IA](https://www.linkedin.com/jobs/view/4472876894/) — Pyl.Tech
-- 📍 **Location:** Paris, Île-de-France, France
-- 🕒 **Posted:** 2026-10-02
-
-### [Data Engineer Governance Apprentice](https://www.linkedin.com/jobs/view/4474307143/) — Faurecia
-- 📍 **Location:** Paris, Île-de-France, France
-- 🕒 **Posted:** 2026-10-02
-
-### [Alternant(e) Data Manager / Data Engineer](https://www.linkedin.com/jobs/view/4473147005/) — Konecta
-- 📍 **Location:** Poitiers, Nouvelle-Aquitaine, France
-- 🕒 **Posted:** 2026-10-02
-
-### [Lead Data Engineer](https://www.linkedin.com/jobs/view/4351451889/) — Blue Search Conseil
-- 📍 **Location:** Paris, Île-de-France, France
-- 🕒 **Posted:** 2026-10-02
-
-### [Data Integration Specialist](https://www.linkedin.com/jobs/view/4462413324/) — delaware BeLux
-- 📍 **Location:** Kortrijk, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-02
-
-### [Data engineer (Vast of Freelance)](https://www.linkedin.com/jobs/view/4448979625/) — we+ Benelux
-- 📍 **Location:** Bruges Metropolitan Area
-- 🕒 **Posted:** 2026-10-02
-
-### [Expert Talend](https://www.linkedin.com/jobs/view/4472943317/) — Confidentiel
-- 📍 **Location:** Casablanca-Settat, Morocco
+### [Senior Software Engineer - Java & ETL Talend, Officer](https://www.linkedin.com/jobs/view/4469211296/) — State Street
+- 📍 **Location:** Hyderabad, Telangana, India
 - 🕒 **Posted:** 2026-10-01
 
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4472940510/) — BMCI Groupe BNP Paribas
-- 📍 **Location:** Casablanca-Settat, Morocco
-- 🕒 **Posted:** 2026-10-01
-
-### [Data engineer (F/H)](https://www.linkedin.com/jobs/view/4472906743/) — Synchrone Fr
-- 📍 **Location:** Greater Lille Metropolitan Area
-- 🕒 **Posted:** 2026-10-01
-
-### [Data Engineer (H/F)](https://www.linkedin.com/jobs/view/4474156055/) — LOOM CONSULTING
-- 📍 **Location:** Bordeaux, Nouvelle-Aquitaine, France
-- 🕒 **Posted:** 2026-10-01
-
-### [Data Engineer - H/F](https://www.linkedin.com/jobs/view/4472576487/) — agap2IT France
-- 📍 **Location:** Bordeaux, Nouvelle-Aquitaine, France
-- 🕒 **Posted:** 2026-10-01
-
-### [Data Engineer DBT, Airflow et Python](https://www.linkedin.com/jobs/view/4472933937/) — Jems Group
-- 📍 **Location:** Greater Paris Metropolitan Region
-- 🕒 **Posted:** 2026-10-01
-
-### [Data Engineer Google Cloud (H/F)](https://www.linkedin.com/jobs/view/4474153595/) — DGTL Performance
-- 📍 **Location:** Lille, Hauts-de-France, France
-- 🕒 **Posted:** 2026-10-01
-
-### [Data Engineer Senior H/F - Boulogne-Billancourt](https://www.linkedin.com/jobs/view/4471630152/) — cegedim.cloud
-- 📍 **Location:** Boulogne-Billancourt, Île-de-France, France
-- 🕒 **Posted:** 2026-10-01
-
-### [Senior Data Engineer / Architect](https://www.linkedin.com/jobs/view/4474340727/) — STEP UP
-- 📍 **Location:** Bordeaux, Nouvelle-Aquitaine, France
-- 🕒 **Posted:** 2026-10-01
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4472938300/) — Visian
-- 📍 **Location:** Marseille, Provence-Alpes-Côte d'Azur, France
-- 🕒 **Posted:** 2026-10-01
-
-### [Data Engineer (Northern Belgium)](https://www.linkedin.com/jobs/view/4474116314/) — Xebia
-- 📍 **Location:** Antwerp, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-01
-
-### [Data Engineer /Analist Fabric](https://www.linkedin.com/jobs/view/4472532223/) — Baloise BE
-- 📍 **Location:** Antwerp Metropolitan Area
-- 🕒 **Posted:** 2026-10-01
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4472139691/) — Groupe Managem
-- 📍 **Location:** Casablanca Metropolitan Area
+### [Data Engineer](https://www.linkedin.com/jobs/view/4473792979/) — Neotalent Conclusion
+- 📍 **Location:** Lisbon, Portugal
 - 🕒 **Posted:** 2026-09-30
 
-### [Data Engineer Confirmé](https://www.linkedin.com/jobs/view/4472118924/) — Sancare
-- 📍 **Location:** Paris, Île-de-France, France
+### [Data Engineer - GCP](https://www.linkedin.com/jobs/view/4473793888/) — Neotalent Conclusion
+- 📍 **Location:** Lisbon Metropolitan Area
 - 🕒 **Posted:** 2026-09-30
 
-### [Consultant Data Engineer Junior H/F - CDI](https://www.linkedin.com/jobs/view/4472329741/) — Converteo
-- 📍 **Location:** Paris, Île-de-France, France
+### [Data Engineer](https://www.linkedin.com/jobs/view/4423396119/) — SILVARE
+- 📍 **Location:** Athens Metropolitan Area
 - 🕒 **Posted:** 2026-09-30
 
-### [Data Engineer (H/F)](https://www.linkedin.com/jobs/view/4472179803/) — MP DATA
-- 📍 **Location:** Toulouse, Occitanie, France
+### [Data Analyst (ETL Tools)](https://www.linkedin.com/jobs/view/4473712343/) — Alpha Analytics Services Pvt. Ltd.
+- 📍 **Location:** City of Washington County, DC
 - 🕒 **Posted:** 2026-09-30
 
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4473733511/) — Jessa Ziekenhuis
-- 📍 **Location:** Hasselt, Flemish Region, Belgium
+### [Data Engineering, Senior Specialist](https://www.linkedin.com/jobs/view/4466399604/) — Southern California Edison (SCE)
+- 📍 **Location:** Pomona, CA
 - 🕒 **Posted:** 2026-09-30
 
-### [ETL Semantic Data Engineer - EU Institution Luxembourg](https://www.linkedin.com/jobs/view/4472339119/) — EKXEL IT Services & Financial Engineering
-- 📍 **Location:** Luxembourg, Luxembourg, Luxembourg
+### [Senior Data Engineer - Snowflake, Cortex & AWS Glue](https://www.linkedin.com/jobs/view/4473083956/) — InfoCepts
+- 📍 **Location:** Nagpur, Maharashtra, India
+- 🕒 **Posted:** 2026-09-29
+
+### [Lead Data Engineer](https://www.linkedin.com/jobs/view/4473206002/) — Hash Agile Technologies
+- 📍 **Location:** Coimbatore, Tamil Nadu, India
+- 🕒 **Posted:** 2026-09-29
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4461593371/) — iliad
+- 📍 **Location:** Milan, Lombardy, Italy
+- 🕒 **Posted:** 2026-09-29
+
+### [Data Integration Engineer](https://www.linkedin.com/jobs/view/4472731025/) — 74Software
+- 📍 **Location:** Sofia, Sofia City, Bulgaria
+- 🕒 **Posted:** 2026-09-28
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4471506383/) — SoftwareOne
+- 📍 **Location:** Oslo, Oslo, Norway
+- 🕒 **Posted:** 2026-09-28
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4471505347/) — SoftwareOne
+- 📍 **Location:** Bergen, Vestland, Norway
+- 🕒 **Posted:** 2026-09-28
+
+### [Data Engineer - Mid Level](https://www.linkedin.com/jobs/view/4481843507/) — USAA
+- 📍 **Location:** Phoenix, AZ
+- 🕒 **Posted:** 2026-10-27
+
+### [Data Engineer - Senior Level](https://www.linkedin.com/jobs/view/4481834815/) — USAA
+- 📍 **Location:** Phoenix, AZ
+- 🕒 **Posted:** 2026-10-27
+
+### [Data Engineer - Mid Level](https://www.linkedin.com/jobs/view/4481832854/) — USAA
+- 📍 **Location:** Charlotte, NC
+- 🕒 **Posted:** 2026-10-27
+
+### [Data Engineer - Senior Level](https://www.linkedin.com/jobs/view/4481843506/) — USAA
+- 📍 **Location:** Charlotte, NC
+- 🕒 **Posted:** 2026-10-27
+
+### [OluKai, melin, Roark (Tradewind Services) Lead Data Engineer](https://www.linkedin.com/jobs/view/4483786849/) — melin
+- 📍 **Location:** Irvine, CA
+- 🕒 **Posted:** 2026-10-27
+
+### [Data Engineer - Mid Level](https://www.linkedin.com/jobs/view/4481849323/) — USAA
+- 📍 **Location:** Plano, TX
+- 🕒 **Posted:** 2026-10-27
+
+### [Data Engineer - Mid Level](https://www.linkedin.com/jobs/view/4481830979/) — USAA
+- 📍 **Location:** San Antonio, TX
+- 🕒 **Posted:** 2026-10-27
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4474627660/) — Fractal
+- 📍 **Location:** New Jersey, United States
+- 🕒 **Posted:** 2026-10-27
+
+### [Data Engineer - Senior Level](https://www.linkedin.com/jobs/view/4481852145/) — USAA
+- 📍 **Location:** San Antonio, TX
+- 🕒 **Posted:** 2026-10-27
+
+### [Data Engineer - Senior Level](https://www.linkedin.com/jobs/view/4481842589/) — USAA
+- 📍 **Location:** Plano, TX
+- 🕒 **Posted:** 2026-10-27
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4483667906/) — Evlo AI
+- 📍 **Location:** Seattle, WA
+- 🕒 **Posted:** 2026-10-27
+
+### [Data Engineer 4 - ERM Transformation](https://www.linkedin.com/jobs/view/4484078856/) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-27
+
+### [Data Engineer 4 - ERM Transformation](https://www.linkedin.com/jobs/view/4484099103/) — Capital One
+- 📍 **Location:** Richmond, VA
+- 🕒 **Posted:** 2026-10-27
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4481879816/) — HRCap, Inc.
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-27
+
+### [Principal Data Engineer](https://www.linkedin.com/jobs/view/4484219543/) — IDEXX
+- 📍 **Location:** Westbrook, ME
+- 🕒 **Posted:** 2026-10-27
+
+### [Data Engineer 4 - ERM Transformation](https://www.linkedin.com/jobs/view/4484098265/) — Capital One
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-10-27
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4483643944/) — Infotree Global Solutions
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-10-27
+
+### [Data Engineer 5](https://www.linkedin.com/jobs/view/4476317040/) — Capital One
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-10-27
+
+### [ETL Developer](https://www.linkedin.com/jobs/view/4483653900/) — Solugenix
+- 📍 **Location:** Santa Ana, CA
+- 🕒 **Posted:** 2026-10-27
+
+### [Service Delivery Center, Data Engineer - Manager](https://www.linkedin.com/jobs/view/4474079092/) — EY
+- 📍 **Location:** Raleigh, NC
+- 🕒 **Posted:** 2026-10-27
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4483652116/) — CDW
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-27
+
+### [Healthcare Claims, Data Engineer](https://www.linkedin.com/jobs/view/4483680033/) — Healthfirst
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-27
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4419349108/) — Colgate-Palmolive
+- 📍 **Location:** Piscataway, NJ
+- 🕒 **Posted:** 2026-10-27
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4484099890/) — Netrolynx AI
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-27
+
+### [Data Engineer 5](https://www.linkedin.com/jobs/view/4476315076/) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-27
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4484012014/) — Troveo AI
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-27
+
+### [Data Engineer, Senior Consultant](https://www.linkedin.com/jobs/view/4467297915/) — Deloitte
+- 📍 **Location:** Richmond, VA
+- 🕒 **Posted:** 2026-10-27
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4484077310/) — Huxley
+- 📍 **Location:** San Francisco County, CA
+- 🕒 **Posted:** 2026-10-27
+
+### [Service Delivery Center, Data Engineer - Manager](https://www.linkedin.com/jobs/view/4474063875/) — EY
+- 📍 **Location:** San Antonio, TX
+- 🕒 **Posted:** 2026-10-27
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4482202684/) — TechDoQuest
+- 📍 **Location:** Lisle, IL
+- 🕒 **Posted:** 2026-10-27
+
+### [Data Engineer 4](https://www.linkedin.com/jobs/view/4475847977/) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-27
+
+### [Data Engineer-Consultant- AI$E](https://www.linkedin.com/jobs/view/4483790011/) — Deloitte
+- 📍 **Location:** Nashville, TN
+- 🕒 **Posted:** 2026-10-27
+
+### [Data Engineer 4](https://www.linkedin.com/jobs/view/4475862329/) — Capital One
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-10-27
+
+### [Sr. Staff Data Engineer](https://www.linkedin.com/jobs/view/4483657895/) — UKG
+- 📍 **Location:** Lowell, MA
+- 🕒 **Posted:** 2026-10-27
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4482226539/) — TalentHop
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-27
+
+### [Service Delivery Center, Data Engineer - Manager](https://www.linkedin.com/jobs/view/4474061950/) — EY
+- 📍 **Location:** Dallas, TX
+- 🕒 **Posted:** 2026-10-27
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4484083113/) — VySystems
+- 📍 **Location:** Wilmington, DE
+- 🕒 **Posted:** 2026-10-27
+
+### [Sr. Staff Data Engineer](https://www.linkedin.com/jobs/view/4483674100/) — UKG
+- 📍 **Location:** Sunrise, FL
+- 🕒 **Posted:** 2026-10-27
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4483589273/) — Harnham
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-26
+
+### [Data Engineer (SME)](https://www.linkedin.com/jobs/view/4483742716/) — Cintel, Inc.
+- 📍 **Location:** Huntsville, AL
+- 🕒 **Posted:** 2026-10-26
+
+### [Principal Data Engineer](https://www.linkedin.com/jobs/view/4481483125/) — Galent
+- 📍 **Location:** Dallas, TX
+- 🕒 **Posted:** 2026-10-26
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4481803774/) — HCL Global Systems Inc
+- 📍 **Location:** Durham, NC
+- 🕒 **Posted:** 2026-10-26
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4483575615/) — PMG GLOBAL
+- 📍 **Location:** Durham, NC
+- 🕒 **Posted:** 2026-10-26
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4482919012/) — Talemexa
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-26
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4483720177/) — Stellix
+- 📍 **Location:** Foxborough, MA
+- 🕒 **Posted:** 2026-10-26
+
+### [Data Engineer - East Region](https://www.linkedin.com/jobs/view/4459413143/) — Slalom
+- 📍 **Location:** Hartford, CT
+- 🕒 **Posted:** 2026-10-26
+
+### [Data Engineer - East Region](https://www.linkedin.com/jobs/view/4459406111/) — Slalom
+- 📍 **Location:** Boston, MA
+- 🕒 **Posted:** 2026-10-26
+
+### [Forward Deployed Data Engineer](https://www.linkedin.com/jobs/view/4483541386/) — Lunon
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-26
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4483729815/) — Huxley
+- 📍 **Location:** Boston, MA
+- 🕒 **Posted:** 2026-10-26
+
+### [Data Engineer - East Region](https://www.linkedin.com/jobs/view/4459430096/) — Slalom
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-26
+
+### [Data Engineer | SME](https://www.linkedin.com/jobs/view/4483223461/) — The Amatriot Group
+- 📍 **Location:** Chantilly, VA
+- 🕒 **Posted:** 2026-10-26
+
+### [Data Engineer (MDM Platform)](https://www.linkedin.com/jobs/view/4483719154/) — Incedo Inc.
+- 📍 **Location:** Raleigh, NC
+- 🕒 **Posted:** 2026-10-26
+
+### [Data Engineer - East Region](https://www.linkedin.com/jobs/view/4459425091/) — Slalom
+- 📍 **Location:** Miami, FL
+- 🕒 **Posted:** 2026-10-26
+
+### [Data Engineer - East Region](https://www.linkedin.com/jobs/view/4459429097/) — Slalom
+- 📍 **Location:** Tampa, FL
+- 🕒 **Posted:** 2026-10-26
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4483730432/) — Vaco by Highspring
+- 📍 **Location:** Princeton, NJ
+- 🕒 **Posted:** 2026-10-26
+
+### [Data Engineer - East Region](https://www.linkedin.com/jobs/view/4459418228/) — Slalom
+- 📍 **Location:** Philadelphia, PA
+- 🕒 **Posted:** 2026-10-26
+
+### [Lead Data Engineer](https://www.linkedin.com/jobs/view/4481911806/) — Techgene Solutions
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-26
+
+### [Data Engineer - East Region](https://www.linkedin.com/jobs/view/4459428086/) — Slalom
+- 📍 **Location:** Minneapolis, MN
+- 🕒 **Posted:** 2026-10-26
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4483712275/) — Kemper
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-10-26
+
+### [Lead ETL Developer- Enterprise Data Warehouse (EDW)](https://www.linkedin.com/jobs/view/4428310165/) — Huntington National Bank
+- 📍 **Location:** Dallas, TX
+- 🕒 **Posted:** 2026-10-26
+
+### [Data Engineer - East Region](https://www.linkedin.com/jobs/view/4459427087/) — Slalom
+- 📍 **Location:** Nashville, TN
+- 🕒 **Posted:** 2026-10-26
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4481462791/) — Charles Schwab
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-10-26
+
+### [Data Engineer (Mid-Level)](https://www.linkedin.com/jobs/view/4483227722/) — Team Velocity
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-26
+
+### [Data Engineer - East Region](https://www.linkedin.com/jobs/view/4459422094/) — Slalom
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-10-26
+
+### [Data Engineer, Senior](https://www.linkedin.com/jobs/view/4413281154/) — Booz Allen Hamilton
+- 📍 **Location:** Huntsville, AL
+- 🕒 **Posted:** 2026-10-26
+
+### [Specialist, Software Engineer – IBM ACE & ETL](https://www.linkedin.com/jobs/view/4481425829/) — Nationwide
+- 📍 **Location:** Columbus, OH
+- 🕒 **Posted:** 2026-10-26
+
+### [Data Engineer - East Region](https://www.linkedin.com/jobs/view/4459407123/) — Slalom
+- 📍 **Location:** Detroit, MI
+- 🕒 **Posted:** 2026-10-26
+
+### [Data Engineer - University of Idaho](https://www.linkedin.com/jobs/view/4483259808/) — Another Source
+- 📍 **Location:** Moscow, ID
+- 🕒 **Posted:** 2026-10-26
+
+### [Data Engineer - East Region](https://www.linkedin.com/jobs/view/4459423203/) — Slalom
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-10-26
+
+### [Lead ETL Developer- Enterprise Data Warehouse (EDW)](https://www.linkedin.com/jobs/view/4428316079/) — Huntington National Bank
+- 📍 **Location:** Minnetonka, MN
+- 🕒 **Posted:** 2026-10-25
+
+### [Data Integration Analyst I](https://www.linkedin.com/jobs/view/4464819739/) — Allied Solutions LLC
+- 📍 **Location:** Carmel, IN
+- 🕒 **Posted:** 2026-10-25
+
+### [Senior Data Engineer - Data Platform & Martech Engineering](https://www.linkedin.com/jobs/view/4435922350/) — Gen
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-25
+
+### [Data Engineer - Amway North America Market](https://www.linkedin.com/jobs/view/4464251131/) — Amway
+- 📍 **Location:** Ada, MI
+- 🕒 **Posted:** 2026-10-25
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4428058707/) — Michelin
+- 📍 **Location:** Woodburn, IN
+- 🕒 **Posted:** 2026-10-25
+
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4483319321/) — Ahold Delhaize USA
+- 📍 **Location:** Salisbury, NC
+- 🕒 **Posted:** 2026-10-24
+
+### [Enterprise Data Integrations Specialist](https://www.linkedin.com/jobs/view/4453390279/) — Catalent
+- 📍 **Location:** Bridgewater, NJ
+- 🕒 **Posted:** 2026-10-24
+
+### [Data Engineer-Consultant- AI&E](https://www.linkedin.com/jobs/view/4483189015/) — Deloitte
+- 📍 **Location:** Nashville, TN
+- 🕒 **Posted:** 2026-10-24
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4483320258/) — Ahold Delhaize USA
+- 📍 **Location:** Salisbury, NC
+- 🕒 **Posted:** 2026-10-24
+
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4483313815/) — Ahold Delhaize USA
+- 📍 **Location:** Quincy, MA
+- 🕒 **Posted:** 2026-10-24
+
+### [Data Engineer 2](https://www.linkedin.com/jobs/view/4459092238/) — Garmin
+- 📍 **Location:** Boulder, CO
+- 🕒 **Posted:** 2026-10-24
+
+### [Lead, IT Architecture (Data Engineer)](https://www.linkedin.com/jobs/view/4466499137/) — L3Harris Technologies
+- 📍 **Location:** Melbourne, FL
+- 🕒 **Posted:** 2026-10-24
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4460908203/) — Gibson Dunn
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-24
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4419422561/) — Per Scholas
+- 📍 **Location:** Bronx, NY
+- 🕒 **Posted:** 2026-10-24
+
+### [Lead ETL Developer- Enterprise Data Warehouse (EDW)](https://www.linkedin.com/jobs/view/4428303342/) — Huntington National Bank
+- 📍 **Location:** Columbus, OH
+- 🕒 **Posted:** 2026-10-24
+
+### [Manager, Data Engineering - Platform](https://www.linkedin.com/jobs/view/4466327106/) — HNI Corporation
+- 📍 **Location:** Muscatine, IA
+- 🕒 **Posted:** 2026-10-24
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4446903140/) — YouVersion
+- 📍 **Location:** Edmond, OK
+- 🕒 **Posted:** 2026-10-24
+
+### [VIE - Data Engineer (H/F) - New York](https://www.linkedin.com/jobs/view/4446738826/) — Hermès
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-23
+
+### [Data Integration Developer](https://www.linkedin.com/jobs/view/4480168700/) — ADMA Biologics, Inc.
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-23
+
+### [Data Engineer-Consultant- AI&E](https://www.linkedin.com/jobs/view/4482828327/) — Deloitte
+- 📍 **Location:** Rochester, NY
+- 🕒 **Posted:** 2026-10-23
+
+### [Data Engineer-Consultant- AI&E](https://www.linkedin.com/jobs/view/4482841437/) — Deloitte
+- 📍 **Location:** Williamsville, NY
+- 🕒 **Posted:** 2026-10-23
+
+### [Data Engineer-Consultant- AI&E](https://www.linkedin.com/jobs/view/4482830491/) — Deloitte
+- 📍 **Location:** Jericho, NY
+- 🕒 **Posted:** 2026-10-23
+
+### [Platform and Data Engineer](https://www.linkedin.com/jobs/view/4474337111/) — Booz Allen Hamilton
+- 📍 **Location:** Honolulu, HI
+- 🕒 **Posted:** 2026-10-23
+
+### [Data Engineer-Consultant- AI&E](https://www.linkedin.com/jobs/view/4482845165/) — Deloitte
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-23
+
+### [Data Engineer | Talent Community](https://www.linkedin.com/jobs/view/4474571725/) — Lennar
+- 📍 **Location:** Miami, FL
+- 🕒 **Posted:** 2026-10-23
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4389971092/) — Burlington Stores, Inc.
+- 📍 **Location:** Beverly, NJ
+- 🕒 **Posted:** 2026-10-23
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4474335081/) — Booz Allen Hamilton
+- 📍 **Location:** Colorado Springs, CO
+- 🕒 **Posted:** 2026-10-23
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4483153071/) — Booz Allen Hamilton
+- 📍 **Location:** Tampa, FL
+- 🕒 **Posted:** 2026-10-23
+
+### [Data Engineer | Talent Community](https://www.linkedin.com/jobs/view/4474589065/) — Lennar
+- 📍 **Location:** Irving, TX
+- 🕒 **Posted:** 2026-10-23
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4477087921/) — CACI International Inc
+- 📍 **Location:** Oklahoma City, OK
+- 🕒 **Posted:** 2026-10-23
+
+### [Data Engineer 4](https://www.linkedin.com/jobs/view/4474501697/) — Capital One
+- 📍 **Location:** Wilmington, DE
+- 🕒 **Posted:** 2026-10-23
+
+### [Data Engineer 4](https://www.linkedin.com/jobs/view/4474512352/) — Capital One
+- 📍 **Location:** Wilmington, DE
+- 🕒 **Posted:** 2026-10-23
+
+### [Data Engineer 4](https://www.linkedin.com/jobs/view/4474769181/) — Capital One
+- 📍 **Location:** Wilmington, DE
+- 🕒 **Posted:** 2026-10-23
+
+### [Lead Software Engineer - Data Technology | Data Engineering](https://www.linkedin.com/jobs/view/4481677682/) — Archer
+- 📍 **Location:** Columbus, OH
+- 🕒 **Posted:** 2026-10-23
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4482836434/) — Fictiv
+- 📍 **Location:** Schaumburg, IL
+- 🕒 **Posted:** 2026-10-23
+
+### [Data Engineer 4 - Nexus Products](https://www.linkedin.com/jobs/view/4474516245/) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-23
+
+### [Data Engineer 4](https://www.linkedin.com/jobs/view/4474522025/) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-23
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4470088723/) — Trane Technologies
+- 📍 **Location:** La Crosse, WI
+- 🕒 **Posted:** 2026-10-23
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4481936298/) — Peraton
+- 📍 **Location:** Annapolis Junction, MD
+- 🕒 **Posted:** 2026-10-23
+
+### [Data Engineer 4](https://www.linkedin.com/jobs/view/4474520081/) — Capital One
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-10-23
+
+### [Data Engineer 4](https://www.linkedin.com/jobs/view/4474771019/) — Capital One
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-10-23
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4481936299/) — Peraton
+- 📍 **Location:** Annapolis Junction, MD
+- 🕒 **Posted:** 2026-10-23
+
+### [Data Integration Engineer II (CEMI)- 2 Year Term Appointment](https://www.linkedin.com/jobs/view/4474039016/) — Weill Cornell Medicine
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-23
+
+### [Data Engineer 4](https://www.linkedin.com/jobs/view/4474522008/) — Capital One
+- 📍 **Location:** Plano, TX
+- 🕒 **Posted:** 2026-10-23
+
+### [Data Engineer 4 - Payment Networks](https://www.linkedin.com/jobs/view/4474509377/) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-23
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4456753997/) — CoStar Group
+- 📍 **Location:** Richmond, VA
+- 🕒 **Posted:** 2026-10-23
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4483121419/) — Unlock Health
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-23
+
+### [Data Engineer 2](https://www.linkedin.com/jobs/view/4459000701/) — Garmin
+- 📍 **Location:** Olathe, KS
+- 🕒 **Posted:** 2026-10-23
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4474330289/) — Booz Allen Hamilton
+- 📍 **Location:** Aurora, CO
+- 🕒 **Posted:** 2026-10-23
+
+### [Sr. Data Engineer - Loyalty & Customer Analytics](https://www.linkedin.com/jobs/view/4478826942/) — El Pollo Loco, Inc.
+- 📍 **Location:** Costa Mesa, CA
+- 🕒 **Posted:** 2026-10-23
+
+### [Staff Data Engineer](https://www.linkedin.com/jobs/view/4438365225/) — CorSource
+- 📍 **Location:** Newberg, OR
+- 🕒 **Posted:** 2026-10-23
+
+### [Data Engineer, Senior](https://www.linkedin.com/jobs/view/4474315999/) — Booz Allen Hamilton
+- 📍 **Location:** Huntsville, AL
+- 🕒 **Posted:** 2026-10-23
+
+### [Data Engineer, Workforce Solutions - Talent Mobility](https://www.linkedin.com/jobs/view/4483119779/) — Amazon
+- 📍 **Location:** Bellevue, WA
+- 🕒 **Posted:** 2026-10-23
+
+### [Staff Data Engineer](https://www.linkedin.com/jobs/view/4482425686/) — AppFolio
+- 📍 **Location:** San Diego, CA
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Engineer , PXT EXR-Ops Tech](https://www.linkedin.com/jobs/view/4482461851/) — Amazon
+- 📍 **Location:** Bellevue, WA
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Engineer III – Data Operations & Infrastructure](https://www.linkedin.com/jobs/view/4482757390/) — ICW Group
+- 📍 **Location:** San Diego, CA
+- 🕒 **Posted:** 2026-10-22
+
+### [Senior Data Engineer 2026 - US](https://www.linkedin.com/jobs/view/4481610836/) — Aimpoint Digital
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-10-22
+
+### [Engineer I, Data Engineering](https://www.linkedin.com/jobs/view/4473920276/) — Samsung Electronics America
+- 📍 **Location:** Plano, TX
+- 🕒 **Posted:** 2026-10-22
+
+### [Staff Data Engineer](https://www.linkedin.com/jobs/view/4482424728/) — AppFolio
+- 📍 **Location:** Richardson, TX
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4481603786/) — Trane Technologies
+- 📍 **Location:** Pueblo, CO
+- 🕒 **Posted:** 2026-10-22
+
+### [Staff Data Engineer](https://www.linkedin.com/jobs/view/4482436011/) — AppFolio
+- 📍 **Location:** Denver, CO
+- 🕒 **Posted:** 2026-10-22
+
+### [Staff Data Engineer](https://www.linkedin.com/jobs/view/4482431441/) — AppFolio
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4482465766/) — eNGINE
+- 📍 **Location:** Pittsburgh, PA
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4482706831/) — AARP
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-10-22
+
+### [Senior ETL Developer](https://www.linkedin.com/jobs/view/4482488569/) — V Group Inc.
+- 📍 **Location:** Hartford, CT
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4481607629/) — Trane Technologies
+- 📍 **Location:** La Crosse, WI
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4419424467/) — Per Scholas
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-22
+
+### [Staff Data Engineer](https://www.linkedin.com/jobs/view/4482435057/) — AppFolio
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-22
+
+### [Staff Data Engineer](https://www.linkedin.com/jobs/view/4482426632/) — AppFolio
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4482414530/) — Alter Domus
+- 📍 **Location:** New York, United States
+- 🕒 **Posted:** 2026-10-22
+
+### [Sr. IT Data Engineer](https://www.linkedin.com/jobs/view/4482734931/) — SpaceX Super Intelligence
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Engineer 5](https://www.linkedin.com/jobs/view/4482703059/) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-22
+
+### [Staff Data Engineer](https://www.linkedin.com/jobs/view/4482414934/) — AppFolio
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Engineer 5](https://www.linkedin.com/jobs/view/4482494445/) — Capital One
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4472370251/) — Tata Consultancy Services
+- 📍 **Location:** Jacksonville, FL
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4481600825/) — Trane Technologies
+- 📍 **Location:** Davidson, NC
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4482410654/) — Alter Domus
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Engineer 5](https://www.linkedin.com/jobs/view/4482484691/) — Capital One
+- 📍 **Location:** Richmond, VA
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Engineer 5](https://www.linkedin.com/jobs/view/4482499250/) — Capital One
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-10-22
+
+### [Senior Integration and Data Engineer](https://www.linkedin.com/jobs/view/4482187904/) — Union Plus
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-10-22
+
+### [Databricks Data Engineer](https://www.linkedin.com/jobs/view/4473933448/) — Deloitte
+- 📍 **Location:** Tempe, AZ
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4482411166/) — Booz Allen Hamilton
+- 📍 **Location:** Albuquerque, NM
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Engineer 4 (Manager, IC)](https://www.linkedin.com/jobs/view/4473944381/) — Capital One
+- 📍 **Location:** Cambridge, MA
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Engineer 4 (Manager, IC)](https://www.linkedin.com/jobs/view/4473944361/) — Capital One
+- 📍 **Location:** Richmond, VA
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Engineer-Wearables & iOT Analytics](https://www.linkedin.com/jobs/view/4472317353/) — Hill's Pet Nutrition
+- 📍 **Location:** Topeka, KS
+- 🕒 **Posted:** 2026-10-22
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4481307652/) — I.T. Solutions, Inc.
+- 📍 **Location:** Foster City, CA
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4473929191/) — Kaleidoscope Innovation
+- 📍 **Location:** Detroit, MI
+- 🕒 **Posted:** 2026-10-22
+
+### [Staff Data Engineer](https://www.linkedin.com/jobs/view/4424001910/) — Xometry
+- 📍 **Location:** Waltham, MA
+- 🕒 **Posted:** 2026-10-22
+
+### [Staff Data Engineer](https://www.linkedin.com/jobs/view/4424005845/) — Xometry
+- 📍 **Location:** North Bethesda, MD
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4480080066/) — Mastech
+- 📍 **Location:** Durham, NC
+- 🕒 **Posted:** 2026-10-22
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4481171833/) — Dexian
+- 📍 **Location:** Addison, TX
+- 🕒 **Posted:** 2026-10-22
+
+### [Databricks Data Engineer](https://www.linkedin.com/jobs/view/4473937098/) — Deloitte
+- 📍 **Location:** Greater Indianapolis
+- 🕒 **Posted:** 2026-10-22
+
+### [Senior Data Engineer & BI Developer](https://www.linkedin.com/jobs/view/4481185051/) — ACL Digital
+- 📍 **Location:** Foster City, CA
+- 🕒 **Posted:** 2026-10-22
+
+### [Lead SQL/ETL Developer](https://www.linkedin.com/jobs/view/4481161665/) — ESG Consulting
+- 📍 **Location:** Hartford County, CT
+- 🕒 **Posted:** 2026-10-21
+
+### [Associate Director, Commercial Technology & Data Engineering](https://www.linkedin.com/jobs/view/4473531009/) — Alnylam Pharmaceuticals
+- 📍 **Location:** Cambridge, MA
+- 🕒 **Posted:** 2026-10-21
+
+### [Senior Data Engineer – Energy Trading & Cloud Data Solutions](https://www.linkedin.com/jobs/view/4481126952/) — Talan
+- 📍 **Location:** Houston, TX
+- 🕒 **Posted:** 2026-10-21
+
+### [Dir - Cloud Data Engineering & AI Tech Lead](https://www.linkedin.com/jobs/view/4481154923/) — L'Oréal
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineer 5](https://www.linkedin.com/jobs/view/4473581617/) — Capital One
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineer 4](https://www.linkedin.com/jobs/view/4473773911/) — Capital One
+- 📍 **Location:** Wilmington, DE
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineer 5](https://www.linkedin.com/jobs/view/4473782690/) — Capital One
+- 📍 **Location:** Wilmington, DE
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineer 5](https://www.linkedin.com/jobs/view/4473580577/) — Capital One
+- 📍 **Location:** Richmond, VA
+- 🕒 **Posted:** 2026-10-21
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4437463768/) — Anduril Industries
+- 📍 **Location:** Costa Mesa, CA
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineer 5](https://www.linkedin.com/jobs/view/4473581612/) — Capital One
+- 📍 **Location:** Plano, TX
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineer 5](https://www.linkedin.com/jobs/view/4473575773/) — Capital One
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-10-21
+
+### [Sr. Data Engineer](https://www.linkedin.com/jobs/view/4463553455/) — Colgate-Palmolive
+- 📍 **Location:** Piscataway, NJ
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4482027045/) — Truist
+- 📍 **Location:** Charlotte, NC
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineer, Senior](https://www.linkedin.com/jobs/view/4455367558/) — Booz Allen Hamilton
+- 📍 **Location:** Tampa, FL
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineering Senior Analyst](https://www.linkedin.com/jobs/view/4481100068/) — EY
+- 📍 **Location:** Boston, MA
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineer 4](https://www.linkedin.com/jobs/view/4473788222/) — Capital One
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-10-21
+
+### [Managing Consultant, Data Engineer - Atlanta](https://www.linkedin.com/jobs/view/4437691979/) — Thought Logic Consulting
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineer 4](https://www.linkedin.com/jobs/view/4473786554/) — Capital One
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineer, Senior](https://www.linkedin.com/jobs/view/4479444564/) — UPMC
+- 📍 **Location:** Pittsburgh, PA
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4482159017/) — Pond Lehocky Giordano Inc.
+- 📍 **Location:** Philadelphia, PA
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4482153926/) — Booz Allen Hamilton
+- 📍 **Location:** San Diego, CA
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineering Senior Analyst](https://www.linkedin.com/jobs/view/4480778834/) — EY
+- 📍 **Location:** Cleveland, OH
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4473505084/) — American Lung Association
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineering Senior Analyst](https://www.linkedin.com/jobs/view/4480783679/) — EY
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineering Senior Analyst](https://www.linkedin.com/jobs/view/4480776963/) — EY
+- 📍 **Location:** Tampa, FL
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineering Senior Analyst](https://www.linkedin.com/jobs/view/4480776964/) — EY
+- 📍 **Location:** Jacksonville, FL
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineering Senior Analyst](https://www.linkedin.com/jobs/view/4480796150/) — EY
+- 📍 **Location:** Minneapolis, MN
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4482171098/) — Booz Allen Hamilton
+- 📍 **Location:** San Diego, CA
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineering Senior Analyst](https://www.linkedin.com/jobs/view/4480797116/) — EY
+- 📍 **Location:** Philadelphia, PA
+- 🕒 **Posted:** 2026-10-21
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4481139237/) — Apexon
+- 📍 **Location:** Parsippany, NJ
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineer 4 (Manager, IC)](https://www.linkedin.com/jobs/view/4482063818/) — Capital One
+- 📍 **Location:** Richmond, VA
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineer 4](https://www.linkedin.com/jobs/view/4473771876/) — Capital One
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineering Senior Analyst](https://www.linkedin.com/jobs/view/4480782704/) — EY
+- 📍 **Location:** Rochester, NY
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineering Senior Analyst](https://www.linkedin.com/jobs/view/4480785666/) — EY
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineering Senior Analyst](https://www.linkedin.com/jobs/view/4480783680/) — EY
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineering Senior Analyst](https://www.linkedin.com/jobs/view/4480779789/) — EY
+- 📍 **Location:** Alpharetta, GA
+- 🕒 **Posted:** 2026-10-21
+
+### [Manager, Data Engineering](https://www.linkedin.com/jobs/view/4482181119/) — AAMC
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineer, Amazon Security Experience](https://www.linkedin.com/jobs/view/4481501511/) — Amazon
+- 📍 **Location:** Seattle, WA
+- 🕒 **Posted:** 2026-10-20
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4466915806/) — Charles Schwab
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-10-20
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4472739549/) — SailPoint
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-20
+
+### [Data engineer](https://www.linkedin.com/jobs/view/4471525122/) — Tata Consultancy Services
+- 📍 **Location:** Seattle, WA
+- 🕒 **Posted:** 2026-10-20
+
+### [Principal Data Engineer](https://www.linkedin.com/jobs/view/4480404449/) — Alden Scientific
+- 📍 **Location:** Boston, MA
+- 🕒 **Posted:** 2026-10-20
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4471213534/) — Sony
+- 📍 **Location:** San Diego, CA
+- 🕒 **Posted:** 2026-10-20
+
+### [Snowflake Platform Admin + Data Engineer](https://www.linkedin.com/jobs/view/4480712256/) — NLB Services
+- 📍 **Location:** Fort Mill, SC
+- 🕒 **Posted:** 2026-10-20
+
+### [Data Engineer 5](https://www.linkedin.com/jobs/view/4473261541/) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-20
+
+### [Data Engineer 5](https://www.linkedin.com/jobs/view/4473265386/) — Capital One
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-10-20
+
+### [Data Engineer 5](https://www.linkedin.com/jobs/view/4473256765/) — Capital One
+- 📍 **Location:** Richmond, VA
+- 🕒 **Posted:** 2026-10-20
+
+### [Jr Data Engineer](https://www.linkedin.com/jobs/view/4479134494/) — Full Visibility LLC
+- 📍 **Location:** Huntsville, AL
+- 🕒 **Posted:** 2026-10-20
+
+### [Data Engineer 5](https://www.linkedin.com/jobs/view/4473252833/) — Capital One
+- 📍 **Location:** Plano, TX
+- 🕒 **Posted:** 2026-10-20
+
+### [Data Engineer 4](https://www.linkedin.com/jobs/view/4473260617/) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-20
+
+### [Data Engineer, Sr](https://www.linkedin.com/jobs/view/4481752522/) — Realtor.com
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-10-20
+
+### [Lead Data Engineer](https://www.linkedin.com/jobs/view/4480415820/) — Calfus Inc.
+- 📍 **Location:** Greater Minneapolis-St. Paul Area
+- 🕒 **Posted:** 2026-10-20
+
+### [Data Engineer 4](https://www.linkedin.com/jobs/view/4473256753/) — Capital One
+- 📍 **Location:** Richmond, VA
+- 🕒 **Posted:** 2026-10-20
+
+### [Data Engineer 4](https://www.linkedin.com/jobs/view/4473256759/) — Capital One
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-10-20
+
+### [Data Engineer I](https://www.linkedin.com/jobs/view/4480724743/) — Pekin Insurance
+- 📍 **Location:** Pekin, IL
+- 🕒 **Posted:** 2026-10-20
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4480295761/) — World Wide Technology
+- 📍 **Location:** Maryland Heights, MO
+- 🕒 **Posted:** 2026-10-20
+
+### [Data Engineer 4](https://www.linkedin.com/jobs/view/4473263582/) — Capital One
+- 📍 **Location:** Plano, TX
+- 🕒 **Posted:** 2026-10-20
+
+### [Data Engineering Software Developer Sr.](https://www.linkedin.com/jobs/view/4480701501/) — The Amatriot Group
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-10-20
+
+### [Data Engineer, Staff](https://www.linkedin.com/jobs/view/4398133055/) — Qualcomm
+- 📍 **Location:** San Diego, CA
+- 🕒 **Posted:** 2026-10-20
+
+### [Data Engineer, California College Guidance Initiative](https://www.linkedin.com/jobs/view/4481758678/) — Foundation for California Community Colleges
+- 📍 **Location:** California, United States
+- 🕒 **Posted:** 2026-10-20
+
+### [Staff Data Engineer - Integrations](https://www.linkedin.com/jobs/view/4454411498/) — Dragos, Inc.
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-20
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4478940628/) — CUS Tech
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-20
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4481756587/) — TDIndustries, Inc.
+- 📍 **Location:** Dallas, TX
+- 🕒 **Posted:** 2026-10-20
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4468934194/) — Galent
+- 📍 **Location:** Dallas, TX
+- 🕒 **Posted:** 2026-10-19
+
+### [Recruiting Analytics Data Engineer](https://www.linkedin.com/jobs/view/4466151793/) — Anthropic
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-19
+
+### [Data Engineer, GTM](https://www.linkedin.com/jobs/view/4463826254/) — Anthropic
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-19
+
+### [Data Engineer, GTM](https://www.linkedin.com/jobs/view/4463822595/) — Anthropic
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-19
+
+### [Informatica IDMC Data Engineer](https://www.linkedin.com/jobs/view/4481278860/) — Aneka Talent Solutions
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-19
+
+### [Data Engineer - LLM Applications](https://www.linkedin.com/jobs/view/4454541865/) — Daley And Associates, LLC
+- 📍 **Location:** Boston, MA
+- 🕒 **Posted:** 2026-10-19
+
+### [Data Engineering Software Developer (Mid)](https://www.linkedin.com/jobs/view/4471516453/) — The Amatriot Group
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-10-19
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4478640032/) — CSC Leasing
+- 📍 **Location:** Richmond, VA
+- 🕒 **Posted:** 2026-10-19
+
+### [Principal Data Engineer](https://www.linkedin.com/jobs/view/4441838616/) — Raymond James
+- 📍 **Location:** St. Petersburg, FL
+- 🕒 **Posted:** 2026-10-19
+
+### [(USA) Data Engineer III](https://www.linkedin.com/jobs/view/4478629263/) — Walmart
+- 📍 **Location:** Bentonville, AR
+- 🕒 **Posted:** 2026-10-19
+
+### [Engineer Data Integration](https://www.linkedin.com/jobs/view/4453756031/) — Tata Consultancy Services
+- 📍 **Location:** San Antonio, TX
+- 🕒 **Posted:** 2026-10-18
+
+### [Senior Data Engineer - Cloud Data Platform](https://www.linkedin.com/jobs/view/4466990048/) — Charles Schwab
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-10-18
+
+### [Senior Data Engineer - Cloud Data Platform](https://www.linkedin.com/jobs/view/4466968983/) — Charles Schwab
+- 📍 **Location:** Southlake, TX
+- 🕒 **Posted:** 2026-10-18
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4479924725/) — Plymouth Rock Assurance
+- 📍 **Location:** Greater Boston
+- 🕒 **Posted:** 2026-10-18
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4445248871/) — Invesco
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-10-18
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4461943634/) — Hamilton Lane
+- 📍 **Location:** Conshohocken, PA
+- 🕒 **Posted:** 2026-10-17
+
+### [Data Engineer 5, Marketing and Messaging (Enterprise Platform Technology)](https://www.linkedin.com/jobs/view/4480837739/) — Capital One
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-10-17
+
+### [Data Engineer 5, Marketing and Messaging (Enterprise Platform Technology)](https://www.linkedin.com/jobs/view/4480842507/) — Capital One
+- 📍 **Location:** Deerfield, IL
+- 🕒 **Posted:** 2026-10-17
+
+### [Lead Data Engineer](https://www.linkedin.com/jobs/view/4415164166/) — Thomson Reuters
+- 📍 **Location:** Eagan, MN
+- 🕒 **Posted:** 2026-10-17
+
+### [Data Engineer 4, Auto Data Platforms](https://www.linkedin.com/jobs/view/4480594694/) — Capital One
+- 📍 **Location:** Plano, TX
+- 🕒 **Posted:** 2026-10-17
+
+### [Data Engineer 5, Marketing and Messaging (Enterprise Platform Technology)](https://www.linkedin.com/jobs/view/4480842513/) — Capital One
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-10-17
+
+### [Data Engineer / Senior Data Engineer (Cloud & Modern Data Platforms)](https://www.linkedin.com/jobs/view/4447579580/) — ReefPoint Group
+- 📍 **Location:** Tysons Corner, VA
+- 🕒 **Posted:** 2026-10-17
+
+### [Data Engineer 4, Real-time Data Platform](https://www.linkedin.com/jobs/view/4480851242/) — Capital One
+- 📍 **Location:** Plano, TX
+- 🕒 **Posted:** 2026-10-17
+
+### [Data analyst/Data Engineer](https://www.linkedin.com/jobs/view/4480809527/) — SEGULA Technologies
+- 📍 **Location:** Auburn Hills, MI
+- 🕒 **Posted:** 2026-10-17
+
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4480189465/) — Deloitte
+- 📍 **Location:** Charlotte, NC
+- 🕒 **Posted:** 2026-10-16
+
+### [Data Engineer - People Analytics](https://www.linkedin.com/jobs/view/4480104924/) — CVS Health
+- 📍 **Location:** Dallas, TX
+- 🕒 **Posted:** 2026-10-16
+
+### [Principal Data Engineer](https://www.linkedin.com/jobs/view/4462722670/) — Navy Federal Credit Union
+- 📍 **Location:** Vienna, VA
+- 🕒 **Posted:** 2026-10-16
+
+### [ETL Informatica Developer](https://www.linkedin.com/jobs/view/4479613671/) — AVER, LLC
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-10-16
+
+### [Manager of Data Engineering](https://www.linkedin.com/jobs/view/4480546002/) — Safelite
+- 📍 **Location:** Columbus, OH
+- 🕒 **Posted:** 2026-10-16
+
+### [ETL (Extract Transform Load) Developer - Classified.](https://www.linkedin.com/jobs/view/4480333776/) — State of Colorado
+- 📍 **Location:** Denver, CO
+- 🕒 **Posted:** 2026-10-16
+
+### [VP, Principal Data Engineer](https://www.linkedin.com/jobs/view/4480188757/) — LPL Financial
+- 📍 **Location:** Fort Mill, SC
+- 🕒 **Posted:** 2026-10-16
+
+### [VP, Principal Data Engineer](https://www.linkedin.com/jobs/view/4480192633/) — LPL Financial
+- 📍 **Location:** New York, United States
+- 🕒 **Posted:** 2026-10-16
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4480503536/) — Symple Lending
+- 📍 **Location:** Tampa, FL
+- 🕒 **Posted:** 2026-10-16
+
+### [Sr. Data Engineer](https://www.linkedin.com/jobs/view/4450176926/) — Total Wine & More
+- 📍 **Location:** Bethesda, MD
+- 🕒 **Posted:** 2026-10-16
+
+### [Data Engineer 3 (Mid-Level)](https://www.linkedin.com/jobs/view/4480315402/) — UNCOMN
+- 📍 **Location:** Scott AFB, IL
+- 🕒 **Posted:** 2026-10-16
+
+### [Forward Deployed Data Engineer - Houston](https://www.linkedin.com/jobs/view/4462849981/) — Indicium AI
+- 📍 **Location:** Houston, TX
+- 🕒 **Posted:** 2026-10-16
+
+### [Senior Data Engineer (w/ Oracle & OLTP) - On-Site](https://www.linkedin.com/jobs/view/4480303145/) — NTT DATA North America
+- 📍 **Location:** Plano, TX
+- 🕒 **Posted:** 2026-10-16
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4470012354/) — Tata Consultancy Services
+- 📍 **Location:** Richardson, TX
+- 🕒 **Posted:** 2026-10-16
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4470011415/) — Tata Consultancy Services
+- 📍 **Location:** Richardson, TX
+- 🕒 **Posted:** 2026-10-16
+
+### [Lead Data Engineer](https://www.linkedin.com/jobs/view/4471878259/) — Lennar
+- 📍 **Location:** Miami, FL
+- 🕒 **Posted:** 2026-10-16
+
+### [Software Data Engineer](https://www.linkedin.com/jobs/view/4480549774/) — Booz Allen Hamilton
+- 📍 **Location:** Honolulu, HI
+- 🕒 **Posted:** 2026-10-16
+
+### [Data Engineer 4](https://www.linkedin.com/jobs/view/4472008853/) — Capital One
+- 📍 **Location:** Plano, TX
+- 🕒 **Posted:** 2026-10-16
+
+### [Data Engineer 4 (Manager, IC)](https://www.linkedin.com/jobs/view/4472019416/) — Capital One
+- 📍 **Location:** Richmond, VA
+- 🕒 **Posted:** 2026-10-16
+
+### [Data Engineer 4 (Manager, IC)](https://www.linkedin.com/jobs/view/4472000917/) — Capital One
+- 📍 **Location:** Cambridge, MA
+- 🕒 **Posted:** 2026-10-16
+
+### [Lead Data Engineer](https://www.linkedin.com/jobs/view/4471877278/) — Lennar
+- 📍 **Location:** Miami, FL
+- 🕒 **Posted:** 2026-10-16
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4477719651/) — Ebara Elliott Energy
+- 📍 **Location:** Jeannette, PA
+- 🕒 **Posted:** 2026-10-16
+
+### [Data Engineer 4 (Manager, IC)](https://www.linkedin.com/jobs/view/4472001981/) — Capital One
+- 📍 **Location:** Richmond, VA
+- 🕒 **Posted:** 2026-10-16
+
+### [Sr. Data Engineer](https://www.linkedin.com/jobs/view/4462747026/) — CGI
+- 📍 **Location:** Cary, NC
+- 🕒 **Posted:** 2026-10-16
+
+### [Data Engineer, Senior](https://www.linkedin.com/jobs/view/4453362436/) — Booz Allen Hamilton
+- 📍 **Location:** Huntsville, AL
+- 🕒 **Posted:** 2026-10-16
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4477319727/) — Charles Schwab
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-10-15
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4477319726/) — Charles Schwab
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-10-15
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4477314944/) — Charles Schwab
+- 📍 **Location:** Southlake, TX
+- 🕒 **Posted:** 2026-10-15
+
+### [AI Data Engineer](https://www.linkedin.com/jobs/view/4461311427/) — Tata Consultancy Services
+- 📍 **Location:** Jersey City, NJ
+- 🕒 **Posted:** 2026-10-15
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4479766187/) — Atlassian
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-10-15
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4479769142/) — Atlassian
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-15
+
+### [Principal Engineer, Enterprise Data Integration / Associate Director](https://www.linkedin.com/jobs/view/4454667795/) — Xenon Pharmaceuticals Inc.
+- 📍 **Location:** Boston, MA
+- 🕒 **Posted:** 2026-10-15
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4479757635/) — Atlassian
+- 📍 **Location:** Seattle, WA
+- 🕒 **Posted:** 2026-10-15
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4469478434/) — Tata Consultancy Services
+- 📍 **Location:** Detroit, MI
+- 🕒 **Posted:** 2026-10-15
+
+### [On-site Data Engineer (Charlotte, NC)](https://www.linkedin.com/jobs/view/4477335553/) — Hendrick Automotive Group
+- 📍 **Location:** Hendrick Mill, AL
+- 🕒 **Posted:** 2026-10-15
+
+### [Senior Specialist - Data Engineering](https://www.linkedin.com/jobs/view/4477332123/) — LTM
+- 📍 **Location:** Location, WV
+- 🕒 **Posted:** 2026-10-15
+
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4453137162/) — McLane Company, Inc.
+- 📍 **Location:** Temple, TX
+- 🕒 **Posted:** 2026-10-15
+
+### [Data engineer](https://www.linkedin.com/jobs/view/4469481408/) — Tata Consultancy Services
+- 📍 **Location:** Seattle, WA
+- 🕒 **Posted:** 2026-10-15
+
+### [Data Engineer, Robotics Delivery and Packaging Innovation](https://www.linkedin.com/jobs/view/4479823479/) — Amazon
+- 📍 **Location:** Bellevue, WA
+- 🕒 **Posted:** 2026-10-15
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4479198424/) — Ambry Genetics
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-10-15
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4479193632/) — Ambry Genetics
+- 📍 **Location:** Boston, MA
+- 🕒 **Posted:** 2026-10-15
+
+### [Data Engineer, Decision Intelligence Technology](https://www.linkedin.com/jobs/view/4471101120/) — Amazon Web Services (AWS)
+- 📍 **Location:** Bellevue, WA
+- 🕒 **Posted:** 2026-10-15
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4479183963/) — Ambry Genetics
+- 📍 **Location:** Aliso Viejo, CA
+- 🕒 **Posted:** 2026-10-15
+
+### [Purchasing Data Engineer](https://www.linkedin.com/jobs/view/4480141367/) — PACCAR
+- 📍 **Location:** Bellevue, WA
+- 🕒 **Posted:** 2026-10-15
+
+### [Lead Data Engineer](https://www.linkedin.com/jobs/view/4460698260/) — Thomson Reuters
+- 📍 **Location:** Frisco, TX
+- 🕒 **Posted:** 2026-10-15
+
+### [Data Engineer (079-26)](https://www.linkedin.com/jobs/view/4479871364/) — Anglicotech, LLC
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-10-15
+
+### [Senior Data Engineer II](https://www.linkedin.com/jobs/view/4436637335/) — Samsara
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-15
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4479190825/) — Ambry Genetics
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-15
+
+### [Senior Staff Data Engineer](https://www.linkedin.com/jobs/view/4440408428/) — Pandora
+- 📍 **Location:** Indiana, United States
+- 🕒 **Posted:** 2026-10-15
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4480137370/) — PACCAR
+- 📍 **Location:** Renton, WA
+- 🕒 **Posted:** 2026-10-15
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4479193363/) — Tempus AI
+- 📍 **Location:** Boston, MA
+- 🕒 **Posted:** 2026-10-15
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4479124952/) — ARC Services (Veteran Owned)
+- 📍 **Location:** Rock Hill, SC
+- 🕒 **Posted:** 2026-10-15
+
+### [Technical Lead, Data Engineering](https://www.linkedin.com/jobs/view/4469631074/) — Proterra
+- 📍 **Location:** Greer, SC
+- 🕒 **Posted:** 2026-10-15
+
+### [Data Engineer 4 (Python, AWS, SQL, GenAI) (Enterprise Platforms Technology)](https://www.linkedin.com/jobs/view/4471482567/) — Capital One
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-10-15
+
+### [ETL (Informatica) Lead/Architect](https://www.linkedin.com/jobs/view/4451407632/) — Tata Consultancy Services
+- 📍 **Location:** Phoenix, AZ
+- 🕒 **Posted:** 2026-10-14
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4434944908/) — Nissan Motor Corporation
+- 📍 **Location:** Franklin, TN
+- 🕒 **Posted:** 2026-10-14
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4451880660/) — Booz Allen Hamilton
+- 📍 **Location:** Chantilly, VA
+- 🕒 **Posted:** 2026-10-14
+
+### [Data Engineer 4 - HR Tech](https://www.linkedin.com/jobs/view/4470950441/) — Capital One
+- 📍 **Location:** Richmond, VA
+- 🕒 **Posted:** 2026-10-14
+
+### [Data Engineer 4 - HR Tech](https://www.linkedin.com/jobs/view/4470943635/) — Capital One
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-10-14
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4479559055/) — The Carlyle Group
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-14
+
+### [Mid-Level ETL / Data Integration Developer - Informatica](https://www.linkedin.com/jobs/view/4471124334/) — D&G Solutions
+- 📍 **Location:** Belleville, IL
+- 🕒 **Posted:** 2026-10-14
+
+### [Lead Data Engineer](https://www.linkedin.com/jobs/view/4459281029/) — McGraw Hill
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-14
+
+### [Azure Data Engineer (Onsite / Hybrid)](https://www.linkedin.com/jobs/view/4476787572/) — GSPANN Technologies, Inc
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-10-14
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4461550259/) — Booz Allen Hamilton
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-10-14
+
+### [Data Engineer 4](https://www.linkedin.com/jobs/view/4479590392/) — Capital One
+- 📍 **Location:** Wilmington, DE
+- 🕒 **Posted:** 2026-10-14
+
+### [Data Engineering, Senior Advisor](https://www.linkedin.com/jobs/view/4472102698/) — Southern California Edison (SCE)
+- 📍 **Location:** Pomona, CA
+- 🕒 **Posted:** 2026-10-14
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4469410097/) — Sally Beauty
+- 📍 **Location:** Denton, TX
+- 🕒 **Posted:** 2026-10-14
+
+### [Data Engineer 5](https://www.linkedin.com/jobs/view/4479579862/) — Capital One
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-10-14
+
+### [Analytics / Data Engineer](https://www.linkedin.com/jobs/view/4453010220/) — Tata Consultancy Services
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-14
+
+### [Java/ETL Developer - TS/SCI with Polygraph](https://www.linkedin.com/jobs/view/4385319658/) — General Dynamics Information Technology
+- 📍 **Location:** Herndon, VA
+- 🕒 **Posted:** 2026-10-14
+
+### [Data Engineer 4](https://www.linkedin.com/jobs/view/4470665387/) — Capital One
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-10-14
+
+### [Senior Staff Data Engineer](https://www.linkedin.com/jobs/view/4440403587/) — Pandora
+- 📍 **Location:** Oregon, United States
+- 🕒 **Posted:** 2026-10-14
+
+### [Data Engineer 4](https://www.linkedin.com/jobs/view/4470950439/) — Capital One
+- 📍 **Location:** Richmond, VA
+- 🕒 **Posted:** 2026-10-14
+
+### [Principal Data Engineer](https://www.linkedin.com/jobs/view/4479719359/) — IDEXX
+- 📍 **Location:** Portland, ME
+- 🕒 **Posted:** 2026-10-14
+
+### [ETL Architect (Informatica)](https://www.linkedin.com/jobs/view/4478483962/) — InfoCepts
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-14
+
+### [Senior Staff Data Engineer](https://www.linkedin.com/jobs/view/4440418125/) — Pandora
+- 📍 **Location:** Florida, United States
+- 🕒 **Posted:** 2026-10-14
+
+### [Senior Staff Data Engineer](https://www.linkedin.com/jobs/view/4440400798/) — Pandora
+- 📍 **Location:** West Virginia, United States
+- 🕒 **Posted:** 2026-10-14
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4479594174/) — SDL Tech Search
+- 📍 **Location:** Boston, MA
+- 🕒 **Posted:** 2026-10-14
+
+### [Senior Staff Data Engineer](https://www.linkedin.com/jobs/view/4440418123/) — Pandora
+- 📍 **Location:** Nevada, United States
+- 🕒 **Posted:** 2026-10-14
+
+### [Senior Staff Data Engineer](https://www.linkedin.com/jobs/view/4440410378/) — Pandora
+- 📍 **Location:** Georgia, United States
+- 🕒 **Posted:** 2026-10-14
+
+### [Data Engineer 4](https://www.linkedin.com/jobs/view/4470948455/) — Capital One
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-10-14
+
+### [Senior Staff Data Engineer](https://www.linkedin.com/jobs/view/4440410377/) — Pandora
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-10-14
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4374024921/) — YouVersion
+- 📍 **Location:** Edmond, OK
+- 🕒 **Posted:** 2026-10-14
+
+### [Senior Staff Data Engineer](https://www.linkedin.com/jobs/view/4440404557/) — Pandora
+- 📍 **Location:** Colorado, United States
+- 🕒 **Posted:** 2026-10-14
+
+### [Data Engineer 4](https://www.linkedin.com/jobs/view/4470665395/) — Capital One
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-10-14
+
+### [Data Engineer Lead- FullTime Only](https://www.linkedin.com/jobs/view/4478116039/) — TalentOla
+- 📍 **Location:** Charlotte, NC
+- 🕒 **Posted:** 2026-10-13
+
+### [Senior, Data Engineer](https://www.linkedin.com/jobs/view/4479216383/) — DEPT®
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-13
+
+### [ETL Data Engineer - Multiple Levels (Cleared)](https://www.linkedin.com/jobs/view/4416959866/) — Noblis
+- 📍 **Location:** Chantilly, VA
+- 🕒 **Posted:** 2026-10-13
+
+### [Senior, Data Engineer](https://www.linkedin.com/jobs/view/4479202964/) — DEPT®
+- 📍 **Location:** New York, United States
+- 🕒 **Posted:** 2026-10-13
+
+### [Senior, Data Engineer](https://www.linkedin.com/jobs/view/4479202962/) — DEPT®
+- 📍 **Location:** Illinois, United States
+- 🕒 **Posted:** 2026-10-13
+
+### [Cloud Data Engineer](https://www.linkedin.com/jobs/view/4414918884/) — Norwegian Cruise Line Holdings Ltd.
+- 📍 **Location:** Miami, FL
+- 🕒 **Posted:** 2026-10-13
+
+### [Informatica Python ETL Data Engineer & Tester](https://www.linkedin.com/jobs/view/4476409718/) — Infosys
+- 📍 **Location:** Tempe, AZ
+- 🕒 **Posted:** 2026-10-13
+
+### [Staff Engineer, Data Engineering](https://www.linkedin.com/jobs/view/4470216015/) — Analog Devices
+- 📍 **Location:** Wilmington, MA
+- 🕒 **Posted:** 2026-10-13
+
+### [Marketing Data Engineer](https://www.linkedin.com/jobs/view/4479216211/) — Living Spaces Furniture
+- 📍 **Location:** La Mirada, CA
+- 🕒 **Posted:** 2026-10-13
+
+### [Manager, Data Engineering & Analytics](https://www.linkedin.com/jobs/view/4479082987/) — SailPoint
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-10-13
+
+### [Data Engineering, Senior Advisor](https://www.linkedin.com/jobs/view/4472108541/) — Southern California Edison (SCE)
+- 📍 **Location:** Pomona, CA
+- 🕒 **Posted:** 2026-10-13
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4475884344/) — Accenture Federal Services
+- 📍 **Location:** Columbia, MD
+- 🕒 **Posted:** 2026-10-13
+
+### [Senior Staff Data Engineer](https://www.linkedin.com/jobs/view/4458866862/) — Pandora
+- 📍 **Location:** Oregon, United States
+- 🕒 **Posted:** 2026-10-13
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4431438471/) — Newsela
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-13
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4424764522/) — Audacy, Inc.
+- 📍 **Location:** Denver, CO
+- 🕒 **Posted:** 2026-10-13
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4477991854/) — Factspan
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-10-13
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4479225525/) — Trilogy Federal
+- 📍 **Location:** Arlington, VA
+- 🕒 **Posted:** 2026-10-13
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4424776430/) — Audacy, Inc.
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-13
+
+### [Senior Staff Data Engineer](https://www.linkedin.com/jobs/view/4458862815/) — Pandora
+- 📍 **Location:** Nevada, United States
+- 🕒 **Posted:** 2026-10-13
+
+### [Principal Data Engineer](https://www.linkedin.com/jobs/view/4476489680/) — Elanco
+- 📍 **Location:** Indianapolis, IN
+- 🕒 **Posted:** 2026-10-13
+
+### [Senior Staff Data Engineer](https://www.linkedin.com/jobs/view/4458865755/) — Pandora
+- 📍 **Location:** Indiana, United States
+- 🕒 **Posted:** 2026-10-13
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4478723519/) — Harnham
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-13
+
+### [Data Engineering Tech Lead](https://www.linkedin.com/jobs/view/4460221558/) — Tata Consultancy Services
+- 📍 **Location:** Jersey City, NJ
+- 🕒 **Posted:** 2026-10-13
+
+### [Senior Technical Architect- (AWS, ETL, Snowflake)](https://www.linkedin.com/jobs/view/4476427079/) — Infosys
+- 📍 **Location:** Phoenix, AZ
+- 🕒 **Posted:** 2026-10-13
+
+### [AWS Glue Data Engineer](https://www.linkedin.com/jobs/view/4467645184/) — Tata Consultancy Services
+- 📍 **Location:** Phoenix, AZ
+- 🕒 **Posted:** 2026-10-13
+
+### [AWS Glue Data Engineer](https://www.linkedin.com/jobs/view/4468509767/) — Tata Consultancy Services
+- 📍 **Location:** Phoenix, AZ
+- 🕒 **Posted:** 2026-10-13
+
+### [Data Engineer, AI & Automation](https://www.linkedin.com/jobs/view/4478156639/) — Sound Income Group
+- 📍 **Location:** Fort Lauderdale, FL
+- 🕒 **Posted:** 2026-10-13
+
+### [Lead Data Engineer](https://www.linkedin.com/jobs/view/4475697914/) — Tieto
+- 📍 **Location:** Dallas, TX
+- 🕒 **Posted:** 2026-10-12
+
+### [Senior Staff Data Engineer](https://www.linkedin.com/jobs/view/4458851950/) — Pandora
+- 📍 **Location:** Florida, United States
+- 🕒 **Posted:** 2026-10-12
+
+### [Senior Staff Data Engineer](https://www.linkedin.com/jobs/view/4458868759/) — Pandora
+- 📍 **Location:** West Virginia, United States
+- 🕒 **Posted:** 2026-10-12
+
+### [Senior Staff Data Engineer](https://www.linkedin.com/jobs/view/4458863782/) — Pandora
+- 📍 **Location:** Georgia, United States
+- 🕒 **Posted:** 2026-10-12
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4424776428/) — Audacy, Inc.
+- 📍 **Location:** Philadelphia, PA
+- 🕒 **Posted:** 2026-10-12
+
+### [Senior Staff Data Engineer](https://www.linkedin.com/jobs/view/4458869789/) — Pandora
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-10-12
+
+### [Senior Data Engineer (Offutt AFB)](https://www.linkedin.com/jobs/view/4478555810/) — Systems Planning & Analysis
+- 📍 **Location:** Offutt Air Force Base, NE
+- 🕒 **Posted:** 2026-10-12
+
+### [Senior Staff Data Engineer](https://www.linkedin.com/jobs/view/4458859876/) — Pandora
+- 📍 **Location:** Colorado, United States
+- 🕒 **Posted:** 2026-10-12
+
+### [Manager of Institutional Data Engineering](https://www.linkedin.com/jobs/view/4478570793/) — University of South Carolina
+- 📍 **Location:** Columbia, SC
+- 🕒 **Posted:** 2026-10-12
+
+### [Staff Data Engineer](https://www.linkedin.com/jobs/view/4450767797/) — Illumina
+- 📍 **Location:** San Diego, CA
+- 🕒 **Posted:** 2026-10-11
+
+### [Sr. Director, Enterprise Integrations & Data Engineering](https://www.linkedin.com/jobs/view/4450736272/) — YETI
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-10-11
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4466917142/) — Regal
+- 📍 **Location:** Knoxville, TN
+- 🕒 **Posted:** 2026-10-10
+
+### [Senior Data Engineer - PL/SQL](https://www.linkedin.com/jobs/view/4477893735/) — Fidelity Investments
+- 📍 **Location:** Durham, NC
+- 🕒 **Posted:** 2026-10-10
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4460532346/) — Benchling
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-10
+
+### [Senior Oracle Data Engineer - Onsite](https://www.linkedin.com/jobs/view/4450686266/) — NTT DATA North America
+- 📍 **Location:** Plano, TX
+- 🕒 **Posted:** 2026-10-10
+
+### [Staff Data Engineer](https://www.linkedin.com/jobs/view/4468042532/) — Code for America
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-10
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4413858787/) — Solution Design Group
+- 📍 **Location:** Minneapolis, MN
+- 🕒 **Posted:** 2026-10-10
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4450360067/) — Prudential Financial
+- 📍 **Location:** Newark, NJ
+- 🕒 **Posted:** 2026-10-10
+
+### [Data Engineer 5, Insights Platform](https://www.linkedin.com/jobs/view/4478037437/) — Capital One
+- 📍 **Location:** Plano, TX
+- 🕒 **Posted:** 2026-10-10
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4459303230/) — Nakupuna Companies
+- 📍 **Location:** Alexandria, VA
+- 🕒 **Posted:** 2026-10-10
+
+### [Sr Data Engineer](https://www.linkedin.com/jobs/view/4477841624/) — GE Aerospace
+- 📍 **Location:** Dayton, OH
+- 🕒 **Posted:** 2026-10-09
+
+### [Enterprise Data Engineer - Trading Systems](https://www.linkedin.com/jobs/view/4477801907/) — Selby Jennings
+- 📍 **Location:** Boston, MA
+- 🕒 **Posted:** 2026-10-09
+
+### [Senior Oracle Data Engineer - Onsite](https://www.linkedin.com/jobs/view/4450692049/) — NTT DATA North America
+- 📍 **Location:** Nashville, TN
+- 🕒 **Posted:** 2026-10-09
+
+### [Principal Data Engineer (Hybrid)](https://www.linkedin.com/jobs/view/4459638344/) — Blattner
+- 📍 **Location:** Avon, MN
+- 🕒 **Posted:** 2026-10-09
+
+### [Hybrid Data Engineer II](https://www.linkedin.com/jobs/view/4475237424/) — TEKsystems
+- 📍 **Location:** Hanover, MD
+- 🕒 **Posted:** 2026-10-09
+
+### [Data Engineer II - ETL/ELT](https://www.linkedin.com/jobs/view/4466642444/) — First Citizens Bank
+- 📍 **Location:** Tallahassee, FL
+- 🕒 **Posted:** 2026-10-09
+
+### [Data Engineer - Data Engineer III](https://www.linkedin.com/jobs/view/4477635747/) — Deloitte
+- 📍 **Location:** Baltimore, MD
+- 🕒 **Posted:** 2026-10-09
+
+### [Data Engineer II - ETL/ELT](https://www.linkedin.com/jobs/view/4466654135/) — First Citizens Bank
+- 📍 **Location:** Phoenix, AZ
+- 🕒 **Posted:** 2026-10-09
+
+### [Data Platform Architect - Palantir Foundry, Data Engineeringr](https://www.linkedin.com/jobs/view/4449354562/) — Lam Research
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-10-09
+
+### [Data Engineer - Data Engineer III](https://www.linkedin.com/jobs/view/4477637705/) — Deloitte
+- 📍 **Location:** Arlington, VA
+- 🕒 **Posted:** 2026-10-09
+
+### [Data Engineer - Data Engineer III](https://www.linkedin.com/jobs/view/4477639529/) — Deloitte
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-10-09
+
+### [Junior Data Engineer](https://www.linkedin.com/jobs/view/4468653223/) — Landing Point
+- 📍 **Location:** Wakefield, MA
+- 🕒 **Posted:** 2026-10-09
+
+### [Human Capital Data Engineering Lead](https://www.linkedin.com/jobs/view/4457704280/) — KKR
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-09
+
+### [SAP/ERP Transformation - Principal Data Engineer](https://www.linkedin.com/jobs/view/4459685079/) — Ahold Delhaize USA
+- 📍 **Location:** Salisbury, NC
+- 🕒 **Posted:** 2026-10-09
+
+### [Data Engineer II - ETL/ELT](https://www.linkedin.com/jobs/view/4466643335/) — First Citizens Bank
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-10-09
+
+### [Data engineer-TACO](https://www.linkedin.com/jobs/view/4458315569/) — Tata Consultancy Services
+- 📍 **Location:** Irvine, CA
+- 🕒 **Posted:** 2026-10-09
+
+### [Data Engineer II - ETL/ELT](https://www.linkedin.com/jobs/view/4466646278/) — First Citizens Bank
+- 📍 **Location:** Raleigh, NC
+- 🕒 **Posted:** 2026-10-09
+
+### [Data Engineer II - ETL/ELT](https://www.linkedin.com/jobs/view/4466645228/) — First Citizens Bank
+- 📍 **Location:** Raleigh, NC
+- 🕒 **Posted:** 2026-10-09
+
+### [Principal Data Engineer](https://www.linkedin.com/jobs/view/4468823846/) — Kaleidoscope Innovation
+- 📍 **Location:** Charlotte, NC
+- 🕒 **Posted:** 2026-10-09
+
+### [Data Engineer 4 (Manager, IC)](https://www.linkedin.com/jobs/view/4477645494/) — Capital One
+- 📍 **Location:** Cambridge, MA
+- 🕒 **Posted:** 2026-10-09
+
+### [Sr. Data Engineer](https://www.linkedin.com/jobs/view/4477881014/) — Florence Healthcare
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-10-09
+
+### [Senior Data Engineer - ETL/ELT](https://www.linkedin.com/jobs/view/4466661025/) — First Citizens Bank
+- 📍 **Location:** Raleigh, NC
+- 🕒 **Posted:** 2026-10-09
+
+### [Senior Data Engineer - ETL/ELT](https://www.linkedin.com/jobs/view/4466641833/) — First Citizens Bank
+- 📍 **Location:** Raleigh, NC
+- 🕒 **Posted:** 2026-10-09
+
+### [Senior Data Engineer - ETL/ELT](https://www.linkedin.com/jobs/view/4469177687/) — First Citizens Bank
+- 📍 **Location:** Phoenix, AZ
+- 🕒 **Posted:** 2026-10-09
+
+### [Data Engineer 4 (Manager, IC)](https://www.linkedin.com/jobs/view/4477655046/) — Capital One
+- 📍 **Location:** Richmond, VA
+- 🕒 **Posted:** 2026-10-09
+
+### [VP-Data Engineer (People Analytics)](https://www.linkedin.com/jobs/view/4459675839/) — Moody's Corporation
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-09
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4477882583/) — Fike Corporation
+- 📍 **Location:** Blue Springs, MO
+- 🕒 **Posted:** 2026-10-09
+
+### [Senior Data Engineer - ETL/ELT](https://www.linkedin.com/jobs/view/4466640937/) — First Citizens Bank
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-10-09
+
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4457709446/) — Sony Interactive Entertainment
+- 📍 **Location:** Aliso Viejo, CA
+- 🕒 **Posted:** 2026-10-09
+
+### [Lead Data Engineer -  ETL Java AI](https://www.linkedin.com/jobs/view/4466652012/) — JPMorganChase
+- 📍 **Location:** Columbus, OH
+- 🕒 **Posted:** 2026-10-09
+
+### [Data Engineer 4 (Manager, IC)](https://www.linkedin.com/jobs/view/4477655044/) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-09
+
+### [Senior Data Integration Operations Engineer](https://www.linkedin.com/jobs/view/4470450985/) — Northeastern University
+- 📍 **Location:** Boston, MA
+- 🕒 **Posted:** 2026-10-09
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4475724078/) — Harnham
+- 📍 **Location:** Colorado Springs, CO
+- 🕒 **Posted:** 2026-10-08
+
+### [Senior Data Engineer (Remote)](https://www.linkedin.com/jobs/view/4477468307/) — Hyatt
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-10-08
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4468310054/) — F&G
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-08
+
+### [Data Integration Engineer](https://www.linkedin.com/jobs/view/4475992188/) — ICF
+- 📍 **Location:** Montgomery, AL
+- 🕒 **Posted:** 2026-10-08
+
+### [Data Integration Engineer](https://www.linkedin.com/jobs/view/4475974807/) — ICF
+- 📍 **Location:** Reston, VA
+- 🕒 **Posted:** 2026-10-08
+
+### [Data Integration Engineer](https://www.linkedin.com/jobs/view/4449056175/) — Caris Life Sciences
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-08
+
+### [Data Integration Engineer](https://www.linkedin.com/jobs/view/4475988285/) — ICF
+- 📍 **Location:** Charlotte, NC
+- 🕒 **Posted:** 2026-10-08
+
+### [Senior Data Engineer (w/ Oracle & OLTP) - On-Site](https://www.linkedin.com/jobs/view/4477445642/) — NTT DATA North America
+- 📍 **Location:** Plano, TX
+- 🕒 **Posted:** 2026-10-08
+
+### [Data Engineer - Data Software Engineering and Cloud Platforms, Early Career](https://www.linkedin.com/jobs/view/4468299637/) — General Motors
+- 📍 **Location:** Warren, MI
+- 🕒 **Posted:** 2026-10-08
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4473194220/) — Casey's
+- 📍 **Location:** Ankeny, IA
+- 🕒 **Posted:** 2026-10-08
+
+### [Data Engineer - Data Software Engineering and Cloud Platforms, Early Career](https://www.linkedin.com/jobs/view/4468285842/) — General Motors
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-10-08
+
+### [OBIEE Data Engineer](https://www.linkedin.com/jobs/view/4458311548/) — Tata Consultancy Services
+- 📍 **Location:** Miami, FL
+- 🕒 **Posted:** 2026-10-08
+
+### [Capital One Shopping Tech, Data Engineer 5 (Remote- Eligible)](https://www.linkedin.com/jobs/view/4477176978/) — Capital One
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-10-08
+
+### [Data Engineer 4 - Intelligent Foundations and Experiences (IFX)](https://www.linkedin.com/jobs/view/4476965617/) — Capital One
+- 📍 **Location:** Richmond, VA
+- 🕒 **Posted:** 2026-10-08
+
+### [Analyst, Lead Data Engineering](https://www.linkedin.com/jobs/view/4475990044/) — Enterprise Products
+- 📍 **Location:** Greater Houston
+- 🕒 **Posted:** 2026-10-08
+
+### [Data Integration Developer](https://www.linkedin.com/jobs/view/4468322565/) — Partnership HealthPlan of California
+- 📍 **Location:** Fairfield, CA
+- 🕒 **Posted:** 2026-10-08
+
+### [Senior Associate, Application Developer - Data Engineer](https://www.linkedin.com/jobs/view/4477434458/) — L3Harris Technologies
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-08
+
+### [Data Engineer 4 - Intelligent Foundations and Experiences (IFX)](https://www.linkedin.com/jobs/view/4476964659/) — Capital One
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-10-08
+
+### [Sr. Data Engineer](https://www.linkedin.com/jobs/view/4437271954/) — DTN
+- 📍 **Location:** Texas, United States
+- 🕒 **Posted:** 2026-10-08
+
+### [Data Engineer - Talent Acquisition Operations](https://www.linkedin.com/jobs/view/4475722093/) — Palantir Technologies
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Integration Lead, VP](https://www.linkedin.com/jobs/view/4475018033/) — MUFG
+- 📍 **Location:** Tampa, FL
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4462335806/) — Associated Wholesale Grocers
+- 📍 **Location:** Kansas City, KS
+- 🕒 **Posted:** 2026-10-07
+
+### [Principal Data Engineer](https://www.linkedin.com/jobs/view/4476526812/) — New Balance
+- 📍 **Location:** Boston, MA
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4471775048/) — Collēctīvus Holdings
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-07
+
+### [Staff Engineer II, TSG Data Engineering](https://www.linkedin.com/jobs/view/4476762415/) — Bain & Company
+- 📍 **Location:** Boston, MA
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Integration Lead, VP](https://www.linkedin.com/jobs/view/4475007516/) — MUFG
+- 📍 **Location:** Jersey City, NJ
+- 🕒 **Posted:** 2026-10-07
+
+### [ETL Developer (CEMI)](https://www.linkedin.com/jobs/view/4476775529/) — Cornell University
+- 📍 **Location:** Ithaca, NY
+- 🕒 **Posted:** 2026-10-07
+
+### [SAP NS2 Senior Data Integration Specialist](https://www.linkedin.com/jobs/view/4474470998/) — SAP
+- 📍 **Location:** Newtown Square, PA
+- 🕒 **Posted:** 2026-10-07
+
+### [Staff Engineer II, TSG Data Engineering](https://www.linkedin.com/jobs/view/4476753872/) — Bain & Company
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4475197973/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-10-07
+
+### [Staff Engineer II, TSG Data Engineering](https://www.linkedin.com/jobs/view/4476745985/) — Bain & Company
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-10-07
+
+### [Sr HR Data Engineer](https://www.linkedin.com/jobs/view/4475021740/) — DHL Supply Chain
+- 📍 **Location:** Westerville, OH
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4476944538/) — Harnham
+- 📍 **Location:** Phoenix, AZ
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer 5](https://www.linkedin.com/jobs/view/4476758072/) — Capital One
+- 📍 **Location:** Richmond, VA
+- 🕒 **Posted:** 2026-10-07
+
+### [HR Data Engineer](https://www.linkedin.com/jobs/view/4475026534/) — DHL Supply Chain
+- 📍 **Location:** Westerville, OH
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475184081/) — Deloitte
+- 📍 **Location:** Wichita, KS
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475175564/) — Deloitte
+- 📍 **Location:** New Orleans, LA
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer 5](https://www.linkedin.com/jobs/view/4476750403/) — Capital One
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4409615377/) — Celigo
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4476931861/) — Fusion Worldwide
+- 📍 **Location:** Boston, MA
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4476537590/) — Credence
+- 📍 **Location:** Boston, MA
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4459309198/) — Nakupuna Companies
+- 📍 **Location:** Arlington, VA
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475185088/) — Deloitte
+- 📍 **Location:** Hartford, CT
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475188026/) — Deloitte
+- 📍 **Location:** Hermitage, TN
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475166943/) — Deloitte
+- 📍 **Location:** Tulsa, OK
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475169958/) — Deloitte
+- 📍 **Location:** Davenport, IA
+- 🕒 **Posted:** 2026-10-07
+
+### [Workday PSA & Financials Data Engineer](https://www.linkedin.com/jobs/view/4473384103/) — Armanino
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-10-06
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4476168500/) — Harrington Starr
+- 📍 **Location:** Boston, MA
+- 🕒 **Posted:** 2026-10-06
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4474965300/) — Yochana
+- 📍 **Location:** Texas, United States
+- 🕒 **Posted:** 2026-10-06
+
+### [Data Engineer I , WW Ops Finance S&A](https://www.linkedin.com/jobs/view/4476106310/) — Amazon
+- 📍 **Location:** Bellevue, WA
+- 🕒 **Posted:** 2026-10-06
+
+### [Manager - Data Engineering](https://www.linkedin.com/jobs/view/4474991848/) — Ally
+- 📍 **Location:** Detroit, MI
+- 🕒 **Posted:** 2026-10-06
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4411847912/) — Pattern
+- 📍 **Location:** Lehi, UT
+- 🕒 **Posted:** 2026-10-06
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4476511181/) — Lazard
+- 📍 **Location:** New York, United States
+- 🕒 **Posted:** 2026-10-06
+
+### [SAP Data Integration Engineer](https://www.linkedin.com/jobs/view/4473694098/) — oXya - USA
+- 📍 **Location:** Jersey City, NJ
+- 🕒 **Posted:** 2026-10-05
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4475596387/) — Nonstop Health
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-05
+
+### [Director - Data Engineering](https://www.linkedin.com/jobs/view/4474603703/) — Waylin Partners
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-05
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4473379524/) — Agilyti
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-02
+
+### [Associate Data Engineer](https://www.linkedin.com/jobs/view/4474323119/) — Selby Jennings
+- 📍 **Location:** Boston, MA
+- 🕒 **Posted:** 2026-10-01
+
+### [AlloBaas - Data Engineer II](https://www.linkedin.com/jobs/view/4472966903/) — First Mutual Holding Co.
+- 📍 **Location:** Lakewood, OH
+- 🕒 **Posted:** 2026-10-01
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4473920094/) — KLS Martin Group
+- 📍 **Location:** Jacksonville, FL
 - 🕒 **Posted:** 2026-09-30
 
-### [Data Engineer ETL / Apache Airflow (H/F) - Consulting](https://www.linkedin.com/jobs/view/4473267197/) — Scalian
-- 📍 **Location:** Neuilly-sur-Seine, Île-de-France, France
+### [Mid-Level Data Engineer](https://www.linkedin.com/jobs/view/4472308874/) — Full Visibility LLC
+- 📍 **Location:** Huntsville, AL
+- 🕒 **Posted:** 2026-09-30
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4472321794/) — Tavant
+- 📍 **Location:** Houston, TX
+- 🕒 **Posted:** 2026-09-30
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4472316683/) — Full Visibility LLC
+- 📍 **Location:** Huntsville, AL
+- 🕒 **Posted:** 2026-09-30
+
+### [Data Engineer AWS - US Citizens](https://www.linkedin.com/jobs/view/4471721206/) — Fracsys Inc
+- 📍 **Location:** Leesburg, VA
 - 🕒 **Posted:** 2026-09-29
 
-### [Senior Data Engineer - F/H](https://www.linkedin.com/jobs/view/4473239342/) — ATECNA
-- 📍 **Location:** Greater Lille Metropolitan Area
+### [Senior Staff Data Engineer](https://www.linkedin.com/jobs/view/4473061050/) — iROW9 INC
+- 📍 **Location:** Milpitas, CA
 - 🕒 **Posted:** 2026-09-29
 
-### [Data Engineer Databricks](https://www.linkedin.com/jobs/view/4470169645/) — Datatorii
-- 📍 **Location:** Paris, Île-de-France, France
+### [Jr Data Engineer](https://www.linkedin.com/jobs/view/4473542664/) — Gen II Fund Services
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-29
 
-### [Data Engineer - Toulouse (H/F)](https://www.linkedin.com/jobs/view/4471932155/) — MP DATA
-- 📍 **Location:** Balma, Occitanie, France
+### [Data Engineer - West Region](https://www.linkedin.com/jobs/view/4460067705/) — Slalom
+- 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-09-29
 
-### [Data Engineer Sénior](https://www.linkedin.com/jobs/view/4473288916/) — PROXIAD
-- 📍 **Location:** Aix-en-Provence, Provence-Alpes-Côte d'Azur, France
+### [Data Engineer - West Region](https://www.linkedin.com/jobs/view/4460079571/) — Slalom
+- 📍 **Location:** Orange County, CA
 - 🕒 **Posted:** 2026-09-29
 
-### [Data Engineer (F/H) - en alternance](https://www.linkedin.com/jobs/view/4471754396/) — Carrefour
-- 📍 **Location:** Massy, Île-de-France, France
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4473529842/) — Delmar Nord
+- 📍 **Location:** Atlanta Metropolitan Area
 - 🕒 **Posted:** 2026-09-29
 
-### [Principal Data Engineer](https://www.linkedin.com/jobs/view/4471926506/) — Zifo
-- 📍 **Location:** France
+### [Data Engineer - West Region](https://www.linkedin.com/jobs/view/4460076587/) — Slalom
+- 📍 **Location:** Houston, TX
 - 🕒 **Posted:** 2026-09-29
 
-### [Senior Data Engineer AWS [CDI & Freelance]](https://www.linkedin.com/jobs/view/4471726650/) — MERITIS
-- 📍 **Location:** Brussels Metropolitan Area
+### [Data Engineer - West Region](https://www.linkedin.com/jobs/view/4460067706/) — Slalom
+- 📍 **Location:** Seattle, WA
 - 🕒 **Posted:** 2026-09-29
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4458884690/) — Capgemini
-- 📍 **Location:** Casablanca-Settat, Morocco
+### [Sr Data Engineer](https://www.linkedin.com/jobs/view/4471922608/) — Headfarmer
+- 📍 **Location:** Phoenix, AZ
+- 🕒 **Posted:** 2026-09-29
+
+### [ETL Lead Engineer](https://www.linkedin.com/jobs/view/4448212031/) — Intelliswift - An LTTS Company
+- 📍 **Location:** Greenville, SC
+- 🕒 **Posted:** 2026-09-29
+
+### [ETL Tester](https://www.linkedin.com/jobs/view/4484024465/) — CareCone Group
+- 📍 **Location:** Sydney, New South Wales, Australia
+- 🕒 **Posted:** 2026-10-27
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4474674799/) — Partners Group
+- 📍 **Location:** Singapore, Singapore
+- 🕒 **Posted:** 2026-10-27
+
+### [Expert Talend Data Integration & Data Quality](https://www.linkedin.com/jobs/view/4481870124/) — Qim info
+- 📍 **Location:** Geneva, Switzerland
+- 🕒 **Posted:** 2026-10-27
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4481436830/) — Chalhoub Group
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-10-26
+
+### [Data Engineer (Quality)](https://www.linkedin.com/jobs/view/4481429010/) — Chalhoub Group
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-10-26
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4430010485/) — NielsenIQ
+- 📍 **Location:** Mexico City Metropolitan Area
+- 🕒 **Posted:** 2026-10-26
+
+### [Senior Data Engineer (Quality)](https://www.linkedin.com/jobs/view/4481439679/) — Chalhoub Group
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-10-26
+
+### [Tech Lead Data Engineer H/F](https://www.linkedin.com/jobs/view/4483703948/) — Jems Group
+- 📍 **Location:** Tunis, Tunis, Tunisia
+- 🕒 **Posted:** 2026-10-26
+
+### [Principal Data Engineer](https://www.linkedin.com/jobs/view/4437020014/) — NielsenIQ
+- 📍 **Location:** Mexico City Metropolitan Area
+- 🕒 **Posted:** 2026-10-24
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4388942361/) — CLO Virtual Fashion
+- 📍 **Location:** Seoul, Seoul, South Korea
+- 🕒 **Posted:** 2026-10-24
+
+### [Talend Support Consultant, Mid Level](https://www.linkedin.com/jobs/view/4483159138/) — CGI
+- 📍 **Location:** Taguig, National Capital Region, Philippines
+- 🕒 **Posted:** 2026-10-23
+
+### [Data Engineer [T500-30363]](https://www.linkedin.com/jobs/view/4482854037/) — lululemon
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-10-23
+
+### [Manager -Data Engineering](https://www.linkedin.com/jobs/view/4472902990/) — Chalhoub Group
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-10-23
+
+### [Senior Technology Consultant - ETL and Data Integration](https://www.linkedin.com/jobs/view/4437849554/) — Kinaxis
+- 📍 **Location:** United Kingdom
+- 🕒 **Posted:** 2026-10-23
+
+### [AVP-Data Integration](https://www.linkedin.com/jobs/view/4465640010/) — PT. Indosat Tbk
+- 📍 **Location:** Jakarta, Indonesia
+- 🕒 **Posted:** 2026-10-22
+
+### [ETL Test lead](https://www.linkedin.com/jobs/view/4472382662/) — Infosys
+- 📍 **Location:** Bengaluru East, Karnataka, India
+- 🕒 **Posted:** 2026-10-22
+
+### [IT Analyst Applications ( Data Engineer – AI & Analytics )](https://www.linkedin.com/jobs/view/4482440827/) — Caterpillar Inc.
+- 📍 **Location:** Bengaluru East, Karnataka, India
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4482721504/) — Greif
+- 📍 **Location:** Greater Chennai Area
+- 🕒 **Posted:** 2026-10-22
+
+### [Consultant Data Engineer Madrid](https://www.linkedin.com/jobs/view/4480047407/) — Deloitte
+- 📍 **Location:** Madrid, Community of Madrid, Spain
+- 🕒 **Posted:** 2026-10-22
+
+### [ETL Talend Developer](https://www.linkedin.com/jobs/view/4482130822/) — Delpath
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-10-21
+
+### [Lead Data Engineer](https://www.linkedin.com/jobs/view/4478684731/) — Milestone Technologies, Inc.
+- 📍 **Location:** Hyderabad, Telangana, India
+- 🕒 **Posted:** 2026-10-20
+
+### [Data Operations Support Lead - ETL + Snowflake + Azure](https://www.linkedin.com/jobs/view/4471723357/) — Gallagher
+- 📍 **Location:** Colombo, Western Province, Sri Lanka
+- 🕒 **Posted:** 2026-10-20
+
+### [ETL – Talend Senior Developer Specialist](https://www.linkedin.com/jobs/view/4480709805/) — Procom
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-10-20
+
+### [AVP, Data Engineering and AI Innovation](https://www.linkedin.com/jobs/view/4480529753/) — Safelite
+- 📍 **Location:** Columbus, OH
+- 🕒 **Posted:** 2026-10-16
+
+### [Junior Big Data Engineer (Java / Python)](https://www.linkedin.com/jobs/view/4480360783/) — Allegro
+- 📍 **Location:** Poznań, Wielkopolskie, Poland
+- 🕒 **Posted:** 2026-10-16
+
+### [Data Engineering Specialist](https://www.linkedin.com/jobs/view/4479847685/) — Spektrum
+- 📍 **Location:** The Hague, South Holland, Netherlands
+- 🕒 **Posted:** 2026-10-15
+
+### [Full Stack Developer – Data Engineering (Hybrid) / Développeur(euse) Full Stack – Ingénierie des données (hybride)](https://www.linkedin.com/jobs/view/4466550186/) — Morgan Stanley
+- 📍 **Location:** Montreal, Quebec, Canada
+- 🕒 **Posted:** 2026-10-15
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4479156369/) — DELAN - IT Talent Solutions
+- 📍 **Location:** Montreal, Quebec, Canada
+- 🕒 **Posted:** 2026-10-15
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4479811459/) — Graham & Brown Holdings
+- 📍 **Location:** Padiham, England, United Kingdom
+- 🕒 **Posted:** 2026-10-15
+
+### [Enterprise Data Integration & Migration, Sr Developer](https://www.linkedin.com/jobs/view/4441726424/) — RSM US-El Salvador
+- 📍 **Location:** San Salvador, San Salvador, El Salvador
+- 🕒 **Posted:** 2026-10-14
+
+### [Data Engineer (ETL / DWH)](https://www.linkedin.com/jobs/view/4476621491/) — Nexus Corporation
+- 📍 **Location:** Tokyo, Tokyo, Japan
+- 🕒 **Posted:** 2026-10-14
+
+### [Talend Support Consultant, Lead](https://www.linkedin.com/jobs/view/4468167371/) — CGI
+- 📍 **Location:** Taguig, National Capital Region, Philippines
+- 🕒 **Posted:** 2026-10-13
+
+### [ETL Test Engineer](https://www.linkedin.com/jobs/view/4479022522/) — NTT DATA North America
+- 📍 **Location:** Bangalore Urban, Karnataka, India
+- 🕒 **Posted:** 2026-10-13
+
+### [Manager, Data Engineering Architect](https://www.linkedin.com/jobs/view/4476420786/) — Deloitte
+- 📍 **Location:** Manchester, England, United Kingdom
+- 🕒 **Posted:** 2026-10-13
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4414690382/) — Salesforce
+- 📍 **Location:** Mexico City, Mexico
+- 🕒 **Posted:** 2026-10-12
+
+### [Cloud Data Engineer](https://www.linkedin.com/jobs/view/4478507580/) — Renova Cloud
+- 📍 **Location:** Ho Chi Minh City, Vietnam
+- 🕒 **Posted:** 2026-10-12
+
+### [PMTS - Principal Agentic Data Engineer](https://www.linkedin.com/jobs/view/4433550130/) — Salesforce
+- 📍 **Location:** Mexico City, Mexico
+- 🕒 **Posted:** 2026-10-11
+
+### [Senior Director, Data Engineering](https://www.linkedin.com/jobs/view/4438713462/) — Global Partners LP
+- 📍 **Location:** Auburndale, MA
+- 🕒 **Posted:** 2026-10-10
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4476145707/) — NLV (Nederlands Vastgoed)
+- 📍 **Location:** The Hague, South Holland, Netherlands
+- 🕒 **Posted:** 2026-10-09
+
+### [Consultant/ Senior Consultant (Data Engineer) - AI & Data - Hong Kong](https://www.linkedin.com/jobs/view/4468614813/) — Deloitte
+- 📍 **Location:** Hong Kong SAR
+- 🕒 **Posted:** 2026-10-09
+
+### [Snowflake Data Engineer](https://www.linkedin.com/jobs/view/4457708689/) — NTT DATA, Inc.
+- 📍 **Location:** London, England, United Kingdom
+- 🕒 **Posted:** 2026-10-09
+
+### [Returnship - Data Integration](https://www.linkedin.com/jobs/view/4467868420/) — Cognizant
+- 📍 **Location:** Hyderabad, Telangana, India
+- 🕒 **Posted:** 2026-10-09
+
+### [(Senior) Consultant/ Manager/ Senior Manager (Data Engineer) - Engineering - Hong Kong(107106)](https://www.linkedin.com/jobs/view/4469103821/) — Deloitte
+- 📍 **Location:** Hong Kong SAR
+- 🕒 **Posted:** 2026-10-09
+
+### [Eucloid - Lead Data Engineer](https://www.linkedin.com/jobs/view/4476949901/) — Eucloid Data Solutions
+- 📍 **Location:** Chennai, Tamil Nadu, India
+- 🕒 **Posted:** 2026-10-08
+
+### [Senior Consultant/ Manager / Senior Manager (Data Engineer) - AI & Data - Hong Kong (107179)](https://www.linkedin.com/jobs/view/4475989896/) — Deloitte
+- 📍 **Location:** Hong Kong, Hong Kong SAR
+- 🕒 **Posted:** 2026-10-08
+
+### [Associate Data Engineer](https://www.linkedin.com/jobs/view/4475412443/) — Mobility Global
+- 📍 **Location:** Gurugram, Haryana, India
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior Lead Data Engineer](https://www.linkedin.com/jobs/view/4476575071/) — Integrant, Inc.
+- 📍 **Location:** Cairo, Cairo, Egypt
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4474072044/) — ALTEN Spain
+- 📍 **Location:** Madrid, Community of Madrid, Spain
+- 🕒 **Posted:** 2026-10-06
+
+### [Finance Data Engineer (Senior Manager)](https://www.linkedin.com/jobs/view/4472820972/) — Accenture UK & Ireland
+- 📍 **Location:** London, England, United Kingdom
+- 🕒 **Posted:** 2026-10-01
+
+### [Lead Data Integration Engineer](https://www.linkedin.com/jobs/view/4471927038/) — EPAM Systems
+- 📍 **Location:** Türkiye
+- 🕒 **Posted:** 2026-09-29
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4471324650/) — Sofina
+- 📍 **Location:** Singapore, Singapore
 - 🕒 **Posted:** 2026-09-28
 
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4471500615/) — AXA Global Business Services (AXA GBS)
-- 📍 **Location:** Salé, Rabat-Salé-Kénitra, Morocco
+### [Data Engineer](https://www.linkedin.com/jobs/view/4470871283/) — Recordly
+- 📍 **Location:** Helsinki, Uusimaa, Finland
 - 🕒 **Posted:** 2026-09-28
 
-### [Consultant Data Integration – Informatica / Talend (F/H)](https://www.linkedin.com/jobs/view/4433917777/) — Aubay
-- 📍 **Location:** Paris, Île-de-France, France
-- 🕒 **Posted:** 2026-09-28
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4462816097/) — evoke
+- 📍 **Location:** Bucharest, Romania
+- 🕒 **Posted:** 2026-10-27
 
-### [Data Engineer - F/H](https://www.linkedin.com/jobs/view/4470879786/) — Ippon Technologies
-- 📍 **Location:** Bordeaux, Nouvelle-Aquitaine, France
-- 🕒 **Posted:** 2026-09-28
+### [Data Engineer](https://www.linkedin.com/jobs/view/4481881761/) — Auxilion
+- 📍 **Location:** Dublin, County Dublin, Ireland
+- 🕒 **Posted:** 2026-10-27
 
-### [Data Engineer Teradata – H/F](https://www.linkedin.com/jobs/view/4470845516/) — Key Performance Consulting (KPC)
-- 📍 **Location:** Île-de-France, France
-- 🕒 **Posted:** 2026-09-28
+### [Data Engineer-Data Platforms-Google - 1](https://www.linkedin.com/jobs/view/4473681538/) — IBM
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-27
 
-### [Data engineer H/F](https://www.linkedin.com/jobs/view/4470841360/) — Key Performance Consulting (KPC)
-- 📍 **Location:** Bordeaux, Nouvelle-Aquitaine, France
-- 🕒 **Posted:** 2026-09-28
+### [Data Engineer (Dbt)](https://www.linkedin.com/jobs/view/4484054506/) — Nestlé Nespresso SA
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-10-27
 
-### [Consultant ETL IBM DataStage (F/H)](https://www.linkedin.com/jobs/view/4433910990/) — Aubay
-- 📍 **Location:** Île-de-France, France
-- 🕒 **Posted:** 2026-09-28
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4484009334/) — Cincinnati Children's
+- 📍 **Location:** Cincinnati, OH
+- 🕒 **Posted:** 2026-10-27
 
-### [Data Engineer (F/H)](https://www.linkedin.com/jobs/view/4433930053/) — Aubay
-- 📍 **Location:** Île-de-France, France
-- 🕒 **Posted:** 2026-09-28
+### [Junior Data Engineer - Tieto Tech Consulting (m/f/d)](https://www.linkedin.com/jobs/view/4475803067/) — Tieto
+- 📍 **Location:** Veliko Tŭrnovo, Veliko Turnovo, Bulgaria
+- 🕒 **Posted:** 2026-10-27
 
-### [Data Engineer H/F](https://www.linkedin.com/jobs/view/4471384766/) — Ippon Technologies
-- 📍 **Location:** Greater Lyon Area
-- 🕒 **Posted:** 2026-09-28
+### [ETL/Data Engineer - Remote Work](https://www.linkedin.com/jobs/view/4483654139/) — BairesDev
+- 📍 **Location:** São Paulo, Brazil
+- 🕒 **Posted:** 2026-10-27
 
-### [Lead Data Engineer (H/F)](https://www.linkedin.com/jobs/view/4471386725/) — Oventi
-- 📍 **Location:** Paris, Île-de-France, France
-- 🕒 **Posted:** 2026-09-28
+### [ETL/Data Engineer - Remote Work](https://www.linkedin.com/jobs/view/4483640824/) — BairesDev
+- 📍 **Location:** Chile
+- 🕒 **Posted:** 2026-10-27
 
-### [Tech Lead Data Engineering (F/H)](https://www.linkedin.com/jobs/view/4433916782/) — Aubay
-- 📍 **Location:** Paris, Île-de-France, France
-- 🕒 **Posted:** 2026-09-28
+### [ETL/Data Engineer - Remote Work](https://www.linkedin.com/jobs/view/4483642542/) — BairesDev
+- 📍 **Location:** Brazil
+- 🕒 **Posted:** 2026-10-27
 
-### [Data Engineer - Antwerp office](https://www.linkedin.com/jobs/view/4472722814/) — Delen Private Bank
-- 📍 **Location:** Antwerp Metropolitan Area
-- 🕒 **Posted:** 2026-09-28
+### [Data Engineer-Data Platforms-Google - 5](https://www.linkedin.com/jobs/view/4473691314/) — IBM
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-27
 
-### [Data Integration Consultant](https://www.linkedin.com/jobs/view/4471506092/) — Easi
-- 📍 **Location:** Ghent Metropolitan Area
-- 🕒 **Posted:** 2026-09-28
+### [Data Engineer](https://www.linkedin.com/jobs/view/4481841830/) — Snowy Hydro
+- 📍 **Location:** Sydney, New South Wales, Australia
+- 🕒 **Posted:** 2026-10-27
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4409287250/) — NTT DATA, Inc.
+- 📍 **Location:** Bengaluru East, Karnataka, India
+- 🕒 **Posted:** 2026-10-27
+
+### [Data Engineer-Data Platforms-Google - 3](https://www.linkedin.com/jobs/view/4473680556/) — IBM
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-27
+
+### [Cloud Data Engineer (f/m/x)](https://www.linkedin.com/jobs/view/4481400976/) — Sii Poland
+- 📍 **Location:** Toruń, Kujawsko-pomorskie, Poland
+- 🕒 **Posted:** 2026-10-26
+
+### [Cloud Data Engineer (f/m/x)](https://www.linkedin.com/jobs/view/4481416337/) — Sii Poland
+- 📍 **Location:** Szczecin, Zachodniopomorskie, Poland
+- 🕒 **Posted:** 2026-10-26
+
+### [Data Engineer [Foundational AI Platform Build | Greenfield Data Transformation]](https://www.linkedin.com/jobs/view/4482931568/) — GRIT
+- 📍 **Location:** Singapore, Singapore
+- 🕒 **Posted:** 2026-10-26
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4481808837/) — Troon
+- 📍 **Location:** Scottsdale, AZ
+- 🕒 **Posted:** 2026-10-26
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4483565505/) — EDF Trading
+- 📍 **Location:** London Area, United Kingdom
+- 🕒 **Posted:** 2026-10-26
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4481464756/) — Ayesa Digital
+- 📍 **Location:** Community of Madrid, Spain
+- 🕒 **Posted:** 2026-10-26
+
+### [Cloud Data Engineer (f/m/x)](https://www.linkedin.com/jobs/view/4481419192/) — Sii Poland
+- 📍 **Location:** Lublin, Lubelskie, Poland
+- 🕒 **Posted:** 2026-10-26
+
+### [Cloud Data Engineer (f/m/x)](https://www.linkedin.com/jobs/view/4481410681/) — Sii Poland
+- 📍 **Location:** Częstochowa, Śląskie, Poland
+- 🕒 **Posted:** 2026-10-26
+
+### [Cloud Data Engineer (f/m/x)](https://www.linkedin.com/jobs/view/4481403929/) — Sii Poland
+- 📍 **Location:** Gliwice, Śląskie, Poland
+- 🕒 **Posted:** 2026-10-26
+
+### [Cloud Data Engineer (f/m/x)](https://www.linkedin.com/jobs/view/4481417299/) — Sii Poland
+- 📍 **Location:** Gdańsk, Pomorskie, Poland
+- 🕒 **Posted:** 2026-10-26
+
+### [Cloud Data Engineer (f/m/x)](https://www.linkedin.com/jobs/view/4481401929/) — Sii Poland
+- 📍 **Location:** Łódź, Łódzkie, Poland
+- 🕒 **Posted:** 2026-10-26
+
+### [Cloud Data Engineer (f/m/x)](https://www.linkedin.com/jobs/view/4481422083/) — Sii Poland
+- 📍 **Location:** Wrocław, Dolnośląskie, Poland
+- 🕒 **Posted:** 2026-10-26
+
+### [Cloud Data Engineer (f/m/x)](https://www.linkedin.com/jobs/view/4481422081/) — Sii Poland
+- 📍 **Location:** Katowice, Śląskie, Poland
+- 🕒 **Posted:** 2026-10-26
+
+### [Cloud Data Engineer (f/m/x)](https://www.linkedin.com/jobs/view/4481421149/) — Sii Poland
+- 📍 **Location:** Cracow, Małopolskie, Poland
+- 🕒 **Posted:** 2026-10-26
+
+### [Cloud Data Engineer (f/m/x)](https://www.linkedin.com/jobs/view/4481418342/) — Sii Poland
+- 📍 **Location:** Białystok, Podlaskie, Poland
+- 🕒 **Posted:** 2026-10-26
+
+### [Cloud Data Engineer (f/m/x)](https://www.linkedin.com/jobs/view/4481421150/) — Sii Poland
+- 📍 **Location:** Warsaw, Mazowieckie, Poland
+- 🕒 **Posted:** 2026-10-26
+
+### [Cloud Data Engineer (f/m/x)](https://www.linkedin.com/jobs/view/4481410680/) — Sii Poland
+- 📍 **Location:** Poznań, Wielkopolskie, Poland
+- 🕒 **Posted:** 2026-10-26
+
+### [Cloud Data Engineer (f/m/x)](https://www.linkedin.com/jobs/view/4481410679/) — Sii Poland
+- 📍 **Location:** Bydgoszcz, Kujawsko-pomorskie, Poland
+- 🕒 **Posted:** 2026-10-26
+
+### [Cloud Data Engineer (f/m/x)](https://www.linkedin.com/jobs/view/4481401928/) — Sii Poland
+- 📍 **Location:** Rzeszów, Podkarpackie, Poland
+- 🕒 **Posted:** 2026-10-26
+
+### [Cloud Data Engineer (f/m/x)](https://www.linkedin.com/jobs/view/4481419191/) — Sii Poland
+- 📍 **Location:** Kielce, Świętokrzyskie, Poland
+- 🕒 **Posted:** 2026-10-26
+
+### [Cloud Data Engineer (f/m/x)](https://www.linkedin.com/jobs/view/4481402945/) — Sii Poland
+- 📍 **Location:** Piła, Wielkopolskie, Poland
+- 🕒 **Posted:** 2026-10-26
+
+### [Senior SAP Data Engineer - Remote Work](https://www.linkedin.com/jobs/view/4483245403/) — BairesDev
+- 📍 **Location:** Latin America
+- 🕒 **Posted:** 2026-10-26
+
+### [Data Engineer (Snowflake) - Remote Work](https://www.linkedin.com/jobs/view/4482994863/) — BairesDev
+- 📍 **Location:** Chile
+- 🕒 **Posted:** 2026-10-26
+
+### [Data Engineer (Snowflake) - Remote Work](https://www.linkedin.com/jobs/view/4483207487/) — BairesDev
+- 📍 **Location:** Peru
+- 🕒 **Posted:** 2026-10-26
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4482346228/) — XPT Software Australia
+- 📍 **Location:** Brisbane City, Queensland, Australia
+- 🕒 **Posted:** 2026-10-24
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4482319849/) — Pearson
+- 📍 **Location:** Manchester, England, United Kingdom
+- 🕒 **Posted:** 2026-10-24
+
+### [Senior ETL Developer (f/m/x)](https://www.linkedin.com/jobs/view/4481050355/) — Sii Poland
+- 📍 **Location:** Szczecin, Zachodniopomorskie, Poland
+- 🕒 **Posted:** 2026-10-24
+
+### [Senior ETL Developer (f/m/x)](https://www.linkedin.com/jobs/view/4481054152/) — Sii Poland
+- 📍 **Location:** Łódź, Łódzkie, Poland
+- 🕒 **Posted:** 2026-10-24
+
+### [Senior ETL Developer (f/m/x)](https://www.linkedin.com/jobs/view/4481056159/) — Sii Poland
+- 📍 **Location:** Toruń, Kujawsko-pomorskie, Poland
+- 🕒 **Posted:** 2026-10-24
+
+### [Senior ETL Developer (f/m/x)](https://www.linkedin.com/jobs/view/4481049415/) — Sii Poland
+- 📍 **Location:** Katowice, Śląskie, Poland
+- 🕒 **Posted:** 2026-10-24
+
+### [Senior ETL Developer (f/m/x)](https://www.linkedin.com/jobs/view/4481038834/) — Sii Poland
+- 📍 **Location:** Lublin, Lubelskie, Poland
+- 🕒 **Posted:** 2026-10-24
+
+### [Senior ETL Developer (f/m/x)](https://www.linkedin.com/jobs/view/4481050354/) — Sii Poland
+- 📍 **Location:** Białystok, Podlaskie, Poland
+- 🕒 **Posted:** 2026-10-24
+
+### [Senior ETL Developer (f/m/x)](https://www.linkedin.com/jobs/view/4481055173/) — Sii Poland
+- 📍 **Location:** Gdańsk, Pomorskie, Poland
+- 🕒 **Posted:** 2026-10-24
+
+### [Senior ETL Developer (f/m/x)](https://www.linkedin.com/jobs/view/4481043610/) — Sii Poland
+- 📍 **Location:** Bydgoszcz, Kujawsko-pomorskie, Poland
+- 🕒 **Posted:** 2026-10-24
+
+### [Senior ETL Developer (f/m/x)](https://www.linkedin.com/jobs/view/4481048398/) — Sii Poland
+- 📍 **Location:** Rzeszów, Podkarpackie, Poland
+- 🕒 **Posted:** 2026-10-24
+
+### [Senior ETL Developer (f/m/x)](https://www.linkedin.com/jobs/view/4481041677/) — Sii Poland
+- 📍 **Location:** Wrocław, Dolnośląskie, Poland
+- 🕒 **Posted:** 2026-10-24
+
+### [Senior ETL Developer (f/m/x)](https://www.linkedin.com/jobs/view/4481046541/) — Sii Poland
+- 📍 **Location:** Cracow, Małopolskie, Poland
+- 🕒 **Posted:** 2026-10-24
+
+### [Senior ETL Developer (f/m/x)](https://www.linkedin.com/jobs/view/4481046540/) — Sii Poland
+- 📍 **Location:** Poznań, Wielkopolskie, Poland
+- 🕒 **Posted:** 2026-10-24
+
+### [Senior ETL Developer (f/m/x)](https://www.linkedin.com/jobs/view/4481042624/) — Sii Poland
+- 📍 **Location:** Warsaw, Mazowieckie, Poland
+- 🕒 **Posted:** 2026-10-24
+
+### [Senior ETL Developer (f/m/x)](https://www.linkedin.com/jobs/view/4481039746/) — Sii Poland
+- 📍 **Location:** Piła, Wielkopolskie, Poland
+- 🕒 **Posted:** 2026-10-24
+
+### [dbt Data Engineer / Developer (Snowflake)](https://www.linkedin.com/jobs/view/4473359111/) — Cognizant
+- 📍 **Location:** Warsaw, Mazowieckie, Poland
+- 🕒 **Posted:** 2026-10-24
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4454037879/) — RBC
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-10-23
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4474195182/) — Deloitte
+- 📍 **Location:** Arlington, VA
+- 🕒 **Posted:** 2026-10-23
+
+### [ETL-Entwickler:in im Bankenumfeld (m/w/d)](https://www.linkedin.com/jobs/view/4481663354/) — frobese GmbH Informatikservices
+- 📍 **Location:** Hannover, Lower Saxony, Germany
+- 🕒 **Posted:** 2026-10-23
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4429540976/) — Tractian
+- 📍 **Location:** São Paulo, São Paulo, Brazil
+- 🕒 **Posted:** 2026-10-23
+
+### [Azure Data Engineer - Remote Work | REF#295528](https://www.linkedin.com/jobs/view/4474351310/) — BairesDev
+- 📍 **Location:** Latin America
+- 🕒 **Posted:** 2026-10-23
+
+### [Data Engineer (Mid/Senior)](https://www.linkedin.com/jobs/view/4483105928/) — Software Mind
+- 📍 **Location:** Warsaw, Mazowieckie, Poland
+- 🕒 **Posted:** 2026-10-23
+
+### [Data Engineer II, Alexa Audio](https://www.linkedin.com/jobs/view/4455797005/) — Amazon
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 🕒 **Posted:** 2026-10-23
+
+### [Informatica ETL Developer](https://www.linkedin.com/jobs/view/4463576100/) — Tata Consultancy Services
+- 📍 **Location:** Charlotte, NC
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4481645272/) — XPT Software
+- 📍 **Location:** Brisbane, Queensland, Australia
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4482716576/) — Veezu
+- 📍 **Location:** Cardiff, Wales, United Kingdom
+- 🕒 **Posted:** 2026-10-22
+
+### [ETL Data Lead (Hybrid)](https://www.linkedin.com/jobs/view/4481363580/) — Cognizant
+- 📍 **Location:** Halifax, Nova Scotia, Canada
+- 🕒 **Posted:** 2026-10-22
+
+### [Junior Data Engineer](https://www.linkedin.com/jobs/view/4481167898/) — Bayside Health
+- 📍 **Location:** Melbourne, Victoria, Australia
+- 🕒 **Posted:** 2026-10-22
+
+### [TTT - Data Engineer - EY Global Delivery Services](https://www.linkedin.com/jobs/view/4453483103/) — EY
+- 📍 **Location:** Buenos Aires, Buenos Aires Province, Argentina
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Engineer II - Databricks](https://www.linkedin.com/jobs/view/4482402178/) — Deloitte
+- 📍 **Location:** Arlington, VA
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4480798134/) — Hatch
+- 📍 **Location:** Sydney, New South Wales, Australia
+- 🕒 **Posted:** 2026-10-21
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4482198174/) — The Ohio State University Wexner Medical Center
+- 📍 **Location:** Columbus, OH
+- 🕒 **Posted:** 2026-10-21
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4473520112/) — RBC
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineer I](https://www.linkedin.com/jobs/view/4482111573/) — Greenshades Software
+- 📍 **Location:** Jacksonville, FL
+- 🕒 **Posted:** 2026-10-21
+
+### [Informatica Data Engineer](https://www.linkedin.com/jobs/view/4481121207/) — act digital
+- 📍 **Location:** Porto Metropolitan Area
+- 🕒 **Posted:** 2026-10-21
+
+### [ETL Developer / Informatica PowerCenter](https://www.linkedin.com/jobs/view/4481137480/) — Accenture España
+- 📍 **Location:** Bilbao, Basque Country, Spain
+- 🕒 **Posted:** 2026-10-21
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4481133212/) — Dexters
+- 📍 **Location:** London, England, United Kingdom
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4482037784/) — Australian Payments Plus
+- 📍 **Location:** Sydney, New South Wales, Australia
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineer – Informatica IDMC & ETL Development](https://www.linkedin.com/jobs/view/4481297722/) — Capco
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-10-20
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4478918293/) — CDAI
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-10-20
+
+### [ETL/ DataStage Developer](https://www.linkedin.com/jobs/view/4469825928/) — BRED IT Thailand
+- 📍 **Location:** Sathon, Bangkok City, Thailand
+- 🕒 **Posted:** 2026-10-20
+
+### [Senior Data Engineer IRC305375](https://www.linkedin.com/jobs/view/4471912550/) — GlobalLogic
+- 📍 **Location:** Kyiv, Kyiv City, Ukraine
+- 🕒 **Posted:** 2026-10-20
+
+### [Lead I - Data Engineering_Snowflake developer DBT](https://www.linkedin.com/jobs/view/4470886235/) — UST
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-10-20
+
+### [Data Engineer (DataLake) - All levels](https://www.linkedin.com/jobs/view/4464315747/) — Capco
+- 📍 **Location:** Bangkok, Bangkok City, Thailand
+- 🕒 **Posted:** 2026-10-20
+
+### [Data Engineer II B - GBS IND](https://www.linkedin.com/jobs/view/4481206620/) — Bank of America
+- 📍 **Location:** Chennai, Tamil Nadu, India
+- 🕒 **Posted:** 2026-10-19
+
+### [Data Engineer II B - GBS IND](https://www.linkedin.com/jobs/view/4481209485/) — Bank of America
+- 📍 **Location:** Hyderabad, Telangana, India
+- 🕒 **Posted:** 2026-10-19
+
+### [Data Engineer I](https://www.linkedin.com/jobs/view/4481247187/) — Amazon
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-10-19
+
+### [Data Engineer specializzato in Oracle Data Integrator](https://www.linkedin.com/jobs/view/4478297776/) — Jumpit Srl
+- 📍 **Location:** Milan, Lombardy, Italy
+- 🕒 **Posted:** 2026-10-19
+
+### [Data Engineer II B - GBS IND](https://www.linkedin.com/jobs/view/4481200990/) — Bank of America
+- 📍 **Location:** Borivali, Maharashtra, India
+- 🕒 **Posted:** 2026-10-19
+
+### [Senior Data Engineer, DX](https://www.linkedin.com/jobs/view/4454862094/) — Atlassian
+- 📍 **Location:** Salt Lake City, UT
+- 🕒 **Posted:** 2026-10-18
+
+### [ETL Developer](https://www.linkedin.com/jobs/view/4440403118/) — ASSA ABLOY Group
+- 📍 **Location:** Tlajomulco de Zúñiga, Jalisco, Mexico
+- 🕒 **Posted:** 2026-10-16
+
+### [Lead -Informatica Cloud - Data Integration](https://www.linkedin.com/jobs/view/4480307990/) — Wipro
+- 📍 **Location:** Hyderabad, Telangana, India
+- 🕒 **Posted:** 2026-10-16
+
+### [Data Engineer (SAP Data Services BODS)](https://www.linkedin.com/jobs/view/4479320713/) — Tata Consultancy Services
+- 📍 **Location:** Sydney, New South Wales, Australia
+- 🕒 **Posted:** 2026-10-16
+
+### [Middle Data Engineer with Snowflake](https://www.linkedin.com/jobs/view/4478871006/) — N-iX
+- 📍 **Location:** Lviv, Lviv, Ukraine
+- 🕒 **Posted:** 2026-10-15
+
+### [Middle Data Engineer with Snowflake](https://www.linkedin.com/jobs/view/4478861269/) — N-iX
+- 📍 **Location:** Kyiv, Ukraine
+- 🕒 **Posted:** 2026-10-15
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4458890313/) — Kitopi
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-10-15
+
+### [Senior Data Engineer – Microsoft Fabric & Data Integration - Pune/Chennai](https://www.linkedin.com/jobs/view/4443133794/) — Wolters Kluwer
+- 📍 **Location:** Pune/Pimpri-Chinchwad Area
+- 🕒 **Posted:** 2026-10-15
+
+### [Senior Data Engineer with Snowflake](https://www.linkedin.com/jobs/view/4478855344/) — N-iX
+- 📍 **Location:** Lviv, Lviv, Ukraine
+- 🕒 **Posted:** 2026-10-15
+
+### [Senior Data Engineer with Snowflake](https://www.linkedin.com/jobs/view/4478865046/) — N-iX
+- 📍 **Location:** Kyiv, Ukraine
+- 🕒 **Posted:** 2026-10-15
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4471156741/) — Deloitte
+- 📍 **Location:** Arlington, VA
+- 🕒 **Posted:** 2026-10-15
+
+### [Data Engineer, AWS](https://www.linkedin.com/jobs/view/4478444591/) — Advian
+- 📍 **Location:** Espoo, Uusimaa, Finland
+- 🕒 **Posted:** 2026-10-14
+
+### [Data/ETL Engineer](https://www.linkedin.com/jobs/view/4478466008/) — Ascendion
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-10-14
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4461295907/) — AspenView Technology Partners
+- 📍 **Location:** Latin America
+- 🕒 **Posted:** 2026-10-14
+
+### [Big Data Engineer - Cloudera](https://www.linkedin.com/jobs/view/4478118380/) — Babel
+- 📍 **Location:** Madrid, Community of Madrid, Spain
+- 🕒 **Posted:** 2026-10-13
+
+### [Senior Data Engineer (IBM DataStage, ETL, SQL](https://www.linkedin.com/jobs/view/4478774100/) — Global Payments Inc.
+- 📍 **Location:** Pune/Pimpri-Chinchwad Area
+- 🕒 **Posted:** 2026-10-13
+
+### [Azure Data Engineer - Remote Work | REF#302144](https://www.linkedin.com/jobs/view/4459056631/) — BairesDev
+- 📍 **Location:** São Paulo, São Paulo, Brazil
+- 🕒 **Posted:** 2026-10-13
+
+### [Data Engineer (Snowflake) - Remote Work | REF#295757](https://www.linkedin.com/jobs/view/4459057644/) — BairesDev
+- 📍 **Location:** Greater Rio de Janeiro
+- 🕒 **Posted:** 2026-10-13
+
+### [Azure Data Engineer - Remote Work | REF#299839](https://www.linkedin.com/jobs/view/4474341845/) — BairesDev
+- 📍 **Location:** Chile
+- 🕒 **Posted:** 2026-10-13
+
+### [Azure Data Engineer - Remote Work | REF#302142](https://www.linkedin.com/jobs/view/4479228094/) — BairesDev
+- 📍 **Location:** Bogota, D.C., Capital District, Colombia
+- 🕒 **Posted:** 2026-10-13
+
+### [Data Engineer (Snowflake) - Remote Work | REF#295755](https://www.linkedin.com/jobs/view/4474357074/) — BairesDev
+- 📍 **Location:** Lima, Peru
+- 🕒 **Posted:** 2026-10-13
+
+### [Databricks Data Engineer (Apache Spark) - Remote work | REF#305827](https://www.linkedin.com/jobs/view/4479222247/) — BairesDev
+- 📍 **Location:** Chile
+- 🕒 **Posted:** 2026-10-13
+
+### [Informatica ETL Developer](https://www.linkedin.com/jobs/view/4467642212/) — Tata Consultancy Services
+- 📍 **Location:** Charlotte, NC
+- 🕒 **Posted:** 2026-10-13
+
+### [ETL Data Engineer | Informatica BDM & PowerCenter](https://www.linkedin.com/jobs/view/4477292500/) — Accenture España
+- 📍 **Location:** Bilbao, Basque Country, Spain
+- 🕒 **Posted:** 2026-10-12
+
+### [BI/ETL-utvecklare](https://www.linkedin.com/jobs/view/4478567650/) — Trafikverket
+- 📍 **Location:** Borlänge, Dalarna County, Sweden
+- 🕒 **Posted:** 2026-10-12
+
+### [BI/ETL-utvecklare](https://www.linkedin.com/jobs/view/4478580035/) — Trafikverket
+- 📍 **Location:** Gothenburg, Västra Götaland County, Sweden
+- 🕒 **Posted:** 2026-10-12
+
+### [Data Engineer - Junior/Mid/Senior](https://www.linkedin.com/jobs/view/4477293470/) — Accenture Poland
+- 📍 **Location:** Warsaw, Mazowieckie, Poland
+- 🕒 **Posted:** 2026-10-12
+
+### [EY - GDS Consulting - AI And DATA - Data Engineer- DBT+BQ+Airflow - Senior](https://www.linkedin.com/jobs/view/4465546910/) — EY
+- 📍 **Location:** Hyderabad, Telangana, India
+- 🕒 **Posted:** 2026-10-12
+
+### [Senior Data Engineer – Data Integration & Microsoft Fabric](https://www.linkedin.com/jobs/view/4467870369/) — RSM UK
+- 📍 **Location:** Glasgow, Scotland, United Kingdom
+- 🕒 **Posted:** 2026-10-10
+
+### [Senior Data Engineer – Data Integration & Microsoft Fabric](https://www.linkedin.com/jobs/view/4467868440/) — RSM UK
+- 📍 **Location:** Edinburgh, Scotland, United Kingdom
+- 🕒 **Posted:** 2026-10-10
+
+### [Senior Data Engineer – Data Integration & Microsoft Fabric](https://www.linkedin.com/jobs/view/4467879269/) — RSM UK
+- 📍 **Location:** City Of Bristol, England, United Kingdom
+- 🕒 **Posted:** 2026-10-10
+
+### [Senior Data Engineer – Data Integration & Microsoft Fabric](https://www.linkedin.com/jobs/view/4467867475/) — RSM UK
+- 📍 **Location:** Birmingham, England, United Kingdom
+- 🕒 **Posted:** 2026-10-10
+
+### [Senior Data Engineer – Data Integration & Microsoft Fabric](https://www.linkedin.com/jobs/view/4467870370/) — RSM UK
+- 📍 **Location:** Liverpool, England, United Kingdom
+- 🕒 **Posted:** 2026-10-10
+
+### [Data Engineer (Snowflake, Azure Data Factory, Python & SQL)](https://www.linkedin.com/jobs/view/4458304201/) — Cognizant
+- 📍 **Location:** Halifax, Nova Scotia, Canada
+- 🕒 **Posted:** 2026-10-08
+
+### [Lead I - Data Engineering_Snowflake DBT](https://www.linkedin.com/jobs/view/4477127665/) — UST
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-10-08
+
+### [ETL Developer](https://www.linkedin.com/jobs/view/4475944836/) — act digital
+- 📍 **Location:** Lisbon, Lisbon, Portugal
+- 🕒 **Posted:** 2026-10-08
+
+### [Data Engineer (Platform)](https://www.linkedin.com/jobs/view/4475165305/) — FlowAccount
+- 📍 **Location:** Bangkok City, Thailand
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4466084196/) — FDJ UNITED
+- 📍 **Location:** London Area, United Kingdom
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer - Bygg framtidens datadrivna kommun](https://www.linkedin.com/jobs/view/4476584073/) — Järfälla kommun
+- 📍 **Location:** Stockholm, Stockholm County, Sweden
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer - Bygg framtidens datadrivna kommun](https://www.linkedin.com/jobs/view/4476577692/) — Järfälla kommun
+- 📍 **Location:** Järfälla, Stockholm County, Sweden
+- 🕒 **Posted:** 2026-10-07
+
+### [SQL Data Engineer](https://www.linkedin.com/jobs/view/4463841134/) — Tata Consultancy Services
+- 📍 **Location:** Greater Sydney Area
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475176550/) — Deloitte
+- 📍 **Location:** Minneapolis, MN
+- 🕒 **Posted:** 2026-10-07
+
+### [ETL Developer](https://www.linkedin.com/jobs/view/4475711366/) — act digital
+- 📍 **Location:** Lisbon, Lisbon, Portugal
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475166940/) — Deloitte
+- 📍 **Location:** Midland, MI
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475178472/) — Deloitte
+- 📍 **Location:** Greater Indianapolis
+- 🕒 **Posted:** 2026-10-07
+
+### [ETL Developer (Azure Data Factory/MS Fabric) - Remote Opportunity](https://www.linkedin.com/jobs/view/4467450265/) — AFL
+- 📍 **Location:** Duncan, SC
+- 🕒 **Posted:** 2026-10-06
+
+### [Data Engineer - ETL + Azure Synapse + Snowflake](https://www.linkedin.com/jobs/view/4440088053/) — Gallagher
+- 📍 **Location:** Colombo, Western Province, Sri Lanka
+- 🕒 **Posted:** 2026-10-06
+
+### [Data Engineer-Data Platforms-Google - 2](https://www.linkedin.com/jobs/view/4474403436/) — IBM
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-06
+
+### [AWS Data Engineer](https://www.linkedin.com/jobs/view/4475375176/) — Tata Consultancy Services
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-10-04
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4474740181/) — DF Capital
+- 📍 **Location:** Manchester, England, United Kingdom
+- 🕒 **Posted:** 2026-10-02
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4472870934/) — Datafruit
+- 📍 **Location:** Tallinn, Harjumaa, Estonia
+- 🕒 **Posted:** 2026-10-02
+
+### [Data Engineer-Enterprise Data Product](https://www.linkedin.com/jobs/view/4474711745/) — ALDI International IT Services (Hungary)
+- 📍 **Location:** Budapest, Hungary
+- 🕒 **Posted:** 2026-10-02
+
+### [Data Engineer-Enterprise Data Product](https://www.linkedin.com/jobs/view/4474711958/) — ALDI International IT Services (Hungary)
+- 📍 **Location:** Debrecen, Hajdú-Bihar, Hungary
+- 🕒 **Posted:** 2026-10-02
+
+### [Data Engineer (SAP + Snowflake) - Remote Work | REF#304687](https://www.linkedin.com/jobs/view/4474340881/) — BairesDev
+- 📍 **Location:** Greater Rio de Janeiro
+- 🕒 **Posted:** 2026-10-01
+
+### [Data Engineer – PySpark & SQL](https://www.linkedin.com/jobs/view/4472595183/) — Capgemini
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 🕒 **Posted:** 2026-10-01
+
+### [ETL Developer (SJ-IQ)](https://www.linkedin.com/jobs/view/4474307545/) — SE Mentor Solutions
+- 📍 **Location:** Kochi, Kerala, India
+- 🕒 **Posted:** 2026-10-01
+
+### [Data Engineer (Redshift)](https://www.linkedin.com/jobs/view/4472822006/) — Onwelo
+- 📍 **Location:** Poland
+- 🕒 **Posted:** 2026-10-01
+
+### [Azure Data Engineer - Remote Work | REF#303442](https://www.linkedin.com/jobs/view/4464907507/) — BairesDev
+- 📍 **Location:** Cajamarca, Peru
+- 🕒 **Posted:** 2026-10-01
+
+### [Data Engineer (SAP + Snowflake) - Remote Work | REF#304686](https://www.linkedin.com/jobs/view/4474349641/) — BairesDev
+- 📍 **Location:** Ecuador
+- 🕒 **Posted:** 2026-10-01
+
+### [Azure Data Engineer - Remote Work | REF#304825](https://www.linkedin.com/jobs/view/4474353190/) — BairesDev
+- 📍 **Location:** Minas Gerais, Brazil
+- 🕒 **Posted:** 2026-10-01
+
+### [Data Engineer (Snowflake) - Remote Work | REF#304685](https://www.linkedin.com/jobs/view/4474345744/) — BairesDev
+- 📍 **Location:** Cajamarca, Peru
+- 🕒 **Posted:** 2026-10-01
+
+### [Azure Data Engineer - Remote Work | REF#303445](https://www.linkedin.com/jobs/view/4464698679/) — BairesDev
+- 📍 **Location:** Santiago Metropolitan Region, Chile
+- 🕒 **Posted:** 2026-10-01
+
+### [Data Engineer (Snowflake) - Remote Work | REF#295758](https://www.linkedin.com/jobs/view/4474355193/) — BairesDev
+- 📍 **Location:** Valparaiso Region, Chile
+- 🕒 **Posted:** 2026-10-01
+
+### [Senior Data Engineer 2 - Remote Work | REF#297238](https://www.linkedin.com/jobs/view/4464910159/) — BairesDev
+- 📍 **Location:** São Paulo, São Paulo, Brazil
+- 🕒 **Posted:** 2026-10-01
+
+### [Azure Data Engineer - Remote Work | REF#304826](https://www.linkedin.com/jobs/view/4474336941/) — BairesDev
+- 📍 **Location:** CAUCA, Sucre, Colombia
+- 🕒 **Posted:** 2026-10-01
+
+### [Azure Data Engineer - Remote Work | REF#302672](https://www.linkedin.com/jobs/view/4462092023/) — BairesDev
+- 📍 **Location:** Jalisco, Mexico
+- 🕒 **Posted:** 2026-10-01
+
+### [Data Engineer (Databricks) - Remote Work | REF#297217](https://www.linkedin.com/jobs/view/4474343760/) — BairesDev
+- 📍 **Location:** Greater Rio de Janeiro
+- 🕒 **Posted:** 2026-10-01
+
+### [Data Engineer (Databricks) - Remote Work | REF#297219](https://www.linkedin.com/jobs/view/4474346677/) — BairesDev
+- 📍 **Location:** São Paulo, São Paulo, Brazil
+- 🕒 **Posted:** 2026-10-01
+
+### [Senior SAP Data Engineer - Remote Work | REF#302233](https://www.linkedin.com/jobs/view/4474358094/) — BairesDev
+- 📍 **Location:** Mexico
+- 🕒 **Posted:** 2026-10-01
+
+### [Data Engineer (Databricks) - Remote Work | REF#302090](https://www.linkedin.com/jobs/view/4459066506/) — BairesDev
+- 📍 **Location:** Chile
+- 🕒 **Posted:** 2026-10-01
+
+### [Data Engineer (Databricks) - Remote Work | REF#297218](https://www.linkedin.com/jobs/view/4462090113/) — BairesDev
+- 📍 **Location:** Santiago Metropolitan Region, Chile
+- 🕒 **Posted:** 2026-10-01
+
+### [Data Engineer (AWS) - Remote Work | REF#300901](https://www.linkedin.com/jobs/view/4455980305/) — BairesDev
+- 📍 **Location:** Greater Rio de Janeiro
+- 🕒 **Posted:** 2026-10-01
+
+### [Senior Data Engineer 2 - Remote Work | REF#297229](https://www.linkedin.com/jobs/view/4474358049/) — BairesDev
+- 📍 **Location:** Cajamarca, Peru
+- 🕒 **Posted:** 2026-10-01
+
+### [Data Engineer (Azure Databricks) - Remote Work | REF#295236](https://www.linkedin.com/jobs/view/4464901679/) — BairesDev
+- 📍 **Location:** Cajamarca, Peru
+- 🕒 **Posted:** 2026-10-01
+
+### [Data Engineer (AWS) - Remote Work | REF#303437](https://www.linkedin.com/jobs/view/4464693733/) — BairesDev
+- 📍 **Location:** São Paulo, São Paulo, Brazil
+- 🕒 **Posted:** 2026-10-01
+
+### [Data Engineer (Databricks) - Remote Work | REF#297215](https://www.linkedin.com/jobs/view/4462077308/) — BairesDev
+- 📍 **Location:** Minas Gerais, Brazil
+- 🕒 **Posted:** 2026-10-01
+
+### [Senior Data Engineer 2 - Remote Work | REF#297236](https://www.linkedin.com/jobs/view/4464902639/) — BairesDev
+- 📍 **Location:** Peru
+- 🕒 **Posted:** 2026-10-01
+
+### [AWS Data Engineer - Remote Work | REF#300902](https://www.linkedin.com/jobs/view/4474347738/) — BairesDev
+- 📍 **Location:** Cajamarca, Peru
+- 🕒 **Posted:** 2026-10-01
+
+### [Data Engineer (AWS) - Remote Work | REF#304821](https://www.linkedin.com/jobs/view/4474349646/) — BairesDev
+- 📍 **Location:** Chile
+- 🕒 **Posted:** 2026-10-01
+
+### [Data Engineer (AWS) - Remote Work | REF#303436](https://www.linkedin.com/jobs/view/4464687967/) — BairesDev
+- 📍 **Location:** Minas Gerais, Brazil
+- 🕒 **Posted:** 2026-10-01
+
+### [SAP Data Engineer](https://www.linkedin.com/jobs/view/4471584557/) — Coforge
+- 📍 **Location:** Sydney, New South Wales, Australia
+- 🕒 **Posted:** 2026-09-29
+
+### [Senior Data Integration Engineer/ DWH, MS SQL, T-SQL](https://www.linkedin.com/jobs/view/4471913598/) — EPAM Systems
+- 📍 **Location:** Kyrgyzstan
+- 🕒 **Posted:** 2026-09-29
+
+### [Senior Data Integration Engineer/ DWH, MS SQL, T-SQL](https://www.linkedin.com/jobs/view/4471927041/) — EPAM Systems
+- 📍 **Location:** Uzbekistan
+- 🕒 **Posted:** 2026-09-29
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4471780517/) — Synechron
+- 📍 **Location:** Charlotte, NC
+- 🕒 **Posted:** 2026-09-29
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4463388095/) — Tata Consultancy Services
+- 📍 **Location:** Canaã dos Carajás, Pará, Brazil
+- 🕒 **Posted:** 2026-09-29
+
+### [Senior Data Integration Engineer/ DWH, MS SQL, T-SQL](https://www.linkedin.com/jobs/view/4471927042/) — EPAM Systems
+- 📍 **Location:** Kazakhstan
+- 🕒 **Posted:** 2026-09-29
+
+### [Senior Data Integration Engineer/ DWH, MS SQL, T-SQL](https://www.linkedin.com/jobs/view/4471915568/) — EPAM Systems
+- 📍 **Location:** Türkiye
+- 🕒 **Posted:** 2026-09-29
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4470815524/) — Synechron
+- 📍 **Location:** Charlotte, NC
+- 🕒 **Posted:** 2026-10-27
+
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4474293191/) — Versant Media
+- 📍 **Location:** Orlando, FL
+- 🕒 **Posted:** 2026-10-27
+
+### [ETL / SSIS Developer](https://www.linkedin.com/jobs/view/4482227296/) — Matrix USA
+- 📍 **Location:** Jacksonville, FL
+- 🕒 **Posted:** 2026-10-27
+
+### [Data Engineer-Data Platforms-Google - 5](https://www.linkedin.com/jobs/view/4473681537/) — IBM
+- 📍 **Location:** New York, United States
+- 🕒 **Posted:** 2026-10-27
+
+### [Data Engineer-Data Platforms-Google - 1](https://www.linkedin.com/jobs/view/4473686383/) — IBM
+- 📍 **Location:** New York, United States
+- 🕒 **Posted:** 2026-10-27
+
+### [Data Engineer-Data Platforms-Google - 3](https://www.linkedin.com/jobs/view/4473675833/) — IBM
+- 📍 **Location:** New York, United States
+- 🕒 **Posted:** 2026-10-27
+
+### [Government and Infrastructure - AI and Data - Data Engineer - Top Secret Clearance](https://www.linkedin.com/jobs/view/4474642696/) — EY
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-10-27
+
+### [ETL /Data Engineer](https://www.linkedin.com/jobs/view/4484221288/) — ActioNet, Inc.
+- 📍 **Location:** Suitland, MD
+- 🕒 **Posted:** 2026-10-27
+
+### [Junior Data Engineer](https://www.linkedin.com/jobs/view/4480213916/) — World Pediatrics
+- 📍 **Location:** Richmond, VA
+- 🕒 **Posted:** 2026-10-27
+
+### [AI-Aware Data Engineer](https://www.linkedin.com/jobs/view/4474627551/) — Cognizant
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-10-27
+
+### [Developer - ETL Cloud Data Engineer - Level 2](https://www.linkedin.com/jobs/view/4482997782/) — Duke Health
+- 📍 **Location:** North Carolina, United States
+- 🕒 **Posted:** 2026-10-26
+
+### [Senior ETL Developer](https://www.linkedin.com/jobs/view/4459389236/) — Nationwide Children's Hospital
+- 📍 **Location:** Columbus, OH
+- 🕒 **Posted:** 2026-10-26
+
+### [ETL Developer | SME](https://www.linkedin.com/jobs/view/4483217576/) — The Amatriot Group
+- 📍 **Location:** Chantilly, VA
+- 🕒 **Posted:** 2026-10-26
+
+### [Sr Data Engineer - Financial Data Engineering](https://www.linkedin.com/jobs/view/4483239424/) — American Express
+- 📍 **Location:** Phoenix, AZ
+- 🕒 **Posted:** 2026-10-26
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4483704923/) — Crown Equipment Corporation
+- 📍 **Location:** New Bremen, OH
+- 🕒 **Posted:** 2026-10-26
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4483742947/) — Michigan Medicine
+- 📍 **Location:** Ann Arbor, MI
+- 🕒 **Posted:** 2026-10-26
+
+### [Databricks Data Engineer](https://www.linkedin.com/jobs/view/4483366448/) — Deloitte
+- 📍 **Location:** Costa Mesa, CA
+- 🕒 **Posted:** 2026-10-25
+
+### [Data Engineer MS Fabric](https://www.linkedin.com/jobs/view/4457384128/) — Flowserve Corporation
+- 📍 **Location:** Irving, TX
+- 🕒 **Posted:** 2026-10-25
+
+### [Data Engineer 2](https://www.linkedin.com/jobs/view/4456058539/) — HDR
+- 📍 **Location:** Omaha, NE
+- 🕒 **Posted:** 2026-10-25
+
+### [Senior Data Engineer II - Amex Ads, Offers, and Dining Technology](https://www.linkedin.com/jobs/view/4481999078/) — American Express
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-10-24
+
+### [Senior Informatica ETL Developer (AWS)](https://www.linkedin.com/jobs/view/4483344497/) — CGI
+- 📍 **Location:** Lafayette, LA
+- 🕒 **Posted:** 2026-10-24
+
+### [Data Engineer - Senior](https://www.linkedin.com/jobs/view/4474777522/) — Accenture Federal Services
+- 📍 **Location:** Chantilly, VA
+- 🕒 **Posted:** 2026-10-24
+
+### [Senior Data Engineer II - Amex Ads, Offers, and Dining Technology](https://www.linkedin.com/jobs/view/4481992395/) — American Express
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-24
+
+### [Sr. Data Engineer (Snowflake)](https://www.linkedin.com/jobs/view/4474530898/) — Sammons Financial Group Companies
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-10-23
+
+### [Azure Data Integration Engineer](https://www.linkedin.com/jobs/view/4481640201/) — i4DM
+- 📍 **Location:** Millersville, MD
+- 🕒 **Posted:** 2026-10-23
+
+### [Managed Services - Data Engineer - Senior Associate](https://www.linkedin.com/jobs/view/4482780728/) — PwC
+- 📍 **Location:** Salt Lake City, UT
+- 🕒 **Posted:** 2026-10-23
+
+### [Managed Services - Data Engineer - Senior Associate](https://www.linkedin.com/jobs/view/4482794421/) — PwC
+- 📍 **Location:** Indianapolis, IN
+- 🕒 **Posted:** 2026-10-23
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4481930505/) — Intapp
+- 📍 **Location:** Charlotte, NC
+- 🕒 **Posted:** 2026-10-23
+
+### [Sr. Data Engineer (Snowflake)](https://www.linkedin.com/jobs/view/4474547193/) — Sammons Financial Group Companies
+- 📍 **Location:** Sioux Falls, SD
+- 🕒 **Posted:** 2026-10-23
+
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4482803914/) — First Citizens Bank
+- 📍 **Location:** Raleigh, NC
+- 🕒 **Posted:** 2026-10-23
+
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4482807783/) — First Citizens Bank
+- 📍 **Location:** Raleigh, NC
+- 🕒 **Posted:** 2026-10-23
+
+### [Managed Services - Data Engineer - Senior Associate](https://www.linkedin.com/jobs/view/4482788546/) — PwC
+- 📍 **Location:** Pittsburgh, PA
+- 🕒 **Posted:** 2026-10-23
+
+### [Managed Services - Data Engineer - Senior Associate](https://www.linkedin.com/jobs/view/4482781668/) — PwC
+- 📍 **Location:** Milwaukee, WI
+- 🕒 **Posted:** 2026-10-23
+
+### [Data Engineer II, Sales Data Services (SDS)](https://www.linkedin.com/jobs/view/4482860797/) — Amazon
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-23
+
+### [Sr. Data Engineer (Snowflake)](https://www.linkedin.com/jobs/view/4464911064/) — Sammons Financial Group Companies
+- 📍 **Location:** West Des Moines, IA
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4464649305/) — DLA Piper
+- 📍 **Location:** Greater Philadelphia
+- 🕒 **Posted:** 2026-10-22
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4473935328/) — Live Nation Entertainment
+- 📍 **Location:** California, United States
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4445419287/) — AVEVA
+- 📍 **Location:** San Leandro, CA
+- 🕒 **Posted:** 2026-10-22
+
+### [ETL Developer III](https://www.linkedin.com/jobs/view/4482736561/) — Vestcom
+- 📍 **Location:** Little Rock, AR
+- 🕒 **Posted:** 2026-10-22
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4481351420/) — Uline
+- 📍 **Location:** Waukegan, IL
+- 🕒 **Posted:** 2026-10-22
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4481345596/) — Uline
+- 📍 **Location:** Round Lake, IL
+- 🕒 **Posted:** 2026-10-22
+
+### [Databricks Data Engineer](https://www.linkedin.com/jobs/view/4473921774/) — Deloitte
+- 📍 **Location:** Miami, FL
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Engineer II - Databricks](https://www.linkedin.com/jobs/view/4482193412/) — Deloitte
+- 📍 **Location:** Richmond, VA
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Engineer II - Databricks](https://www.linkedin.com/jobs/view/4482188478/) — Deloitte
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Engineer II - Databricks](https://www.linkedin.com/jobs/view/4482198287/) — Deloitte
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-10-22
+
+### [Databricks Data Engineer](https://www.linkedin.com/jobs/view/4473915983/) — Deloitte
+- 📍 **Location:** Houston, TX
+- 🕒 **Posted:** 2026-10-22
+
+### [Databricks Data Engineer](https://www.linkedin.com/jobs/view/4473920782/) — Deloitte
+- 📍 **Location:** Pittsburgh, PA
+- 🕒 **Posted:** 2026-10-22
+
+### [Databricks Data Engineer](https://www.linkedin.com/jobs/view/4473916962/) — Deloitte
+- 📍 **Location:** Tampa, FL
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Engineer II - Databricks](https://www.linkedin.com/jobs/view/4482195369/) — Deloitte
+- 📍 **Location:** Baltimore, MD
+- 🕒 **Posted:** 2026-10-22
+
+### [Databricks Data Engineer](https://www.linkedin.com/jobs/view/4473930602/) — Deloitte
+- 📍 **Location:** San Diego, CA
+- 🕒 **Posted:** 2026-10-22
+
+### [Databricks Data Engineer](https://www.linkedin.com/jobs/view/4473932504/) — Deloitte
+- 📍 **Location:** Seattle, WA
+- 🕒 **Posted:** 2026-10-22
+
+### [Databricks Data Engineer](https://www.linkedin.com/jobs/view/4473919861/) — Deloitte
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-10-22
+
+### [Databricks Data Engineer](https://www.linkedin.com/jobs/view/4473932501/) — Deloitte
+- 📍 **Location:** Morristown, NJ
+- 🕒 **Posted:** 2026-10-22
+
+### [Databricks Data Engineer](https://www.linkedin.com/jobs/view/4473932488/) — Deloitte
+- 📍 **Location:** Detroit, MI
+- 🕒 **Posted:** 2026-10-22
+
+### [Databricks Data Engineer](https://www.linkedin.com/jobs/view/4473915980/) — Deloitte
+- 📍 **Location:** Minneapolis, MN
+- 🕒 **Posted:** 2026-10-22
+
+### [Databricks Data Engineer](https://www.linkedin.com/jobs/view/4473921787/) — Deloitte
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-10-22
+
+### [Databricks Data Engineer](https://www.linkedin.com/jobs/view/4473925675/) — Deloitte
+- 📍 **Location:** Los Angeles, CA
+- 🕒 **Posted:** 2026-10-22
+
+### [Databricks Data Engineer](https://www.linkedin.com/jobs/view/4473935173/) — Deloitte
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-22
+
+### [Databricks Data Engineer](https://www.linkedin.com/jobs/view/4473924611/) — Deloitte
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-22
+
+### [Databricks Data Engineer](https://www.linkedin.com/jobs/view/4473915991/) — Deloitte
+- 📍 **Location:** Stamford, CT
+- 🕒 **Posted:** 2026-10-22
+
+### [Databricks Data Engineer](https://www.linkedin.com/jobs/view/4473937105/) — Deloitte
+- 📍 **Location:** Philadelphia, PA
+- 🕒 **Posted:** 2026-10-22
+
+### [Databricks Data Engineer](https://www.linkedin.com/jobs/view/4473931588/) — Deloitte
+- 📍 **Location:** Arlington, VA
+- 🕒 **Posted:** 2026-10-22
+
+### [Databricks Data Engineer](https://www.linkedin.com/jobs/view/4473939003/) — Deloitte
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-22
+
+### [Databricks Data Engineer](https://www.linkedin.com/jobs/view/4473918790/) — Deloitte
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-10-22
+
+### [Databricks Data Engineer](https://www.linkedin.com/jobs/view/4473916949/) — Deloitte
+- 📍 **Location:** Nashville, TN
+- 🕒 **Posted:** 2026-10-22
+
+### [Databricks Data Engineer](https://www.linkedin.com/jobs/view/4473925681/) — Deloitte
+- 📍 **Location:** Greater Cleveland
+- 🕒 **Posted:** 2026-10-22
+
+### [Databricks Data Engineer](https://www.linkedin.com/jobs/view/4473915979/) — Deloitte
+- 📍 **Location:** Denver, CO
+- 🕒 **Posted:** 2026-10-22
+
+### [Databricks Data Engineer](https://www.linkedin.com/jobs/view/4473925649/) — Deloitte
+- 📍 **Location:** Greater Sacramento
+- 🕒 **Posted:** 2026-10-22
+
+### [Databricks Data Engineer](https://www.linkedin.com/jobs/view/4473931585/) — Deloitte
+- 📍 **Location:** Charlotte, NC
+- 🕒 **Posted:** 2026-10-22
+
+### [Databricks Data Engineer](https://www.linkedin.com/jobs/view/4473936129/) — Deloitte
+- 📍 **Location:** Columbus, OH
+- 🕒 **Posted:** 2026-10-22
+
+### [Databricks Data Engineer](https://www.linkedin.com/jobs/view/4473937088/) — Deloitte
+- 📍 **Location:** Boston, MA
+- 🕒 **Posted:** 2026-10-22
+
+### [Databricks Data Engineer](https://www.linkedin.com/jobs/view/4473917844/) — Deloitte
+- 📍 **Location:** Cincinnati, OH
+- 🕒 **Posted:** 2026-10-22
+
+### [Databricks Data Engineer](https://www.linkedin.com/jobs/view/4473923740/) — Deloitte
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-10-22
+
+### [Databricks Data Engineer](https://www.linkedin.com/jobs/view/4473920763/) — Deloitte
+- 📍 **Location:** Kansas City, MO
+- 🕒 **Posted:** 2026-10-22
+
+### [Databricks Data Engineer](https://www.linkedin.com/jobs/view/4473921773/) — Deloitte
+- 📍 **Location:** Dallas, TX
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4464651320/) — DLA Piper
+- 📍 **Location:** Austin, Texas Metropolitan Area
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4482702304/) — Royal Electric Company
+- 📍 **Location:** Dallas, TX
+- 🕒 **Posted:** 2026-10-22
+
+### [SENIOR DATA ENGINEER - 72004170](https://www.linkedin.com/jobs/view/4482776114/) — State of Florida
+- 📍 **Location:** Tallahassee, FL
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4482166688/) — GreenState Credit Union
+- 📍 **Location:** North Liberty, IA
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4464643373/) — DLA Piper
+- 📍 **Location:** Short Hills, NJ
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4481159653/) — Lewis Energy Group
+- 📍 **Location:** San Antonio, TX
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineer - Snowflake & Azure](https://www.linkedin.com/jobs/view/4473056227/) — Children’s Hospital Association
+- 📍 **Location:** Lenexa, KS
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineer II, AWS Partnerships](https://www.linkedin.com/jobs/view/4473556977/) — Amazon Web Services (AWS)
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4482422049/) — First Dakota National Bank
+- 📍 **Location:** Sioux Falls, SD
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4464648287/) — DLA Piper
+- 📍 **Location:** Greater Boston
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4464641367/) — DLA Piper
+- 📍 **Location:** Houston, TX
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4464658142/) — DLA Piper
+- 📍 **Location:** Wilmington, DE
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4464648286/) — DLA Piper
+- 📍 **Location:** San Diego Metropolitan Area
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4464656181/) — DLA Piper
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4464654238/) — DLA Piper
+- 📍 **Location:** Seattle metropolitan area, WA
+- 🕒 **Posted:** 2026-10-21
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4473512745/) — Faegre Drinker
+- 📍 **Location:** Minneapolis, MN
+- 🕒 **Posted:** 2026-10-21
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4473504968/) — Faegre Drinker
+- 📍 **Location:** Philadelphia, PA
+- 🕒 **Posted:** 2026-10-21
+
+### [Sr Data Engineer](https://www.linkedin.com/jobs/view/4480716930/) — Maverik, Inc.
+- 📍 **Location:** Salt Lake City, UT
+- 🕒 **Posted:** 2026-10-20
+
+### [Factory Data Engineer](https://www.linkedin.com/jobs/view/4480725784/) — Siemens Energy
+- 📍 **Location:** Charlotte, NC
+- 🕒 **Posted:** 2026-10-20
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4464654237/) — DLA Piper
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-10-20
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4464644322/) — DLA Piper
+- 📍 **Location:** Phoenix, AZ
+- 🕒 **Posted:** 2026-10-20
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4464637544/) — DLA Piper
+- 📍 **Location:** Miami-Fort Lauderdale Area
+- 🕒 **Posted:** 2026-10-20
+
+### [Senior ETL & Data Migration Engineer - 176444](https://www.linkedin.com/jobs/view/4480293888/) — Zachary Piper Solutions
+- 📍 **Location:** Huntsville, AL
+- 🕒 **Posted:** 2026-10-20
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4471514947/) — Greenlight Rent
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-20
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4481284547/) — Community Bank, N.A.
+- 📍 **Location:** Syracuse, NY
+- 🕒 **Posted:** 2026-10-19
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4478623830/) — Morgan, Lewis & Bockius LLP
+- 📍 **Location:** Greater Philadelphia
+- 🕒 **Posted:** 2026-10-19
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4481208732/) — Kwik Trip, Inc.
+- 📍 **Location:** La Crosse, WI
+- 🕒 **Posted:** 2026-10-19
+
+### [Senior ETL Informatica Developer](https://www.linkedin.com/jobs/view/4417976797/) — MANTECH
+- 📍 **Location:** Ashburn, VA
+- 🕒 **Posted:** 2026-10-17
+
+### [Data Engineer II, Amazon Leo](https://www.linkedin.com/jobs/view/4463137853/) — Amazon
+- 📍 **Location:** Arlington, VA
+- 🕒 **Posted:** 2026-10-17
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4470007458/) — VAS
+- 📍 **Location:** Madison, WI
+- 🕒 **Posted:** 2026-10-16
+
+### [Databricks Data Engineer](https://www.linkedin.com/jobs/view/4462741073/) — CGI
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-10-16
+
+### [Data Engineer, Payments](https://www.linkedin.com/jobs/view/4443421993/) — Whatnot
+- 📍 **Location:** Seattle, WA
+- 🕒 **Posted:** 2026-10-16
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4480372721/) — Atlas Air
+- 📍 **Location:** Miami, FL
+- 🕒 **Posted:** 2026-10-16
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4480541078/) — Lowenstein Sandler LLP
+- 📍 **Location:** Roseland, NJ
+- 🕒 **Posted:** 2026-10-16
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4469795351/) — Koch
+- 📍 **Location:** Wichita, KS
+- 🕒 **Posted:** 2026-10-16
+
+### [Data Engineer, Payments](https://www.linkedin.com/jobs/view/4443438933/) — Whatnot
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-16
+
+### [Data Engineer-Marketing Technology](https://www.linkedin.com/jobs/view/4479894184/) — Foxit
+- 📍 **Location:** Alpharetta, GA
+- 🕒 **Posted:** 2026-10-15
+
+### [PROJECT - Data Engineer II](https://www.linkedin.com/jobs/view/4471165005/) — Deloitte
+- 📍 **Location:** Miami, FL
+- 🕒 **Posted:** 2026-10-15
+
+### [PROJECT - Data Engineer II](https://www.linkedin.com/jobs/view/4471161213/) — Deloitte
+- 📍 **Location:** Tampa, FL
+- 🕒 **Posted:** 2026-10-15
+
+### [PROJECT - Data Engineer II](https://www.linkedin.com/jobs/view/4471153665/) — Deloitte
+- 📍 **Location:** Tallahassee, FL
+- 🕒 **Posted:** 2026-10-15
+
+### [Data Engineer II - Snowflake, dbt, AWS](https://www.linkedin.com/jobs/view/4452342521/) — Travelers
+- 📍 **Location:** Hartford, CT
+- 🕒 **Posted:** 2026-10-15
+
+### [Specialist - Data Engineering](https://www.linkedin.com/jobs/view/4477302651/) — LTM
+- 📍 **Location:** Cleveland, OH
+- 🕒 **Posted:** 2026-10-15
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4479743232/) — Mass General Brigham
+- 📍 **Location:** Somerville, MA
+- 🕒 **Posted:** 2026-10-15
+
+### [Senior Specialist, Federal Data Engineer](https://www.linkedin.com/jobs/view/4479156893/) — KPMG US
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-10-15
+
+### [Mid-Level ETL & Data Migration Engineer](https://www.linkedin.com/jobs/view/4480132837/) — CGI
+- 📍 **Location:** Huntsville, AL
+- 🕒 **Posted:** 2026-10-15
+
+### [Data Engineer, Amazon Music, Amazon Music Finance](https://www.linkedin.com/jobs/view/4470654135/) — Amazon
+- 📍 **Location:** Seattle, WA
+- 🕒 **Posted:** 2026-10-14
+
+### [Data Engineer, Amazon Music, Amazon Music Finance](https://www.linkedin.com/jobs/view/4470645517/) — Amazon
+- 📍 **Location:** Culver City, CA
+- 🕒 **Posted:** 2026-10-14
+
+### [SQL Data Engineer](https://www.linkedin.com/jobs/view/4479587692/) — Booz Allen Hamilton
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-10-14
+
+### [SQL Data Engineer](https://www.linkedin.com/jobs/view/4479701291/) — Booz Allen Hamilton
+- 📍 **Location:** Bethesda, MD
+- 🕒 **Posted:** 2026-10-14
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4479703245/) — D.A. Davidson Companies
+- 📍 **Location:** Tualatin, OR
+- 🕒 **Posted:** 2026-10-14
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4478148333/) — Zip Co
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-13
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4476604030/) — Jobot
+- 📍 **Location:** Alhambra, CA
+- 🕒 **Posted:** 2026-10-13
+
+### [Data Engineer Specialist I](https://www.linkedin.com/jobs/view/4479224204/) — California Franchise Tax Board
+- 📍 **Location:** Sacramento, CA
+- 🕒 **Posted:** 2026-10-13
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4479046974/) — Alchemy
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-13
+
+### [Data Engineer Specialist I](https://www.linkedin.com/jobs/view/4479210993/) — California Franchise Tax Board
+- 📍 **Location:** Sacramento, CA
+- 🕒 **Posted:** 2026-10-13
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4479089457/) — Beacon Behavioral Partners
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-10-13
+
+### [Sr ETL Developer](https://www.linkedin.com/jobs/view/4448469737/) — Golden 1 Credit Union
+- 📍 **Location:** Sacramento, CA
+- 🕒 **Posted:** 2026-10-11
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4478079046/) — SAIC
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-10-10
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4459446172/) — Tata Consultancy Services
+- 📍 **Location:** Clearwater, FL
+- 🕒 **Posted:** 2026-10-10
+
+### [Sr Data Engineer](https://www.linkedin.com/jobs/view/4466924896/) — Georgia-Pacific LLC
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-10-10
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4476805686/) — A-dec Inc.
+- 📍 **Location:** Newberg, OR
+- 🕒 **Posted:** 2026-10-09
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4476840578/) — NAC
+- 📍 **Location:** Spokane, WA
+- 🕒 **Posted:** 2026-10-09
+
+### [Data Engineer II, Creator Services](https://www.linkedin.com/jobs/view/4476948829/) — Amazon Game Studios
+- 📍 **Location:** Culver City, CA
+- 🕒 **Posted:** 2026-10-08
+
+### [Sr. Data Engineer](https://www.linkedin.com/jobs/view/4466283060/) — Carrot
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-08
+
+### [Data Warehouse and ETL Developer](https://www.linkedin.com/jobs/view/4477421433/) — At Home Group Inc.
+- 📍 **Location:** Coppell, TX
+- 🕒 **Posted:** 2026-10-08
+
+### [Sr. Data Engineer](https://www.linkedin.com/jobs/view/4466288002/) — Carrot
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-08
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4467135198/) — Tata Consultancy Services
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-10-08
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4458288363/) — Delta Defense LLC
+- 📍 **Location:** West Bend, WI
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475165976/) — Deloitte
+- 📍 **Location:** Detroit, MI
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475185096/) — Deloitte
+- 📍 **Location:** Grand Rapids, MI
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475174644/) — Deloitte
+- 📍 **Location:** Charlotte, NC
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475185115/) — Deloitte
+- 📍 **Location:** Greater Cleveland
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475181381/) — Deloitte
+- 📍 **Location:** Lansing, MI
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475188024/) — Deloitte
+- 📍 **Location:** Rochester, NY
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475186071/) — Deloitte
+- 📍 **Location:** Williamsville, NY
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475167908/) — Deloitte
+- 📍 **Location:** Des Moines, IA
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475176553/) — Deloitte
+- 📍 **Location:** Louisville, KY
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475169959/) — Deloitte
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475166939/) — Deloitte
+- 📍 **Location:** Lake Mary, FL
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475179447/) — Deloitte
+- 📍 **Location:** Miami, FL
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475178471/) — Deloitte
+- 📍 **Location:** Miami-Fort Lauderdale Area
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475187084/) — Deloitte
+- 📍 **Location:** Raleigh, NC
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475182307/) — Deloitte
+- 📍 **Location:** Columbus, OH
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475180468/) — Deloitte
+- 📍 **Location:** Tampa, FL
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475166931/) — Deloitte
+- 📍 **Location:** Jersey City, NJ
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475164986/) — Deloitte
+- 📍 **Location:** Tallahassee, FL
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475183236/) — Deloitte
+- 📍 **Location:** Cincinnati, OH
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475173646/) — Deloitte
+- 📍 **Location:** Jericho, NY
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475181389/) — Deloitte
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475173649/) — Deloitte
+- 📍 **Location:** Nashville, TN
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475168870/) — Deloitte
+- 📍 **Location:** Morristown, NJ
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475166945/) — Deloitte
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475170741/) — Deloitte
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475182299/) — Deloitte
+- 📍 **Location:** Pittsburgh, PA
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475188021/) — Deloitte
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475170743/) — Deloitte
+- 📍 **Location:** Princeton, NJ
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475165980/) — Deloitte
+- 📍 **Location:** Richmond, VA
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475184099/) — Deloitte
+- 📍 **Location:** Kansas City, MO
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475175572/) — Deloitte
+- 📍 **Location:** Huntsville, AL
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475164997/) — Deloitte
+- 📍 **Location:** Philadelphia, PA
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475179440/) — Deloitte
+- 📍 **Location:** Stamford, CT
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475165965/) — Deloitte
+- 📍 **Location:** Jacksonville, FL
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475188013/) — Deloitte
+- 📍 **Location:** Boston, MA
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475166933/) — Deloitte
+- 📍 **Location:** Memphis, TN
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475183239/) — Deloitte
+- 📍 **Location:** Mechanicsburg, PA
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475189000/) — Deloitte
+- 📍 **Location:** Birmingham, AL
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4466803034/) — Tata Consultancy Services
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475182294/) — Deloitte
+- 📍 **Location:** St Louis, MO
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.linkedin.com/jobs/view/4475184087/) — Deloitte
+- 📍 **Location:** Arlington, VA
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior Data Engineer - Data Platform](https://www.linkedin.com/jobs/view/4476543260/) — First Citizens Bank
+- 📍 **Location:** Raleigh, NC
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer-Data Platforms-Google - 4](https://www.linkedin.com/jobs/view/4474407315/) — IBM
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-06
+
+### [Data Engineer-Data Platforms-Google - 2](https://www.linkedin.com/jobs/view/4474402402/) — IBM
+- 📍 **Location:** New York, United States
+- 🕒 **Posted:** 2026-10-06
+
+### [Data Engineer-Data Platforms-Google - 4](https://www.linkedin.com/jobs/view/4474400657/) — IBM
+- 📍 **Location:** New York, United States
+- 🕒 **Posted:** 2026-10-06
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4473656049/) — Seneca Holdings
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-10-05
+
+### [Google Cloud Platform (GCP) Data Engineer](https://www.linkedin.com/jobs/view/4443303005/) — Accenture Federal Services
+- 📍 **Location:** Arlington, VA
+- 🕒 **Posted:** 2026-10-02
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4456405282/) — Accenture Federal Services
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-10-02
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4441608149/) — Accenture Federal Services
+- 📍 **Location:** Arlington, VA
+- 🕒 **Posted:** 2026-10-02
+
+### [Data Engineer I](https://www.linkedin.com/jobs/view/4473920670/) — Summit Utilities
+- 📍 **Location:** Denver, CO
+- 🕒 **Posted:** 2026-09-30
+
+### [Senior ETL & Data Migration Engineer](https://www.linkedin.com/jobs/view/4473594173/) — CGI
+- 📍 **Location:** Huntsville, AL
+- 🕒 **Posted:** 2026-09-30
+
+### [Data Engineer – Senior](https://www.linkedin.com/jobs/view/4473533551/) — CGI
+- 📍 **Location:** Huntsville, AL
+- 🕒 **Posted:** 2026-09-29
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4471967324/) — Lippert
+- 📍 **Location:** Mishawaka, IN
+- 🕒 **Posted:** 2026-09-29
