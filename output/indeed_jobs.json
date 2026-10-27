@@ -1,7 +1,45 @@
 {
-  "scraped_at": "2026-10-27 06:42 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-10-27 20:15 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "SEIDOR",
+      "title": "Senior BI Data Engineer - Brussels",
+      "location": "Brussels, BRU, Belgium",
+      "url": "https://be.indeed.com/viewjob?jk=d598db3594e1181d",
+      "direct_url": "https://seidor.talentclue.com/node/129832328/445",
+      "company_url": "https://be.indeed.com/cmp/Seidor",
+      "date_posted": "2026-10-27",
+      "description": "#HumanizingTechnology\n\n**ABOUT SEIDOR**\n\nSEIDOR helps organizations transform and stay competitive through technology and innovation, always putting people first. With over 8,000 professionals in 45 countries, we are a diverse and inclusive global team committed to talent, equal opportunities, and sustainable growth.\n\nWe deliver high-impact projects across industries, working with leading technology partners such as SAP, Microsoft, Salesforce, IBM, Google, AWS, Cisco, and Adobe. At the same time, we foster an environment where people can grow professionally and personally from day one.\n\nGuided by strong ESG values, SEIDOR is also committed to sustainability and has achieved net-zero status by reducing and offsetting its carbon footprint.\n\n**Will you join us in humanizing technology?**\n\nWe want you to be a part of our team, from **Luxembourg - Remote**, as an **Intermediate Data Engineer.**\n\n**WHAT WILL YOU DO IN YOUR DAY-TO-DAY?**s.\n\n✅ Build and optimize Data Lakes and Data Lakehouse solutions in cloud, on-premises, and hybrid environments.\n\n✅ Develop and maintain ETL/ELT pipelines using modern data integration tools.\n\n✅ Design scalable data models (Star Schema, Snowflake Schema) to support analytics and reporting.\n\n✅ Implement data quality, governance, security, and lineage frameworks.\n\n✅ Create dashboards, KPIs, and self-service BI solutions for business stakeholders.\n\n✅ Optimize SQL queries, database performance, and data platform costs.\n\n✅ Define and maintain CI/CD processes and Infrastructure as Code practices for BI environments.\n\n✅ Collaborate with business and technical stakeholders to gather requirements and deliver high-quality solutions.\n\n**Join our team and help us humanize the world through technology!**\n\n  \n\n**WHAT DO WE EXPECT FROM YOU?**\n\n* Minimum 15 years of relevant professional experience.\n* Bachelor’s degree in IT, Engineering, or related field (or equivalent experience).\n* Proficiency in English (C1).\n\n**Mandatory Experience**\n\n✅ Strong experience with ETL/ELT tools (Azure Data Factory, dbt, Informatica, Talend, SAP Data Services, etc.)\n\n✅ Advanced SQL expertise\n\n✅ Data Warehousing and Data Modeling (Star Schema, Snowflake Schema)\n\n✅ Experience with Microsoft Fabric, Azure Synapse, Snowflake, BigQuery, or similar platforms\n\n✅ Knowledge of Data Lakes, Data Lakehouses, and Business Intelligence solutions\n\n✅ Understanding of Data Governance, Data Quality, and Data Security best practices\n\n✅ Experience working in Agile environments and modern DevOps practices",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "SEIDOR",
+      "title": "Senior BI Data Engineer - Brussels",
+      "location": "Brussels, BRU, Belgium",
+      "url": "https://be.indeed.com/viewjob?jk=d598db3594e1181d",
+      "direct_url": "https://seidor.talentclue.com/node/129832328/445",
+      "company_url": "https://be.indeed.com/cmp/Seidor",
+      "date_posted": "2026-10-27",
+      "description": "#HumanizingTechnology\n\n**ABOUT SEIDOR**\n\nSEIDOR helps organizations transform and stay competitive through technology and innovation, always putting people first. With over 8,000 professionals in 45 countries, we are a diverse and inclusive global team committed to talent, equal opportunities, and sustainable growth.\n\nWe deliver high-impact projects across industries, working with leading technology partners such as SAP, Microsoft, Salesforce, IBM, Google, AWS, Cisco, and Adobe. At the same time, we foster an environment where people can grow professionally and personally from day one.\n\nGuided by strong ESG values, SEIDOR is also committed to sustainability and has achieved net-zero status by reducing and offsetting its carbon footprint.\n\n**Will you join us in humanizing technology?**\n\nWe want you to be a part of our team, from **Luxembourg - Remote**, as an **Intermediate Data Engineer.**\n\n**WHAT WILL YOU DO IN YOUR DAY-TO-DAY?**s.\n\n✅ Build and optimize Data Lakes and Data Lakehouse solutions in cloud, on-premises, and hybrid environments.\n\n✅ Develop and maintain ETL/ELT pipelines using modern data integration tools.\n\n✅ Design scalable data models (Star Schema, Snowflake Schema) to support analytics and reporting.\n\n✅ Implement data quality, governance, security, and lineage frameworks.\n\n✅ Create dashboards, KPIs, and self-service BI solutions for business stakeholders.\n\n✅ Optimize SQL queries, database performance, and data platform costs.\n\n✅ Define and maintain CI/CD processes and Infrastructure as Code practices for BI environments.\n\n✅ Collaborate with business and technical stakeholders to gather requirements and deliver high-quality solutions.\n\n**Join our team and help us humanize the world through technology!**\n\n  \n\n**WHAT DO WE EXPECT FROM YOU?**\n\n* Minimum 15 years of relevant professional experience.\n* Bachelor’s degree in IT, Engineering, or related field (or equivalent experience).\n* Proficiency in English (C1).\n\n**Mandatory Experience**\n\n✅ Strong experience with ETL/ELT tools (Azure Data Factory, dbt, Informatica, Talend, SAP Data Services, etc.)\n\n✅ Advanced SQL expertise\n\n✅ Data Warehousing and Data Modeling (Star Schema, Snowflake Schema)\n\n✅ Experience with Microsoft Fabric, Azure Synapse, Snowflake, BigQuery, or similar platforms\n\n✅ Knowledge of Data Lakes, Data Lakehouses, and Business Intelligence solutions\n\n✅ Understanding of Data Governance, Data Quality, and Data Security best practices\n\n✅ Experience working in Agile environments and modern DevOps practices",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ]
 }
