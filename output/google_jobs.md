@@ -1,5 +1,5 @@
 # 🔎 Google Jobs — Data Engineer - Talend / ETL Roles
-*Last updated: 2026-10-27 06:50 UTC*
+*Last updated: 2026-10-27 20:59 UTC*
 
 **0 new role(s)** since last run · 0 total in last 24h
 
