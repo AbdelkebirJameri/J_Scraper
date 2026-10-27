@@ -1,12 +1,12 @@
 # 🔥 LinkedIn — Data Engineer - Talend / ETL Roles
-*Last updated: 2026-10-27 00:42 UTC*
+*Last updated: 2026-10-27 06:29 UTC*
 
 **2 new role(s)** since last run · 2 total in last 1h
 
-### [Data Engineer / Data Analyst Expérimenté·e (H/F)](https://www.linkedin.com/jobs/view/4483785225/) — Valeuriad
-- 📍 **Location:** Nantes, Pays de la Loire, France
+### [Data Engineer Junior – MCO & Migration IBM TM1 / PAX (H/F)](https://www.linkedin.com/jobs/view/4484008517/) — Kicklox
+- 📍 **Location:** L’île-Saint-Denis, Île-de-France, France
 - 🕒 **Posted:** 2026-10-27
 
-### [Data engineer](https://www.linkedin.com/jobs/view/4483773498/) — Free-Work
-- 📍 **Location:** Liège, Walloon Region, Belgium
+### [Lead Data Engineer](https://www.linkedin.com/jobs/view/4483237390/) — BLS Cargo
+- 📍 **Location:** Antwerp, Flemish Region, Belgium
 - 🕒 **Posted:** 2026-10-27
