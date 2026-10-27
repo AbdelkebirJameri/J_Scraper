@@ -1,9 +1,10 @@
 # 🟦 Indeed — Data Engineer - Talend / ETL Roles
-*Last updated: 2026-10-27 20:15 UTC*
+*Last updated: 2026-10-27 23:59 UTC*
 
-**1 new role(s)** since last run · 1 total in last 24h
+**1 new role(s)** since last run · 2 total in last 24h
 
-### [Senior BI Data Engineer - Brussels](https://be.indeed.com/viewjob?jk=d598db3594e1181d) — SEIDOR
-- 📍 **Location:** Brussels, BRU, Belgium
+### [Lead Intégration / PO Senior Talend & Mulesoft - Luxe (H/F)](https://fr.indeed.com/viewjob?jk=344b239520f54ca9) — ISALYS Digital Lab
+- 📍 **Location:** Paris, A8, France
+- 💰 **Salary:** $55k–$68k/yr
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-27
