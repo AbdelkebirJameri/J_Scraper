@@ -1,18 +1,7 @@
 {
-  "scraped_at": "2026-10-28 06:09 UTC",
-  "total": 1,
+  "scraped_at": "2026-10-28 20:20 UTC",
+  "total": 0,
   "new_count": 0,
-  "jobs": [
-    {
-      "company": "Free-Work",
-      "title": "DATA ENGINEER GCP / BIGQUERY (H/F) (IT) / Freelance",
-      "location": "Paris, Île-de-France, France",
-      "url": "https://www.linkedin.com/jobs/view/4482267940/",
-      "date_posted": "2026-10-28",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "🔎 Contexte de la mission\n\nDans le cadre d’un programme de transformation Data et de migration d’un Data Warehouse historique vers Google Cloud Platform (GCP), nous recherchons un Data Engineer senior pour accompagner la conception, le développement et l’industrialisation de Data Products à destination de différents domaines métiers : Achats, RH, Finance, Opérations, etc.\n\nVous intégrerez une équipe Data agile et contribuerez à la modernisation de la plateforme Data, à la migration des flux existants et à la mise en place de solutions performantes, fiables et industrialisées.\n\n🛠️ Vos principales missions\n\n✅ Concevoir, développer et maintenir les flux de données entre différents systèmes.\n\n✅ Participer à la migration des flux existants vers GCP.\n\n✅ Construire et optimiser les modèles de données sous BigQuery.\n\n✅ Mettre en œuvre des contrôles qualité et renforcer la fiabilité des données.\n\n✅ Automatiser les déploiements et industrialiser les traitements Data.\n\n✅ Contribuer à l’architecture Data en collaboration avec les Data Architects.\n\n✅ Participer aux enjeux de Data Governance, Master Data Management (MDM) et de référentiels de données.\n\n✅ Collaborer avec les Data Stewards et les Data Scientists pour garantir la qualité, la sécurité et l’exploitation des données.\n\nProfil candidat:\n\n🎯 Profil recherché\n\n9 ans d’expérience minimum en Data Engineering.\n\nExpertise confirmée en référentiels de données et en Business Intelligence (BI).\n\nBonne maîtrise de l’écosystème GCP / BigQuery et des problématiques d’intégration de données.\n\nExpérience en migration de plateformes Data et industrialisation des flux.\n\nSensibilité forte aux enjeux de qualité, de gouvernance et de modélisation des données.\n\nFrançais courant et anglais courant indispensables.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet"
-    }
-  ],
+  "jobs": [],
   "new_jobs": []
 }
