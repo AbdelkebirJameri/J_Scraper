@@ -1,8 +1,8 @@
 # 🔥 LinkedIn — Data Engineer - Talend / ETL Roles
-*Last updated: 2026-10-27 23:52 UTC*
+*Last updated: 2026-10-28 05:50 UTC*
 
-**1 new role(s)** since last run · 2 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-### [Data Engineer (H/F)](https://www.linkedin.com/jobs/view/4424713776/) — Inetum
-- 📍 **Location:** Saint-Ouen, Centre-Val de Loire, France
-- 🕒 **Posted:** 2026-10-27
+### [DATA ENGINEER GCP / BIGQUERY (H/F) (IT) / Freelance](https://www.linkedin.com/jobs/view/4482267940/) — Free-Work
+- 📍 **Location:** Paris, Île-de-France, France
+- 🕒 **Posted:** 2026-10-28
