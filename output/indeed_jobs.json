@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-27 23:59 UTC",
+  "scraped_at": "2026-10-28 00:04 UTC",
   "total": 2,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "ISALYS Digital Lab",
@@ -40,24 +40,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "ISALYS Digital Lab",
-      "title": "Lead Intégration / PO Senior Talend & Mulesoft - Luxe (H/F)",
-      "location": "Paris, A8, France",
-      "url": "https://fr.indeed.com/viewjob?jk=344b239520f54ca9",
-      "direct_url": "https://www.free-work.com/fr/tech-it/job-mission/lead-developer/lead-integration-po-senior-talend-mulesoft-luxe-h-f?utm_source=indeed&utm_medium=organic&utm_campaign=indeed_organic_fr_all_wo",
-      "company_url": "https://fr.indeed.com/cmp/Isalys-Digital-Lab",
-      "date_posted": "2026-10-27",
-      "description": "Notre client, une grande maison internationale du luxe, renforce son équipe Intégration rattachée au domaine Manufacturing & Supply Chain (amont et aval de l'industrie). Cette équipe conçoit et fait vivre les flux applicatifs qui relient les applications de production, de logistique et de distribution.\n  \n  \nVous serez le bras droit et le backup du Lead PO de l'équipe.\n  \n  \n**Vos missions :**  \nGestion & qualité\n  \n  \nRédaction des user stories et des critères d'acceptation\n  \n  \nRevue des spécifications fonctionnelles et techniques\n  \n  \nSuivi et priorisation du backlog\n  \n  \nPilotage & coordination\n  \n  \nEncadrement des équipes de développement offshore\n  \n  \nInterface avec les équipes centrales pour la gestion des environnements et du scheduling (ordonnancement des traitements)\n  \n  \nTechnique & Run\n  \n  \nInterventions en développement et en run sur les flux Talend et Mulesoft\n  \n  \n**Démarche de shift-left sur les niveaux de support L2/L3 :** traiter les incidents au plus tôt et réduire les escalades\n  \n  \nMission longue durée, démarrage dès que possible.\n  \n  \n**Profil candidat:**  \n8 ans d'expérience minimum dans l'intégration applicative (ETL / ESB / API)\n  \n  \nProfil senior / expert avec une forte culture technique, ayant déjà assuré un rôle de pilotage (Lead, PO, Tech Lead) ou souhaitant y évoluer\n  \n  \n**Maîtrise de Talend et de Mulesoft :** vision claire des deux technologies et pratique du développement sur au moins l'une d'elles\n  \n  \nExpérience de rédaction de user stories et de gestion de backlog en agile\n  \n  \nExpérience d'encadrement d'équipes offshore appréciée\n  \n  \n**La maîtrise d'OpCon (ou d'un ordonnanceur équivalent :** Control-M, $Universe...) est un vrai plus\n  \n  \nUne expérience sur un périmètre manufacturing / supply chain est un atout\n  \n  \nAnglais professionnel indispensable",
-      "salary": "$55k–$68k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "EUR",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
