@@ -1,29 +1,7 @@
 {
-  "scraped_at": "2026-10-29 20:24 UTC",
-  "total": 1,
-  "new_count": 1,
-  "jobs": [
-    {
-      "company": "Baloise BE",
-      "title": "Data Engineer /Analyst Professional Fabric",
-      "location": "Antwerp, Flemish Region, Belgium",
-      "url": "https://www.linkedin.com/jobs/view/4472532223/",
-      "date_posted": "2026-10-29",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "Wat jij mag verwachten\n\nAls Data Engineer/Analist Professional Fabric\n speel je een sleutelrol in het ontwerpen en uitbouwen van ons centrale datamodel en de semantische laag. Je werkt met moderne tools zoals Microsoft Fabric, DBT en Power BI en neemt ownership over modellering, standaarden en best practices. Daarnaast ben je een belangrijke sparringpartner voor collega’s en help je hen groeien in expertise.Je rapporteert aan de Teamlead Resource Pool Data\nen werkt voornamelijk op de gold layer\n, waar je businessnoden vertaalt naar consistente, schaalbare datamodellen die écht gebruikt worden.\nZo ziet jouw takenpakket eruit\nJe ontwerpt en implementeert robuuste, businessgerichte datamodellen in DBT (dimensioneel, business-driven).\nJe bouwt en onderhoudt het centrale datamodel (gold layer).\nJe definieert en bewaakt standaarden rond modellering, naming conventions en versioning.\nJe integreert data uit verschillende bronnen tot één coherent en herbruikbaar geheel.\nJe waakt over data-consistentie, kwaliteit en herbruikbaarheid.\nJe werkt nauw samen met data engineers (brondata → silver → gold).\nJe vertaalt businessvragen naar KPI’s, measures en semantische definities.\nJe maakt self-service analytics mogelijk via duidelijke datasets en governance.\nJe fungeert als sparringpartner voor business stakeholders.\nJe geeft gerichte opleidingen over het gebruik en de inhoud van semantische modellen.\nJe stimuleert kennisdeling en draagt bij aan de verdere maturiteit van het team.\n\nWat wij verwachten\n\nMust‑haves\n\nSterke ervaring (enkele jaren) in datamodellering en analytics\nAantoonbare ervaring met DBT\n (modelling, testing, documentation)\nZeer goede kennis van SQL\n\nErvaring met Power BI\n(focus op datasets en semantische modellen)\nSterk inzicht in dimensionele modellering\n(facts & dimensions)\nErvaring in samenwerking met data engineers en stakeholders\nSterke analytische en communicatieve vaardigheden\n\nNice‑to‑haves\n\nErvaring met Microsoft Fabric of gelijkaardige platforms\nErvaring met data governance tools (bv. Purview)\nKennis van Git, data contracten en CI/CD\nErvaring in Agile/Scrum omgevingen\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nInsurance"
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "Baloise BE",
-      "title": "Data Engineer /Analyst Professional Fabric",
-      "location": "Antwerp, Flemish Region, Belgium",
-      "url": "https://www.linkedin.com/jobs/view/4472532223/",
-      "date_posted": "2026-10-29",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "Wat jij mag verwachten\n\nAls Data Engineer/Analist Professional Fabric\n speel je een sleutelrol in het ontwerpen en uitbouwen van ons centrale datamodel en de semantische laag. Je werkt met moderne tools zoals Microsoft Fabric, DBT en Power BI en neemt ownership over modellering, standaarden en best practices. Daarnaast ben je een belangrijke sparringpartner voor collega’s en help je hen groeien in expertise.Je rapporteert aan de Teamlead Resource Pool Data\nen werkt voornamelijk op de gold layer\n, waar je businessnoden vertaalt naar consistente, schaalbare datamodellen die écht gebruikt worden.\nZo ziet jouw takenpakket eruit\nJe ontwerpt en implementeert robuuste, businessgerichte datamodellen in DBT (dimensioneel, business-driven).\nJe bouwt en onderhoudt het centrale datamodel (gold layer).\nJe definieert en bewaakt standaarden rond modellering, naming conventions en versioning.\nJe integreert data uit verschillende bronnen tot één coherent en herbruikbaar geheel.\nJe waakt over data-consistentie, kwaliteit en herbruikbaarheid.\nJe werkt nauw samen met data engineers (brondata → silver → gold).\nJe vertaalt businessvragen naar KPI’s, measures en semantische definities.\nJe maakt self-service analytics mogelijk via duidelijke datasets en governance.\nJe fungeert als sparringpartner voor business stakeholders.\nJe geeft gerichte opleidingen over het gebruik en de inhoud van semantische modellen.\nJe stimuleert kennisdeling en draagt bij aan de verdere maturiteit van het team.\n\nWat wij verwachten\n\nMust‑haves\n\nSterke ervaring (enkele jaren) in datamodellering en analytics\nAantoonbare ervaring met DBT\n (modelling, testing, documentation)\nZeer goede kennis van SQL\n\nErvaring met Power BI\n(focus op datasets en semantische modellen)\nSterk inzicht in dimensionele modellering\n(facts & dimensions)\nErvaring in samenwerking met data engineers en stakeholders\nSterke analytische en communicatieve vaardigheden\n\nNice‑to‑haves\n\nErvaring met Microsoft Fabric of gelijkaardige platforms\nErvaring met data governance tools (bv. Purview)\nKennis van Git, data contracten en CI/CD\nErvaring in Agile/Scrum omgevingen\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nInsurance"
-    }
-  ]
+  "scraped_at": "2026-10-30 00:11 UTC",
+  "total": 0,
+  "new_count": 0,
+  "jobs": [],
+  "new_jobs": []
 }
