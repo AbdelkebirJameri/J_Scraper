@@ -1,18 +1,7 @@
 {
-  "scraped_at": "2026-10-30 07:14 UTC",
-  "total": 1,
+  "scraped_at": "2026-10-30 19:59 UTC",
+  "total": 0,
   "new_count": 0,
-  "jobs": [
-    {
-      "company": "Klanik",
-      "title": "Data Engineer (H/F)",
-      "location": "Lyon, Auvergne-Rhône-Alpes, France",
-      "url": "https://www.linkedin.com/jobs/view/4484813744/",
-      "date_posted": "2026-10-30",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "Depuis sa création, KLANIK s'est donnée pour mission de conjuguer expertise technologique et authenticité.\n\nCe pari audacieux, né à Marseille en 2011, en France, s'est transformé en une aventure internationale qui compte aujourd'hui plus de 800 collaborateurs, des implantations dans 10 pays et des filiales innovantes. Nous rejoignons en 2026 le groupe ALTEN, acteur mondial de l'ingénierie et des services numériques.\n\nNotre rôle : recruter les meilleurs talents & les connecter à nos clients pour les accompagner dans leurs projets digitaux. KLANIK est une société de conseil en informatique structurée autour de 5 pôles d'expertises : Data & IA, DevOps Cloud Infra, Cybersécurité, Software, Produit Agilité Pilotage.\n\nNos 800 talents ont des profils variés : tech (nos pôles d'expertises), opérationnels (fonctions commerciales et recrutement) et support.\n\nAu‑delà des métiers, KLANIK cultive un modèle profondément humain, qui dépasse les frontières : de la Belgique à la Colombie, nos valeurs résonnent. Une culture fondée sur le partage, l'exigence et la bienveillance - un collectif où chacun peut trouver sa place. En témoignent nos filiales :\n\nKlanik Esport : club Esport & agence de gamification;\nKorner : incubateur de startups tech;\nKampus : organisme de formation certifié Qualiopi\nl'Act'In Klanik, rôles qui permettent à nos collaborateurs de faire vivre leurs passions au-delà de leurs missions.\n\nNotre culture est résumée par cette phrase, souvent apposée sous notre logo : Human-Made Technology. La tech oui, mais une tech humaine, qui diffuse un modèle où l'authenticité de chacun est la priorité.\n\nKLANIK, en tant que société à mission, croit en la force de la diversité et de l'inclusion. Nos recrutements sont fondés sur les compétences, sans distinction d'origine, d'âge ou de genre, et tous nos postes sont ouverts aux personnes en situation de handicap. Nous sommes convaincus que la diversité de nos équipes est une force qui contribue à notre succès.\n\nLe Poste\n\nKlanik recherche actuellement un(e) Data Engineer, pour travailler sur un projet from scratch de refonte globale du système d'informations de l'un de nos clients les plus actifs, à Lyon.\n\nLe domaine de notre client fournit les services IT pour l'activité PCM :\n\nDigital Platform PCM, un datalake Azure dédié et des reportings pour nos clients et les équipes internes sur les télémétries des 150K machines connectées réparties dans le monde\nBack-office process (ERP et Field Service Management) (hors scope de la recherche) : des reportings corporate et locaux sous SAP BW, Analysis for Office ou encore Qlik Sense\n\nDans Le Cadre De La Digital Platform PCM, Nous Recherchons Un·e Data Engineer Confirmé·e Qui Aura Pour Missions De\n\nPrendre en charge des tâches de développement sur des projets de build pour fournir les data pipelines du Datalake\nIntervenir sur le maintien en condition opérationnelle du Datalake\nRéaliser des développements qui permettront aux développeurs Qlik Sense et Azure Dashboard de construire les reports adéquates pour nos clients.\n\nProfil\n\nLes compétences clés recherchées sont :\n\nUne expérience requise dans ce type d'environnement de 3 ans minimum.\nMaîtrise des langages et outils tels que Spark, Scala, Java, ainsi que les environnements Azure (Azure Data Explorer, Azure DevOps).\nUne base solide en SQL est un pré-requis.\nLa maîtrise des concepts DevOps (Git, Maven) est un plus.\n\nSi vous vous reconnaissez dans cette description et que le projet vous intéresse, n'hésitez pas à postuler !\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting"
-    }
-  ],
+  "jobs": [],
   "new_jobs": []
 }
