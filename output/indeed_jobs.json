@@ -1,26 +1,45 @@
 {
-  "scraped_at": "2026-11-04 08:04 UTC",
+  "scraped_at": "2026-11-04 21:28 UTC",
   "total": 1,
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
-      "company": "Clovr",
-      "title": "AWS Data Engineer - 80% thuiswerk",
-      "location": "Brussels, BRU, Belgium",
-      "url": "https://be.indeed.com/viewjob?jk=7dcd3c6eccb967cb",
-      "direct_url": "https://clovr.be/vacatures/aws-data-engineer-80-thuiswerk/",
-      "company_url": "https://be.indeed.com/cmp/Clovr-1",
-      "date_posted": "2026-11-02",
-      "description": "Brussel\n\nData Engineer\n\nVast contract\n\n### **Over de vacature**\n\nWe zoeken een ervaren AWS Data engineer die de nodige verantwoordelijkheid kan nemen in een uitdagend greenfield-project met een grote impact. Je bouwt hierbij aan een data product op een nieuw AWS-gebaseerd Enterprise Data Platform en optimaliseert en stabiliseert de end-to-end pipeline van de bronapplicaties tot de app-backend.\n\nJe werkt het data product van de grond af uit met Python, dbt en de AWS data stack. Je bouwt een governance- en testinglaag om de datakwaliteit te garanderen, en zet een QuickSight-dashboard op waarmee zowel stakeholders als developers de ETL-pipeline kunnen opvolgen. Waar nodig vertaal je business requirements zelf naar technische specificaties via functionele analyse.\n\n### **Profiel**\n\n**Wie ben jij?**\n\n* Je hebt zeker 2-4 jaar relevante werkervaring én hands-on ervaring met de AWS data stack (o.a. S3, en aanverwante services)\n* Je hebt sterke Python- en SQL-vaardigheden én ervaring met dbt en het bouwen van data producten en ETL-pipelines\n* Je hebt kennis van data governance en het opzetten van testing- en datakwaliteitslagen alsook ervaring met BI- en visualisatietools zoals AWS QuickSight\n* Vloeiend Nederlandstalig en communicatief sterk, in staat om technische concepten te vertalen naar business\n\n### **Aanbod**\n\n**Het aanbod?**\n\n* Een uitgebreid salarispakket in lijn met jouw ervaring (tot +/- 4100 euro bruto/maand)\n* Vast contract van onbepaalde duur\n* Een zeer uitdagend greenfieldproject met directe impact\n* Bedrijfswagen en laadkaart\n* Maaltijdcheques en ecocheques\n* Hospitalisatie- en groepsverzekering\n* GSM + abonnement, laptop,...\n* Glijdende uren en heel wat flexibiliteit **(tot 80% thuiswerk - 4 dagen/week thuiswerk!)**\n* 40 uren/week dus 12 ADV dagen\n* Teambuildings & leuke trips\n* Nog andere leuke extra's",
-      "salary": "$4100/mo",
+      "company": "BlueScale",
+      "title": "Data Engineer",
+      "location": "Luxembourg",
+      "url": "https://lu.indeed.com/viewjob?jk=271e77f5235ea872",
+      "direct_url": "",
+      "company_url": "https://lu.indeed.com/cmp/Bluescale-4",
+      "date_posted": "2026-11-04",
+      "description": "**BlueScale** place des consultants seniors sur les projets de transformation des banques, assureurs et fonds de la Place luxembourgeoise. Nous constituons notre réseau de Data Engineers pour des missions qui démarrent en 2027\n\n**Le contexte de nos clients**  \nLes institutions financières modernisent leurs données : sortie des entrepôts historiques, passage au cloud, organisation par domaines métier (Data Mesh), données prêtes pour l'IA.\n\n**Ce que vous ferez**\n\n* Concevoir et maintenir des pipelines de données, de la source au reporting.\n* Migrer des traitements existants (Talend, SAS, ETL maison) vers des outils modernes.\n* Modéliser des entrepôts et des produits de données exploitables par les métiers.\n* Travailler avec les équipes BI, data science et métier.\n\n**Votre profil**\n\n* 6 années minimum en data engineering, idéalement en banque, assurance ou fonds.\n* SQL avancé et Python\n* Expérience d'un outil ETL (Talend, SAS, Informatica) et d'un environnement cloud (Azure, AWS ou GCP)\n* Un plus : Databricks, Snowflake, dbt, Power BI.\n* Français et anglais\n\n**Ce que nous proposons**  \nSalarié ou freelance, selon votre choix. Nos consultants salariés sont payés proportionnellement au taux journalier de leur mission, avec des primes de fidélité versées par cycle. Missions au Luxembourg, rythme hybride selon le client.\n\nUn outil d'intelligence artificielle nous aide à lire chaque candidature et à comprendre les spécificités de votre parcours ; le choix des profils et toute décision sont faits par une personne.\n\nRémunération : €50.000,00 à €100.000,00 par an\n\nLieu du poste : En présentiel",
+      "salary": "$50k–$100k/yr",
       "salary_source": "direct_data",
       "salary_currency": "EUR",
       "job_type": "",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "emails": "",
       "ats": "Indeed"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "BlueScale",
+      "title": "Data Engineer",
+      "location": "Luxembourg",
+      "url": "https://lu.indeed.com/viewjob?jk=271e77f5235ea872",
+      "direct_url": "",
+      "company_url": "https://lu.indeed.com/cmp/Bluescale-4",
+      "date_posted": "2026-11-04",
+      "description": "**BlueScale** place des consultants seniors sur les projets de transformation des banques, assureurs et fonds de la Place luxembourgeoise. Nous constituons notre réseau de Data Engineers pour des missions qui démarrent en 2027\n\n**Le contexte de nos clients**  \nLes institutions financières modernisent leurs données : sortie des entrepôts historiques, passage au cloud, organisation par domaines métier (Data Mesh), données prêtes pour l'IA.\n\n**Ce que vous ferez**\n\n* Concevoir et maintenir des pipelines de données, de la source au reporting.\n* Migrer des traitements existants (Talend, SAS, ETL maison) vers des outils modernes.\n* Modéliser des entrepôts et des produits de données exploitables par les métiers.\n* Travailler avec les équipes BI, data science et métier.\n\n**Votre profil**\n\n* 6 années minimum en data engineering, idéalement en banque, assurance ou fonds.\n* SQL avancé et Python\n* Expérience d'un outil ETL (Talend, SAS, Informatica) et d'un environnement cloud (Azure, AWS ou GCP)\n* Un plus : Databricks, Snowflake, dbt, Power BI.\n* Français et anglais\n\n**Ce que nous proposons**  \nSalarié ou freelance, selon votre choix. Nos consultants salariés sont payés proportionnellement au taux journalier de leur mission, avec des primes de fidélité versées par cycle. Missions au Luxembourg, rythme hybride selon le client.\n\nUn outil d'intelligence artificielle nous aide à lire chaque candidature et à comprendre les spécificités de votre parcours ; le choix des profils et toute décision sont faits par une personne.\n\nRémunération : €50.000,00 à €100.000,00 par an\n\nLieu du poste : En présentiel",
+      "salary": "$50k–$100k/yr",
+      "salary_source": "direct_data",
+      "salary_currency": "EUR",
+      "job_type": "",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ]
 }
