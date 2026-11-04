@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-04 21:28 UTC",
+  "scraped_at": "2026-11-04 21:32 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "BlueScale",
@@ -22,24 +22,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "BlueScale",
-      "title": "Data Engineer",
-      "location": "Luxembourg",
-      "url": "https://lu.indeed.com/viewjob?jk=271e77f5235ea872",
-      "direct_url": "",
-      "company_url": "https://lu.indeed.com/cmp/Bluescale-4",
-      "date_posted": "2026-11-04",
-      "description": "**BlueScale** place des consultants seniors sur les projets de transformation des banques, assureurs et fonds de la Place luxembourgeoise. Nous constituons notre réseau de Data Engineers pour des missions qui démarrent en 2027\n\n**Le contexte de nos clients**  \nLes institutions financières modernisent leurs données : sortie des entrepôts historiques, passage au cloud, organisation par domaines métier (Data Mesh), données prêtes pour l'IA.\n\n**Ce que vous ferez**\n\n* Concevoir et maintenir des pipelines de données, de la source au reporting.\n* Migrer des traitements existants (Talend, SAS, ETL maison) vers des outils modernes.\n* Modéliser des entrepôts et des produits de données exploitables par les métiers.\n* Travailler avec les équipes BI, data science et métier.\n\n**Votre profil**\n\n* 6 années minimum en data engineering, idéalement en banque, assurance ou fonds.\n* SQL avancé et Python\n* Expérience d'un outil ETL (Talend, SAS, Informatica) et d'un environnement cloud (Azure, AWS ou GCP)\n* Un plus : Databricks, Snowflake, dbt, Power BI.\n* Français et anglais\n\n**Ce que nous proposons**  \nSalarié ou freelance, selon votre choix. Nos consultants salariés sont payés proportionnellement au taux journalier de leur mission, avec des primes de fidélité versées par cycle. Missions au Luxembourg, rythme hybride selon le client.\n\nUn outil d'intelligence artificielle nous aide à lire chaque candidature et à comprendre les spécificités de votre parcours ; le choix des profils et toute décision sont faits par une personne.\n\nRémunération : €50.000,00 à €100.000,00 par an\n\nLieu du poste : En présentiel",
-      "salary": "$50k–$100k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "EUR",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
