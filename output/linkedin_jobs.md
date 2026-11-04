@@ -1,5 +1,5 @@
 # 🔥 LinkedIn — Data Engineer - Talend / ETL Roles
-*Last updated: 2026-11-03 21:04 UTC*
+*Last updated: 2026-11-04 01:26 UTC*
 
 **0 new role(s)** since last run · 0 total in last 1h
 
