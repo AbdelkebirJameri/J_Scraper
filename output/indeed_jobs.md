@@ -1,6 +1,6 @@
 # 🟦 Indeed — Data Engineer - Talend / ETL Roles
-*Last updated: 2026-11-05 09:54 UTC*
+*Last updated: 2026-11-05 21:33 UTC*
 
-**0 new role(s)** since last run · 2 total in last 24h
+**0 new role(s)** since last run · 1 total in last 24h
 
 No new roles since the last run.
