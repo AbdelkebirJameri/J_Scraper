@@ -803,3 +803,4 @@
 {"job_count": 2, "run_attempt": "1", "run_id": "41951099302", "timestamp": "2026-11-05T01:50:13Z", "workflow": "indeed"}
 {"job_count": 0, "run_attempt": "1", "run_id": "41954015854", "timestamp": "2026-11-05T02:16:23Z", "workflow": "glassdoor"}
 {"job_count": 0, "run_attempt": "1", "run_id": "41955493336", "timestamp": "2026-11-05T02:30:29Z", "workflow": "linkedin"}
+{"job_count": 0, "run_attempt": "1", "run_id": "41956589577", "timestamp": "2026-11-05T02:39:42Z", "workflow": "ziprecruiter"}
