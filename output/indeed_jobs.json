@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-04 21:32 UTC",
-  "total": 1,
-  "new_count": 0,
+  "scraped_at": "2026-11-05 01:44 UTC",
+  "total": 2,
+  "new_count": 1,
   "jobs": [
     {
       "company": "BlueScale",
@@ -20,7 +20,44 @@
       "work_arrangement": "On-site",
       "emails": "",
       "ats": "Indeed"
+    },
+    {
+      "company": "Luxembourg Institute of Health",
+      "title": "AI Data Engineer",
+      "location": "Luxembourg",
+      "url": "https://lu.indeed.com/viewjob?jk=44691183674eab47",
+      "direct_url": "https://www.lih.lu/en/job/?value=JA/AIDE1126/DM/HDS",
+      "company_url": "https://lu.indeed.com/cmp/Luxembourg-Institute-of-Health",
+      "date_posted": "2026-11-04",
+      "description": "At the Luxembourg Institute of Health (LIH), our Health Data Service (HDS) team builds the tools and services that help researchers make better use of health data. We work closely with the Luxembourg Research Clinic (LRC), hospitals, clinical teams and research partners to turn real needs into solutions that people can use.\n  \nDo you like making complex data flows work reliably? Do you enjoy building databases, pipelines and APIs and want to see your work used in real AI applications? We are looking for an AI Data Engineer who is curious, hands-on and comfortable working with both technology and people.\n  \n  \n**Key Accountabilities**\n\n* Work closely with LRC teams, hospital IT and clinical informatics colleagues, researchers and HDS teams to understand where data comes from and how it can be used safely.\n* Build and maintain data pipelines that collect, validate, transform and connect information from research tools, laboratory platforms and hospital systems.\n* Develop databases, storage solutions, APIs and reusable data services that teams can rely on.\n* Help make data ready for AI: create document ingestion and indexing pipelines, embeddings, vector storage and secure retrieval components for RAG solutions.\n* Contribute directly to AI projects with AI Solutions Engineers, not just by supplying data, but by building and integrating the data-related parts of the solution.\n* Improve data quality, interoperability, monitoring, traceability and performance while following security and privacy requirements.\n* Help deploy, document and operate data services together with IT infrastructure colleagues and our hospital partners.\n\n**Key Skills, Experience and Qualifications**\n\n* A Master’s degree in computer science, data engineering, software engineering, bioinformatics, medical informatics or a related field, and around five years of relevant experience.\n* Confident Python and SQL skills, including experience building ETL/ELT pipelines and connecting different data sources.\n* Good knowledge of relational databases such as PostgreSQL, MariaDB or MySQL, and practical experience with APIs and data storage.\n* Understanding of automated testing, version control, CI/CD, monitoring, documentation and secure software development.\n* An interest in AI applications and the data engineering needed to support them.\n* A collaborative mindset and the ability to discuss technical topics with researchers and hospital colleagues.\n* Fluent spoken and written English; French or German is a plus.\n\n*Nice to have*\n\nYou do not need to tick every box. Experience in any of these areas would be a plus:\n\n* Experience with Airflow, NiFi, dbt, object storage, data warehouses or containerised environments.\n* Knowledge of hospital information systems (HIS), clinical workflows or hospital data integration.\n* Familiarity with HL7 FHIR, OMOP, terminology services, data catalogues or data lineage.\n* Experience with embeddings, vector databases, RAG pipelines, document processing or other AI-related data services.\n* Experience working with sensitive health data, consent management or pseudonymisation.\n\n**Working together**\n  \nYou will join HDS and collaborate closely with AI Solutions Engineers, developers, data architects and data modelers. You will also work directly with the LRC and hospital partners to build practical, trustworthy data services. The focus is on data engineering and contributing to operational AI solutions, not scientific data analysis or training new AI models.\n\n### **In Short...**\n\n* Contract type : Fixed-term contract (CDD)\n* Contract duration : 24 months\n* Location : rue Thomas Edison 1 A-B - 1445 Luxembourg\n* Ref : JA/AIDE1126/DM/HDS\n\n### **How to apply**\n\nApplications including a letter detailing your motivation and a curriculum vitae should be sent through our website.\n\nPlease apply ONLINE formally through this web page.\n\nApplications by email will not be considered.\n\nAll interested candidates irrespective of age, gender, race, disability, religion or ethnic background are encouraged to apply.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "contract",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Luxembourg Institute of Health",
+      "title": "AI Data Engineer",
+      "location": "Luxembourg",
+      "url": "https://lu.indeed.com/viewjob?jk=44691183674eab47",
+      "direct_url": "https://www.lih.lu/en/job/?value=JA/AIDE1126/DM/HDS",
+      "company_url": "https://lu.indeed.com/cmp/Luxembourg-Institute-of-Health",
+      "date_posted": "2026-11-04",
+      "description": "At the Luxembourg Institute of Health (LIH), our Health Data Service (HDS) team builds the tools and services that help researchers make better use of health data. We work closely with the Luxembourg Research Clinic (LRC), hospitals, clinical teams and research partners to turn real needs into solutions that people can use.\n  \nDo you like making complex data flows work reliably? Do you enjoy building databases, pipelines and APIs and want to see your work used in real AI applications? We are looking for an AI Data Engineer who is curious, hands-on and comfortable working with both technology and people.\n  \n  \n**Key Accountabilities**\n\n* Work closely with LRC teams, hospital IT and clinical informatics colleagues, researchers and HDS teams to understand where data comes from and how it can be used safely.\n* Build and maintain data pipelines that collect, validate, transform and connect information from research tools, laboratory platforms and hospital systems.\n* Develop databases, storage solutions, APIs and reusable data services that teams can rely on.\n* Help make data ready for AI: create document ingestion and indexing pipelines, embeddings, vector storage and secure retrieval components for RAG solutions.\n* Contribute directly to AI projects with AI Solutions Engineers, not just by supplying data, but by building and integrating the data-related parts of the solution.\n* Improve data quality, interoperability, monitoring, traceability and performance while following security and privacy requirements.\n* Help deploy, document and operate data services together with IT infrastructure colleagues and our hospital partners.\n\n**Key Skills, Experience and Qualifications**\n\n* A Master’s degree in computer science, data engineering, software engineering, bioinformatics, medical informatics or a related field, and around five years of relevant experience.\n* Confident Python and SQL skills, including experience building ETL/ELT pipelines and connecting different data sources.\n* Good knowledge of relational databases such as PostgreSQL, MariaDB or MySQL, and practical experience with APIs and data storage.\n* Understanding of automated testing, version control, CI/CD, monitoring, documentation and secure software development.\n* An interest in AI applications and the data engineering needed to support them.\n* A collaborative mindset and the ability to discuss technical topics with researchers and hospital colleagues.\n* Fluent spoken and written English; French or German is a plus.\n\n*Nice to have*\n\nYou do not need to tick every box. Experience in any of these areas would be a plus:\n\n* Experience with Airflow, NiFi, dbt, object storage, data warehouses or containerised environments.\n* Knowledge of hospital information systems (HIS), clinical workflows or hospital data integration.\n* Familiarity with HL7 FHIR, OMOP, terminology services, data catalogues or data lineage.\n* Experience with embeddings, vector databases, RAG pipelines, document processing or other AI-related data services.\n* Experience working with sensitive health data, consent management or pseudonymisation.\n\n**Working together**\n  \nYou will join HDS and collaborate closely with AI Solutions Engineers, developers, data architects and data modelers. You will also work directly with the LRC and hospital partners to build practical, trustworthy data services. The focus is on data engineering and contributing to operational AI solutions, not scientific data analysis or training new AI models.\n\n### **In Short...**\n\n* Contract type : Fixed-term contract (CDD)\n* Contract duration : 24 months\n* Location : rue Thomas Edison 1 A-B - 1445 Luxembourg\n* Ref : JA/AIDE1126/DM/HDS\n\n### **How to apply**\n\nApplications including a letter detailing your motivation and a curriculum vitae should be sent through our website.\n\nPlease apply ONLINE formally through this web page.\n\nApplications by email will not be considered.\n\nAll interested candidates irrespective of age, gender, race, disability, religion or ethnic background are encouraged to apply.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "contract",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ]
 }
