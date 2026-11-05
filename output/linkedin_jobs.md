@@ -1,16 +1,28 @@
 # 🔥 LinkedIn — Data Engineer - Talend / ETL Roles
-*Last updated: 2026-11-05 09:53 UTC*
+*Last updated: 2026-11-05 11:07 UTC*
 
-**3 new role(s)** since last run · 3 total in last 1h
+**6 new role(s)** since last run · 6 total in last 1h
 
-### [Data Engineer Senior F/H](https://www.linkedin.com/jobs/view/4476657171/) — Orange Business
-- 📍 **Location:** Grenoble, Auvergne-Rhône-Alpes, France
+### [Data Engineer - F/H](https://www.linkedin.com/jobs/view/4487737328/) — Bull
+- 📍 **Location:** Les Clayes-sous-Bois, Île-de-France, France
 - 🕒 **Posted:** 2026-11-05
 
-### [Développeur Senior C# / .NET – PIM InRiver / AWS (H/F)](https://www.linkedin.com/jobs/view/4485811215/) — CITECH
-- 📍 **Location:** Issy-les-Moulineaux, Île-de-France, France
+### [Data Engineer Java (H/F)](https://www.linkedin.com/jobs/view/4485820114/) — Free-Work
+- 📍 **Location:** Lyon, Auvergne-Rhône-Alpes, France
 - 🕒 **Posted:** 2026-11-05
 
-### [Lead Data Engineer Microsoft Fabric - Data & AI](https://www.linkedin.com/jobs/view/4477061346/) — Cegeka
-- 📍 **Location:** Flemish Region, Belgium
+### [Founding Data Engineer – Agentic AI - 7 millions pre-seed](https://www.linkedin.com/jobs/view/4487736488/) — Talent-R
+- 📍 **Location:** Paris, Île-de-France, France
+- 🕒 **Posted:** 2026-11-05
+
+### [Data Engineer GCP (Bigquery) - Services Financiers - Ile de France](https://www.linkedin.com/jobs/view/4487741485/) — Sopra Steria
+- 📍 **Location:** Courbevoie, Île-de-France, France
+- 🕒 **Posted:** 2026-11-05
+
+### [Data Engineer Confirmé](https://www.linkedin.com/jobs/view/4487746035/) — Extia
+- 📍 **Location:** Liège, Walloon Region, Belgium
+- 🕒 **Posted:** 2026-11-05
+
+### [Data Engineer Confirmé](https://www.linkedin.com/jobs/view/4487735439/) — Extia
+- 📍 **Location:** Brussels, Brussels Region, Belgium
 - 🕒 **Posted:** 2026-11-05
