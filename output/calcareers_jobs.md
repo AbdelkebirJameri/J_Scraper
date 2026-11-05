@@ -1,11 +1,6 @@
 # 🏛 CalCareers — California State Data Engineer - Talend / ETL Roles
-*Last updated: 2026-11-04 21:49 UTC*
+*Last updated: 2026-11-05 21:55 UTC*
 
-**1 new role(s)** since last run · 1 total in current CalCareers postings
+**0 new role(s)** since last run · 0 total in current CalCareers postings
 
-### [Data Engineer](https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536768) — Franchise Tax Board
-- 📍 **Location:** Sacramento County
-- 💰 **Salary:** $4935.00 - $8740.00
-- **Work mode:** Telecommute eligible
-- **Job type:** Permanent, Full Time
-- 🕒 **Posted:** 2026-11-02
+No new CalCareers roles since the last run.
