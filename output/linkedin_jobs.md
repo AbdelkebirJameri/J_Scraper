@@ -1,8 +1,6 @@
 # 🔥 LinkedIn — Data Engineer - Talend / ETL Roles
-*Last updated: 2026-11-07 19:35 UTC*
+*Last updated: 2026-11-07 23:09 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
-### [Data Engineer senior](https://www.linkedin.com/jobs/view/4417488406/) — Groupe SII
-- 📍 **Location:** Le Mans, Pays de la Loire, France
-- 🕒 **Posted:** 2026-11-07
+No new roles since the last run.
