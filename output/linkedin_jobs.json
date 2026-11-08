@@ -1,69 +1,7 @@
 {
-  "scraped_at": "2026-11-08 19:49 UTC",
-  "total": 3,
-  "new_count": 3,
-  "jobs": [
-    {
-      "company": "BI NEWVISION",
-      "title": "Senior Data Engineer (F/H) – FREELANCE",
-      "location": "Casablanca, Casablanca-Settat, Morocco",
-      "url": "https://www.linkedin.com/jobs/view/4487106293/",
-      "date_posted": "2026-11-08",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "Télécom\n\nIl y a 2 années\n\nHybride\n\nCasablanca\n\nBI NEWVISION recrute un Senior Data Engineer\npour l’un de ses clients stratégiques dans le secteur des télécoms.\n\nProfil Recherché :\n\nFormation : BAC+5 (Master ou école d’ingénieur).\nExpérience : Minimum 5 ans d’expérience significatif.\n\nCompétences :\n\nMaîtrise de la programmation SQL et capacité à écrire des requêtes SQL complexes\nMaîtrise d’un ou plusieurs outils ETL comme Informatica, SQL Server Integration Services (SSIS), Talend ou DataStage, etc et de l’outil Snowflake\nMaîtrise d’un ou plusieurs langages de programmation comme Python, Java, C++, etc.\nConnaissance des concepts d’entreposage de données et de modélisation de données\nExpertise en profilage de données, analyse de données et qualité des données\nFamiliarité avec les systèmes de bases de données et les réseaux informatiques\nExcellentes compétences en résolution de problèmes\nSolides compétences en communication et en collaboration\nSouci du détail et capacité à gérer de gros volumes de données\nCapacité à travailler sur de multiples projets en parallèle et en autonomie\n\nMissions :\n\nMaintenir les chaînes de traitement existantes (SSIS, SnowSQL, Python), assurer la qualité et la disponibilité des données\nFinaliser la migration d’anciennes chaînes de traitement vers notre nouveau datalake Snowflake\nParticiper aux ateliers avec les équipes métier pour collecter les besoins\nDévelopper de nouvelles chaînes de traitement pour intégrer de nouvelles données dans le datalake (Batch,API)\nImplémenter les règles métier pour créer les tables et vues adaptées pour les métiers\nAssurer la recette des données avec les PO et les équipes métier\nImplémenter des algorithmes plus complexes basés sur le datalake en fonction des besoins (eg. Création d’un référentiel client unique, algorithmes de personnalisation, etc.)\n\nInformations Supplémentaires :\n\nLe poste est en mode Hybride sur Casablanca.\nDisponibilité : Rapide.\nDémarrage : Imminent.\nContrat : Freelance.\n\nVous avez envie d’évoluer et vous êtes prêt à relever de nouveaux challenges ? Alors n’attendez plus, postulez !!!\n\nCompétences :\n\nPython Gitlab SQL Server SQL Server Integration Services (SSIS) Snowflake\n\nPostuler?\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting"
-    },
-    {
-      "company": "SKIILS",
-      "title": "Data Engineer Python / Databricks — AWS, Spark | Télétravail",
-      "location": "Suresnes, Île-de-France, France",
-      "url": "https://www.linkedin.com/jobs/view/4486693977/",
-      "date_posted": "2026-11-08",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "Data Factorii recherche un Data Engineer Python / Databricks pour concevoir des plateformes de données et des pipelines robustes dans un cadre cloud moderne.\n\nVous contribuerez au développement des services Data avec Python/Django, Apache Spark et Databricks, et participerez à l’industrialisation via DBT, SQL et pipelines CI/CD.\n\nPoste en\n\nîle-de-france, télétravail partiel, et collaboration avec les équipes Data, Développement et Infra.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting"
-    },
-    {
-      "company": "Clovr",
-      "title": "Azure Data Engineer - interne rol",
-      "location": "Tienen, Flemish Region, Belgium",
-      "url": "https://www.linkedin.com/jobs/view/4488811105/",
-      "date_posted": "2026-11-08",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "Voor deze gerenommeerde internationale onderneming te Tienen zijn we op zoek naar een gedreven Data Engineer\n\nJouw takenpakket bestaat uit onder andere:\nOntwerpen, ontwikkelen en onderhouden van data architectuur en pipelines\nZorgen voor een efficiënte dataflow over verschillende systemen ter ondersteuning van collega's zoals data scientists, data analisten, business analisten etc.\nAutomatiseren van data-input, transformatie en opslag workflows\nData processing/orchestration (via Apache Spark & Airflow)\nZorgen voor een uitstekende datakwaliteit standaard opdat alle data accuraat en compleet beschikbaar is\nMonitoring en optimalisatie\n....\n\nWie ben jij?\nJe hebt bij voorkeur minstens 2-3 jaar ervaring in een datagedreven functie ( data engineer, data scientist\nof gelijkaardig,...) en je kan terugkijken op een relevante (datagedreven) opleiding (Bachelor/Master/PhD)\nUitstekende kennis van Azure (Azure Data Factory, Data Lake Storage Gen2, Fabric,...) SQL Server, Oracle, Postgress, MongoDB, ETL, Airflow\n,... én een sterke kennis van programmeertalen zoals Python, R, SQL\n,..\nJe kan moeilijke technische concepten duidelijk en eenvoudig overbrengen naar niet-technische gebruikers\n\nWat is het aanbod?\nContract onbepaalde duur in een groeiende internationale speler\nSalaris afhankelijk van jouw competenties ( tot +/- 5500 euro bruto/maand\n)\nEen getalenteerd IT departement vol enthousiaste collega's\nMaaltijd- en ecocheques\nNetto-onkostenvergoeding\nUitgebreide hospitalisatieverzekering\nZeer interessante groepsverzekering\nGlijdende uren & mogelijkheid tot thuiswerk (2 dagen/week)\nGSM en laptop\n39 u/week maar wél 12 ADV dagen\n...\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Media, Data Infrastructure and Analytics, and IT System Data Services"
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "BI NEWVISION",
-      "title": "Senior Data Engineer (F/H) – FREELANCE",
-      "location": "Casablanca, Casablanca-Settat, Morocco",
-      "url": "https://www.linkedin.com/jobs/view/4487106293/",
-      "date_posted": "2026-11-08",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "Télécom\n\nIl y a 2 années\n\nHybride\n\nCasablanca\n\nBI NEWVISION recrute un Senior Data Engineer\npour l’un de ses clients stratégiques dans le secteur des télécoms.\n\nProfil Recherché :\n\nFormation : BAC+5 (Master ou école d’ingénieur).\nExpérience : Minimum 5 ans d’expérience significatif.\n\nCompétences :\n\nMaîtrise de la programmation SQL et capacité à écrire des requêtes SQL complexes\nMaîtrise d’un ou plusieurs outils ETL comme Informatica, SQL Server Integration Services (SSIS), Talend ou DataStage, etc et de l’outil Snowflake\nMaîtrise d’un ou plusieurs langages de programmation comme Python, Java, C++, etc.\nConnaissance des concepts d’entreposage de données et de modélisation de données\nExpertise en profilage de données, analyse de données et qualité des données\nFamiliarité avec les systèmes de bases de données et les réseaux informatiques\nExcellentes compétences en résolution de problèmes\nSolides compétences en communication et en collaboration\nSouci du détail et capacité à gérer de gros volumes de données\nCapacité à travailler sur de multiples projets en parallèle et en autonomie\n\nMissions :\n\nMaintenir les chaînes de traitement existantes (SSIS, SnowSQL, Python), assurer la qualité et la disponibilité des données\nFinaliser la migration d’anciennes chaînes de traitement vers notre nouveau datalake Snowflake\nParticiper aux ateliers avec les équipes métier pour collecter les besoins\nDévelopper de nouvelles chaînes de traitement pour intégrer de nouvelles données dans le datalake (Batch,API)\nImplémenter les règles métier pour créer les tables et vues adaptées pour les métiers\nAssurer la recette des données avec les PO et les équipes métier\nImplémenter des algorithmes plus complexes basés sur le datalake en fonction des besoins (eg. Création d’un référentiel client unique, algorithmes de personnalisation, etc.)\n\nInformations Supplémentaires :\n\nLe poste est en mode Hybride sur Casablanca.\nDisponibilité : Rapide.\nDémarrage : Imminent.\nContrat : Freelance.\n\nVous avez envie d’évoluer et vous êtes prêt à relever de nouveaux challenges ? Alors n’attendez plus, postulez !!!\n\nCompétences :\n\nPython Gitlab SQL Server SQL Server Integration Services (SSIS) Snowflake\n\nPostuler?\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting"
-    },
-    {
-      "company": "SKIILS",
-      "title": "Data Engineer Python / Databricks — AWS, Spark | Télétravail",
-      "location": "Suresnes, Île-de-France, France",
-      "url": "https://www.linkedin.com/jobs/view/4486693977/",
-      "date_posted": "2026-11-08",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "Data Factorii recherche un Data Engineer Python / Databricks pour concevoir des plateformes de données et des pipelines robustes dans un cadre cloud moderne.\n\nVous contribuerez au développement des services Data avec Python/Django, Apache Spark et Databricks, et participerez à l’industrialisation via DBT, SQL et pipelines CI/CD.\n\nPoste en\n\nîle-de-france, télétravail partiel, et collaboration avec les équipes Data, Développement et Infra.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting"
-    },
-    {
-      "company": "Clovr",
-      "title": "Azure Data Engineer - interne rol",
-      "location": "Tienen, Flemish Region, Belgium",
-      "url": "https://www.linkedin.com/jobs/view/4488811105/",
-      "date_posted": "2026-11-08",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "Voor deze gerenommeerde internationale onderneming te Tienen zijn we op zoek naar een gedreven Data Engineer\n\nJouw takenpakket bestaat uit onder andere:\nOntwerpen, ontwikkelen en onderhouden van data architectuur en pipelines\nZorgen voor een efficiënte dataflow over verschillende systemen ter ondersteuning van collega's zoals data scientists, data analisten, business analisten etc.\nAutomatiseren van data-input, transformatie en opslag workflows\nData processing/orchestration (via Apache Spark & Airflow)\nZorgen voor een uitstekende datakwaliteit standaard opdat alle data accuraat en compleet beschikbaar is\nMonitoring en optimalisatie\n....\n\nWie ben jij?\nJe hebt bij voorkeur minstens 2-3 jaar ervaring in een datagedreven functie ( data engineer, data scientist\nof gelijkaardig,...) en je kan terugkijken op een relevante (datagedreven) opleiding (Bachelor/Master/PhD)\nUitstekende kennis van Azure (Azure Data Factory, Data Lake Storage Gen2, Fabric,...) SQL Server, Oracle, Postgress, MongoDB, ETL, Airflow\n,... én een sterke kennis van programmeertalen zoals Python, R, SQL\n,..\nJe kan moeilijke technische concepten duidelijk en eenvoudig overbrengen naar niet-technische gebruikers\n\nWat is het aanbod?\nContract onbepaalde duur in een groeiende internationale speler\nSalaris afhankelijk van jouw competenties ( tot +/- 5500 euro bruto/maand\n)\nEen getalenteerd IT departement vol enthousiaste collega's\nMaaltijd- en ecocheques\nNetto-onkostenvergoeding\nUitgebreide hospitalisatieverzekering\nZeer interessante groepsverzekering\nGlijdende uren & mogelijkheid tot thuiswerk (2 dagen/week)\nGSM en laptop\n39 u/week maar wél 12 ADV dagen\n...\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Media, Data Infrastructure and Analytics, and IT System Data Services"
-    }
-  ]
+  "scraped_at": "2026-11-08 23:48 UTC",
+  "total": 0,
+  "new_count": 0,
+  "jobs": [],
+  "new_jobs": []
 }
