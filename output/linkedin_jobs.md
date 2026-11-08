@@ -1,6 +1,12 @@
 # 🔥 LinkedIn — Data Engineer - Talend / ETL Roles
-*Last updated: 2026-11-08 06:16 UTC*
+*Last updated: 2026-11-08 10:49 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-No new roles since the last run.
+### [Data Engineer spark scala](https://www.linkedin.com/jobs/view/4434632112/) — OPEN
+- 📍 **Location:** Levallois-Perret, Île-de-France, France
+- 🕒 **Posted:** 2026-11-08
+
+### [Data Engineer F/H/NB](https://www.linkedin.com/jobs/view/4472049452/) — URBASOLAR
+- 📍 **Location:** Montpellier, Occitanie, France
+- 🕒 **Posted:** 2026-11-08
