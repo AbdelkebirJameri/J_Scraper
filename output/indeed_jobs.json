@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-09 07:08 UTC",
+  "scraped_at": "2026-11-09 07:14 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "SCALESYS",
@@ -22,24 +22,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "SCALESYS",
-      "title": "Tech Lead Talend (H/F)",
-      "location": "Paris, A8, France",
-      "url": "https://fr.indeed.com/viewjob?jk=857f3fd6b2ee2c55",
-      "direct_url": "https://scalesys.fr/offre-emploi/tech-lead-talend-h-f-job-74/?utm_source=indeed&utm_medium=xml_feed&source=Indeed",
-      "company_url": "https://fr.indeed.com/cmp/Scalesys",
-      "date_posted": "2026-11-09",
-      "description": "**Description du poste**\n------------------------\n\n**RÉSUMÉ**\n\nEn tant que Tech Lead Talend, vous serez responsable de la conception, du développement et de la maintenance de solutions d'intégration de données complexes basées sur Talend. Vous encadrerez une équipe technique et garantirez la qualité et la performance des livrables.\n\n**MISSIONS**\n\nConcevoir et développer des flux d'intégration de données robustes et performants avec Talend (DI, DQ, Big Data).  \nAssurer la conformité des développements aux standards techniques, aux meilleures pratiques et aux architectures définies.  \nRéaliser des revues de code et valider les choix techniques de l'équipe.  \nEncadrer techniquement les développeurs Talend, les accompagner dans leur montée en compétences et la résolution de problèmes complexes.  \nParticiper à la définition des architectures techniques et à l'évaluation des solutions.  \nOptimiser les performances des traitements et garantir la qualité des données.  \nRédiger la documentation technique associée aux développements.  \nCollaborer avec les équipes fonctionnelles, les architectes et les chefs de projet.\n\n**LIVRABLES**\n\nSolutions d'intégration de données Talend fonctionnelles, performantes et maintenables.  \nDocumentation technique complète et à jour.  \nMontée en compétence et autonomie de l'équipe de développement.  \nRésolution des incidents et problèmes techniques complexes.  \nRespect des délais et des standards de qualité.\n\n**Profil du candidat**\n----------------------\n\n**✅ COMPÉTENCES REQUISES**\n\nExpérience significative (minimum 5 ans) en développement et architecture de solutions d'intégration de données avec Talend (Talend Data Integration, Talend Big Data).  \nMaîtrise avancée de SQL et des bases de données relationnelles (Oracle, SQL Server, PostgreSQL, etc.).  \nConnaissance approfondie des concepts de Data Warehousing et ETL.  \nExpérience avérée en tant que référent technique ou Tech Lead.  \nCapacité à encadrer et à faire monter en compétences une équipe technique.  \nRigueur, autonomie et sens des responsabilités.  \nMaîtrise du français (écrit et oral).\n\n**➕ COMPÉTENCES APPRÉCIÉES**\n\nConnaissance des plateformes Cloud (AWS, Azure, GCP) et des services de données associés.  \nExpérience avec d'autres outils ETL ou ELT.  \nPratique des méthodologies Agile (Scrum, Kanban).  \nConnaissance des outils de CI/CD (Jenkins, GitLab CI) et de gestion de versions (Git).  \nCompétences en scripting (Shell, Python).  \nCertification Talend.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
