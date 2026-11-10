@@ -1,49 +1,7 @@
 {
-  "scraped_at": "2026-11-09 23:49 UTC",
-  "total": 2,
-  "new_count": 2,
-  "jobs": [
-    {
-      "company": "Free-Work",
-      "title": "Data Engineer – DBT - Saint Ouen",
-      "location": "Paris, Île-de-France, France",
-      "url": "https://www.linkedin.com/jobs/view/4487428011/",
-      "date_posted": "2026-11-09",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "Contexte\n\nDans le cadre du renforcement de nos équipes data, nous recherchons un(e) Data Engineer expérimenté(e) sur DBT (Data Build Tool) pour intervenir sur nos projets de transformation et de modélisation de données.\n\nCompétences techniques requises\n\nMaîtrise de DBT (Data Build Tool) : modélisation, tests, documentation et déploiement\nBonne maîtrise du langage SQL (Structured Query Language)\nExpérience sur un entrepôt de données cloud (Snowflake, BigQuery, Redshift ou équivalent)\nConnaissance des bonnes pratiques d'architecture data (modèle en couches : staging, intermediate, marts)\nUtilisation de Git (gestion de versions) et d'un pipeline CI/CD (Continuous Integration / Continuous Deployment)\n\nCompétences appréciées\n\nConnaissance d'un orchestrateur de données (Airflow, Dagster ou équivalent)\nSensibilité à la gouvernance et à la qualité des données\n\nProfil recherché\n\nMinimum 2 ans d'expérience confirmée sur DBT (Data Build Tool)\nAutonomie, rigueur et capacité à s'intégrer rapidement dans une équipe existante\nBon niveau de communication en français\n\nProfil candidat:\n\nCompétences techniques requises\n\nMaîtrise de DBT (Data Build Tool) : modélisation, tests, documentation et déploiement\nBonne maîtrise du langage SQL (Structured Query Language)\nExpérience sur un entrepôt de données cloud (Snowflake, BigQuery, Redshift ou équivalent)\nConnaissance des bonnes pratiques d'architecture data (modèle en couches : staging, intermediate, marts)\nUtilisation de Git (gestion de versions) et d'un pipeline CI/CD (Continuous Integration / Continuous Deployment)\n\nCompétences appréciées\n\nConnaissance d'un orchestrateur de données (Airflow, Dagster ou équivalent)\nSensibilité à la gouvernance et à la qualité des données\n\nProfil recherché\n\nMinimum 2 ans d'expérience confirmée sur DBT (Data Build Tool)\nAutonomie, rigueur et capacité à s'intégrer rapidement dans une équipe existante\nBon niveau de communication en français\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet"
-    },
-    {
-      "company": "Free-Work",
-      "title": "Data Engineer Senior DBT",
-      "location": "St.-Ouen, Île-de-France, France",
-      "url": "https://www.linkedin.com/jobs/view/4487420438/",
-      "date_posted": "2026-11-09",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "Dans le cadre du renforcement de ses équipes Data, un acteur du secteur des services numériques recherche un Data Engineer expérimenté sur DBT afin d’intervenir sur des projets de transformation et de modélisation de données.\n\nVous participerez à la conception et au développement de modèles de données avec DBT, notamment dans une architecture organisée en différentes couches : staging, intermediate et marts.\n\nVos missions porteront sur :\n\nLa modélisation et la transformation des données avec DBT.\nLa création et la maintenance des tests de données.\nLa documentation des modèles et des traitements.\nLe déploiement des développements DBT.\nLe développement et l’optimisation de traitements SQL.\nL’exploitation d’un entrepôt de données cloud tel que Snowflake, BigQuery, Redshift ou un environnement équivalent.\nLa gestion des versions avec Git.\nL’intégration des développements dans un pipeline CI/CD.\nL’application et la garantie du respect des standards techniques et des bonnes pratiques d’architecture Data.\nLa contribution aux démarches de gouvernance et de qualité des données.\n\nLa connaissance d’un orchestrateur de données comme Airflow, Dagster ou un outil équivalent sera appréciée.\n\nProfil candidat:\n\nVous justifiez d’au moins deux années d’expérience confirmée sur DBT et disposez d’une expérience solide en ingénierie des données.\n\nCompétences requises :\n\nMaîtrise de DBT : modélisation, tests, documentation et déploiement.\nBonne maîtrise de SQL.\nExpérience sur un entrepôt de données cloud, notamment Snowflake, BigQuery, Redshift ou un environnement équivalent.\nConnaissance des architectures Data organisées en couches staging, intermediate et marts.\nMaîtrise de Git et expérience des pipelines CI/CD.\n\nCompétences appréciées :\n\nConnaissance d’Airflow, Dagster ou d’un orchestrateur équivalent.\nSensibilité aux enjeux de gouvernance et de qualité des données.\n\nVous êtes autonome, rigoureux et capable de vous intégrer rapidement dans une équipe existante. Vous disposez également d’un bon niveau de communication en français.\n\nShow more\n\nShow less\n\nSeniority level\n\nEntry level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet"
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "Free-Work",
-      "title": "Data Engineer – DBT - Saint Ouen",
-      "location": "Paris, Île-de-France, France",
-      "url": "https://www.linkedin.com/jobs/view/4487428011/",
-      "date_posted": "2026-11-09",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "Contexte\n\nDans le cadre du renforcement de nos équipes data, nous recherchons un(e) Data Engineer expérimenté(e) sur DBT (Data Build Tool) pour intervenir sur nos projets de transformation et de modélisation de données.\n\nCompétences techniques requises\n\nMaîtrise de DBT (Data Build Tool) : modélisation, tests, documentation et déploiement\nBonne maîtrise du langage SQL (Structured Query Language)\nExpérience sur un entrepôt de données cloud (Snowflake, BigQuery, Redshift ou équivalent)\nConnaissance des bonnes pratiques d'architecture data (modèle en couches : staging, intermediate, marts)\nUtilisation de Git (gestion de versions) et d'un pipeline CI/CD (Continuous Integration / Continuous Deployment)\n\nCompétences appréciées\n\nConnaissance d'un orchestrateur de données (Airflow, Dagster ou équivalent)\nSensibilité à la gouvernance et à la qualité des données\n\nProfil recherché\n\nMinimum 2 ans d'expérience confirmée sur DBT (Data Build Tool)\nAutonomie, rigueur et capacité à s'intégrer rapidement dans une équipe existante\nBon niveau de communication en français\n\nProfil candidat:\n\nCompétences techniques requises\n\nMaîtrise de DBT (Data Build Tool) : modélisation, tests, documentation et déploiement\nBonne maîtrise du langage SQL (Structured Query Language)\nExpérience sur un entrepôt de données cloud (Snowflake, BigQuery, Redshift ou équivalent)\nConnaissance des bonnes pratiques d'architecture data (modèle en couches : staging, intermediate, marts)\nUtilisation de Git (gestion de versions) et d'un pipeline CI/CD (Continuous Integration / Continuous Deployment)\n\nCompétences appréciées\n\nConnaissance d'un orchestrateur de données (Airflow, Dagster ou équivalent)\nSensibilité à la gouvernance et à la qualité des données\n\nProfil recherché\n\nMinimum 2 ans d'expérience confirmée sur DBT (Data Build Tool)\nAutonomie, rigueur et capacité à s'intégrer rapidement dans une équipe existante\nBon niveau de communication en français\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet"
-    },
-    {
-      "company": "Free-Work",
-      "title": "Data Engineer Senior DBT",
-      "location": "St.-Ouen, Île-de-France, France",
-      "url": "https://www.linkedin.com/jobs/view/4487420438/",
-      "date_posted": "2026-11-09",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "Dans le cadre du renforcement de ses équipes Data, un acteur du secteur des services numériques recherche un Data Engineer expérimenté sur DBT afin d’intervenir sur des projets de transformation et de modélisation de données.\n\nVous participerez à la conception et au développement de modèles de données avec DBT, notamment dans une architecture organisée en différentes couches : staging, intermediate et marts.\n\nVos missions porteront sur :\n\nLa modélisation et la transformation des données avec DBT.\nLa création et la maintenance des tests de données.\nLa documentation des modèles et des traitements.\nLe déploiement des développements DBT.\nLe développement et l’optimisation de traitements SQL.\nL’exploitation d’un entrepôt de données cloud tel que Snowflake, BigQuery, Redshift ou un environnement équivalent.\nLa gestion des versions avec Git.\nL’intégration des développements dans un pipeline CI/CD.\nL’application et la garantie du respect des standards techniques et des bonnes pratiques d’architecture Data.\nLa contribution aux démarches de gouvernance et de qualité des données.\n\nLa connaissance d’un orchestrateur de données comme Airflow, Dagster ou un outil équivalent sera appréciée.\n\nProfil candidat:\n\nVous justifiez d’au moins deux années d’expérience confirmée sur DBT et disposez d’une expérience solide en ingénierie des données.\n\nCompétences requises :\n\nMaîtrise de DBT : modélisation, tests, documentation et déploiement.\nBonne maîtrise de SQL.\nExpérience sur un entrepôt de données cloud, notamment Snowflake, BigQuery, Redshift ou un environnement équivalent.\nConnaissance des architectures Data organisées en couches staging, intermediate et marts.\nMaîtrise de Git et expérience des pipelines CI/CD.\n\nCompétences appréciées :\n\nConnaissance d’Airflow, Dagster ou d’un orchestrateur équivalent.\nSensibilité aux enjeux de gouvernance et de qualité des données.\n\nVous êtes autonome, rigoureux et capable de vous intégrer rapidement dans une équipe existante. Vous disposez également d’un bon niveau de communication en français.\n\nShow more\n\nShow less\n\nSeniority level\n\nEntry level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet"
-    }
-  ]
+  "scraped_at": "2026-11-10 07:33 UTC",
+  "total": 0,
+  "new_count": 0,
+  "jobs": [],
+  "new_jobs": []
 }
