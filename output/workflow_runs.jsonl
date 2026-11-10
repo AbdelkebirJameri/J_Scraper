@@ -925,3 +925,4 @@
 {"job_count": 0, "run_attempt": "1", "run_id": "42781458842", "timestamp": "2026-11-10T08:18:03Z", "workflow": "glassdoor"}
 {"job_count": 0, "run_attempt": "1", "run_id": "42805275364", "timestamp": "2026-11-10T11:10:31Z", "workflow": "biotech"}
 {"job_count": 0, "run_attempt": "1", "run_id": "42903825937", "timestamp": "2026-11-10T21:26:44Z", "workflow": "linkedin"}
+{"job_count": 1, "run_attempt": "1", "run_id": "42905026697", "timestamp": "2026-11-10T21:27:09Z", "workflow": "indeed"}
