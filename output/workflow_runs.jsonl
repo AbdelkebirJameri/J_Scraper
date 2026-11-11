@@ -937,3 +937,4 @@
 {"job_count": 0, "run_attempt": "1", "run_id": "42943328149", "timestamp": "2026-11-11T02:04:01Z", "workflow": "ziprecruiter"}
 {"job_count": 0, "run_attempt": "1", "run_id": "42944437333", "timestamp": "2026-11-11T02:13:23Z", "workflow": "google_jobs"}
 {"job_count": 0, "run_attempt": "1", "run_id": "42945306296", "timestamp": "2026-11-11T02:20:21Z", "workflow": "hiringcafe"}
+{"job_count": 0, "run_attempt": "1", "run_id": "42984636093", "timestamp": "2026-11-11T08:13:14Z", "workflow": "linkedin"}
