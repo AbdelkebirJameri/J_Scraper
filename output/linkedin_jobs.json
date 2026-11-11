@@ -1,29 +1,7 @@
 {
-  "scraped_at": "2026-11-11 09:39 UTC",
-  "total": 1,
-  "new_count": 1,
-  "jobs": [
-    {
-      "company": "Orange Business",
-      "title": "Data engineer DBT F/H",
-      "location": "Lyon, Auvergne-Rhône-Alpes, France",
-      "url": "https://www.linkedin.com/jobs/view/4473205972/",
-      "date_posted": "2026-11-11",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "Votre rôle\n\nAu sein de notre agence Lyonnaise, nous recherchons un Data Engineer Senior spécialisé dans la création et l'industrialisation de pipelines de données. Vous interviendrez chez nos clients pour concevoir, développer et maintenir des pipelines robustes et scalables dans des environnements cloud modernes.\n\nResponsabilités principales :\n\nConcevoir et développer des pipelines de données ELT/ETL de bout en bout\nStructurer et optimiser les modèles de transformation avec dbt\nOrchestrer les flux de données via Apache Airflow\nIntégrer des données depuis des sources hétérogènes (API, bases de données, fichiers, streaming)\nGarantir la qualité, la fiabilité et la traçabilité des données (tests, monitoring, lineage)\nMettre en place les bonnes pratiques DevOps appliquées à la data (CI/CD, Git, revues de code)\nContribuer à la modélisation des données (Kimball, Data Vault)\nAccompagner les équipes métiers dans la compréhension et l'exploitation des données\n\nVotre profil\n\nProfil recherché :\n\nDiplômé(e) d'une école d'ingénieur ou équivalent (Bac+5)\nMinimum 4 ans d'expérience en data engineering\nAutonomie, rigueur et capacité à travailler en environnement client\nBon relationnel et sens du service\nAnglais courant obligatoire (environnement client international)\n\nCompétences techniques requises :\n\nMaîtrise de dbt (modélisation, tests, documentation, CI/CD)\nMaîtrise d'Apache Airflow (orchestration, DAGs, gestion des dépendances)\nSQL avancé\nPython (scripting, manipulation de données)\nExpérience sur au moins un Data Warehouse cloud (Snowflake, BigQuery, Redshift…)\nExpérience sur au moins un cloud provider (AWS, GCP ou Azure)\nConnaissance des bonnes pratiques de gouvernance et qualité des données\n\nAtouts supplémentaires :\n\nCertifications cloud (AWS, GCP, Azure) ou Snowflake\nExpérience en ESN ou cabinet de conseil\nExpérience sur des projets data à grande échelle dans des secteurs réglementés (Pharma, Chimie…)\n\nEntité\n\nOrange Business\nest un intégrateur réseau et numérique qui comprend toute la chaîne de valeur du monde digital, permettant à nos clients de se concentrer sur les initiatives stratégiques qui font avancer leur business. Chaque jour, vous collaborerez avec une équipe dédiée à la livraison de solutions globales cohérentes et durables, peu importe où nos clients opèrent. Avec plus de 30 000 salariés en Europe, Asie, Amérique et Afrique, nous proposons un environnement dynamique et innovant permettant de développer et affiner vos compétences. Nous offrons des opportunités passionnantes dans la data et le digital, le cloud, l'IA, la cybersécurité, ou encore l'IoT et le digital workspace.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting"
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "Orange Business",
-      "title": "Data engineer DBT F/H",
-      "location": "Lyon, Auvergne-Rhône-Alpes, France",
-      "url": "https://www.linkedin.com/jobs/view/4473205972/",
-      "date_posted": "2026-11-11",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "Votre rôle\n\nAu sein de notre agence Lyonnaise, nous recherchons un Data Engineer Senior spécialisé dans la création et l'industrialisation de pipelines de données. Vous interviendrez chez nos clients pour concevoir, développer et maintenir des pipelines robustes et scalables dans des environnements cloud modernes.\n\nResponsabilités principales :\n\nConcevoir et développer des pipelines de données ELT/ETL de bout en bout\nStructurer et optimiser les modèles de transformation avec dbt\nOrchestrer les flux de données via Apache Airflow\nIntégrer des données depuis des sources hétérogènes (API, bases de données, fichiers, streaming)\nGarantir la qualité, la fiabilité et la traçabilité des données (tests, monitoring, lineage)\nMettre en place les bonnes pratiques DevOps appliquées à la data (CI/CD, Git, revues de code)\nContribuer à la modélisation des données (Kimball, Data Vault)\nAccompagner les équipes métiers dans la compréhension et l'exploitation des données\n\nVotre profil\n\nProfil recherché :\n\nDiplômé(e) d'une école d'ingénieur ou équivalent (Bac+5)\nMinimum 4 ans d'expérience en data engineering\nAutonomie, rigueur et capacité à travailler en environnement client\nBon relationnel et sens du service\nAnglais courant obligatoire (environnement client international)\n\nCompétences techniques requises :\n\nMaîtrise de dbt (modélisation, tests, documentation, CI/CD)\nMaîtrise d'Apache Airflow (orchestration, DAGs, gestion des dépendances)\nSQL avancé\nPython (scripting, manipulation de données)\nExpérience sur au moins un Data Warehouse cloud (Snowflake, BigQuery, Redshift…)\nExpérience sur au moins un cloud provider (AWS, GCP ou Azure)\nConnaissance des bonnes pratiques de gouvernance et qualité des données\n\nAtouts supplémentaires :\n\nCertifications cloud (AWS, GCP, Azure) ou Snowflake\nExpérience en ESN ou cabinet de conseil\nExpérience sur des projets data à grande échelle dans des secteurs réglementés (Pharma, Chimie…)\n\nEntité\n\nOrange Business\nest un intégrateur réseau et numérique qui comprend toute la chaîne de valeur du monde digital, permettant à nos clients de se concentrer sur les initiatives stratégiques qui font avancer leur business. Chaque jour, vous collaborerez avec une équipe dédiée à la livraison de solutions globales cohérentes et durables, peu importe où nos clients opèrent. Avec plus de 30 000 salariés en Europe, Asie, Amérique et Afrique, nous proposons un environnement dynamique et innovant permettant de développer et affiner vos compétences. Nous offrons des opportunités passionnantes dans la data et le digital, le cloud, l'IA, la cybersécurité, ou encore l'IoT et le digital workspace.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting"
-    }
-  ]
+  "scraped_at": "2026-11-11 22:02 UTC",
+  "total": 0,
+  "new_count": 0,
+  "jobs": [],
+  "new_jobs": []
 }
