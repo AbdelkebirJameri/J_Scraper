@@ -1,7 +1,45 @@
 {
-  "scraped_at": "2026-11-13 02:56 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-11-13 11:26 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "Adesso",
+      "title": "Freelance Talend Integration Developer",
+      "location": "Brussels, BRU, Belgium",
+      "url": "https://be.indeed.com/viewjob?jk=b9269df047144db5",
+      "direct_url": "https://adesso1.recruitee.com/o/freelance-talend-integration-developer?source=Indeed",
+      "company_url": "https://be.indeed.com/cmp/Adesso",
+      "date_posted": "2026-11-13",
+      "description": "adesso Belgium is an IT consulting and technology partner helping organisations design, build and operate modern digital solutions. Our Data & AI practice delivers integration, data platform and analytics projects for organisations across multiple industries.\n\n**To support the growth of our integration activities, we are looking for a Talend Integration Developer to strengthen our delivery teams on challenging enterprise integration projects.**\n\nStart date: ASAP- Remote work\n\nDuration: 6 months\n\nRate: 650€/day\n\nEU nationality (mandatory)\n\n**Your Role in projects:**\n\nAs a Talend Integration Developer, you will design, develop and deploy integration solutions using the Talend platform. You will work closely with business analysts, architects and client stakeholders to deliver reliable and maintainable interfaces between enterprise applications.\n\nYou will contribute throughout the full project lifecycle, from requirements analysis and technical design to implementation, testing, deployment and production stabilisation.\n\n* Design and develop integration flows using Talend Cloud.\n* Build, maintain and enhance Talend Data Integration and Talend Application Integration solutions.\n* Develop interfaces between ERP, MES, CRM, PLM and other enterprise systems.\n* Implement REST and SOAP API integrations, as well as JDBC-based integrations.\n* Contribute and work with Talend Remote Engines and execution environments.\n* Develop Talend Jobs, Routes and data transformation processes.\n* Implement robust error handling, monitoring and logging mechanisms.\n* Perform unit testing and support system integration testing and user acceptance testing.\n* Support deployments across DEV, TEST and PROD environments.\n* Produce and maintain clear technical documentation.\n* Collaborate with architects and technical leads to apply development standards and best practices.\n* Support troubleshooting, issue resolution and production stabilisation activities.\n\n**Your profile -** **Required technical skills & knowledge:**\n\n* Hands-on experience with Talend Cloud and Talend Data Integration.\n* Experience with Talend ESB and/or Talend Application Integration.\n* Experience with Talend API Services and Talend Management Console / Talend Management Cloud.\n* Experience configuring or operating Talend Remote Engines.\n* Strong understanding of Talend Jobs and Routes.\n* Experience integrating REST and SOAP services.\n* Solid SQL, JDBC, data mapping and transformation experience\n* Experience implementing logging, monitoring and error-handling frameworks\n* Experience working in structured software delivery environments\n\n**Additional assets**\n\n* Experience with Apache Artemis or other JMS-based integrations.\n* Experience integrating SAP CPQ, MES platforms, BAAN / Infor LN or PLM platforms such as Windchill.\n* Experience with Azure DevOps and CI/CD practices for integration platforms.\n* Experience in manufacturing, production or industrial environments.\n\n**Working model and mobility**\n\nMost project activities can be performed remotely or from an adesso office. Very occasional travel to customer sites in Wallonia may be required when on-site presence is useful for workshops, onboarding activities or key project milestones.\n\n**Why join adesso Belgium?**\n\n* Work in an **international group** with strong local expertise in Belgium.\n* Collaborate with cross-functional teams within the **international data & AI adesso community**.\n* Flexible freelance setup with the support of a growing adesso Belgium community.",
+      "salary": "$650/day",
+      "salary_source": "direct_data",
+      "salary_currency": "EUR",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Adesso",
+      "title": "Freelance Talend Integration Developer",
+      "location": "Brussels, BRU, Belgium",
+      "url": "https://be.indeed.com/viewjob?jk=b9269df047144db5",
+      "direct_url": "https://adesso1.recruitee.com/o/freelance-talend-integration-developer?source=Indeed",
+      "company_url": "https://be.indeed.com/cmp/Adesso",
+      "date_posted": "2026-11-13",
+      "description": "adesso Belgium is an IT consulting and technology partner helping organisations design, build and operate modern digital solutions. Our Data & AI practice delivers integration, data platform and analytics projects for organisations across multiple industries.\n\n**To support the growth of our integration activities, we are looking for a Talend Integration Developer to strengthen our delivery teams on challenging enterprise integration projects.**\n\nStart date: ASAP- Remote work\n\nDuration: 6 months\n\nRate: 650€/day\n\nEU nationality (mandatory)\n\n**Your Role in projects:**\n\nAs a Talend Integration Developer, you will design, develop and deploy integration solutions using the Talend platform. You will work closely with business analysts, architects and client stakeholders to deliver reliable and maintainable interfaces between enterprise applications.\n\nYou will contribute throughout the full project lifecycle, from requirements analysis and technical design to implementation, testing, deployment and production stabilisation.\n\n* Design and develop integration flows using Talend Cloud.\n* Build, maintain and enhance Talend Data Integration and Talend Application Integration solutions.\n* Develop interfaces between ERP, MES, CRM, PLM and other enterprise systems.\n* Implement REST and SOAP API integrations, as well as JDBC-based integrations.\n* Contribute and work with Talend Remote Engines and execution environments.\n* Develop Talend Jobs, Routes and data transformation processes.\n* Implement robust error handling, monitoring and logging mechanisms.\n* Perform unit testing and support system integration testing and user acceptance testing.\n* Support deployments across DEV, TEST and PROD environments.\n* Produce and maintain clear technical documentation.\n* Collaborate with architects and technical leads to apply development standards and best practices.\n* Support troubleshooting, issue resolution and production stabilisation activities.\n\n**Your profile -** **Required technical skills & knowledge:**\n\n* Hands-on experience with Talend Cloud and Talend Data Integration.\n* Experience with Talend ESB and/or Talend Application Integration.\n* Experience with Talend API Services and Talend Management Console / Talend Management Cloud.\n* Experience configuring or operating Talend Remote Engines.\n* Strong understanding of Talend Jobs and Routes.\n* Experience integrating REST and SOAP services.\n* Solid SQL, JDBC, data mapping and transformation experience\n* Experience implementing logging, monitoring and error-handling frameworks\n* Experience working in structured software delivery environments\n\n**Additional assets**\n\n* Experience with Apache Artemis or other JMS-based integrations.\n* Experience integrating SAP CPQ, MES platforms, BAAN / Infor LN or PLM platforms such as Windchill.\n* Experience with Azure DevOps and CI/CD practices for integration platforms.\n* Experience in manufacturing, production or industrial environments.\n\n**Working model and mobility**\n\nMost project activities can be performed remotely or from an adesso office. Very occasional travel to customer sites in Wallonia may be required when on-site presence is useful for workshops, onboarding activities or key project milestones.\n\n**Why join adesso Belgium?**\n\n* Work in an **international group** with strong local expertise in Belgium.\n* Collaborate with cross-functional teams within the **international data & AI adesso community**.\n* Flexible freelance setup with the support of a growing adesso Belgium community.",
+      "salary": "$650/day",
+      "salary_source": "direct_data",
+      "salary_currency": "EUR",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ]
 }
