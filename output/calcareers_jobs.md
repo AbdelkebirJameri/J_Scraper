@@ -1,5 +1,5 @@
 # 🏛 CalCareers — California State Data Engineer - Talend / ETL Roles
-*Last updated: 2026-11-13 21:54 UTC*
+*Last updated: 2026-11-14 20:35 UTC*
 
 **0 new role(s)** since last run · 1 total in current CalCareers postings
 
