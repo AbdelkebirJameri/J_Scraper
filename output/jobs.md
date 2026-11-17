@@ -1,4 +1,4 @@
 # 🏛 Fresh Data Engineer - Talend / ETL Job Listings (Recherche opportunités Talend, ETL, Data Integration)
-*Last updated: 2026-11-16 11:15 UTC*
+*Last updated: 2026-11-17 11:51 UTC*
 
 **0 role(s) posted in the last 24 hours**
