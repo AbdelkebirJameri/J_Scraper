@@ -1,7 +1,45 @@
 {
-  "scraped_at": "2026-11-20 03:56 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-11-20 22:38 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "Woolworths Group",
+      "title": "Lead Data Engineer-Wiq",
+      "location": "Bella Vista, Australia",
+      "url": "https://www.glassdoor.com.au/job-listing/j?jl=1010331558705",
+      "direct_url": "",
+      "company_url": "https://www.glassdoor.com.au/Overview/W-EI_IE7481.htm",
+      "date_posted": "2026-11-20",
+      "description": "",
+      "salary": "$135k–$145k/yr",
+      "salary_source": "estimated",
+      "salary_currency": "AUD",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Glassdoor"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Woolworths Group",
+      "title": "Lead Data Engineer-Wiq",
+      "location": "Bella Vista, Australia",
+      "url": "https://www.glassdoor.com.au/job-listing/j?jl=1010331558705",
+      "direct_url": "",
+      "company_url": "https://www.glassdoor.com.au/Overview/W-EI_IE7481.htm",
+      "date_posted": "2026-11-20",
+      "description": "",
+      "salary": "$135k–$145k/yr",
+      "salary_source": "estimated",
+      "salary_currency": "AUD",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Glassdoor"
+    }
+  ]
 }
