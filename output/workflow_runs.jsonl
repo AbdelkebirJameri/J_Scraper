@@ -1154,3 +1154,4 @@
 {"job_count": 0, "run_attempt": "1", "run_id": "45008733771", "timestamp": "2026-11-22T09:41:46Z", "workflow": "glassdoor"}
 {"job_count": 1, "run_attempt": "1", "run_id": "45009432627", "timestamp": "2026-11-22T09:59:25Z", "workflow": "linkedin"}
 {"job_count": 0, "run_attempt": "1", "run_id": "45017044381", "timestamp": "2026-11-22T11:23:09Z", "workflow": "biotech"}
+{"job_count": 0, "run_attempt": "1", "run_id": "45018983668", "timestamp": "2026-11-22T11:47:19Z", "workflow": "ziprecruiter"}
