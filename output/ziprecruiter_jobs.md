@@ -1,5 +1,5 @@
 # 🟧 ZipRecruiter — Data Engineer - Talend / ETL Roles
-*Last updated: 2026-11-22 21:56 UTC*
+*Last updated: 2026-11-23 02:57 UTC*
 
 **0 new role(s)** since last run · 0 total in last 24h
 
