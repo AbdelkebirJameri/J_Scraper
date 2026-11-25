@@ -1,8 +1,26 @@
 {
-  "scraped_at": "2026-11-25 09:14 UTC",
-  "total": 1,
-  "new_count": 0,
+  "scraped_at": "2026-11-25 23:45 UTC",
+  "total": 2,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "gamme solutions",
+      "title": "Expert Talend et SI RH",
+      "location": "Paris, A8, France",
+      "url": "https://fr.indeed.com/viewjob?jk=4cadb943d9f8dfb4",
+      "direct_url": "https://www.free-work.com/fr/tech-it/job-mission/expert-seo-consultant-referencement/expert-talend-et-si-rh?utm_source=indeed&utm_medium=organic&utm_campaign=indeed_organic_fr_all_wo",
+      "company_url": "https://fr.indeed.com/cmp/Gamme-Solutions",
+      "date_posted": "2026-11-25",
+      "description": "Référent technique et expert Talend sur une application RH.\n  \n  \n**Missions :**  \nExpertise et pilotage technique de la plateforme Talend (feuille de route, montées de versions, MCO)\n  \n  \nAppui aux experts sur développements spécifiques, requêtes SQL/HQL et traitement des anomalies\n  \n  \nGestion du backlog (incidents, remontées utilisateurs, évolutions) et coordination des parties prenantes\n  \n  \nAdministration et suivi des indicateurs de la plateforme Talend\n  \n  \n**Livrables :**  \nTableaux de bord techniques et indicateurs de suivi\n  \n  \nSupports de présentation pour les comités de pilotage (bimensuel)\n  \n  \nPlanning et suivi des actions transverses\n  \n  \nDéveloppements spécifiques (5 à 10 par mois) et comptes-rendus d'activité mensuels\n  \n  \n**Profil candidat:**  \nje recherche Expert Talend et SI RH\n  \n  \nProfil Senior, avec une expertise Talend et SI RH obligatoire.\n  \n  \nExpert Talend\n  \n  \nExpérience confirmée sur des SI RH\n  \n  \nMaîtrise de SQL/HQL",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    },
     {
       "company": "Groupe Talents Handicap",
       "title": "Data Engineer Talend / PostgreSQL – Défense & Sécurité – Île-de-France",
@@ -22,5 +40,24 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "gamme solutions",
+      "title": "Expert Talend et SI RH",
+      "location": "Paris, A8, France",
+      "url": "https://fr.indeed.com/viewjob?jk=4cadb943d9f8dfb4",
+      "direct_url": "https://www.free-work.com/fr/tech-it/job-mission/expert-seo-consultant-referencement/expert-talend-et-si-rh?utm_source=indeed&utm_medium=organic&utm_campaign=indeed_organic_fr_all_wo",
+      "company_url": "https://fr.indeed.com/cmp/Gamme-Solutions",
+      "date_posted": "2026-11-25",
+      "description": "Référent technique et expert Talend sur une application RH.\n  \n  \n**Missions :**  \nExpertise et pilotage technique de la plateforme Talend (feuille de route, montées de versions, MCO)\n  \n  \nAppui aux experts sur développements spécifiques, requêtes SQL/HQL et traitement des anomalies\n  \n  \nGestion du backlog (incidents, remontées utilisateurs, évolutions) et coordination des parties prenantes\n  \n  \nAdministration et suivi des indicateurs de la plateforme Talend\n  \n  \n**Livrables :**  \nTableaux de bord techniques et indicateurs de suivi\n  \n  \nSupports de présentation pour les comités de pilotage (bimensuel)\n  \n  \nPlanning et suivi des actions transverses\n  \n  \nDéveloppements spécifiques (5 à 10 par mois) et comptes-rendus d'activité mensuels\n  \n  \n**Profil candidat:**  \nje recherche Expert Talend et SI RH\n  \n  \nProfil Senior, avec une expertise Talend et SI RH obligatoire.\n  \n  \nExpert Talend\n  \n  \nExpérience confirmée sur des SI RH\n  \n  \nMaîtrise de SQL/HQL",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ]
 }

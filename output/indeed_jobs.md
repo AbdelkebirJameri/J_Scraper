@@ -1,6 +1,9 @@
 # 🟦 Indeed — Data Engineer - Talend / ETL Roles
-*Last updated: 2026-11-25 09:14 UTC*
+*Last updated: 2026-11-25 23:45 UTC*
 
-**0 new role(s)** since last run · 1 total in last 24h
+**1 new role(s)** since last run · 2 total in last 24h
 
-No new roles since the last run.
+### [Expert Talend et SI RH](https://fr.indeed.com/viewjob?jk=4cadb943d9f8dfb4) — gamme solutions
+- 📍 **Location:** Paris, A8, France
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-25
