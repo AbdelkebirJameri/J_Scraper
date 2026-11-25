@@ -1198,3 +1198,4 @@
 {"job_count": 0, "run_attempt": "1", "run_id": "45519003185", "timestamp": "2026-11-25T00:34:10Z", "workflow": "glassdoor"}
 {"job_count": 0, "run_attempt": "1", "run_id": "45522128233", "timestamp": "2026-11-25T00:58:09Z", "workflow": "ziprecruiter"}
 {"job_count": 0, "run_attempt": "1", "run_id": "45522728471", "timestamp": "2026-11-25T01:03:46Z", "workflow": "google_jobs"}
+{"job_count": 0, "run_attempt": "1", "run_id": "45523643850", "timestamp": "2026-11-25T01:09:54Z", "workflow": "hiringcafe"}
