@@ -1,6 +1,9 @@
 # 🟦 Indeed — Data Engineer - Talend / ETL Roles
-*Last updated: 2026-11-25 00:08 UTC*
+*Last updated: 2026-11-25 09:01 UTC*
 
-**0 new role(s)** since last run · 0 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-No new roles since the last run.
+### [Data Engineer Talend / PostgreSQL – Défense & Sécurité – Île-de-France](https://fr.indeed.com/viewjob?jk=a2254932ac5beaf2) — Groupe Talents Handicap
+- 📍 **Location:** Nanterre, A8, France
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-25
