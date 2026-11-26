@@ -1,26 +1,45 @@
 {
-  "scraped_at": "2026-11-26 08:55 UTC",
+  "scraped_at": "2026-11-26 23:59 UTC",
   "total": 1,
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
-      "company": "gamme solutions",
-      "title": "Expert Talend et SI RH",
-      "location": "Paris, A8, France",
-      "url": "https://fr.indeed.com/viewjob?jk=4cadb943d9f8dfb4",
-      "direct_url": "https://www.free-work.com/fr/tech-it/job-mission/expert-seo-consultant-referencement/expert-talend-et-si-rh?utm_source=indeed&utm_medium=organic&utm_campaign=indeed_organic_fr_all_wo",
-      "company_url": "https://fr.indeed.com/cmp/Gamme-Solutions",
-      "date_posted": "2026-11-25",
-      "description": "Référent technique et expert Talend sur une application RH.\n  \n  \n**Missions :**  \nExpertise et pilotage technique de la plateforme Talend (feuille de route, montées de versions, MCO)\n  \n  \nAppui aux experts sur développements spécifiques, requêtes SQL/HQL et traitement des anomalies\n  \n  \nGestion du backlog (incidents, remontées utilisateurs, évolutions) et coordination des parties prenantes\n  \n  \nAdministration et suivi des indicateurs de la plateforme Talend\n  \n  \n**Livrables :**  \nTableaux de bord techniques et indicateurs de suivi\n  \n  \nSupports de présentation pour les comités de pilotage (bimensuel)\n  \n  \nPlanning et suivi des actions transverses\n  \n  \nDéveloppements spécifiques (5 à 10 par mois) et comptes-rendus d'activité mensuels\n  \n  \n**Profil candidat:**  \nje recherche Expert Talend et SI RH\n  \n  \nProfil Senior, avec une expertise Talend et SI RH obligatoire.\n  \n  \nExpert Talend\n  \n  \nExpérience confirmée sur des SI RH\n  \n  \nMaîtrise de SQL/HQL",
+      "company": "Devoteam",
+      "title": "Cloud Data Engineer (Azure or AWS or GCP) – Databricks Upskilling Track",
+      "location": "Machelen, VLG, Belgium",
+      "url": "https://be.indeed.com/viewjob?jk=b9789806f4d6059c",
+      "direct_url": "https://jobs.smartrecruiters.com/Devoteam/744000163878578-cloud-data-engineer-azure-or-aws-or-gcp-databricks-upskilling-track",
+      "company_url": "https://be.indeed.com/cmp/Devoteam",
+      "date_posted": "2026-11-26",
+      "description": "**Company Description**\n\n**About Devoteam**\n\nDevoteam is a leading consulting firm focused on digital transformation. We help our clients leverage technology to achieve their business goals. Our **longstanding partnerships with leaders like AWS, Google Cloud, Microsoft, and ServiceNow** amplify our capabilities, allowing us to deliver top-tier expertise and award-winning services.\n\nFor **30 years, we have always been on the next tech wave**. Devoteam has guided organizations through the Internet and cloud. The next revolution? AI.\n\nWith **11,000 tech natives working in 25+ countries, we bring you highly skilled IT experts across Europe**\n\nAt Devoteam, **tech is in our DNA**, and it’s the people we empower with tech. Now, with responsible AI, we’re ready to unlock a future where technology drives positive change.\n\n **Job Description**\n\n**Your Role: Become Our Next Databricks Expert**\n\nDo you already have solid experience in data engineering on at least one major Cloud platform (**Azure, AWS, or GCP**) and want to take your career to the next level by becoming a recognized **Databricks** specialist? **We invest in your potential and provide full training on the Lakehouse platform.**\n\nAs a **Cloud Data Engineer**, you will work on strategic projects for our clients (banking, energy, telecom, public sector, retail...) to design and industrialize modern data architectures.\n\n**Your key responsibilities:**\n\n* **Design & Development:** Build, optimize, and maintain robust, scalable, and high-performance data pipelines (ETL/ELT).\n* **Transition to the Lakehouse:** Participate in migrating and modernizing existing data infrastructures to the Databricks ecosystem (Delta Lake, Unity Catalog, Databricks SQL).\n* **Industrialization:** Implement DevOps / DataOps best practices (CI/CD, Infrastructure as Code, automated testing, and monitoring).\n* **Consulting & Governance:** Work closely with Data Scientists, Data Analysts, and business teams to ensure data quality, security, and governance.\n\n  \n**Qualifications**  \n\n* Hold a University Degree **in Computer Science or a specialized master's in Machine Learning or AI.**\n* **Experience:** You have **hands-on experience (minimum 2 years)** as a **Data Engineer or Cloud Data Developer.**\n* **Cloud Expertise:** You have a strong command of at least one of the following environments:\n  + **Azure** (Data Factor, Synapse, ADLS)\n  + **AWS** (Glue, S3, Redshift, EMR)\n  + **GCP** (BigQuery, Dataflow, Cloud Storage)\n* **Tech Stack:** You are proficient in **Python** and **SQL**. Initial exposure to **Apache Spark** (PySpark) is a strong plus, though not a strict requirement.\n* **Mindset:** Curious and solution-oriented, you are a strong team player with a genuine drive to learn and get certified.\n* **Languages:** You are fluent in **English** and have a good working knowledge of **French and/or Dutch** to collaborate seamlessly in a multilingual Belgian environment.\n\n  \n**Additional Information**\n\nWhy choose us ?\n\n* A **Comprehensive Databricks Training Program**: From day one, benefit from a dedicated onboarding track, full access to the Databricks Academy, mentorship from our certified experts, and full sponsorship for your official certifications (Databricks Certified Data Engineer Associate / Professional).\n* A **Tailor-Made Career Path:** Diverse assignments with Belgian market leaders and active internal tech communities to share your insights.\n* **Thrive in a fast-growing, entrepreneurial environment**\n* Work with **innovative and impactful Cloud, Data & AI projects** for industry-leading clients\n* **Connect with extraordinary talents** in a collaborative and diverse culture\n* **Enjoy a healthy work-life balance** in an inspiring, eco-friendly workplace\n* **Competitive compensation package**\n\nAt Devoteam, we combine strong values – respect, frankness, ambition, entrepreneurship & collaboration – with a fun and supportive environment that empowers you to innovate, grow, and succeed in the fast-paced world of Cloud, Data & AI.\n\n**>>> Does all this sound compelling to you? Go for it and click that apply button!**",
       "salary": "",
       "salary_source": "",
       "salary_currency": "",
-      "job_type": "",
+      "job_type": "fulltime",
       "is_remote": false,
       "work_arrangement": "On-site",
       "emails": "",
       "ats": "Indeed"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Devoteam",
+      "title": "Cloud Data Engineer (Azure or AWS or GCP) – Databricks Upskilling Track",
+      "location": "Machelen, VLG, Belgium",
+      "url": "https://be.indeed.com/viewjob?jk=b9789806f4d6059c",
+      "direct_url": "https://jobs.smartrecruiters.com/Devoteam/744000163878578-cloud-data-engineer-azure-or-aws-or-gcp-databricks-upskilling-track",
+      "company_url": "https://be.indeed.com/cmp/Devoteam",
+      "date_posted": "2026-11-26",
+      "description": "**Company Description**\n\n**About Devoteam**\n\nDevoteam is a leading consulting firm focused on digital transformation. We help our clients leverage technology to achieve their business goals. Our **longstanding partnerships with leaders like AWS, Google Cloud, Microsoft, and ServiceNow** amplify our capabilities, allowing us to deliver top-tier expertise and award-winning services.\n\nFor **30 years, we have always been on the next tech wave**. Devoteam has guided organizations through the Internet and cloud. The next revolution? AI.\n\nWith **11,000 tech natives working in 25+ countries, we bring you highly skilled IT experts across Europe**\n\nAt Devoteam, **tech is in our DNA**, and it’s the people we empower with tech. Now, with responsible AI, we’re ready to unlock a future where technology drives positive change.\n\n **Job Description**\n\n**Your Role: Become Our Next Databricks Expert**\n\nDo you already have solid experience in data engineering on at least one major Cloud platform (**Azure, AWS, or GCP**) and want to take your career to the next level by becoming a recognized **Databricks** specialist? **We invest in your potential and provide full training on the Lakehouse platform.**\n\nAs a **Cloud Data Engineer**, you will work on strategic projects for our clients (banking, energy, telecom, public sector, retail...) to design and industrialize modern data architectures.\n\n**Your key responsibilities:**\n\n* **Design & Development:** Build, optimize, and maintain robust, scalable, and high-performance data pipelines (ETL/ELT).\n* **Transition to the Lakehouse:** Participate in migrating and modernizing existing data infrastructures to the Databricks ecosystem (Delta Lake, Unity Catalog, Databricks SQL).\n* **Industrialization:** Implement DevOps / DataOps best practices (CI/CD, Infrastructure as Code, automated testing, and monitoring).\n* **Consulting & Governance:** Work closely with Data Scientists, Data Analysts, and business teams to ensure data quality, security, and governance.\n\n  \n**Qualifications**  \n\n* Hold a University Degree **in Computer Science or a specialized master's in Machine Learning or AI.**\n* **Experience:** You have **hands-on experience (minimum 2 years)** as a **Data Engineer or Cloud Data Developer.**\n* **Cloud Expertise:** You have a strong command of at least one of the following environments:\n  + **Azure** (Data Factor, Synapse, ADLS)\n  + **AWS** (Glue, S3, Redshift, EMR)\n  + **GCP** (BigQuery, Dataflow, Cloud Storage)\n* **Tech Stack:** You are proficient in **Python** and **SQL**. Initial exposure to **Apache Spark** (PySpark) is a strong plus, though not a strict requirement.\n* **Mindset:** Curious and solution-oriented, you are a strong team player with a genuine drive to learn and get certified.\n* **Languages:** You are fluent in **English** and have a good working knowledge of **French and/or Dutch** to collaborate seamlessly in a multilingual Belgian environment.\n\n  \n**Additional Information**\n\nWhy choose us ?\n\n* A **Comprehensive Databricks Training Program**: From day one, benefit from a dedicated onboarding track, full access to the Databricks Academy, mentorship from our certified experts, and full sponsorship for your official certifications (Databricks Certified Data Engineer Associate / Professional).\n* A **Tailor-Made Career Path:** Diverse assignments with Belgian market leaders and active internal tech communities to share your insights.\n* **Thrive in a fast-growing, entrepreneurial environment**\n* Work with **innovative and impactful Cloud, Data & AI projects** for industry-leading clients\n* **Connect with extraordinary talents** in a collaborative and diverse culture\n* **Enjoy a healthy work-life balance** in an inspiring, eco-friendly workplace\n* **Competitive compensation package**\n\nAt Devoteam, we combine strong values – respect, frankness, ambition, entrepreneurship & collaboration – with a fun and supportive environment that empowers you to innovate, grow, and succeed in the fast-paced world of Cloud, Data & AI.\n\n**>>> Does all this sound compelling to you? Go for it and click that apply button!**",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ]
 }
