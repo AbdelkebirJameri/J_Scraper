@@ -1,5 +1,5 @@
 # ☕ HiringCafe — Data Engineer - Talend / ETL Roles
-*Last updated: 2026-11-26 08:58 UTC*
+*Last updated: 2026-11-27 00:51 UTC*
 
 **0 new role(s)** since last run · 0 total in last 30d
 
