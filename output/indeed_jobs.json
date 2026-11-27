@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-27 23:40 UTC",
+  "scraped_at": "2026-11-27 23:44 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "FEDASIL",
@@ -22,24 +22,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "FEDASIL",
-      "title": "Data Engineer (h/f/x)",
-      "location": "Brussels, BRU, Belgium",
-      "url": "https://be.indeed.com/viewjob?jk=e5a294cb2281184e",
-      "direct_url": "https://fedasil-hq.cvw.io/?job=392084&channel=indeed.com&lang=fr-FR",
-      "company_url": "https://be.indeed.com/cmp/Fedasil",
-      "date_posted": "2026-11-27",
-      "description": "Fedasil octroie une aide matérielle aux demandeurs de protection internationale et aux autres catégories d'étrangers qui ont également droit à l'accueil (Loi accueil du 12 janvier 2007). Fedasil organise directement ou avec ses partenaires un accueil et un accompagnement de qualité. L'Agence gère également l'observation et l'orientation des mineurs étrangers non-accompagnés (MENA). Fedasil coordonne les programmes pour le retour volontaire à partir de la Belgique. L'Agence participe à la conception, la préparation et l'exécution de la politique d'accueil. Dans le cadre des différentes initiatives Fedasil veille sur l'intégration des centres d'accueil dans la communauté locale.\n\nFedasil recrute un :\n\nData Engineer (m/v/x)\n\nPour la Direction Services Généraux\n\nSélection interne et externe\n\nNuméro de référence: 20251113-99999-274\n\nFonction\n\nBut\n\nEn tant que Data Engineer au sein du service TIC, vous travaillerez en étroite collaboration avec d'autres Data Engineers de votre service et du service Data & Analyse (D&A) dans le but de mettre en place une couche de données centralisée. Cette composante permettra de relier entre elles plusieurs sources de données et applications internes et externes.\n\nContexte\n\nChaque jour, le réseau d'accueil assure un accueil digne à plus de 30 000 demandeurs de protection internationale. Outre l'aide de base (bed, bad, brood), Fedasil et ses partenaires d'accueil assurent également l'accompagnement social des résidents.\n\nEn collaboration avec ses partenaires d'accueil, Fedasil développe de nombreuses applications afin de rationaliser les processus clés, d'obtenir une vision globale du groupe cible et de la réalité opérationnelle, et de soulager au maximum les collègues sur le terrain des contraintes administratives. Le service TIC réalise des projets pour l'ensemble des services de l'Agence et pour les centres d'accueil de Fedasil, met en place et gère l'infrastructure et assure une assistance sur place dans les centres.\n\nEn tant que Data Engineer, vous intégrerez le service administratif du service TIC, au siège de Fedasil. Ce service fait partie de la direction Services Généraux de Fedasil.\n\nContenu\n\nVotre mission en tant que Data Engineer A1 s’articule autour de trois axes :\n\n1. Coordination technique, documentation et gouvernance\n\n* Vous assumez un rôle de coordination lors des modifications apportées au data warehouse et aux dataflows.\n* Vous faites office de point de contact technique (SPOC) avec les autres services (techniques).\n* Vous veillez à la mise à jour et à la qualité de la documentation, des mappings et des définitions de données, et vous contribuez à la mise en place de règles autour de la gouvernance des données.\n\n2. Plateforme de données & engineering\n\n* Vous gérez et développe le *Centralised Data Layer* de Fedasil.\n* Vous développez et maintenez des processus ETL/ELT et des dataflows qui rendent les données accessibles pour l’analyse et le reporting.\n* Vous surveillez et améliorez la qualité, les performances et la robustesse de la plateforme de données.\n\n3. Support à l’analyse & au reporting\n\n* Vous veillez à ce que les données soient disponibles de manière cohérente et prêtes à l’emploi pour les tableaux de bord et rapports Power BI.\n* Vous développez et maintenez des modèles sémantiques pour soutenir l’analyse et le reporting.\n* Vous soutenez les data analystes dans leurs requêtes complexes en proposant des jeux de données performants.\n\nProfil\n\nVous manifestez un intérêt particulier pour Fedasil, son fonctionnement, ses valeurs et son groupe cible.\n\nPour toute information, consultez: www.fedasil.be\n\nDiplôme\n\n* Option 1 : Vous êtes titulaire d'un Master en TIC sans expérience;\n* Option 2 : Vous êtes titulaire d'un Master avec au moins 1 an d'expérience (voir section \"expérience\");\n* Option 3 : Vous êtes titulaire d'un bachelier en TIC avec au moins 1 an d'expérience (voir section \"expérience\");\n* Option 4 : Vous êtes titulaire d'un bachelier avec au moins 2 ans d'expériences (voir section \"expérience\").\n\nExpérience\n\n* Option 1 : sans expérience;\n* Option 2 ou 3 : minimum 1 an d'expérience;\n* Option 4 : minimum 2 ans d'expériences.\n\nExpérience professionnelle pertinente exigée dans le domaine informatique durant laquelle vous avez effectué au moins les tâches ci-dessous :\n\n* Vous assumez un rôle de coordination lors des modifications apportées au data warehouse et aux dataflows.\n* Vous surveillez et améliorez la qualité, les performances et la robustesse de la plateforme de données.\n\nAfin que nous puissions déterminer si vous remplissez ou non les conditions de sélection, ces expériences requises ci-dessus doivent être clairement décrites sur votre CV sous forme de:\n\nDomaine : nombre d’année d’expérience\n\n* Tâche 1 effectuée\n* Tâche 2 effectuée\n* …\n\nÀ défaut, votre candidature ne sera pas prise en compte pour la suite de la sélection.\n\nDiplôme et expériences\n\n* Vous êtes titulaire d’un master ou un bachelor (enseignement universitaire ou supérieur de type long – 2e cycle).\n* Une expérience au sein d’une organisation complexe ou dans le secteur public constitue un atout.\n\nCompétences techniques\n\nAtouts\n\n* Une expérience pertinente en tant que Data Engineer, BI Developer ou Data Platform Specialist.\n* Connaissance approfondie des bases de données relationnelles et du langage SQL.\n* Expérience des architectures datawarehouse basées sur Microsoft et des processus ETL, y compris les Slowly Changing Dimensions (SCD).\n* Expérience avec Power BI (DAX et Power Query), en particulier avec les modèles sémantiques..\n* Expérience de Azure Data Factory et de Microsoft Fabric.\n* Connaissance de Python et/ou de PySpark.\n* Compréhension de la gouvernance des données et de la qualité des données.\n* Connaissance de Fedasil, de l’asile, de la migration et de l’accueil.\n* Vous maîtrisez l’une des langues nationales et vous pouvez vous exprimer dans la seconde langue nationale.\n\nCompétences génériques\n\nINTÉGRER LES INFORMATIONS: établir des liens entre différe",
-      "salary": "$4025.92/mo",
-      "salary_source": "direct_data",
-      "salary_currency": "EUR",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "christophe.mahaut@fedasil.be",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
