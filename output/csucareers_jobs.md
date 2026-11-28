@@ -1,5 +1,5 @@
 # 🎓 CSU Careers — California State University Data Engineer - Talend / ETL Roles
-*Last updated: 2026-11-27 00:47 UTC*
+*Last updated: 2026-11-28 00:13 UTC*
 
 **0 new role(s)** since last run · 0 total in current CSU Careers postings
 
